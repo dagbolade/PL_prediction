@@ -1,6 +1,19 @@
 version: '3.8'
 
 services:
+  mysql:
+    container_name: mysql-epl
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: devops
+      MYSQL_USER: devops
+      MYSQL_PASSWORD: devops
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+
   jupyter:
     build:
       context: .
@@ -12,3 +25,6 @@ services:
     command: >
       jupyter notebook --notebook-dir=/usr/src/app/epl
       --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+
+volumes:
+  mysql-data:

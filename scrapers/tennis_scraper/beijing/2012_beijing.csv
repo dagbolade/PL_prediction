@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Copil M.,Cilic M.,221,13,220,2455,3,6,7,6,6,4,,,,,2,1,Completed,11,1.05,9,1.04,9,1.04,13.39,1.05,9,1.04,15.5,1.07,10.34,1.04
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Zhang Z.,Wu D.,165,176,306,273,6,4,6,1,,,,,,,2,0,Completed,2.1,1.66,2.15,1.65,2.2,1.62,2.26,1.7,2.2,1.62,2.35,1.77,2.14,1.67
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Mayer F.,Fognini F.,29,47,1295,895,6,1,6,2,,,,,,,2,0,Completed,1.4,2.75,1.45,2.65,1.4,2.75,1.52,2.7,1.44,2.63,1.53,2.92,1.46,2.63
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Berlocq C.,Matosevic M.,50,58,880,738,3,6,6,2,6,3,,,,,2,1,Completed,2.5,1.5,2.35,1.55,2.25,1.57,2.35,1.65,2.5,1.5,2.5,1.73,2.33,1.58
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Dolgopolov O.,Garcia-Lopez G.,20,63,1745,706,6,0,6,4,,,,,,,2,0,Completed,1.36,3,1.35,3,1.4,2.75,1.39,3.24,1.4,2.75,1.45,3.5,1.39,2.87
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Querrey S.,Verdasco F.,26,23,1440,1525,5,7,6,3,6,4,,,,,2,1,Completed,1.66,2.1,1.65,2.15,1.73,2,1.76,2.16,1.73,2,1.8,2.3,1.72,2.07
+56,Beijing,China Open,01/10/12,ATP500,Outdoor,Hard,1st Round,3,Anderson K.,Baker B.,36,62,1030,707,5,7,6,3,6,1,,,,,2,1,Completed,1.44,2.62,1.5,2.5,1.53,2.38,1.5,2.76,1.44,2.63,1.55,3.5,1.49,2.57
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Youzhny M.,Haas T.,28,21,1335,1553,6,4,4,6,6,2,,,,,2,1,Completed,2.2,1.61,2.15,1.65,2.25,1.57,2.25,1.71,2.2,1.62,2.4,1.71,2.2,1.64
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Melzer J.,Andujar P.,37,41,997,950,6,1,4,6,7,6,,,,,2,1,Completed,1.83,1.83,1.87,1.87,1.73,2,2.05,1.85,1.73,2,2.06,2,1.89,1.86
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Davydenko N.,Bogomolov A.,43,92,930,575,7,5,6,1,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.57,2.25,1.56,2.59,1.5,2.5,1.64,2.95,1.53,2.45
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Seppi A.,Benneteau J.,25,33,1495,1205,6,1,2,0,,,,,,,1,0,Retired,1.57,2.25,1.6,2.25,1.62,2.2,1.69,2.29,1.57,2.25,1.71,2.6,1.64,2.2
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Tsonga J.W.,Istomin D.,7,45,4520,902,4,6,6,1,7,6,,,,,2,1,Completed,1.11,6.5,1.11,5.75,1.11,6,1.12,6.85,1.17,4.5,1.17,7,1.12,5.94
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Djokovic N.,Berrer M.,2,123,10470,466,6,1,6,7,6,2,,,,,2,1,Completed,1.01,26,1.01,15,1.01,17,1.01,51,1.01,17,1.02,56,1.01,21.41
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Gasquet R.,Ebden M.,14,61,2370,723,6,2,6,4,,,,,,,2,0,Completed,1.16,5,1.18,4.5,1.17,4.5,1.21,5,1.14,5,1.21,5.45,1.18,4.76
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Lopez F.,Harrison R.,30,54,1220,785,7,6,5,7,6,2,,,,,2,1,Completed,1.61,2.2,1.55,2.35,1.57,2.25,1.63,2.42,1.62,2.2,1.67,2.45,1.59,2.31
+56,Beijing,China Open,02/10/12,ATP500,Outdoor,Hard,1st Round,3,Lu Y.H.,Ferrer D.,64,5,694,5960,5,4,,,,,,,,,0,0,Retired,7,1.1,6,1.11,6.5,1.1,5.85,1.17,6,1.1,7,1.18,5.94,1.12
+56,Beijing,China Open,03/10/12,ATP500,Outdoor,Hard,2nd Round,3,Melzer J.,Dolgopolov O.,37,20,997,1745,7,6,2,6,6,1,,,,,2,1,Completed,3.25,1.33,3.3,1.3,3.25,1.33,3.35,1.38,2.75,1.4,3.65,1.4,3.2,1.34
+56,Beijing,China Open,03/10/12,ATP500,Outdoor,Hard,2nd Round,3,Mayer F.,Copil M.,29,221,1295,220,3,6,6,3,6,2,,,,,2,1,Completed,1.18,4.5,1.18,4.5,1.17,4.5,1.23,4.69,1.18,4.33,1.23,5,1.19,4.43
+56,Beijing,China Open,03/10/12,ATP500,Outdoor,Hard,2nd Round,3,Djokovic N.,Berlocq C.,2,50,10470,880,6,1,6,3,,,,,,,2,0,Completed,1.01,26,1.01,15,1.01,17,1.01,46,1.01,15,1.02,48.5,1.01,20.33
+56,Beijing,China Open,03/10/12,ATP500,Outdoor,Hard,2nd Round,3,Tsonga J.W.,Davydenko N.,7,43,4520,930,,,,,,,,,,,,,Walkover,1.2,4.33,1.22,4,1.25,3.75,1.26,4.29,1.25,3.5,1.27,4.29,1.24,3.84
+56,Beijing,China Open,04/10/12,ATP500,Outdoor,Hard,2nd Round,3,Youzhny M.,Anderson K.,28,36,1335,1030,6,3,6,3,,,,,,,2,0,Completed,1.5,2.5,1.55,2.35,1.53,2.38,1.61,2.47,1.57,2.25,1.69,2.64,1.55,2.39
+56,Beijing,China Open,04/10/12,ATP500,Outdoor,Hard,2nd Round,3,Zhang Z.,Gasquet R.,165,14,306,2370,6,4,3,6,6,4,,,,,2,1,Completed,13,1.04,8.75,1.04,8.5,1.05,13,1.05,8,1.05,13.25,1.08,9.86,1.05
+56,Beijing,China Open,04/10/12,ATP500,Outdoor,Hard,2nd Round,3,Lopez F.,Lu Y.H.,30,64,1220,694,6,3,7,6,,,,,,,2,0,Completed,1.4,2.75,1.4,2.8,1.4,2.75,1.5,2.8,1.4,2.75,1.51,3,1.43,2.73
+56,Beijing,China Open,04/10/12,ATP500,Outdoor,Hard,2nd Round,3,Querrey S.,Seppi A.,26,25,1440,1495,6,1,6,4,,,,,,,2,0,Completed,1.57,2.25,1.65,2.15,1.57,2.25,1.68,2.34,1.62,2.2,1.68,2.45,1.62,2.24
+56,Beijing,China Open,05/10/12,ATP500,Outdoor,Hard,Quarterfinals,3,Mayer F.,Zhang Z.,29,165,1295,306,6,3,6,4,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.22,4.33,1.19,5.58,1.25,3.75,1.26,5.58,1.22,4.21
+56,Beijing,China Open,05/10/12,ATP500,Outdoor,Hard,Quarterfinals,3,Tsonga J.W.,Youzhny M.,7,28,4520,1335,6,3,6,2,,,,,,,2,0,Completed,1.33,3.25,1.35,3,1.33,3.4,1.44,3.06,1.36,3,1.44,3.5,1.36,3.09
+56,Beijing,China Open,05/10/12,ATP500,Outdoor,Hard,Quarterfinals,3,Lopez F.,Querrey S.,30,26,1220,1440,4,6,6,4,6,4,,,,,2,1,Completed,2.87,1.38,2.8,1.4,2.75,1.44,2.85,1.5,2.75,1.44,3,1.52,2.74,1.43
+56,Beijing,China Open,05/10/12,ATP500,Outdoor,Hard,Quarterfinals,3,Djokovic N.,Melzer J.,2,37,10470,997,6,1,6,2,,,,,,,2,0,Completed,1.02,17,1.02,12,1.03,11,1.04,17,1.03,11,1.05,22,1.03,13.44
+56,Beijing,China Open,06/10/12,ATP500,Outdoor,Hard,Semifinals,3,Tsonga J.W.,Lopez F.,7,30,4520,1220,6,1,4,1,,,,,,,1,0,Retired,1.16,5,1.2,4.25,1.22,4.33,1.23,4.8,1.2,4.5,1.25,5.6,1.2,4.49
+56,Beijing,China Open,06/10/12,ATP500,Outdoor,Hard,Semifinals,3,Djokovic N.,Mayer F.,2,29,10470,1295,6,1,6,4,,,,,,,2,0,Completed,1.02,17,1.02,12,1.03,11,1.03,19,1.02,13,1.04,24,1.03,13.26
+56,Beijing,China Open,07/10/12,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Tsonga J.W.,2,7,10470,4520,7,6,6,2,,,,,,,2,0,Completed,1.18,4.5,1.2,4.25,1.17,4.5,1.19,5.53,1.22,4,1.22,6.3,1.19,4.6

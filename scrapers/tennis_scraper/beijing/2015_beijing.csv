@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Haider-Maurer A.,Tsonga J.W.,64,16,760,1990,7,6,6,2,,,,,,,2,0,Completed,11,1.05,8.25,1.06,9,1.04,11.81,1.06,11.81,1.07,9.88,1.05
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Goffin D.,Seppi A.,17,25,1970,1440,6,2,6,3,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,1.36,3,1.45,2.93,1.45,3,1.42,2.78
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Fognini F.,Klizan M.,28,42,1300,1015,6,2,6,1,,,,,,,2,0,Completed,2,1.72,1.9,1.82,1.91,1.8,1.98,1.91,2.1,1.95,1.96,1.81
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Rosol L.,Bedene A.,79,54,632,837,1,6,7,6,6,3,,,,,2,1,Completed,2,1.72,2.05,1.72,2,1.73,2.23,1.72,2.23,1.76,2.09,1.71
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Zhang Ze,Istomin D.,219,70,230,706,6,3,1,6,6,3,,,,,2,1,Completed,3,1.36,3.1,1.35,3,1.36,3.44,1.35,3.45,1.4,3.19,1.34
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Sock J.,Gabashvili T.,30,56,1210,822,6,4,6,3,,,,,,,2,0,Completed,1.44,2.62,1.48,2.6,1.5,2.5,1.51,2.74,1.53,2.8,1.48,2.6
+57,Beijing,China Open,05/10/15,ATP500,Outdoor,Hard,1st Round,3,Troicki V.,Raonic M.,24,9,1494,2740,6,4,6,4,,,,,,,2,0,Completed,5,1.16,4.8,1.16,4.5,1.17,5.81,1.17,5.81,1.17,5.13,1.15
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Lu Y.H.,Mannarino A.,100,39,539,1050,6,3,6,2,,,,,,,2,0,Completed,1.9,1.8,1.9,1.82,2,1.73,2.11,1.8,2.17,1.87,1.99,1.79
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Pospisil V.,Estrella Burgos V.,44,68,995,717,4,6,7,5,6,0,,,,,2,1,Completed,1.18,4.5,1.2,4.3,1.22,4,1.21,4.93,1.22,4.93,1.2,4.42
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Nadal R.,Wu D.,8,230,3770,216,6,4,6,4,,,,,,,2,0,Completed,1.02,19,1.01,13,1.02,11,1.02,20.52,1.03,24,1.02,15.59
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Millman J.,Robredo T.,76,29,656,1255,4,6,6,1,6,0,,,,,2,1,Completed,2.25,1.57,2.25,1.62,2.38,1.53,2.25,1.71,2.38,1.71,2.25,1.62
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Djokovic N.,Bolelli S.,1,59,15645,790,6,1,6,1,,,,,,,2,0,Completed,1.03,11,1.03,11,1.02,11,1.03,16.29,1.04,16.29,1.03,12.37
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Ferrer D.,Bellucci T.,7,31,3945,1205,6,4,6,3,,,,,,,2,0,Completed,1.18,4.5,1.2,4.3,1.2,4.33,1.22,4.74,1.24,4.74,1.2,4.34
+57,Beijing,China Open,06/10/15,ATP500,Outdoor,Hard,1st Round,3,Isner J.,Thiem D.,13,19,2280,1600,7,5,6,1,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,1.44,2.62,1.54,2.64,1.54,2.75,1.47,2.61
+57,Beijing,China Open,07/10/15,ATP500,Outdoor,Hard,1st Round,3,Cuevas P.,Berdych T.,37,5,1100,4900,6,4,6,4,,,,,,,2,0,Completed,7,1.1,7,1.09,6.5,1.1,8.04,1.11,9.5,1.11,7.22,1.09
+57,Beijing,China Open,07/10/15,ATP500,Outdoor,Hard,1st Round,3,Karlovic I.,Garcia-Lopez G.,18,26,1620,1430,7,5,7,6,,,,,,,2,0,Completed,1.57,2.25,1.68,2.15,1.57,2.25,1.74,2.21,1.74,2.4,1.66,2.19
+57,Beijing,China Open,07/10/15,ATP500,Outdoor,Hard,2nd Round,3,Lu Y.H.,Troicki V.,100,24,539,1494,6,4,7,5,,,,,,,2,0,Completed,2.2,1.61,2.1,1.7,2.1,1.67,2.14,1.79,2.2,1.79,2.11,1.7
+57,Beijing,China Open,07/10/15,ATP500,Outdoor,Hard,2nd Round,3,Sock J.,Haider-Maurer A.,30,64,1210,760,6,3,6,1,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.26,4.34,1.26,4.34,1.24,3.96
+57,Beijing,China Open,07/10/15,ATP500,Outdoor,Hard,2nd Round,3,Ferrer D.,Rosol L.,7,79,3945,632,7,6,6,2,,,,,,,2,0,Completed,1.12,6,1.14,5.25,1.14,5,1.14,6.7,1.17,6.7,1.13,5.7
+57,Beijing,China Open,07/10/15,ATP500,Outdoor,Hard,2nd Round,3,Nadal R.,Pospisil V.,8,44,3770,995,7,6,6,4,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.28,4.07,1.3,4.15,1.26,3.76
+57,Beijing,China Open,08/10/15,ATP500,Outdoor,Hard,2nd Round,3,Cuevas P.,Karlovic I.,37,18,1100,1620,7,6,7,6,,,,,,,2,0,Completed,3,1.36,3.1,1.35,2.75,1.4,2.9,1.47,3.1,1.5,2.9,1.39
+57,Beijing,China Open,08/10/15,ATP500,Outdoor,Hard,2nd Round,3,Fognini F.,Goffin D.,28,17,1300,1970,6,2,2,6,6,2,,,,,2,1,Completed,2.75,1.4,3.1,1.35,2.75,1.4,2.97,1.45,3.1,1.46,2.9,1.39
+57,Beijing,China Open,08/10/15,ATP500,Outdoor,Hard,2nd Round,3,Djokovic N.,Zhang Ze,1,219,15645,230,6,2,6,1,,,,,,,2,0,Completed,1.002,41,1.01,13,1,21,1.01,51,1.02,51,1.01,25.33
+57,Beijing,China Open,08/10/15,ATP500,Outdoor,Hard,2nd Round,3,Isner J.,Millman J.,13,76,2280,656,4,6,7,6,6,4,,,,,2,1,Completed,1.18,4.5,1.2,4.2,1.17,4.5,1.22,4.85,1.23,5,1.19,4.46
+57,Beijing,China Open,09/10/15,ATP500,Outdoor,Hard,Quarterfinals,3,Nadal R.,Sock J.,8,30,3770,1210,3,6,6,4,6,3,,,,,2,1,Completed,1.4,2.75,1.45,2.65,1.44,2.75,1.53,2.72,1.53,2.88,1.45,2.68
+57,Beijing,China Open,09/10/15,ATP500,Outdoor,Hard,Quarterfinals,3,Fognini F.,Cuevas P.,28,37,1300,1100,6,1,2,6,6,2,,,,,2,1,Completed,1.44,2.62,1.52,2.4,1.5,2.5,1.56,2.65,1.56,2.72,1.5,2.55
+57,Beijing,China Open,09/10/15,ATP500,Outdoor,Hard,Quarterfinals,3,Ferrer D.,Lu Y.H.,7,100,3945,539,6,3,6,1,,,,,,,2,0,Completed,1.25,3.75,1.2,4.3,1.22,4.33,1.31,3.92,1.31,4.33,1.25,3.91
+57,Beijing,China Open,09/10/15,ATP500,Outdoor,Hard,Quarterfinals,3,Djokovic N.,Isner J.,1,13,15645,2280,6,2,6,2,,,,,,,2,0,Completed,1.08,8,1.07,7.5,1.07,8.5,1.09,9.71,1.1,10.4,1.07,8.27
+57,Beijing,China Open,10/10/15,ATP500,Outdoor,Hard,Semifinals,3,Nadal R.,Fognini F.,8,28,3770,1300,7,5,6,3,,,,,,,2,0,Completed,1.44,2.75,1.5,2.5,1.5,2.62,1.44,3.06,1.53,3.1,1.46,2.7
+57,Beijing,China Open,10/10/15,ATP500,Outdoor,Hard,Semifinals,3,Djokovic N.,Ferrer D.,1,7,15645,3945,6,2,6,3,,,,,,,2,0,Completed,1.07,9,1.07,8,1.08,8,1.08,10.36,1.08,11,1.06,8.89
+57,Beijing,China Open,11/10/15,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,1,8,15645,3770,6,2,6,2,,,,,,,2,0,Completed,1.1,7,1.11,6,1.11,6.5,1.14,7.1,1.15,7.5,1.11,6.44

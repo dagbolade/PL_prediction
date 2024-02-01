@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Blanco G.,Martin A.,81,38,6,3,6,2,,,,,,,2,0,Completed,,,1.95,1.75,1.9,1.7,1.85,1.65,2.25,1.571
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Coria G.,Costa A.,98,30,7,6,7,6,,,,,,,2,0,Completed,,,1.75,1.95,1.8,1.85,1.8,1.7,1.833,1.833
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Ferrero J.C.,Pioline C.,3,93,7,5,6,2,,,,,,,2,0,Completed,,,1.25,3.6,1.21,3.7,1.2,3.3,1.286,3.5
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Hrbaty D.,Lee M.,62,100,6,1,6,4,,,,,,,2,0,Completed,,,1.33,3.05,1.25,3,1.25,3,1.286,3.5
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Luzzi F.,Calleri A.,116,58,5,7,7,6,6,4,,,,,2,1,Completed,,,2.9,1.36,3,1.26,3.3,1.2,3.25,1.333
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Marin J.A.,Malisse X.,121,33,6,1,6,0,,,,,,,2,0,Completed,,,2.35,1.52,2.4,1.44,2.2,1.45,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Meligeni F.,Saretta F.,59,94,2,6,6,4,7,5,,,,,2,1,Completed,,,1.6,2.2,1.55,2.1,1.55,2,1.571,2.25
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Mirnyi M.,Mantilla F.,39,36,6,4,7,6,,,,,,,2,0,Completed,,,2.75,1.4,2.65,1.35,2.7,1.3,2.625,1.444
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Montanes A.,Matias N.,55,NR,6,2,6,1,,,,,,,2,0,Completed,,,,,1.06,6,1.05,5,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Moya C.,Squillari F.,29,51,7,5,6,4,,,,,,,2,0,Completed,,,1.65,2.1,1.66,2,1.65,1.85,1.667,2.1
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Nalbandian D.,Clavet F.,47,85,6,3,6,4,,,,,,,2,0,Completed,,,1.57,2.25,1.55,2.15,1.55,2,1.533,2.375
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Nieminen J.,Gaudenzi A.,66,57,7,6,6,1,,,,,,,2,0,Completed,,,1.9,1.8,1.88,1.75,1.85,1.65,1.833,1.833
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Safin M.,Ferrer D.,7,207,6,4,2,6,6,2,,,,,2,1,Completed,,,,,,,,,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Schalken S.,Levy H.,31,102,7,6,6,2,,,,,,,2,0,Completed,,,1.42,2.65,1.42,2.5,1.4,2.3,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Stepanek R.,Costa F.,274,264,6,3,6,2,,,,,,,2,0,Completed,,,,,,,1.65,1.85,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,1st Round,3,Voinea A.,Verdasco F.,65,451,6,0,6,3,,,,,,,2,0,Completed,,,,,,,,,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Meligeni F.,Coria G.,59,98,5,7,6,3,4,4,,,,,1,1,Retired,,,2.55,1.45,2.15,1.55,2.1,1.5,2.375,1.533
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Mirnyi M.,Montanes A.,39,55,4,6,6,0,6,1,,,,,2,1,Completed,,,2.5,1.48,2.2,1.5,1.9,1.6,2.25,1.571
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Moya C.,Luzzi F.,29,116,6,3,7,6,,,,,,,2,0,Completed,,,,,,,,,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Nalbandian D.,Ferrero J.C.,47,3,4,6,6,4,7,6,,,,,2,1,Completed,,,2.9,1.35,2.8,1.33,2.5,1.35,3,1.333
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Nieminen J.,Blanco G.,66,81,6,1,6,2,,,,,,,2,0,Completed,,,1.9,1.8,1.95,1.7,1.85,1.65,2,1.727
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Safin M.,Voinea A.,7,65,6,3,5,7,6,2,,,,,2,1,Completed,,,1.33,3,1.3,3,1.3,2.7,1.364,3
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Schalken S.,Hrbaty D.,31,62,7,5,6,4,,,,,,,2,0,Completed,,,1.95,1.75,1.95,1.7,1.8,1.7,2,1.727
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,2nd Round,3,Stepanek R.,Marin J.A.,274,121,6,1,7,6,,,,,,,2,0,Completed,,,2.6,1.44,2.15,1.55,2,1.55,,
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,Quarterfinals,3,Meligeni F.,Stepanek R.,59,274,6,4,6,1,,,,,,,2,0,Completed,,,1.4,2.7,1.32,2.9,1.35,2.5,1.4,2.75
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,Quarterfinals,3,Moya C.,Mirnyi M.,29,39,7,6,4,6,6,3,,,,,2,1,Completed,,,1.38,2.8,1.37,2.7,1.3,2.7,1.333,3
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,Quarterfinals,3,Nalbandian D.,Schalken S.,47,31,6,4,6,4,,,,,,,2,0,Completed,,,1.42,2.65,1.42,2.5,1.4,2.3,1.444,2.625
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,Quarterfinals,3,Nieminen J.,Safin M.,66,7,4,6,7,5,6,3,,,,,2,1,Completed,,,2.9,1.36,2.75,1.36,2.5,1.35,2.75,1.4
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,Semifinals,3,Nalbandian D.,Moya C.,47,29,6,4,5,7,6,4,,,,,2,1,Completed,,,1.9,1.8,1.95,1.7,1.85,1.65,2.25,1.571
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,Semifinals,3,Nieminen J.,Meligeni F.,66,59,7,5,6,1,,,,,,,2,0,Completed,,,1.9,1.8,1.85,1.78,1.8,1.7,1.833,1.833
+22,Estoril,Estoril Open,08/04/02,International,Outdoor,Clay,The Final,3,Nalbandian D.,Nieminen J.,47,66,6,4,7,6,,,,,,,2,0,Completed,,,1.45,2.55,1.5,2.2,1.5,2.1,1.444,2.625

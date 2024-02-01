@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+43,Umag,Konzum Croatia Open,20/07/15,ATP250,Outdoor,Clay,1st Round,3,Bedene A.,Delic M.,70,326,717,140,6,4,6,3,,,,,,,2,0,Completed,1.14,5.5,1.12,5.5,1.14,5,1.13,6.85,1.16,6.85,1.13,5.54
+43,Umag,Konzum Croatia Open,20/07/15,ATP250,Outdoor,Clay,1st Round,3,Fognini F.,Vesely J.,32,44,1160,945,6,4,6,4,,,,,,,2,0,Completed,1.61,2.2,1.68,2.15,1.57,2.25,1.74,2.2,1.74,2.38,1.64,2.22
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Dzumhur D.,Rosol L.,100,54,524,857,6,3,6,0,,,,,,,2,0,Completed,2.62,1.44,2.8,1.42,2.62,1.44,2.9,1.46,3,1.5,2.71,1.44
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Trevisan M.,85,462,586,61,1,6,6,2,7,5,,,,,2,1,Completed,1.25,3.75,1.25,3.75,1.3,3.4,1.28,4.02,1.3,4.1,1.26,3.72
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Trinker B.,Youzhny M.,417,90,96,560,2,6,6,3,6,3,,,,,2,1,Completed,3.5,1.28,3.4,1.3,3.4,1.3,3.5,1.34,3.75,1.36,3.4,1.3
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Androic T.,51,363,881,119,6,2,6,1,,,,,,,2,0,Completed,1.1,7,1.1,6.5,1.14,5,1.12,7.46,1.17,7.25,1.11,6.12
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Haider-Maurer A.,Fabbiano T.,61,209,785,226,6,3,6,4,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.53,2.38,1.63,2.42,1.63,2.78,1.56,2.38
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Giraldo S.,42,59,1025,790,6,3,6,2,,,,,,,2,0,Completed,1.4,2.75,1.35,3.1,1.4,2.75,1.38,3.27,1.43,3.3,1.38,2.96
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Coric B.,Granollers M.,36,71,1109,715,6,3,6,3,,,,,,,2,0,Completed,1.44,2.62,1.48,2.6,1.5,2.5,1.57,2.55,1.57,2.7,1.49,2.55
+43,Umag,Konzum Croatia Open,21/07/15,ATP250,Outdoor,Clay,1st Round,3,Klizan M.,Carreno-Busta P.,37,56,1100,825,7,6,6,7,6,1,,,,,2,1,Completed,2,1.72,1.9,1.8,1.83,1.83,1.97,1.92,2.08,1.92,1.93,1.83
+43,Umag,Konzum Croatia Open,22/07/15,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Djere L.,119,175,450,277,6,3,6,3,,,,,,,2,0,Completed,1.4,2.75,1.45,2.7,1.5,2.5,1.46,2.9,1.5,2.9,1.44,2.71
+43,Umag,Konzum Croatia Open,22/07/15,ATP250,Outdoor,Clay,1st Round,3,Kavcic B.,Rublev A.,132,190,413,247,7,6,2,6,6,3,,,,,2,1,Completed,2,1.72,2.1,1.7,1.91,1.8,2.24,1.71,2.24,1.83,2.08,1.72
+43,Umag,Konzum Croatia Open,22/07/15,ATP250,Outdoor,Clay,2nd Round,3,Sousa J.,Seppi A.,51,24,881,1355,6,2,6,2,,,,,,,2,0,Completed,2.2,1.61,2.15,1.68,2.1,1.67,2.24,1.74,2.25,1.75,2.15,1.68
+43,Umag,Konzum Croatia Open,22/07/15,ATP250,Outdoor,Clay,2nd Round,3,Fognini F.,Dzumhur D.,32,100,1160,524,6,3,7,5,,,,,,,2,0,Completed,1.25,3.75,1.28,3.5,1.29,3.5,1.31,3.86,1.31,3.9,1.27,3.66
+43,Umag,Konzum Croatia Open,23/07/15,ATP250,Outdoor,Clay,2nd Round,3,Haider-Maurer A.,Klizan M.,61,37,785,1100,6,4,6,4,,,,,,,2,0,Completed,3,1.36,2.9,1.38,2.75,1.4,3.12,1.42,3.13,1.42,2.94,1.38
+43,Umag,Konzum Croatia Open,23/07/15,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Lajovic D.,26,119,1235,450,6,1,3,1,,,,,,,1,0,Retired,1.5,2.5,1.55,2.4,1.5,2.5,1.57,2.57,1.57,2.6,1.53,2.47
+43,Umag,Konzum Croatia Open,23/07/15,ATP250,Outdoor,Clay,2nd Round,3,Bautista R.,Kavcic B.,22,132,1475,413,6,1,6,2,,,,,,,2,0,Completed,1.1,7,1.11,6,1.11,6,1.1,8.66,1.12,8.66,1.09,6.83
+43,Umag,Konzum Croatia Open,23/07/15,ATP250,Outdoor,Clay,2nd Round,3,Coric B.,Bedene A.,36,70,1109,717,6,4,6,4,,,,,,,2,0,Completed,1.66,2.1,1.62,2.25,1.57,2.25,1.78,2.17,1.78,2.3,1.65,2.19
+43,Umag,Konzum Croatia Open,23/07/15,ATP250,Outdoor,Clay,2nd Round,3,Kohlschreiber P.,Lorenzi P.,42,85,1025,586,6,2,7,5,,,,,,,2,0,Completed,1.11,6.5,1.1,6,1.12,5.5,1.12,7.55,1.15,7.55,1.11,6.23
+43,Umag,Konzum Croatia Open,23/07/15,ATP250,Outdoor,Clay,2nd Round,3,Monfils G.,Trinker B.,17,417,1930,96,6,3,6,0,,,,,,,2,0,Completed,1.05,11,1.05,9,1.06,8,1.06,12.02,1.08,12.02,1.05,9.53
+43,Umag,Konzum Croatia Open,24/07/15,ATP250,Outdoor,Clay,Quarterfinals,3,Sousa J.,Fognini F.,51,32,881,1160,6,2,3,6,7,6,,,,,2,1,Completed,2.25,1.57,2.3,1.6,2.25,1.57,2.47,1.63,2.48,1.63,2.34,1.58
+43,Umag,Konzum Croatia Open,24/07/15,ATP250,Outdoor,Clay,Quarterfinals,3,Thiem D.,Haider-Maurer A.,26,61,1235,785,6,7,6,1,3,0,,,,,1,1,Retired,1.36,3,1.35,3.1,1.4,2.75,1.45,3.04,1.45,3.22,1.39,2.93
+43,Umag,Konzum Croatia Open,24/07/15,ATP250,Outdoor,Clay,Quarterfinals,3,Bautista R.,Coric B.,22,36,1475,1109,6,3,6,3,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.75,1.44,3.09,1.45,3.09,1.41,2.83
+43,Umag,Konzum Croatia Open,24/07/15,ATP250,Outdoor,Clay,Quarterfinals,3,Monfils G.,Kohlschreiber P.,17,42,1930,1025,4,6,7,6,6,4,,,,,2,1,Completed,1.53,2.37,1.55,2.4,1.53,2.38,1.63,2.46,1.63,2.55,1.58,2.34
+43,Umag,Konzum Croatia Open,25/07/15,ATP250,Outdoor,Clay,Semifinals,3,Sousa J.,Bautista R.,51,22,881,1475,4,6,6,2,6,3,,,,,2,1,Completed,3.4,1.33,3.2,1.33,3.25,1.33,3.67,1.34,3.69,1.35,3.33,1.32
+43,Umag,Konzum Croatia Open,25/07/15,ATP250,Outdoor,Clay,Semifinals,3,Thiem D.,Monfils G.,26,17,1235,1930,1,6,6,3,6,1,,,,,2,1,Completed,3.25,1.36,3,1.38,2.75,1.4,3.23,1.41,3.26,1.43,3.01,1.37
+43,Umag,Konzum Croatia Open,26/07/15,ATP250,Outdoor,Clay,The Final,3,Thiem D.,Sousa J.,26,51,1235,881,6,4,6,1,,,,,,,2,0,Completed,1.57,2.37,1.58,2.3,1.57,2.38,1.7,2.32,1.71,2.4,1.61,2.29

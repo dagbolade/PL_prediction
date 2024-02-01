@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+48,Washington,Citi Open,03/08/15,ATP500,Outdoor,Hard,1st Round,3,Duckworth J.,Harrison R.,95,129,532,422,6,1,7,6,,,,,,,2,0,Completed,2.5,1.5,2.4,1.55,2.5,1.5,2.55,1.57,2.58,1.61,2.44,1.53
+48,Washington,Citi Open,03/08/15,ATP500,Outdoor,Hard,1st Round,3,Estrella Burgos V.,Jarry N.,51,233,886,206,4,6,6,3,6,4,,,,,2,1,Completed,1.2,4.33,1.22,4,1.22,4,1.31,3.78,1.33,4.33,1.25,3.8
+48,Washington,Citi Open,03/08/15,ATP500,Outdoor,Hard,1st Round,3,Chung H.,Sela D.,77,125,638,427,6,2,6,1,,,,,,,2,0,Completed,2,1.72,2,1.8,2.1,1.67,2.09,1.81,1.83,1.84,2.02,1.76
+48,Washington,Citi Open,03/08/15,ATP500,Outdoor,Hard,1st Round,3,Zverev A.,Nishioka Y.,96,136,523,402,7,6,6,3,,,,,,,2,0,Completed,1.5,2.5,1.45,2.7,1.57,2.25,1.46,2.89,1.62,3,1.46,2.64
+48,Washington,Citi Open,03/08/15,ATP500,Outdoor,Hard,1st Round,3,Bemelmans R.,Matosevic M.,98,169,518,297,6,3,6,3,,,,,,,2,0,Completed,2.2,1.61,2.3,1.6,2.1,1.67,2.23,1.72,2.3,1.87,2.18,1.66
+48,Washington,Citi Open,03/08/15,ATP500,Outdoor,Hard,1st Round,3,Soeda G.,King D.,102,206,515,238,6,2,6,1,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.75,1.58,2.51,1.58,2.94,1.45,2.7
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Berankis R.,Lu Y.H.,86,76,586,649,7,6,6,3,,,,,,,2,0,Completed,2.37,1.53,2.3,1.6,2.2,1.62,2.3,1.68,2.4,1.7,2.25,1.62
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Young D.,Haas T.,75,523,660,65,6,3,6,4,,,,,,,2,0,Completed,2.1,1.66,2.15,1.68,2.1,1.67,2.2,1.74,2.2,1.74,2.12,1.69
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Gabashvili T.,Becker B.,53,63,854,770,4,6,6,1,6,3,,,,,2,1,Completed,1.4,2.75,1.55,2.4,1.57,2.25,1.49,2.78,1.57,2.78,1.47,2.61
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Groth S.,Bellucci T.,62,31,773,1145,7,6,4,6,6,3,,,,,2,1,Completed,1.66,2.1,1.65,2.2,1.62,2.2,1.83,2.07,1.83,2.3,1.68,2.14
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Johnson S.,Lacko L.,55,117,835,470,7,5,6,3,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.29,3.5,1.31,3.74,1.31,4.1,1.27,3.63
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Pella G.,Dodig I.,100,104,516,511,6,3,6,7,7,5,,,,,2,1,Completed,,,,,,,,,2.55,1.45,2.55,1.45
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,1st Round,3,Rola B.,Kudla D.,124,79,439,628,2,6,6,4,7,6,,,,,2,1,Completed,5,1.16,4.5,1.18,4.5,1.17,5.85,1.17,5.85,1.2,4.93,1.17
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,1st Round,3,Hewitt L.,Smith J.P.,283,133,165,407,6,3,6,4,,,,,,,2,0,Completed,2.1,1.66,2.1,1.7,1.91,1.8,2.11,1.8,2.11,1.87,2,1.77
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,1st Round,3,Dolgopolov O.,Smyczek T.,73,80,670,621,6,4,6,2,,,,,,,2,0,Completed,1.28,3.5,1.28,3.5,1.29,3.5,1.28,4.06,1.32,4.06,1.27,3.67
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,1st Round,3,Muller G.,Jaziri M.,46,85,945,606,6,3,7,5,,,,,,,2,0,Completed,1.22,4,1.22,4,1.25,3.75,1.27,4.15,1.27,4.2,1.24,3.96
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,2nd Round,3,Querrey S.,Soeda G.,32,102,1140,515,6,3,5,7,6,4,,,,,2,1,Completed,1.18,4.5,1.22,4,1.22,4,1.19,5.42,1.25,5.42,1.2,4.44
+48,Washington,Citi Open,04/08/15,ATP500,Outdoor,Hard,2nd Round,3,Sock J.,Bemelmans R.,37,98,1070,518,7,6,6,3,,,,,,,2,0,Completed,1.16,5,1.2,4.3,1.17,4.5,1.23,4.73,1.23,5.08,1.2,4.45
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Pospisil V.,Young D.,49,75,915,660,7,5,6,3,,,,,,,2,0,Completed,1.5,2.5,1.55,2.4,1.57,2.25,1.59,2.53,1.67,2.55,1.58,2.34
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Nishikori K.,Duckworth J.,5,95,5525,532,6,7,6,1,6,4,,,,,2,1,Completed,1.1,7,1.09,7,1.08,7,1.09,9.28,1.12,9.28,1.1,6.8
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Cilic M.,Chung H.,8,77,3495,638,7,6,6,3,,,,,,,2,0,Completed,1.22,4,1.22,4,1.22,4,1.26,4.34,1.28,4.5,1.24,3.99
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Groth S.,Troicki V.,62,20,773,1629,6,3,6,4,,,,,,,2,0,Completed,2.62,1.44,2.6,1.48,2.5,1.5,3.01,1.44,3.01,1.52,2.66,1.46
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Lopez F.,Hewitt L.,19,283,1845,165,4,6,7,5,6,3,,,,,2,1,Completed,1.4,2.75,1.42,2.8,1.44,2.62,1.46,2.93,1.5,2.93,1.44,2.74
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Johnson S.,Tomic B.,55,26,835,1400,6,7,6,4,6,2,,,,,2,1,Completed,2,1.72,1.9,1.82,2,1.73,2.09,1.83,2.1,1.91,1.99,1.79
+48,Washington,Citi Open,05/08/15,ATP500,Outdoor,Hard,2nd Round,3,Isner J.,Estrella Burgos V.,18,51,1890,886,6,3,7,6,,,,,,,2,0,Completed,1.08,8,1.1,6.5,1.1,6.5,1.08,9.87,1.12,9.87,1.09,7.04
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Mayer L.,Rola B.,35,124,1080,439,7,6,6,7,6,4,,,,,2,1,Completed,1.2,4.33,1.2,4.3,1.22,4,1.24,4.61,1.25,4.61,1.22,4.15
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Dimitrov G.,Pella G.,16,100,1970,516,7,6,6,4,,,,,,,2,0,Completed,1.12,6,1.13,5.5,1.08,7,1.12,7.55,1.16,7.55,1.11,6.41
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Gabashvili T.,Murray A.,53,3,854,7840,6,4,4,6,7,6,,,,,2,1,Completed,13,1.04,10,1.04,9,1.04,17.65,1.03,17.65,1.06,11.87,1.03
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Zverev A.,Anderson K.,96,14,523,2090,2,6,6,3,6,4,,,,,2,1,Completed,4,1.22,3.75,1.25,3.75,1.25,3.89,1.3,4.05,1.3,3.79,1.25
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Berankis R.,Cuevas P.,86,30,586,1170,6,3,6,3,,,,,,,2,0,Completed,1.25,3.75,1.3,3.4,1.29,3.5,1.31,3.86,1.34,3.86,1.3,3.46
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Gasquet R.,Muller G.,13,46,2150,945,5,7,6,4,6,4,,,,,2,1,Completed,1.44,2.62,1.48,2.6,1.5,2.5,1.53,2.71,1.53,2.75,1.48,2.6
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,2nd Round,3,Dolgopolov O.,Karlovic I.,73,23,670,1495,6,4,7,6,,,,,,,2,0,Completed,1.72,2,1.72,2.05,1.8,1.91,1.72,2.25,1.83,2.25,1.78,2.01
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,3rd Round,3,Nishikori K.,Mayer L.,5,35,5525,1080,6,4,6,4,,,,,,,2,0,Completed,1.16,5,1.16,4.9,1.14,5,1.17,5.95,1.18,5.95,1.16,5.08
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,3rd Round,3,Groth S.,Lopez F.,62,19,773,1845,6,3,6,4,,,,,,,2,0,Completed,2.1,1.66,2.2,1.62,2.25,1.57,2.11,1.81,2.3,1.83,2.12,1.7
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,3rd Round,3,Cilic M.,Querrey S.,8,32,3495,1140,7,6,7,6,,,,,,,2,0,Completed,1.44,2.62,1.45,2.65,1.44,2.62,1.53,2.71,1.53,2.75,1.46,2.63
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,3rd Round,3,Zverev A.,Dolgopolov O.,96,73,523,670,2,6,6,2,6,4,,,,,2,1,Completed,2.75,1.4,2.9,1.4,2.75,1.4,3.34,1.38,3.34,1.42,2.97,1.38
+48,Washington,Citi Open,06/08/15,ATP500,Outdoor,Hard,3rd Round,3,Johnson S.,Dimitrov G.,55,16,835,1970,6,3,1,6,6,3,,,,,2,1,Completed,2.75,1.4,2.8,1.42,2.75,1.4,3.18,1.41,3.18,1.48,2.8,1.42
+48,Washington,Citi Open,07/08/15,ATP500,Outdoor,Hard,3rd Round,3,Sock J.,Gasquet R.,37,13,1070,2150,6,7,7,6,6,4,,,,,2,1,Completed,3.25,1.33,2.9,1.38,3,1.36,3.29,1.39,3.3,1.42,3.08,1.36
+48,Washington,Citi Open,07/08/15,ATP500,Outdoor,Hard,3rd Round,3,Berankis R.,Gabashvili T.,86,53,586,854,7,5,6,4,,,,,,,2,0,Completed,1.9,1.8,1.88,1.85,1.83,1.83,1.95,1.95,2.09,1.95,1.93,1.84
+48,Washington,Citi Open,07/08/15,ATP500,Outdoor,Hard,3rd Round,3,Isner J.,Pospisil V.,18,49,1890,915,6,4,7,6,,,,,,,2,0,Completed,1.5,2.5,1.52,2.4,1.44,2.62,1.5,2.81,1.54,2.81,1.49,2.6
+48,Washington,Citi Open,07/08/15,ATP500,Outdoor,Hard,Quarterfinals,3,Nishikori K.,Groth S.,5,62,5525,773,6,4,6,4,,,,,,,2,0,Completed,1.14,5.5,1.12,5.5,1.14,5,1.19,5.57,1.2,5.57,1.16,5.03
+48,Washington,Citi Open,07/08/15,ATP500,Outdoor,Hard,Quarterfinals,3,Cilic M.,Zverev A.,8,96,3495,523,7,5,7,6,,,,,,,2,0,Completed,1.25,3.75,1.2,4.3,1.2,4.5,1.28,4.24,1.31,4.5,1.24,3.98
+48,Washington,Citi Open,08/08/15,ATP500,Outdoor,Hard,Quarterfinals,3,Isner J.,Berankis R.,18,86,1890,586,6,3,5,7,6,3,,,,,2,1,Completed,1.22,4,1.22,3.75,1.22,4.33,1.23,4.77,1.27,4.77,1.23,4.09
+48,Washington,Citi Open,08/08/15,ATP500,Outdoor,Hard,Quarterfinals,3,Johnson S.,Sock J.,55,37,835,1070,7,6,6,1,,,,,,,2,0,Completed,2.25,1.57,2.35,1.58,2.5,1.53,2.42,1.65,2.52,1.67,2.36,1.57
+48,Washington,Citi Open,08/08/15,ATP500,Outdoor,Hard,Semifinals,3,Nishikori K.,Cilic M.,5,8,5525,3495,3,6,6,1,6,4,,,,,2,1,Completed,1.44,2.75,1.42,2.8,1.4,3,1.49,2.88,1.5,3,1.43,2.77
+48,Washington,Citi Open,09/08/15,ATP500,Outdoor,Hard,Semifinals,3,Isner J.,Johnson S.,18,55,1890,835,6,3,3,6,7,6,,,,,2,1,Completed,1.44,2.75,1.35,3,1.44,2.75,1.52,2.77,1.54,3,1.45,2.72
+48,Washington,Citi Open,09/08/15,ATP500,Outdoor,Hard,The Final,3,Nishikori K.,Isner J.,5,18,5525,1890,4,6,6,4,6,4,,,,,2,1,Completed,1.44,2.75,1.42,2.8,1.44,2.75,1.49,2.88,1.51,2.95,1.45,2.73

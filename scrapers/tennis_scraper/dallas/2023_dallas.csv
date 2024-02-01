@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+7,Dallas,Dallas Open,07/02/2023,ATP250,Indoor,Hard,1st Round,3,Sock J.,Ivashka I.,141,74,405,715,7,6,4,6,6,4,,,,,2,1,Completed,3,1.4,2.88,1.47,3,1.48,2.8,1.43
+7,Dallas,Dallas Open,07/02/2023,ATP250,Indoor,Hard,1st Round,3,Giron M.,Rybakov A.,55,378,841,123,6,4,6,7,6,1,,,,,2,1,Completed,1.14,5.5,1.18,5.61,1.18,5.8,1.16,5.23
+7,Dallas,Dallas Open,07/02/2023,ATP250,Indoor,Hard,1st Round,3,Mcdonald M.,Verdasco F.,59,118,820,452,6,3,6,0,,,,,,,2,0,Completed,1.25,4,1.26,4.64,1.28,4.64,1.25,3.93
+7,Dallas,Dallas Open,07/02/2023,ATP250,Indoor,Hard,1st Round,3,Thompson J.,Kudla D.,84,92,604,573,6,1,7,5,,,,,,,2,0,Completed,1.73,2.1,1.74,2.2,1.8,2.23,1.72,2.11
+7,Dallas,Dallas Open,07/02/2023,ATP250,Indoor,Hard,1st Round,3,Mannarino A.,Johnson S.,63,120,791,448,7,6,6,2,,,,,,,2,0,Completed,1.57,2.38,1.58,2.51,1.62,2.53,1.57,2.38
+7,Dallas,Dallas Open,07/02/2023,ATP250,Indoor,Hard,1st Round,3,Wolf J.J.,Holt B.,43,195,922,302,6,3,6,3,,,,,,,2,0,Completed,1.33,3.4,1.33,3.6,1.37,3.84,1.33,3.26
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,1st Round,3,Albot R.,Krall L.,123,N/A,443,N/A,2,6,6,4,6,2,,,,,2,1,Completed,1.05,11,1.07,11.44,1.07,13,1.05,10.45
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,1st Round,3,Wu Y.,Mmoh M.,97,86,544,599,6,3,3,6,6,3,,,,,2,1,Completed,1.67,2.2,1.71,2.25,1.78,2.3,1.7,2.15
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,1st Round,3,Isner J.,Tseng C. H.,39,108,980,500,7,6,7,6,,,,,,,2,0,Completed,1.25,4,1.32,3.7,1.33,4.04,1.28,3.6
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,1st Round,3,Gomez E.,Diallo G.,102,211,533,260,6,4,6,7,7,6,,,,,2,1,Completed,1.73,2.1,1.87,2.05,2,1.8,2,1.8
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,1st Round,3,Altmaier D.,Svajda Z.,99,265,539,203,6,2,6,4,,,,,,,2,0,Completed,1.91,1.91,1.98,1.91,2.01,2,1.9,1.89
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,1st Round,3,Otte O.,Eubanks C.,80,104,666,524,6,4,4,6,6,2,,,,,2,1,Completed,2.3,1.62,2.61,1.55,2.65,1.64,2.41,1.56
+7,Dallas,Dallas Open,08/02/2023,ATP250,Indoor,Hard,2nd Round,3,Wolf J.J.,Albot R.,43,123,922,443,6,3,7,6,,,,,,,2,0,Completed,1.14,5.5,1.17,5.85,1.17,6.05,1.15,5.37
+7,Dallas,Dallas Open,09/02/2023,ATP250,Indoor,Hard,2nd Round,3,Tiafoe F.,Mcdonald M.,14,59,2305,820,6,1,6,3,,,,,,,2,0,Completed,1.5,2.63,1.56,2.61,1.58,2.63,1.53,2.49
+7,Dallas,Dallas Open,09/02/2023,ATP250,Indoor,Hard,2nd Round,3,Wu Y.,Shapovalov D.,97,27,544,1560,7,6,6,4,,,,,,,2,0,Completed,3.2,1.36,3.04,1.44,3.32,1.45,2.96,1.39
+7,Dallas,Dallas Open,09/02/2023,ATP250,Indoor,Hard,2nd Round,3,Gomez E.,Kecmanovic M.,102,33,533,1275,2,6,7,6,6,4,,,,,2,1,Completed,3.75,1.29,3.89,1.3,4,1.31,3.63,1.28
+7,Dallas,Dallas Open,09/02/2023,ATP250,Indoor,Hard,2nd Round,3,Mannarino A.,Thompson J.,63,84,791,604,6,2,7,6,,,,,,,2,0,Completed,1.53,2.5,1.59,2.53,1.61,2.53,1.57,2.39
+7,Dallas,Dallas Open,09/02/2023,ATP250,Indoor,Hard,2nd Round,3,Isner J.,Altmaier D.,39,99,980,539,6,3,7,6,,,,,,,2,0,Completed,1.44,2.75,1.46,2.94,1.54,3.75,1.43,2.81
+7,Dallas,Dallas Open,10/02/2023,ATP250,Indoor,Hard,2nd Round,3,Fritz T.,Sock J.,8,141,3410,405,7,6,6,4,,,,,,,2,0,Completed,1.11,6.5,1.14,6.68,1.15,6.68,1.13,5.98
+7,Dallas,Dallas Open,10/02/2023,ATP250,Indoor,Hard,2nd Round,3,Giron M.,Otte O.,55,80,841,666,6,4,6,3,,,,,,,2,0,Completed,1.5,2.63,1.54,2.66,1.57,2.7,1.51,2.54
+7,Dallas,Dallas Open,10/02/2023,ATP250,Indoor,Hard,Quarterfinals,3,Wolf J.J.,Tiafoe F.,43,14,922,2305,4,6,6,3,6,4,,,,,2,1,Completed,2.75,1.44,2.91,1.47,2.91,1.48,2.77,1.44
+7,Dallas,Dallas Open,10/02/2023,ATP250,Indoor,Hard,Quarterfinals,3,Isner J.,Gomez E.,39,102,980,533,7,6,7,5,,,,,,,2,0,Completed,1.25,4,1.27,4.17,1.28,4.33,1.24,4
+7,Dallas,Dallas Open,11/02/2023,ATP250,Indoor,Hard,Quarterfinals,3,Fritz T.,Giron M.,8,55,3410,841,7,6,3,6,6,3,,,,,2,1,Completed,1.22,4.33,1.26,4.31,1.27,4.7,1.23,4.11
+7,Dallas,Dallas Open,11/02/2023,ATP250,Indoor,Hard,Quarterfinals,3,Wu Y.,Mannarino A.,97,63,544,791,6,3,6,4,,,,,,,2,0,Completed,2,1.8,2.09,1.83,2.1,1.83,2.02,1.78
+7,Dallas,Dallas Open,11/02/2023,ATP250,Indoor,Hard,Semifinals,3,Isner J.,Wolf J.J.,39,43,980,922,3,6,7,5,7,6,,,,,2,1,Completed,2.1,1.73,2.22,1.74,2.25,1.78,2.12,1.72
+7,Dallas,Dallas Open,11/02/2023,ATP250,Indoor,Hard,Semifinals,3,Wu Y.,Fritz T.,97,8,544,3410,6,7,7,5,6,4,,,,,2,1,Completed,3.75,1.29,3.88,1.3,3.9,1.33,3.62,1.29
+7,Dallas,Dallas Open,12/02/2023,ATP250,Indoor,Hard,The Final,3,Wu Y.,Isner J.,97,39,544,980,6,7,7,6,7,6,,,,,2,1,Completed,1.8,2,1.87,2.04,1.92,2.1,1.83,1.97

@@ -1,0 +1,56 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+23,Monte Carlo,Monte Carlo Masters,15/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Khachanov K.,Kokkinakis T.,38,150,1255,380,7,5,6,4,,,,,,,2,0,Completed,1.53,2.37,1.53,2.35,,,1.58,2.55,1.61,2.66,1.55,2.44
+23,Monte Carlo,Monte Carlo Masters,15/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Zverev M.,Auger-Aliassime F.,55,448,932,82,6,2,6,7,6,1,,,,,2,1,Completed,2.25,1.57,2.15,1.62,,,2.38,1.65,2.4,1.78,2.21,1.67
+23,Monte Carlo,Monte Carlo Masters,15/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Medvedev D.,Fucsovics M.,49,59,984,864,6,7,6,2,7,5,,,,,2,1,Completed,2,1.72,2,1.72,,,2.17,1.78,2.2,1.87,2.08,1.75
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Bautista Agut R.,Gojowczyk P.,16,50,2175,979,6,4,6,3,,,,,,,2,0,Completed,1.14,5.5,1.15,4.75,,,1.18,5.55,1.25,5.9,1.17,5.06
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Donaldson J.,24,51,1745,977,6,3,6,3,,,,,,,2,0,Completed,1.33,3.25,1.32,3.1,,,1.36,3.44,1.4,3.58,1.34,3.23
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Rublev A.,Haase R.,33,44,1378,1120,7,6,2,6,7,5,,,,,2,1,Completed,1.72,2,1.72,2,,,1.83,2.09,1.85,2.1,1.78,2.02
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Coric B.,Benneteau J.,39,57,1251,891,6,2,6,3,,,,,,,2,0,Completed,1.16,5,1.16,4.6,,,1.19,5.42,1.22,5.42,1.19,4.83
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Nishikori K.,Berdych T.,36,18,1280,2140,4,6,6,2,6,1,,,,,2,1,Completed,2,1.72,1.95,1.75,,,1.95,1.95,2.18,1.95,2.03,1.79
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Raonic M.,Catarina L.,22,365,1765,122,3,6,6,2,6,3,,,,,2,1,Completed,1.01,23,1.01,11.5,,,1.01,29.16,1.02,30,1.01,20.91
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Djokovic N.,Lajovic D.,13,93,2310,639,6,0,6,1,,,,,,,2,0,Completed,1.28,3.5,1.25,3.6,,,1.27,4.22,1.34,4.25,1.28,3.75
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Muller G.,Mayer F.,28,74,1465,729,7,5,6,4,,,,,,,2,0,Completed,1.61,2.2,1.62,2.15,,,1.71,2.27,1.75,2.35,1.68,2.19
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Bedene A.,Basic M.,58,92,877,643,6,4,7,6,,,,,,,2,0,Completed,1.22,4,1.19,4.2,,,1.21,5,1.25,5.25,1.2,4.61
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Tsitsipas S.,Shapovalov D.,71,45,767,1118,6,3,6,4,,,,,,,2,0,Completed,1.66,2.1,1.62,2.15,,,1.68,2.34,1.73,2.35,1.66,2.23
+23,Monte Carlo,Monte Carlo Masters,16/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Herbert P.H.,Lorenzi P.,82,63,690,850,7,6,6,4,,,,,,,2,0,Completed,1.44,2.62,1.45,2.55,,,1.48,2.86,1.53,2.94,1.46,2.73
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Cecchinato M.,Dzumhur D.,100,31,606,1415,6,3,6,2,,,,,,,2,0,Completed,1.72,2,1.75,1.95,,,1.93,1.97,1.95,2.05,1.84,1.96
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Simon G.,Mannarino A.,69,26,780,1655,6,3,4,6,6,2,,,,,2,1,Completed,1.53,2.37,1.6,2.2,,,1.67,2.36,1.71,2.4,1.63,2.28
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Verdasco F.,Cuevas P.,37,41,1280,1210,5,7,7,6,6,1,,,,,2,1,Completed,1.8,1.9,1.8,1.9,,,1.84,2.08,1.95,2.08,1.86,1.94
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Lopez F.,Paire B.,30,48,1420,1020,5,7,7,6,6,4,,,,,2,1,Completed,2.2,1.61,2.15,1.62,,,2.32,1.68,2.35,1.73,2.21,1.67
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Struff J.L.,Sugita Y.,61,43,855,1160,6,3,6,2,,,,,,,2,0,Completed,1.53,2.37,1.53,2.35,,,1.55,2.64,1.6,2.65,1.54,2.47
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Fognini F.,Ivashka I.,20,122,1840,458,6,4,7,5,,,,,,,2,0,Completed,1.18,4.5,1.19,4.2,,,1.23,4.73,1.24,4.95,1.21,4.44
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Schwartzman D.,Pella G.,15,60,2220,858,0,6,6,2,6,3,,,,,2,1,Completed,1.44,2.62,1.42,2.65,,,1.45,2.97,1.48,3.1,1.44,2.78
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Seppi A.,Edmund K.,62,23,851,1757,6,3,5,7,6,2,,,,,2,1,Completed,3,1.36,2.8,1.38,,,3.06,1.43,3.2,1.47,2.93,1.41
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Gasquet R.,Chardy J.,34,84,1340,685,6,4,7,6,,,,,,,2,0,Completed,1.57,2.25,1.62,2.15,,,1.61,2.47,1.68,2.47,1.63,2.28
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Sandgren T.,40,47,1230,1033,6,2,6,2,,,,,,,2,0,Completed,1.2,4.33,1.22,3.85,,,1.29,3.99,1.29,4.85,1.25,3.91
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Thiem D.,Rublev A.,7,33,3665,1378,5,7,7,5,7,5,,,,,2,1,Completed,1.25,3.75,1.23,3.75,,,1.28,4.1,1.3,4.25,1.26,3.86
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Zverev M.,Pouille L.,55,11,932,2410,2,6,6,1,7,6,,,,,2,1,Completed,5,1.14,4.75,1.15,,,5.68,1.18,6.1,1.25,5.12,1.17
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Dimitrov G.,Herbert P.H.,5,82,4635,690,3,6,6,2,6,4,,,,,2,1,Completed,1.33,3.25,1.32,3.1,,,1.38,3.35,1.39,3.45,1.35,3.23
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Goffin D.,Tsitsipas S.,10,71,3110,767,7,6,7,5,,,,,,,2,0,Completed,1.83,1.83,1.75,1.95,,,1.74,2.23,1.87,2.23,1.8,2.01
+23,Monte Carlo,Monte Carlo Masters,17/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Zverev A.,Muller G.,4,28,4925,1465,4,6,6,3,6,2,,,,,2,1,Completed,1.14,5.5,1.14,5,,,1.16,6.27,1.18,6.6,1.15,5.49
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Nishikori K.,Medvedev D.,36,49,1280,984,7,5,6,2,,,,,,,2,0,Completed,1.28,3.5,1.28,3.35,,,1.34,3.6,1.37,3.65,1.32,3.39
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Lopez F.,16,30,2175,1420,6,3,7,6,,,,,,,2,0,Completed,1.22,4,1.22,3.85,,,1.27,4.26,1.29,4.5,1.25,3.97
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Khachanov K.,Simon G.,38,69,1255,780,6,2,6,2,,,,,,,2,0,Completed,1.36,3,1.38,2.8,,,1.44,3.01,1.46,3.06,1.42,2.87
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Struff J.L.,Fognini F.,61,20,855,1840,6,4,6,2,,,,,,,2,0,Completed,3,1.36,3.05,1.33,,,3.22,1.4,3.3,1.4,3.1,1.37
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Djokovic N.,Coric B.,13,39,2310,1251,7,6,7,5,,,,,,,2,0,Completed,1.36,3,1.35,2.95,,,1.41,3.18,1.41,3.38,1.38,3.07
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Kohlschreiber P.,Ramos-Vinolas A.,40,24,1230,1745,6,4,6,2,,,,,,,2,0,Completed,1.61,2.2,1.62,2.15,,,1.72,2.25,1.74,2.27,1.69,2.16
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Gasquet R.,Schwartzman D.,34,15,1340,2220,6,2,6,1,,,,,,,2,0,Completed,2.37,1.53,2.25,1.57,,,2.4,1.65,2.47,1.66,2.33,1.61
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Seppi A.,Garcia-Lopez G.,62,68,851,798,4,6,6,3,7,5,,,,,2,1,Completed,1.53,2.37,1.57,2.25,,,1.65,2.38,1.65,2.5,1.6,2.33
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Raonic M.,Cecchinato M.,22,100,1765,606,7,6,6,2,,,,,,,2,0,Completed,1.5,2.5,1.47,2.5,,,1.58,2.56,1.58,3.05,1.49,2.64
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Nadal R.,Bedene A.,1,58,8770,877,6,1,6,3,,,,,,,2,0,Completed,1.04,13,1.03,9,,,1.04,15.18,1.06,16,1.03,12.34
+23,Monte Carlo,Monte Carlo Masters,18/04/18,Masters 1000,Outdoor,Clay,2nd Round,3,Cilic M.,Verdasco F.,3,37,4985,1280,6,3,7,6,,,,,,,2,0,Completed,1.36,3,1.38,2.8,,,1.43,3.1,1.47,3.15,1.4,2.96
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Goffin D.,Bautista Agut R.,10,16,3110,2175,6,4,7,5,,,,,,,2,0,Completed,1.9,1.9,1.75,1.95,,,1.81,2.14,1.91,2.15,1.82,2.01
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Zverev A.,Struff J.L.,4,61,4925,855,6,4,4,6,6,4,,,,,2,1,Completed,1.25,4,1.23,3.75,,,1.28,4.18,1.29,4.3,1.26,3.95
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Dimitrov G.,Kohlschreiber P.,5,40,4635,1230,4,6,6,3,6,4,,,,,2,1,Completed,1.66,2.2,1.65,2.1,,,1.7,2.31,1.75,2.32,1.69,2.19
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Thiem D.,Djokovic N.,7,13,3665,2310,6,7,6,2,6,3,,,,,2,1,Completed,2.3,1.61,2.2,1.6,,,2.36,1.68,2.44,1.75,2.28,1.64
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Gasquet R.,Zverev M.,34,55,1340,932,6,2,7,5,,,,,,,2,0,Completed,1.2,4.5,1.18,4.3,,,1.22,5.09,1.23,5.2,1.2,4.65
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Nadal R.,Khachanov K.,1,38,8770,1255,6,3,6,2,,,,,,,2,0,Completed,1.05,11,1.03,9,,,1.07,12.36,1.07,14.4,1.05,10.89
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Cilic M.,Raonic M.,3,22,4985,1765,,,,,,,,,,,,,Walkover,1.44,2.75,1.42,2.65,,,1.49,2.89,1.51,3.12,1.44,2.79
+23,Monte Carlo,Monte Carlo Masters,19/04/18,Masters 1000,Outdoor,Clay,3rd Round,3,Nishikori K.,Seppi A.,36,62,1280,851,6,0,2,6,6,3,,,,,2,1,Completed,1.16,5,1.17,4.4,,,1.19,5.56,1.25,5.65,1.18,4.93
+23,Monte Carlo,Monte Carlo Masters,20/04/18,Masters 1000,Outdoor,Clay,Quarterfinals,3,Dimitrov G.,Goffin D.,5,10,4635,3110,6,4,7,6,,,,,,,2,0,Completed,2,1.8,2,1.72,,,2.17,1.79,2.21,1.85,2.08,1.77
+23,Monte Carlo,Monte Carlo Masters,20/04/18,Masters 1000,Outdoor,Clay,Quarterfinals,3,Nadal R.,Thiem D.,1,7,8770,3665,6,0,6,2,,,,,,,2,0,Completed,1.14,5.5,1.14,5,,,1.18,5.77,1.2,6.2,1.16,5.34
+23,Monte Carlo,Monte Carlo Masters,20/04/18,Masters 1000,Outdoor,Clay,Quarterfinals,3,Nishikori K.,Cilic M.,36,3,1280,4985,6,4,6,7,6,3,,,,,2,1,Completed,2.3,1.61,2.2,1.6,,,2.36,1.68,2.36,1.75,2.26,1.65
+23,Monte Carlo,Monte Carlo Masters,20/04/18,Masters 1000,Outdoor,Clay,Quarterfinals,3,Zverev A.,Gasquet R.,4,34,4925,1340,4,6,6,2,7,5,,,,,2,1,Completed,1.5,2.62,1.47,2.5,,,1.52,2.75,1.61,2.75,1.51,2.59
+23,Monte Carlo,Monte Carlo Masters,21/04/18,Masters 1000,Outdoor,Clay,Semifinals,3,Nadal R.,Dimitrov G.,1,5,8770,4635,6,4,6,1,,,,,,,2,0,Completed,1.06,10,1.05,7.75,,,1.07,11.6,1.1,13.25,1.06,9.86
+23,Monte Carlo,Monte Carlo Masters,21/04/18,Masters 1000,Outdoor,Clay,Semifinals,3,Nishikori K.,Zverev A.,36,4,1280,4925,3,6,6,3,6,4,,,,,2,1,Completed,2.3,1.61,2.2,1.6,,,2.36,1.68,2.4,1.75,2.27,1.65
+23,Monte Carlo,Monte Carlo Masters,22/04/18,Masters 1000,Outdoor,Clay,The Final,3,Nadal R.,Nishikori K.,1,36,8770,1280,6,3,6,2,,,,,,,2,0,Completed,1.05,11,1.04,8.5,,,1.07,12.2,1.1,14.75,1.05,10.78

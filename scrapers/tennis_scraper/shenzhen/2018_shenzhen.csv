@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+57,Shenzhen ,Shenzhen Open,24/09/18,ATP250,Outdoor,Hard,1st Round,3,Troicki V.,Garcia-Lopez G.,131,81,427,708,5,3,,,,,,,,,0,0,Retired,2.5,1.5,2.75,1.5,2.62,1.5,2.65,1.53,2.92,1.53,2.66,1.48
+57,Shenzhen ,Shenzhen Open,24/09/18,ATP250,Outdoor,Hard,1st Round,3,Herbert P.H.,Lajovic D.,67,53,799,945,6,4,6,3,,,,,,,2,0,Completed,2.1,1.66,2.3,1.67,2.25,1.61,2.39,1.64,2.45,1.72,2.3,1.63
+57,Shenzhen ,Shenzhen Open,24/09/18,ATP250,Outdoor,Hard,1st Round,3,Nishioka Y.,Kudla D.,171,65,333,815,6,1,6,3,,,,,,,2,0,Completed,1.83,1.83,1.77,2.15,1.73,2.1,1.79,2.13,1.85,2.22,1.75,2.08
+57,Shenzhen ,Shenzhen Open,24/09/18,ATP250,Outdoor,Hard,1st Round,3,Norrie C.,Wu D.,73,287,758,177,6,2,6,2,,,,,,,2,0,Completed,1.28,3.5,1.32,3.7,1.3,3.5,1.36,3.42,1.38,3.7,1.33,3.39
+57,Shenzhen ,Shenzhen Open,24/09/18,ATP250,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Seppi A.,52,46,950,1021,6,7,7,6,6,3,,,,,2,1,Completed,2.5,1.5,2.6,1.55,2.5,1.53,2.66,1.53,2.66,1.6,2.51,1.54
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,Shapovalov D.,Ivashka I.,31,101,1295,588,7,5,2,6,6,3,,,,,2,1,Completed,1.3,3.4,1.35,3.5,1.36,3.25,1.34,3.55,1.4,3.62,1.34,3.32
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,Ramanathan R.,Vesely J.,134,90,423,645,7,5,6,1,,,,,,,2,0,Completed,2.37,1.53,2.45,1.6,2.37,1.57,2.49,1.6,2.55,1.61,2.43,1.57
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,Mcdonald M.,Lacko L.,80,77,714,730,5,7,6,0,5,0,,,,,1,1,Retired,1.66,2.1,1.8,2.1,1.73,2.1,1.76,2.16,1.83,2.16,1.76,2.08
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,Daniel T.,Ito T.,74,184,743,304,2,6,7,5,7,6,,,,,2,1,Completed,1.53,2.37,1.57,2.55,1.53,2.5,1.54,2.62,1.62,2.68,1.55,2.48
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,Murray A.,Zhang Zh.,311,340,155,135,6,3,6,7,4,2,,,,,1,1,Retired,1.08,8,1.1,8.25,1.08,8,1.13,7,1.16,8.5,1.1,6.98
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,De Minaur A.,Sugita Y.,40,100,1133,590,6,3,6,0,,,,,,,2,0,Completed,1.33,3.25,1.33,3.6,1.3,3.5,1.29,3.9,1.33,4,1.29,3.71
+57,Shenzhen ,Shenzhen Open,25/09/18,ATP250,Outdoor,Hard,1st Round,3,Verdasco F.,Jung J.,28,122,1375,456,6,3,6,2,,,,,,,2,0,Completed,1.33,3.25,1.45,2.95,1.36,3.25,1.35,3.47,1.41,3.47,1.35,3.23
+57,Shenzhen ,Shenzhen Open,26/09/18,ATP250,Outdoor,Hard,2nd Round,3,Ramos-Vinolas A.,Troicki V.,52,131,950,427,7,6,4,6,7,6,,,,,2,1,Completed,1.5,2.5,1.53,2.65,1.5,2.62,1.56,2.61,1.57,2.72,1.53,2.54
+57,Shenzhen ,Shenzhen Open,26/09/18,ATP250,Outdoor,Hard,2nd Round,3,Herbert P.H.,Tsitsipas S.,67,15,799,1962,6,3,7,6,,,,,,,2,0,Completed,2.5,1.5,2.6,1.55,2.5,1.53,2.66,1.54,2.7,1.63,2.49,1.55
+57,Shenzhen ,Shenzhen Open,26/09/18,ATP250,Outdoor,Hard,2nd Round,3,Nishioka Y.,Shapovalov D.,171,31,333,1295,7,6,3,6,7,5,,,,,2,1,Completed,2.62,1.44,2.65,1.53,2.62,1.5,2.76,1.51,2.78,1.57,2.61,1.51
+57,Shenzhen ,Shenzhen Open,26/09/18,ATP250,Outdoor,Hard,2nd Round,3,Norrie C.,Coric B.,73,18,758,1825,6,4,7,6,,,,,,,2,0,Completed,3,1.36,3.5,1.35,3,1.36,3.53,1.35,3.74,1.36,3.35,1.34
+57,Shenzhen ,Shenzhen Open,27/09/18,ATP250,Outdoor,Hard,2nd Round,3,Dzumhur D.,Ramanathan R.,39,134,1190,423,6,4,6,2,,,,,,,2,0,Completed,1.36,3,1.43,3,1.44,2.75,1.46,2.95,1.46,3.26,1.4,2.97
+57,Shenzhen ,Shenzhen Open,27/09/18,ATP250,Outdoor,Hard,2nd Round,3,De Minaur A.,Mcdonald M.,40,80,1133,714,1,6,7,6,6,0,,,,,2,1,Completed,1.28,3.5,1.32,3.7,1.3,3.4,1.33,3.69,1.36,3.8,1.31,3.5
+57,Shenzhen ,Shenzhen Open,27/09/18,ATP250,Outdoor,Hard,2nd Round,3,Murray A.,Goffin D.,311,11,155,3435,6,3,6,4,,,,,,,2,0,Completed,2.2,1.61,2.3,1.67,2.25,1.61,2.31,1.69,2.43,1.72,2.25,1.65
+57,Shenzhen ,Shenzhen Open,27/09/18,ATP250,Outdoor,Hard,2nd Round,3,Verdasco F.,Daniel T.,28,74,1375,743,3,6,6,2,7,5,,,,,2,1,Completed,1.28,3.5,1.32,3.7,1.3,3.5,1.33,3.7,1.35,3.72,1.31,3.48
+57,Shenzhen ,Shenzhen Open,28/09/18,ATP250,Outdoor,Hard,Quarterfinals,3,Herbert P.H.,Ramos-Vinolas A.,67,52,799,950,6,7,7,6,6,4,,,,,2,1,Completed,1.5,2.62,1.52,2.7,1.5,2.62,1.5,2.83,1.52,2.85,1.48,2.68
+57,Shenzhen ,Shenzhen Open,28/09/18,ATP250,Outdoor,Hard,Quarterfinals,3,De Minaur A.,Dzumhur D.,40,39,1133,1190,6,3,7,6,,,,,,,2,0,Completed,1.57,2.37,1.65,2.35,1.61,2.25,1.66,2.4,1.68,2.45,1.62,2.33
+57,Shenzhen ,Shenzhen Open,28/09/18,ATP250,Outdoor,Hard,Quarterfinals,3,Nishioka Y.,Norrie C.,171,73,333,758,7,6,6,2,,,,,,,2,0,Completed,2.1,1.72,2.2,1.73,2.2,1.67,2.26,1.73,2.26,1.81,2.09,1.76
+57,Shenzhen ,Shenzhen Open,28/09/18,ATP250,Outdoor,Hard,Quarterfinals,3,Verdasco F.,Murray A.,28,311,1375,155,6,4,6,4,,,,,,,2,0,Completed,2.62,1.5,2.6,1.55,2.5,1.53,2.65,1.56,2.74,1.59,2.55,1.53
+57,Shenzhen ,Shenzhen Open,29/09/18,ATP250,Outdoor,Hard,Semifinals,3,Herbert P.H.,De Minaur A.,67,40,799,1133,7,5,2,6,7,6,,,,,2,1,Completed,2.75,1.44,2.7,1.52,2.62,1.5,2.79,1.51,2.9,1.51,2.75,1.46
+57,Shenzhen ,Shenzhen Open,29/09/18,ATP250,Outdoor,Hard,Semifinals,3,Nishioka Y.,Verdasco F.,171,28,333,1375,1,6,6,3,7,6,,,,,2,1,Completed,2.5,1.53,2.55,1.57,2.37,1.57,2.68,1.55,2.68,1.63,2.47,1.55
+57,Shenzhen ,Shenzhen Open,30/09/18,ATP250,Outdoor,Hard,The Final,3,Nishioka Y.,Herbert P.H.,171,67,333,799,7,5,2,6,6,4,,,,,2,1,Completed,1.72,2.1,1.77,2.15,1.73,2.1,1.86,2.07,1.88,2.15,1.79,2.05

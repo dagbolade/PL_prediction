@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+14,Marseille,Open 13,18/02/2019,ATP250,Indoor,Hard,1st Round,3,Hurkacz H.,Krajinovic F.,78,77,710,710,6,3,6,2,,,,,,,2,0,Completed,2.75,1.4,2.76,1.5,3.19,1.51,2.8,1.44
+14,Marseille,Open 13,18/02/2019,ATP250,Indoor,Hard,1st Round,3,Simon G.,Hoang A.,32,139,1280,413,5,7,6,3,6,3,,,,,2,1,Completed,1.33,3.25,1.31,3.74,1.36,3.77,1.32,3.41
+14,Marseille,Open 13,18/02/2019,ATP250,Indoor,Hard,1st Round,3,Kukushkin M.,Kudla D.,50,61,945,770,6,3,6,3,,,,,,,2,0,Completed,1.5,2.5,1.48,2.85,1.51,2.98,1.48,2.67
+14,Marseille,Open 13,19/02/2019,ATP250,Indoor,Hard,1st Round,3,Gojowczyk P.,Dzumhur D.,60,49,770,950,6,2,6,4,,,,,,,2,0,Completed,2.1,1.66,2.1,1.81,2.38,1.83,2.09,1.74
+14,Marseille,Open 13,19/02/2019,ATP250,Indoor,Hard,1st Round,3,Stakhovsky S.,Lestienne C.,141,168,410,331,7,6,1,6,6,3,,,,,2,1,Completed,1.83,1.83,1.93,1.96,2.1,1.96,1.93,1.87
+14,Marseille,Open 13,19/02/2019,ATP250,Indoor,Hard,1st Round,3,Paire B.,Bolelli S.,59,136,795,415,6,4,7,6,,,,,,,2,0,Completed,1.44,2.62,1.47,2.85,1.53,2.94,1.48,2.67
+14,Marseille,Open 13,19/02/2019,ATP250,Indoor,Hard,1st Round,3,Verdasco F.,Gerasimov E.,26,161,1455,346,4,6,6,3,7,5,,,,,2,1,Completed,1.3,3.4,1.35,3.49,1.36,3.72,1.33,3.33
+14,Marseille,Open 13,19/02/2019,ATP250,Indoor,Hard,1st Round,3,Rublev A.,Tsonga J.W.,115,112,492,495,2,6,6,4,6,2,,,,,2,1,Completed,4,1.22,4.93,1.21,4.93,1.24,4.43,1.21
+14,Marseille,Open 13,19/02/2019,ATP250,Indoor,Hard,1st Round,3,Berrettini M.,Chardy J.,48,35,965,1180,7,6,7,6,,,,,,,2,0,Completed,2,1.72,1.93,1.96,2.06,2,1.9,1.91
+14,Marseille,Open 13,20/02/2019,ATP250,Indoor,Hard,1st Round,3,Bachinger M.,Darcis S.,143,283,407,148,4,6,6,3,6,4,,,,,2,1,Completed,1.83,1.83,1.9,1.99,2.06,2.05,1.86,1.94
+14,Marseille,Open 13,20/02/2019,ATP250,Indoor,Hard,1st Round,3,Barrere G.,Vesely J.,130,94,429,598,7,6,6,3,,,,,,,2,0,Completed,1.61,2.2,1.68,2.3,1.72,2.4,1.64,2.25
+14,Marseille,Open 13,20/02/2019,ATP250,Indoor,Hard,1st Round,3,Humbert U.,Gulbis E.,75,74,719,722,6,3,7,6,,,,,,,2,0,Completed,1.8,1.9,1.98,1.91,2.05,1.96,1.91,1.9
+14,Marseille,Open 13,20/02/2019,ATP250,Indoor,Hard,2nd Round,3,Kukushkin M.,Shapovalov D.,50,25,945,1530,6,4,7,6,,,,,,,2,0,Completed,3,1.36,2.86,1.48,3,1.49,2.84,1.43
+14,Marseille,Open 13,20/02/2019,ATP250,Indoor,Hard,2nd Round,3,Tsitsipas S.,Hurkacz H.,12,78,2805,710,6,4,6,2,,,,,,,2,0,Completed,1.3,3.4,1.35,3.52,1.37,3.63,1.32,3.36
+14,Marseille,Open 13,20/02/2019,ATP250,Indoor,Hard,2nd Round,3,Simon G.,Gojowczyk P.,32,60,1280,770,4,6,6,4,6,2,,,,,2,1,Completed,1.5,2.5,1.52,2.74,1.54,2.75,1.49,2.62
+14,Marseille,Open 13,21/02/2019,ATP250,Indoor,Hard,2nd Round,3,Rublev A.,Berrettini M.,115,48,492,965,6,3,7,6,,,,,,,2,0,Completed,2,1.72,2.12,1.81,2.17,1.83,2.09,1.75
+14,Marseille,Open 13,21/02/2019,ATP250,Indoor,Hard,2nd Round,3,Bachinger M.,Verdasco F.,143,26,407,1455,6,4,6,3,,,,,,,2,0,Completed,3.25,1.33,3.45,1.36,3.5,1.38,3.33,1.33
+14,Marseille,Open 13,21/02/2019,ATP250,Indoor,Hard,2nd Round,3,Humbert U.,Coric B.,75,13,719,2605,6,3,6,3,,,,,,,2,0,Completed,2.75,1.4,2.86,1.48,2.9,1.5,2.73,1.46
+14,Marseille,Open 13,21/02/2019,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Paire B.,24,59,1560,795,6,2,6,3,,,,,,,2,0,Completed,1.44,2.62,1.53,2.69,1.58,2.71,1.5,2.59
+14,Marseille,Open 13,21/02/2019,ATP250,Indoor,Hard,2nd Round,3,Stakhovsky S.,Barrere G.,141,130,410,429,6,3,6,4,,,,,,,2,0,Completed,2.2,1.61,2.33,1.68,2.35,1.69,2.25,1.64
+14,Marseille,Open 13,22/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Kukushkin M.,Rublev A.,50,115,945,492,6,4,6,1,,,,,,,2,0,Completed,2.1,1.72,2.19,1.78,2.19,1.82,2.06,1.77
+14,Marseille,Open 13,22/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Humbert U.,Bachinger M.,75,143,719,407,6,3,6,3,,,,,,,2,0,Completed,1.44,2.75,1.49,2.88,1.51,2.9,1.44,2.79
+14,Marseille,Open 13,22/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Tsitsipas S.,Stakhovsky S.,12,141,2805,410,6,4,6,3,,,,,,,2,0,Completed,1.14,5.5,1.18,5.92,1.2,5.92,1.16,5.25
+14,Marseille,Open 13,22/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Goffin D.,Simon G.,24,32,1560,1280,6,2,6,4,,,,,,,2,0,Completed,1.61,2.3,1.71,2.29,1.72,2.38,1.65,2.26
+14,Marseille,Open 13,23/02/2019,ATP250,Indoor,Hard,Semifinals,3,Kukushkin M.,Humbert U.,50,75,945,719,6,4,6,4,,,,,,,2,0,Completed,2.1,1.72,2.22,1.76,2.22,1.8,2.13,1.72
+14,Marseille,Open 13,23/02/2019,ATP250,Indoor,Hard,Semifinals,3,Tsitsipas S.,Goffin D.,12,24,2805,1560,7,6,6,2,,,,,,,2,0,Completed,1.8,2,1.94,1.98,1.94,2.1,1.86,1.95
+14,Marseille,Open 13,24/02/2019,ATP250,Indoor,Hard,The Final,3,Tsitsipas S.,Kukushkin M.,12,50,2805,945,7,5,7,6,,,,,,,2,0,Completed,1.3,3.5,1.34,3.64,1.34,4.1,1.3,3.6

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+18,Santiago,Chile Open,21/02/2022,ATP250,Indoor,Clay,1st Round,3,Londero J.I.,Etcheverry T.,139,120,484,565,4,6,6,4,7,5,,,,,2,1,Completed,1.57,2.37,1.65,2.36,1.65,2.66,1.57,2.37
+18,Santiago,Chile Open,21/02/2022,ATP250,Indoor,Clay,1st Round,3,Bagnis F.,Zapata Miralles B.,74,119,838,570,6,3,6,0,,,,,,,2,0,Completed,1.66,2.2,1.76,2.17,1.76,2.21,1.68,2.15
+18,Santiago,Chile Open,21/02/2022,ATP250,Indoor,Clay,1st Round,3,Seyboth Wild T.,Kicker N.,135,203,497,297,6,4,3,6,6,4,,,,,2,1,Completed,1.66,2.2,1.64,2.39,1.69,2.39,1.63,2.26
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Monteiro T.,Jarry N.,107,143,630,477,7,6,6,4,,,,,,,2,0,Completed,1.8,2,1.87,2.02,2.01,2.02,1.84,1.95
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Baez S.,Varillas J.P.,78,117,821,592,6,4,6,4,,,,,,,2,0,Completed,1.53,2.5,1.54,2.62,1.57,2.68,1.51,2.53
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Kecmanovic M.,Cecchinato M.,63,90,966,721,7,5,6,1,,,,,,,2,0,Completed,1.2,4.5,1.22,4.79,1.25,4.79,1.21,4.36
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Munar J.,Galan D.E.,93,104,712,639,6,1,6,3,,,,,,,2,0,Completed,1.72,2.1,1.69,2.28,1.77,2.38,1.68,2.17
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Taberner C.,Cerundolo J.M.,108,79,625,821,6,2,7,5,,,,,,,2,0,Completed,1.61,2.3,1.57,2.55,1.64,2.55,1.56,2.41
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Dellien H.,Lama G.,98,263,673,199,6,3,6,4,,,,,,,2,0,Completed,1.4,3,1.43,3.01,1.44,3.1,1.4,2.9
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Hanfmann Y.,Coria F.,115,62,600,981,3,6,6,2,6,4,,,,,2,1,Completed,2.2,1.66,1.97,1.92,2.32,1.92,2.06,1.75
+18,Santiago,Chile Open,22/02/2022,ATP250,Indoor,Clay,1st Round,3,Pucinelli de Almeida M.,Rune H.,264,88,199,750,6,4,6,4,,,,,,,2,0,Completed,3,1.4,3.06,1.42,3.44,1.43,2.94,1.4
+18,Santiago,Chile Open,23/02/2022,ATP250,Indoor,Clay,1st Round,3,Tabilo A.,Olivo R.,113,179,608,347,6,1,6,3,,,,,,,2,0,Completed,1.2,4.5,1.2,5.17,1.21,5.5,1.18,4.83
+18,Santiago,Chile Open,23/02/2022,ATP250,Indoor,Clay,2nd Round,3,Baez S.,Londero J.I.,78,139,821,484,6,3,6,3,,,,,,,2,0,Completed,1.4,3,1.51,2.77,1.51,3.02,1.42,2.83
+18,Santiago,Chile Open,23/02/2022,ATP250,Indoor,Clay,2nd Round,3,Bagnis F.,Dellien H.,74,98,838,673,6,2,6,2,,,,,,,2,0,Completed,1.72,2.1,1.73,2.24,1.75,2.25,1.7,2.14
+18,Santiago,Chile Open,23/02/2022,ATP250,Indoor,Clay,2nd Round,3,Monteiro T.,Delbonis F.,107,37,630,1382,3,6,6,4,6,1,,,,,2,1,Completed,2.1,1.72,2.07,1.85,2.16,1.85,2.03,1.77
+18,Santiago,Chile Open,24/02/2022,ATP250,Indoor,Clay,2nd Round,3,Ramos-Vinolas A.,Taberner C.,31,108,1529,625,6,2,7,6,,,,,,,2,0,Completed,1.44,2.75,1.52,2.72,1.52,2.88,1.46,2.7
+18,Santiago,Chile Open,24/02/2022,ATP250,Indoor,Clay,2nd Round,3,Martinez P.,Munar J.,72,93,867,712,6,4,5,7,7,5,,,,,2,1,Completed,2.3,1.61,2.23,1.74,2.38,1.74,2.26,1.62
+18,Santiago,Chile Open,24/02/2022,ATP250,Indoor,Clay,2nd Round,3,Hanfmann Y.,Seyboth Wild T.,115,135,600,497,6,1,6,3,,,,,,,2,0,Completed,1.44,2.75,1.42,3.1,1.48,3.1,1.43,2.79
+18,Santiago,Chile Open,24/02/2022,ATP250,Indoor,Clay,2nd Round,3,Kecmanovic M.,Pucinelli de Almeida M.,63,264,966,199,6,2,6,0,,,,,,,2,0,Completed,1.2,4.5,1.23,4.74,1.26,4.96,1.21,4.4
+18,Santiago,Chile Open,25/02/2022,ATP250,Indoor,Clay,2nd Round,3,Tabilo A.,Garin C.,113,27,608,1716,6,3,6,3,,,,,,,2,0,Completed,1.61,2.3,1.6,2.51,1.71,2.56,1.6,2.31
+18,Santiago,Chile Open,25/02/2022,ATP250,Indoor,Clay,Quarterfinals,3,Baez S.,Monteiro T.,78,107,821,630,7,5,3,6,6,4,,,,,2,1,Completed,1.57,2.37,1.63,2.42,1.64,2.44,1.59,2.34
+18,Santiago,Chile Open,25/02/2022,ATP250,Indoor,Clay,Quarterfinals,3,Ramos-Vinolas A.,Bagnis F.,31,74,1529,838,7,5,6,2,,,,,,,2,0,Completed,1.61,2.3,1.6,2.5,1.62,2.55,1.55,2.42
+18,Santiago,Chile Open,25/02/2022,ATP250,Indoor,Clay,Quarterfinals,3,Martinez P.,Hanfmann Y.,72,115,867,600,6,2,6,2,,,,,,,2,0,Completed,1.72,2.1,1.93,1.97,1.93,2.19,1.76,2.06
+18,Santiago,Chile Open,26/02/2022,ATP250,Indoor,Clay,Quarterfinals,3,Tabilo A.,Kecmanovic M.,113,63,608,966,6,1,6,4,,,,,,,2,0,Completed,1.8,2,1.8,2.13,1.88,2.13,1.79,2.02
+18,Santiago,Chile Open,26/02/2022,ATP250,Indoor,Clay,Semifinals,3,Baez S.,Ramos-Vinolas A.,78,31,821,1529,6,4,4,6,6,2,,,,,2,1,Completed,2,1.8,1.99,1.92,2.1,2,2.01,1.8
+18,Santiago,Chile Open,26/02/2022,ATP250,Indoor,Clay,Semifinals,3,Martinez P.,Tabilo A.,72,113,867,608,5,7,6,4,6,4,,,,,2,1,Completed,2.3,1.61,2.37,1.66,2.45,1.71,2.27,1.63
+18,Santiago,Chile Open,27/02/2022,ATP250,Indoor,Clay,The Final,3,Martinez P.,Baez S.,72,78,867,821,4,6,6,4,6,4,,,,,2,1,Completed,2.2,1.66,2.3,1.69,2.42,1.72,2.19,1.67
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

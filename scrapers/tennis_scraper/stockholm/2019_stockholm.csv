@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+62,Stockholm,Stockholm Open,14/10/2019,ATP250,Indoor,Hard,1st Round,3,Travaglia S.,Opelka R.,83,37,645,1203,7,5,4,6,6,4,,,,,2,1,Completed,3.25,1.33,3.24,1.39,3.66,1.39,3.23,1.34
+62,Stockholm,Stockholm Open,14/10/2019,ATP250,Indoor,Hard,1st Round,3,Evans D.,Tomic B.,43,184,1120,273,6,4,1,6,6,3,,,,,2,1,Completed,1.25,3.75,1.21,4.9,1.27,5.36,1.21,4.39
+62,Stockholm,Stockholm Open,14/10/2019,ATP250,Indoor,Hard,1st Round,3,Tipsarevic J.,Moutet C.,251,94,180,585,6,2,6,4,,,,,,,2,0,Completed,2.75,1.4,3,1.44,3.26,1.45,2.86,1.41
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Nishioka Y.,Albot R.,74,46,780,1057,3,6,6,4,6,1,,,,,2,1,Completed,2,1.72,2.18,1.75,2.2,1.8,2.09,1.74
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Carreno Busta P.,Millman J.,35,52,1252,1016,6,4,6,3,,,,,,,2,0,Completed,1.57,2.25,1.68,2.3,1.72,2.55,1.65,2.23
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Mager G.,Andujar P.,124,63,455,955,5,7,6,1,6,1,,,,,2,1,Completed,,,,,2.42,1.57,2.42,1.57
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Querrey S.,Novak D.,50,126,1020,442,7,6,6,4,,,,,,,2,0,Completed,1.5,2.5,1.54,2.63,1.57,2.65,1.52,2.51
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Stebe C.M.,Schnur B.,213,97,230,571,6,2,3,6,6,1,,,,,2,1,Completed,1.33,3.25,1.38,3.27,1.4,3.5,1.35,3.19
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Sugita Y.,Ymer E.,129,123,429,455,7,6,6,2,,,,,,,2,0,Completed,1.72,2,1.83,2.07,1.87,2.15,1.75,2.06
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Popyrin A.,Otte O.,90,155,610,340,7,6,7,6,,,,,,,2,0,Completed,1.4,2.75,1.38,3.29,1.46,3.35,1.4,2.94
+62,Stockholm,Stockholm Open,15/10/2019,ATP250,Indoor,Hard,1st Round,3,Krajinovic F.,Ruud C.,60,59,963,967,6,3,7,5,,,,,,,2,0,Completed,1.4,2.75,1.57,2.55,1.65,2.86,1.48,2.63
+62,Stockholm,Stockholm Open,16/10/2019,ATP250,Indoor,Hard,1st Round,3,Ymer M.,Sousa J.,75,64,753,941,7,5,6,4,,,,,,,2,0,Completed,1.53,2.37,1.54,2.64,1.65,2.7,1.54,2.45
+62,Stockholm,Stockholm Open,16/10/2019,ATP250,Indoor,Hard,2nd Round,3,Nishioka Y.,Fritz T.,74,29,780,1360,7,5,6,4,,,,,,,2,0,Completed,2.2,1.61,2.31,1.69,2.35,1.71,2.25,1.63
+62,Stockholm,Stockholm Open,16/10/2019,ATP250,Indoor,Hard,2nd Round,3,Querrey S.,Dimitrov G.,50,27,1020,1432,6,7,6,3,7,6,,,,,2,1,Completed,2.37,1.53,2.68,1.54,2.8,1.6,2.49,1.53
+62,Stockholm,Stockholm Open,16/10/2019,ATP250,Indoor,Hard,2nd Round,3,Krajinovic F.,Evans D.,60,43,963,1120,7,5,2,6,6,3,,,,,2,1,Completed,1.72,2,1.98,1.93,2.02,2.28,1.79,2.01
+62,Stockholm,Stockholm Open,17/10/2019,ATP250,Indoor,Hard,2nd Round,3,Carreno Busta P.,Mager G.,35,124,1252,455,6,3,7,6,,,,,,,2,0,Completed,1.12,6,1.13,7.1,1.14,7.5,1.11,6.51
+62,Stockholm,Stockholm Open,17/10/2019,ATP250,Indoor,Hard,2nd Round,3,Sugita Y.,Travaglia S.,129,83,429,645,7,6,6,4,,,,,,,2,0,Completed,2.1,1.66,2.08,1.83,2.2,1.83,2.05,1.76
+62,Stockholm,Stockholm Open,17/10/2019,ATP250,Indoor,Hard,2nd Round,3,Tipsarevic J.,Fognini F.,251,12,180,2415,6,1,6,1,,,,,,,2,0,Completed,3.75,1.25,3.92,1.3,4,1.32,3.76,1.27
+62,Stockholm,Stockholm Open,17/10/2019,ATP250,Indoor,Hard,2nd Round,3,Shapovalov D.,Popyrin A.,34,90,1255,610,6,4,7,6,,,,,,,2,0,Completed,1.4,2.75,1.44,3.02,1.45,3.1,1.4,2.9
+62,Stockholm,Stockholm Open,17/10/2019,ATP250,Indoor,Hard,2nd Round,3,Stebe C.M.,Ymer M.,213,75,230,753,6,0,7,6,,,,,,,2,0,Completed,3.4,1.3,4.04,1.29,4.1,1.32,3.72,1.27
+62,Stockholm,Stockholm Open,18/10/2019,ATP250,Indoor,Hard,Quarterfinals,3,Krajinovic F.,Nishioka Y.,60,74,963,780,6,3,6,4,,,,,,,2,0,Completed,1.61,2.3,1.61,2.51,1.69,2.51,1.62,2.28
+62,Stockholm,Stockholm Open,18/10/2019,ATP250,Indoor,Hard,Quarterfinals,3,Carreno Busta P.,Querrey S.,35,50,1252,1020,4,6,6,1,6,4,,,,,2,1,Completed,1.72,2.1,1.76,2.21,1.8,2.21,1.75,2.07
+62,Stockholm,Stockholm Open,18/10/2019,ATP250,Indoor,Hard,Quarterfinals,3,Shapovalov D.,Stebe C.M.,34,213,1255,230,6,0,6,3,,,,,,,2,0,Completed,1.22,4.33,1.24,4.68,1.3,4.68,1.23,4.21
+62,Stockholm,Stockholm Open,18/10/2019,ATP250,Indoor,Hard,Quarterfinals,3,Sugita Y.,Tipsarevic J.,129,251,429,180,6,2,4,6,7,6,,,,,2,1,Completed,1.9,1.9,1.97,1.95,2.05,1.95,1.95,1.85
+62,Stockholm,Stockholm Open,19/10/2019,ATP250,Indoor,Hard,Semifinals,3,Krajinovic F.,Carreno Busta P.,60,35,963,1252,4,6,6,3,6,3,,,,,2,1,Completed,2.2,1.66,2.23,1.75,2.4,1.77,2.22,1.66
+62,Stockholm,Stockholm Open,19/10/2019,ATP250,Indoor,Hard,Semifinals,3,Shapovalov D.,Sugita Y.,34,129,1255,429,7,5,6,2,,,,,,,2,0,Completed,1.12,6,1.1,9.35,1.17,9.5,1.11,7.01
+62,Stockholm,Stockholm Open,20/10/2019,ATP250,Indoor,Hard,The Final,3,Shapovalov D.,Krajinovic F.,34,60,1255,963,6,4,6,4,,,,,,,2,0,Completed,1.53,2.5,1.58,2.57,1.59,2.63,1.53,2.49

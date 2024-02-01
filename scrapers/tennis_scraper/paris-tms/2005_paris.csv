@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,IWW,IWL,PSW,PSL
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Rusedski G.,Seppi A.,38,71,828,548,6,3,6,4,,,,,,,2,0,Completed,,,1.33,3.2,1.3,3.35,1.3,2.9,1.356,3.61
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Vliegen K.,Rochus C.,107,46,399,755,3,6,7,6,6,2,,,,,2,1,Completed,,,1.55,2.4,1.6,2.3,1.6,2,1.599,2.57
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Lopez F.,Malisse X.,33,44,1000,769,4,6,7,6,6,4,,,,,2,1,Completed,1.61,2.2,1.67,2.15,1.75,2.05,1.5,2.2,1.654,2.43
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Berdych T.,Novak J.,50,49,725,725,7,5,6,3,,,,,,,2,0,Completed,1.16,4.5,,,,,1.2,3.6,1.173,6.18
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Wawrinka S.,Serra F.,58,51,636,715,6,3,6,4,,,,,,,2,0,Completed,,,1.88,1.88,1.87,1.87,1.7,1.9,1.926,1.98
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Djokovic N.,Hanescu V.,85,37,488,853,4,1,,,,,,,,,0,0,Retired,,,1.9,1.85,1.87,1.87,1.9,1.7,1.971,1.935
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Haas T.,Pavel A.,47,54,755,685,7,6,6,4,,,,,,,2,0,Completed,1.39,2.75,1.37,3,1.37,2.92,1.4,2.5,1.413,3.22
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Tursunov D.,Spadea V.,75,68,515,585,6,1,6,2,,,,,,,2,0,Completed,,,1.6,2.3,1.5,2.45,1.5,2.2,1.654,2.43
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Mathieu P.H.,Sanguinetti D.,56,42,668,789,5,7,7,6,6,4,,,,,2,1,Completed,2,1.72,1.93,1.83,2.1,1.7,1.9,1.7,2.03,1.885
+66,Paris,BNP Paribas,31/10/05,Masters,Indoor,Carpet,1st Round,3,Blake J.,Rochus O.,24,25,1200,1160,6,4,6,3,,,,,,,2,0,Completed,1.39,2.75,1.45,2.7,1.45,2.6,1.4,2.5,1.472,2.92
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,1st Round,3,Verdasco F.,Lapentti N.,35,84,905,493,6,7,7,5,7,5,,,,,2,1,Completed,1.3,3.39,1.33,3.2,1.3,3.35,1.3,2.9,1.305,3.98
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,1st Round,3,Lisnard J.R.,Mahut N.,123,141,365,297,6,3,1,6,7,6,,,,,2,1,Completed,2.2,1.61,2.45,1.53,,,2.1,1.55,2.73,1.546
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,1st Round,3,Clement A.,Kiefer N.,74,23,528,1245,6,4,1,6,7,6,,,,,2,1,Completed,3.5,1.28,2.85,1.4,3.1,1.35,2.5,1.4,3.21,1.415
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,1st Round,3,Dent T.,Grosjean S.,34,26,995,1130,6,4,7,6,,,,,,,2,0,Completed,3.25,1.33,3.2,1.33,3.1,1.35,2.7,1.35,3.53,1.366
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,1st Round,3,Mirnyi M.,Massu N.,28,59,1110,635,6,2,6,3,,,,,,,2,0,Completed,1.3,3.39,1.3,3.4,1.3,3.35,1.3,2.9,1.356,3.61
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,1st Round,3,Santoro F.,Nieminen J.,69,30,580,1029,6,7,7,6,6,3,,,,,2,1,Completed,1.53,2.37,1.6,2.3,1.55,2.35,1.65,1.95,1.538,2.76
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,2nd Round,3,Davydenko N.,Rusedski G.,8,38,2000,828,6,2,6,2,,,,,,,2,0,Completed,1.61,2.2,1.7,2.1,1.67,2.12,1.75,1.85,1.752,2.23
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,2nd Round,3,Berdych T.,Coria G.,50,7,725,2185,6,4,6,2,,,,,,,2,0,Completed,2.25,1.57,2.15,1.67,2.1,1.7,2.2,1.5,2.38,1.676
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,2nd Round,3,Djokovic N.,Puerta M.,85,9,488,1834,6,3,7,6,,,,,,,2,0,Completed,1.61,2.2,1.7,2.1,1.56,2.34,1.65,1.95,1.69,2.35
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,2nd Round,3,Tursunov D.,Ancic M.,75,22,515,1360,5,7,6,4,7,6,,,,,2,1,Completed,2.37,1.53,2.3,1.6,2.15,1.65,2,1.6,2.52,1.617
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,2nd Round,3,Ljubicic I.,Blake J.,10,24,1765,1200,6,3,6,4,,,,,,,2,0,Completed,1.53,2.37,1.62,2.3,1.55,2.35,1.6,2,1.654,2.43
+66,Paris,BNP Paribas,01/11/05,Masters,Indoor,Carpet,2nd Round,3,Stepanek R.,Lopez F.,14,33,1580,1000,7,5,6,2,,,,,,,2,0,Completed,1.5,2.5,1.42,2.8,1.5,2.45,1.5,2.2,1.437,3.09
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Hrbaty D.,Lisnard J.R.,20,123,1396,365,6,3,6,3,,,,,,,2,0,Completed,1.16,4.5,1.16,5,1.17,4.67,1.2,3.6,1.227,5
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Ginepri R.,Verdasco F.,18,35,1460,905,6,3,6,7,6,3,,,,,2,1,Completed,1.53,2.37,1.55,2.4,1.6,2.3,1.55,2.1,1.588,2.6
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Johansson T.,Vliegen K.,15,107,1575,399,6,3,6,2,,,,,,,2,0,Completed,1.16,4.5,1.16,5,1.2,4.25,1.2,3.6,1.208,5.4
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Robredo T.,Clement A.,21,74,1370,528,7,5,6,2,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,1.45,2.6,1.45,2.35,1.465,2.95
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Gaudio G.,Santoro F.,11,69,1730,580,6,4,7,5,,,,,,,2,0,Completed,2.2,1.61,2.2,1.65,2.25,1.6,1.95,1.65,2.15,1.8
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Ferrer D.,Mirnyi M.,17,28,1500,1110,6,4,6,4,,,,,,,2,0,Completed,3,1.36,2.85,1.4,2.85,1.4,2.5,1.4,3.2,1.417
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Ferrero J.C.,Wawrinka S.,19,58,1425,636,7,6,7,6,,,,,,,2,0,Completed,1.25,3.75,1.3,3.4,1.32,3.22,1.25,3.2,1.329,3.74
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Roddick A.,Dent T.,3,34,3235,995,6,4,6,7,7,5,,,,,2,1,Completed,1.14,5,1.18,4.65,1.2,4.25,1.2,3.6,1.231,4.92
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Mathieu P.H.,Gonzalez F.,56,13,668,1690,6,3,3,6,7,6,,,,,2,1,Completed,4.33,1.19,3.4,1.3,3.9,1.25,2.9,1.3,4.31,1.274
+66,Paris,BNP Paribas,02/11/05,Masters,Indoor,Carpet,2nd Round,3,Haas T.,Nalbandian D.,47,12,755,1715,6,4,6,3,,,,,,,2,0,Completed,3.5,1.28,3.4,1.3,3.46,1.28,2.7,1.35,4,1.303
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Davydenko N.,Tursunov D.,8,75,2000,515,3,6,6,2,6,3,,,,,2,1,Completed,1.28,3.5,1.3,3.5,1.32,3.22,1.3,2.9,1.351,3.65
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Berdych T.,Ferrero J.C.,50,19,725,1425,7,5,6,7,6,4,,,,,2,1,Completed,1.83,1.83,1.81,2,1.95,1.8,1.85,1.75,1.847,2.08
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Robredo T.,Djokovic N.,21,85,1370,488,6,4,6,3,,,,,,,2,0,Completed,1.53,2.37,1.57,2.4,1.5,2.45,1.5,2.2,1.621,2.51
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Ferrer D.,Haas T.,17,47,1500,755,6,2,6,7,6,3,,,,,2,1,Completed,2.37,1.53,2.5,1.53,2.35,1.55,2.1,1.55,2.5,1.625
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Ljubicic I.,Johansson T.,10,15,1765,1575,6,3,7,6,,,,,,,2,0,Completed,1.36,3,1.4,2.95,1.45,2.6,1.45,2.35,1.435,3.1
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Stepanek R.,Mathieu P.H.,14,56,1580,668,7,5,6,4,,,,,,,2,0,Completed,1.39,2.75,1.57,2.4,1.55,2.35,1.4,2.5,1.5,2.8
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Roddick A.,Hrbaty D.,3,20,3235,1396,6,1,6,2,,,,,,,2,0,Completed,1.14,5,1.15,5.5,1.2,4.25,1.2,3.6,1.167,6.4
+66,Paris,BNP Paribas,03/11/05,Masters,Indoor,Carpet,3rd Round,3,Gaudio G.,Ginepri R.,11,18,1730,1460,6,4,6,1,,,,,,,2,0,Completed,3.39,1.3,3.5,1.3,3.2,1.3,2.7,1.35,3.8,1.323
+66,Paris,BNP Paribas,04/11/05,Masters,Indoor,Carpet,Quarterfinals,3,Ljubicic I.,Robredo T.,10,21,1765,1370,7,6,3,6,6,1,,,,,2,1,Completed,1.14,5,1.14,5.65,1.17,4.67,1.15,4,1.192,5.61
+66,Paris,BNP Paribas,04/11/05,Masters,Indoor,Carpet,Quarterfinals,3,Stepanek R.,Davydenko N.,14,8,1580,2000,7,5,6,4,,,,,,,2,0,Completed,1.66,2.1,1.73,2.1,1.53,2.4,1.7,1.9,1.69,2.35
+66,Paris,BNP Paribas,04/11/05,Masters,Indoor,Carpet,Quarterfinals,3,Roddick A.,Ferrer D.,3,17,3235,1500,2,6,6,3,7,6,,,,,2,1,Completed,1.07,7.5,1.09,7.5,1.1,6.75,1.1,5,1.1,9
+66,Paris,BNP Paribas,04/11/05,Masters,Indoor,Carpet,Quarterfinals,3,Berdych T.,Gaudio G.,50,11,725,1730,7,5,6,0,,,,,,,2,0,Completed,1.53,2.37,1.57,2.4,1.53,2.4,1.55,2.1,1.641,2.46
+66,Paris,BNP Paribas,05/11/05,Masters,Indoor,Carpet,Semifinals,3,Ljubicic I.,Roddick A.,10,3,1765,3235,6,3,7,5,,,,,,,2,0,Completed,1.57,2.25,1.62,2.3,1.65,2.15,1.55,2.1,1.633,2.48
+66,Paris,BNP Paribas,05/11/05,Masters,Indoor,Carpet,Semifinals,3,Berdych T.,Stepanek R.,50,14,725,1580,6,1,3,6,6,3,,,,,2,1,Completed,2.2,1.61,2.15,1.7,2.1,1.7,1.95,1.65,2.38,1.676
+66,Paris,BNP Paribas,06/11/05,Masters,Indoor,Carpet,The Final,5,Berdych T.,Ljubicic I.,50,10,725,1765,6,3,6,4,3,6,4,6,6,4,3,2,Completed,3.5,1.28,4,1.25,3.8,1.3,2.9,1.3,4.24,1.282

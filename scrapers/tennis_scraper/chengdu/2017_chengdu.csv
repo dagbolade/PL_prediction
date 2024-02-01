@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+56,Chengdu,Chengdu Open,25/09/17,ATP250,Outdoor,Hard,1st Round,3,Donaldson J.,Tsitsipas S.,58,117,858,487,6,7,7,5,7,5,,,,,2,1,Completed,1.61,2.2,1.65,2.1,1.73,2.1,1.78,2.15,1.82,2.21,1.71,2.11
+56,Chengdu,Chengdu Open,25/09/17,ATP250,Outdoor,Hard,1st Round,3,Sugita Y.,Pavic M.,43,N/A,1045,N/A,6,1,,,,,,,,,1,0,Retired,1.12,6,1.14,5,1.17,5,1.15,6.3,1.17,6.5,1.14,5.66
+56,Chengdu,Chengdu Open,25/09/17,ATP250,Outdoor,Hard,1st Round,3,Fritz T.,Wu D.,94,220,554,234,7,5,6,1,,,,,,,2,0,Completed,1.14,5.5,1.14,5,1.2,4.5,1.17,5.85,1.2,6.05,1.15,5.39
+56,Chengdu,Chengdu Open,25/09/17,ATP250,Outdoor,Hard,1st Round,3,Monteiro T.,Wu Y.,126,321,457,149,1,6,7,6,6,2,,,,,2,1,Completed,2.1,1.66,2,1.72,2.1,1.73,2.07,1.83,2.2,1.83,2.09,1.73
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Lu Y.H.,Ymer M.,63,328,799,146,6,2,6,3,,,,,,,2,0,Completed,1.16,5,1.16,4.6,1.2,4.5,1.2,5.03,1.2,5.34,1.18,4.85
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Lajovic D.,Menendez-Maceiras A.,84,133,627,431,6,3,7,6,,,,,,,2,0,Completed,1.4,2.75,1.45,2.55,1.53,2.5,1.54,2.63,1.54,2.8,1.49,2.6
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Istomin D.,Struff J.L.,78,47,671,968,6,3,7,6,,,,,,,2,0,Completed,2.37,1.53,2.3,1.55,2.37,1.57,2.42,1.63,2.5,1.67,2.34,1.59
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Edmund K.,Tomic B.,46,146,992,390,6,4,6,2,,,,,,,2,0,Completed,1.36,3,1.35,2.95,1.36,3.25,1.44,3,1.44,3.25,1.38,3.01
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Baghdatis M.,Pospisil V.,113,85,495,627,6,7,7,6,6,4,,,,,2,1,Completed,1.44,2.62,1.45,2.55,1.44,2.75,1.54,2.62,1.56,2.9,1.47,2.64
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Basilashvili N.,Troicki V.,59,48,852,965,6,3,2,6,6,2,,,,,2,1,Completed,2.2,1.61,2.1,1.65,2.1,1.73,2.2,1.74,2.25,1.75,2.14,1.71
+56,Chengdu,Chengdu Open,26/09/17,ATP250,Outdoor,Hard,1st Round,3,Pella G.,Coric B.,72,55,712,876,6,4,7,6,,,,,,,2,0,Completed,2.25,1.57,2.3,1.55,2.25,1.61,2.44,1.61,2.58,1.67,2.34,1.59
+56,Chengdu,Chengdu Open,27/09/17,ATP250,Outdoor,Hard,1st Round,3,Gojowczyk P.,Mayer L.,66,54,774,899,6,2,6,2,,,,,,,2,0,Completed,2.62,1.44,2.4,1.5,2.5,1.53,2.52,1.58,2.62,1.62,2.47,1.54
+56,Chengdu,Chengdu Open,27/09/17,ATP250,Outdoor,Hard,2nd Round,3,Sugita Y.,Monteiro T.,43,126,1045,457,6,4,6,1,,,,,,,2,0,Completed,1.22,4,1.22,3.85,1.25,4,1.27,4.2,1.29,4.3,1.25,3.92
+56,Chengdu,Chengdu Open,27/09/17,ATP250,Outdoor,Hard,2nd Round,3,Lajovic D.,Ramos-Vinolas A.,84,25,627,1815,6,2,6,3,,,,,,,2,0,Completed,2.2,1.61,2,1.72,2.1,1.73,2.13,1.8,2.2,1.8,2.1,1.73
+56,Chengdu,Chengdu Open,27/09/17,ATP250,Outdoor,Hard,2nd Round,3,Istomin D.,Khachanov K.,78,32,671,1330,6,3,6,2,,,,,,,2,0,Completed,2.62,1.44,2.4,1.5,2.37,1.57,2.66,1.54,2.7,1.61,2.51,1.52
+56,Chengdu,Chengdu Open,27/09/17,ATP250,Outdoor,Hard,2nd Round,3,Donaldson J.,Edmund K.,58,46,858,992,6,0,1,6,6,4,,,,,2,1,Completed,2.5,1.5,2.4,1.5,2.37,1.57,2.58,1.57,2.6,1.57,2.47,1.54
+56,Chengdu,Chengdu Open,28/09/17,ATP250,Outdoor,Hard,2nd Round,3,Lu Y.H.,Rublev A.,63,37,799,1221,6,2,6,1,,,,,,,2,0,Completed,2,1.72,2,1.72,2,1.8,2.17,1.78,2.2,1.8,2.08,1.73
+56,Chengdu,Chengdu Open,28/09/17,ATP250,Outdoor,Hard,2nd Round,3,Baghdatis M.,Gojowczyk P.,113,66,495,774,5,7,6,3,6,2,,,,,2,1,Completed,2,1.72,2,1.72,2,1.8,2.13,1.8,2.15,1.85,2.06,1.76
+56,Chengdu,Chengdu Open,28/09/17,ATP250,Outdoor,Hard,2nd Round,3,Fritz T.,Basilashvili N.,94,59,554,852,6,3,3,6,6,1,,,,,2,1,Completed,1.53,2.37,1.55,2.3,1.57,2.37,1.65,2.38,1.68,2.4,1.61,2.31
+56,Chengdu,Chengdu Open,28/09/17,ATP250,Outdoor,Hard,2nd Round,3,Pella G.,Thiem D.,72,7,712,3925,7,6,6,4,,,,,,,2,0,Completed,3.75,1.25,3.45,1.27,3.75,1.28,3.65,1.33,3.75,1.33,3.57,1.29
+56,Chengdu,Chengdu Open,29/09/17,ATP250,Outdoor,Hard,Quarterfinals,3,Sugita Y.,Lajovic D.,43,84,1045,627,6,2,6,4,,,,,,,2,0,Completed,1.66,2.2,1.65,2.1,1.73,2.1,1.78,2.19,1.78,2.25,1.7,2.14
+56,Chengdu,Chengdu Open,29/09/17,ATP250,Outdoor,Hard,Quarterfinals,3,Istomin D.,Donaldson J.,78,58,671,858,2,6,7,5,7,6,,,,,2,1,Completed,2.3,1.61,2.2,1.6,2.25,1.61,2.33,1.69,2.4,1.69,2.27,1.63
+56,Chengdu,Chengdu Open,29/09/17,ATP250,Outdoor,Hard,Quarterfinals,3,Pella G.,Fritz T.,72,94,712,554,6,3,7,6,,,,,,,2,0,Completed,2.1,1.72,2,1.72,2.1,1.73,2.1,1.84,2.15,1.85,2.06,1.77
+56,Chengdu,Chengdu Open,30/09/17,ATP250,Outdoor,Hard,Quarterfinals,3,Baghdatis M.,Lu Y.H.,113,63,495,799,6,3,6,2,,,,,,,2,0,Completed,2.2,1.66,2.2,1.6,2.2,1.67,2.32,1.7,2.32,1.73,2.19,1.67
+56,Chengdu,Chengdu Open,30/09/17,ATP250,Outdoor,Hard,Semifinals,3,Istomin D.,Sugita Y.,78,43,671,1045,6,2,6,7,6,0,,,,,2,1,Completed,2.3,1.61,2.2,1.6,2.37,1.57,2.41,1.65,2.41,1.67,2.31,1.61
+56,Chengdu,Chengdu Open,30/09/17,ATP250,Outdoor,Hard,Semifinals,3,Baghdatis M.,Pella G.,113,72,495,712,5,7,6,4,6,2,,,,,2,1,Completed,2.2,1.66,2.1,1.65,2.2,1.67,2.23,1.75,2.25,1.77,2.17,1.69
+56,Chengdu,Chengdu Open,01/10/17,ATP250,Outdoor,Hard,The Final,3,Istomin D.,Baghdatis M.,78,113,671,495,3,2,,,,,,,,,0,0,Retired,1.9,1.9,1.85,1.85,2,1.8,2.04,1.88,2.05,1.92,1.93,1.88

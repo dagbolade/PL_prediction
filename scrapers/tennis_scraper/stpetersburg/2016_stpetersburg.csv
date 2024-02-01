@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+54,St. Petersburg,St. Petersburg Open,19/09/16,ATP250,Indoor,Hard,1st Round,3,Berankis R.,Mannarino A.,83,62,665,791,7,6,3,6,6,3,,,,,2,1,Completed,2.25,1.57,2.05,1.62,2.38,1.57,2.27,1.7,2.38,1.71,2.23,1.63
+54,St. Petersburg,St. Petersburg Open,19/09/16,ATP250,Indoor,Hard,1st Round,3,Rosol L.,Schwartzman D.,85,63,655,781,6,4,6,4,,,,,,,2,0,Completed,1.44,2.62,1.45,2.4,1.5,2.62,1.51,2.73,1.53,2.75,1.48,2.59
+54,St. Petersburg,St. Petersburg Open,19/09/16,ATP250,Indoor,Hard,1st Round,3,Zverev A.,Khachanov K.,27,102,1425,599,7,6,6,4,,,,,,,2,0,Completed,1.5,2.5,1.52,2.25,1.53,2.5,1.59,2.5,1.62,2.6,1.55,2.41
+54,St. Petersburg,St. Petersburg Open,20/09/16,ATP250,Indoor,Hard,1st Round,3,Sidorenko A.,Ramos-Vinolas A.,255,32,205,1340,7,5,6,2,,,,,,,2,0,Completed,3.4,1.3,3,1.3,3.4,1.33,3.27,1.38,3.45,1.38,3.23,1.33
+54,St. Petersburg,St. Petersburg Open,20/09/16,ATP250,Indoor,Hard,1st Round,3,Lorenzi P.,Zverev M.,35,117,1190,530,3,6,7,6,6,0,,,,,2,1,Completed,2.75,1.4,2.35,1.45,2.62,1.5,2.71,1.52,2.75,1.54,2.62,1.47
+54,St. Petersburg,St. Petersburg Open,20/09/16,ATP250,Indoor,Hard,1st Round,3,Medvedev D.,Bublik A.,144,323,413,148,6,4,6,0,,,,,,,2,0,Completed,1.18,4.5,1.2,3.75,1.2,4.5,1.22,4.74,1.23,4.75,1.2,4.36
+54,St. Petersburg,St. Petersburg Open,20/09/16,ATP250,Indoor,Hard,1st Round,3,Lajovic D.,Verdasco F.,73,47,716,975,2,6,6,3,6,2,,,,,2,1,Completed,2.75,1.4,2.75,1.35,2.75,1.44,3.09,1.42,3.15,1.44,2.88,1.4
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,1st Round,3,Rublev A.,Kukushkin M.,201,79,284,679,6,3,4,1,,,,,,,1,0,Retired,2.25,1.57,2.25,1.52,2.25,1.62,2.53,1.58,2.53,1.63,2.36,1.57
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,1st Round,3,Sousa J.,Albot R.,34,101,1295,606,3,6,6,4,7,5,,,,,2,1,Completed,1.44,2.62,1.5,2.3,1.53,2.5,1.56,2.59,1.56,2.75,1.48,2.59
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,1st Round,3,Youzhny M.,Tipsarevic J.,53,227,846,243,6,3,7,5,,,,,,,2,0,Completed,1.8,1.9,1.7,1.95,1.8,2,2.01,1.88,2.01,2,1.85,1.92
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,1st Round,3,Troicki V.,Elias G.,33,61,1295,801,6,1,6,2,,,,,,,2,0,Completed,1.22,4,1.22,3.5,1.25,4,1.26,4.3,1.29,4.3,1.24,3.93
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,1st Round,3,Kuznetsov An.,Donskoy E.,46,90,975,631,6,3,7,5,,,,,,,2,0,Completed,1.4,2.75,1.4,2.5,1.44,2.75,1.43,3.05,1.45,3.05,1.41,2.81
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Rosol L.,3,85,6260,655,6,3,6,1,,,,,,,2,0,Completed,1.25,3.75,1.15,4.3,1.2,4.5,1.3,3.89,1.3,4.5,1.25,3.87
+54,St. Petersburg,St. Petersburg Open,21/09/16,ATP250,Indoor,Hard,2nd Round,3,Bautista Agut R.,Berankis R.,16,83,1950,665,4,6,6,1,7,6,,,,,2,1,Completed,1.18,4.5,1.15,4.3,1.17,5,1.2,5.23,1.2,5.28,1.18,4.73
+54,St. Petersburg,St. Petersburg Open,22/09/16,ATP250,Indoor,Hard,2nd Round,3,Sousa J.,Rublev A.,34,201,1295,284,7,6,3,6,6,3,,,,,2,1,Completed,1.44,2.62,1.45,2.4,1.44,2.75,1.52,2.73,1.55,2.8,1.47,2.63
+54,St. Petersburg,St. Petersburg Open,22/09/16,ATP250,Indoor,Hard,2nd Round,3,Lorenzi P.,Sidorenko A.,35,255,1190,205,7,6,6,4,,,,,,,2,0,Completed,1.36,3,1.38,2.65,1.44,2.75,1.44,3.02,1.47,3.05,1.4,2.86
+54,St. Petersburg,St. Petersburg Open,22/09/16,ATP250,Indoor,Hard,2nd Round,3,Troicki V.,Lajovic D.,33,73,1295,716,6,4,6,4,,,,,,,2,0,Completed,1.33,3.25,1.3,3,1.4,3,1.42,3.14,1.43,3.25,1.37,3.04
+54,St. Petersburg,St. Petersburg Open,22/09/16,ATP250,Indoor,Hard,2nd Round,3,Berdych T.,Kuznetsov An.,9,46,3390,975,6,3,2,6,7,6,,,,,2,1,Completed,1.36,3,1.3,3,1.4,3,1.43,3.09,1.43,3.15,1.38,2.98
+54,St. Petersburg,St. Petersburg Open,22/09/16,ATP250,Indoor,Hard,2nd Round,3,Zverev A.,Medvedev D.,27,144,1425,413,6,3,7,5,,,,,,,2,0,Completed,1.3,3.4,1.3,3,1.36,3.25,1.34,3.63,1.39,3.75,1.32,3.32
+54,St. Petersburg,St. Petersburg Open,22/09/16,ATP250,Indoor,Hard,2nd Round,3,Youzhny M.,Raonic M.,53,6,846,4760,2,6,7,6,6,4,,,,,2,1,Completed,5.5,1.14,4.4,1.14,5,1.17,5.8,1.17,5.96,1.18,5.23,1.15
+54,St. Petersburg,St. Petersburg Open,23/09/16,ATP250,Indoor,Hard,Quarterfinals,3,Berdych T.,Lorenzi P.,9,35,3390,1190,6,4,6,3,,,,,,,2,0,Completed,1.16,5,1.15,4.3,1.17,5,1.2,5.37,1.2,5.8,1.16,5.02
+54,St. Petersburg,St. Petersburg Open,23/09/16,ATP250,Indoor,Hard,Quarterfinals,3,Bautista Agut R.,Sousa J.,16,34,1950,1295,4,6,6,1,6,2,,,,,2,1,Completed,1.33,3.25,1.33,2.85,1.36,3.25,1.37,3.45,1.4,3.45,1.36,3.11
+54,St. Petersburg,St. Petersburg Open,23/09/16,ATP250,Indoor,Hard,Quarterfinals,3,Zverev A.,Youzhny M.,27,53,1425,846,6,2,6,2,,,,,,,2,0,Completed,1.57,2.25,1.5,2.25,1.57,2.38,1.66,2.4,1.66,2.45,1.6,2.3
+54,St. Petersburg,St. Petersburg Open,23/09/16,ATP250,Indoor,Hard,Quarterfinals,3,Wawrinka S.,Troicki V.,3,33,6260,1295,7,5,6,2,,,,,,,2,0,Completed,1.18,4.5,1.2,3.75,1.22,4.33,1.23,4.91,1.24,4.91,1.21,4.34
+54,St. Petersburg,St. Petersburg Open,24/09/16,ATP250,Indoor,Hard,Semifinals,3,Zverev A.,Berdych T.,27,9,1425,3390,6,4,6,4,,,,,,,2,0,Completed,2.75,1.44,2.3,1.48,2.38,1.57,2.85,1.5,3.12,1.57,2.68,1.46
+54,St. Petersburg,St. Petersburg Open,24/09/16,ATP250,Indoor,Hard,Semifinals,3,Wawrinka S.,Bautista Agut R.,3,16,6260,1950,7,6,6,2,,,,,,,2,0,Completed,1.3,3.5,1.28,3.1,1.33,3.4,1.41,3.21,1.41,3.8,1.31,3.4
+54,St. Petersburg,St. Petersburg Open,25/09/16,ATP250,Indoor,Hard,The Final,3,Zverev A.,Wawrinka S.,27,3,1425,6260,6,2,3,6,7,5,,,,,2,1,Completed,3.5,1.3,3,1.3,3.3,1.33,3.58,1.35,3.58,1.36,3.36,1.31

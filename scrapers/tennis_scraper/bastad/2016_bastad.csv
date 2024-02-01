@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+40,Bastad,SkiStar Swedish Open,11/07/16,ATP250,Outdoor,Clay,1st Round,3,Donskoy E.,Khachanov K.,79,104,700,592,3,6,7,6,6,3,,,,,2,1,Completed,2.37,1.53,2.35,1.48,2.38,1.57,2.34,1.66,2.45,1.66,2.31,1.59
+40,Bastad,SkiStar Swedish Open,11/07/16,ATP250,Outdoor,Clay,1st Round,3,Bedene A.,Arvidsson I.,68,507,765,72,6,4,7,6,,,,,,,2,0,Completed,1.11,6.5,1.08,5.75,1.1,7,1.13,7,1.14,8,1.11,6.38
+40,Bastad,SkiStar Swedish Open,11/07/16,ATP250,Outdoor,Clay,1st Round,3,Bagnis F.,Zopp J.,93,176,622,307,6,1,6,7,6,1,,,,,2,1,Completed,1.36,3,1.38,2.65,1.33,3.25,1.37,3.35,1.44,3.43,1.37,3.01
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Hemery C.,Lamasine T.,378,190,119,284,6,4,4,6,6,3,,,,,2,1,Completed,2.25,1.57,2.1,1.55,2.25,1.62,2.25,1.71,2.25,1.73,2.18,1.65
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Arnaboldi A.,Trungelliti M.,230,127,235,461,2,6,6,4,6,3,,,,,2,1,Completed,2.62,1.44,2.5,1.4,2.5,1.5,2.69,1.52,2.78,1.52,2.61,1.47
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Verdasco F.,Laaksonen H.,59,166,820,326,6,3,6,2,,,,,,,2,0,Completed,1.16,5,1.15,4.3,1.17,5,1.19,5.25,1.2,5.5,1.18,4.74
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Montanes A.,Ymer E.,125,155,472,365,6,4,6,2,,,,,,,2,0,Completed,1.9,1.8,1.85,1.75,2,1.8,1.93,1.95,2,1.95,1.91,1.86
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Munoz De La Nava D.,101,133,603,423,6,2,7,6,,,,,,,2,0,Completed,1.36,3,1.35,2.75,1.4,3,1.3,3.89,1.41,3.89,1.36,3.07
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Berrer M.,106,119,581,493,7,5,7,5,,,,,,,2,0,Completed,1.3,3.4,1.25,3.1,1.33,3.25,1.31,3.74,1.35,3.75,1.3,3.42
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Elias G.,Lindell C.,89,326,649,142,6,1,6,4,,,,,,,2,0,Completed,1.33,3.25,1.28,3,1.33,3.4,1.38,3.29,1.42,3.4,1.36,3.08
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Daniel T.,Zeballos H.,117,72,517,726,6,4,6,2,,,,,,,2,0,Completed,2.5,1.5,2.5,1.42,2.5,1.53,2.43,1.62,2.63,1.62,2.44,1.54
+40,Bastad,SkiStar Swedish Open,12/07/16,ATP250,Outdoor,Clay,1st Round,3,Soderlund C.,Simonsson F.,479,674,79,37,6,3,3,6,7,6,,,,,2,1,Completed,1.36,3,1.3,2.85,1.33,3.4,1.37,3.33,1.41,3.4,1.34,3.14
+40,Bastad,SkiStar Swedish Open,13/07/16,ATP250,Outdoor,Clay,2nd Round,3,Bagnis F.,Granollers M.,93,45,622,972,7,5,6,3,,,,,,,2,0,Completed,2.62,1.44,2.4,1.45,2.5,1.5,3.02,1.44,3.02,1.5,2.75,1.43
+40,Bastad,SkiStar Swedish Open,13/07/16,ATP250,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Carballes Baena R.,35,106,1210,581,7,6,6,3,,,,,,,2,0,Completed,1.22,4,1.18,3.75,1.22,4.33,1.24,4.54,1.27,4.54,1.23,4.05
+40,Bastad,SkiStar Swedish Open,13/07/16,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Montanes A.,59,125,820,472,6,3,6,2,,,,,,,2,0,Completed,1.22,4,1.22,3.5,1.25,4,1.26,4.27,1.26,4.37,1.23,3.95
+40,Bastad,SkiStar Swedish Open,13/07/16,ATP250,Outdoor,Clay,2nd Round,3,Arnaboldi A.,Donskoy E.,230,79,235,700,6,3,6,2,,,,,,,2,0,Completed,2.37,1.53,2.35,1.48,2.38,1.57,2.4,1.65,2.45,1.67,2.32,1.58
+40,Bastad,SkiStar Swedish Open,14/07/16,ATP250,Outdoor,Clay,2nd Round,3,Brown D.,Bedene A.,101,68,603,765,6,3,6,7,6,3,,,,,2,1,Completed,2.62,1.44,2.4,1.45,2.62,1.5,2.63,1.55,2.66,1.58,2.54,1.5
+40,Bastad,SkiStar Swedish Open,14/07/16,ATP250,Outdoor,Clay,2nd Round,3,Ferrer D.,Hemery C.,13,378,2650,119,3,6,7,5,6,3,,,,,2,1,Completed,1.04,13,1.02,7.5,1.04,11,1.05,13.44,1.05,13.5,1.03,11.07
+40,Bastad,SkiStar Swedish Open,14/07/16,ATP250,Outdoor,Clay,2nd Round,3,Sousa J.,Soderlund C.,30,479,1355,79,6,3,6,1,,,,,,,2,0,Completed,1.07,9,1.05,6.25,1.08,8,1.08,10.44,1.08,10.44,1.06,8.54
+40,Bastad,SkiStar Swedish Open,14/07/16,ATP250,Outdoor,Clay,2nd Round,3,Elias G.,Daniel T.,89,117,649,517,7,6,3,6,6,2,,,,,2,1,Completed,1.9,1.8,1.85,1.75,1.91,1.8,1.94,1.96,2,1.96,1.91,1.85
+40,Bastad,SkiStar Swedish Open,15/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Ramos-Vinolas A.,Arnaboldi A.,35,230,1210,235,5,7,7,5,6,0,,,,,2,1,Completed,1.11,6.5,1.1,5.25,1.12,6,1.13,7.51,1.13,7.51,1.1,6.41
+40,Bastad,SkiStar Swedish Open,15/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Verdasco F.,Bagnis F.,59,93,820,622,6,2,6,1,,,,,,,2,0,Completed,1.18,4.5,1.18,3.75,1.22,4.33,1.24,4.68,1.24,4.9,1.2,4.38
+40,Bastad,SkiStar Swedish Open,15/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Ferrer D.,Brown D.,13,101,2650,603,6,1,4,6,6,4,,,,,2,1,Completed,1.2,4.5,1.17,4,1.2,4.5,1.23,4.8,1.23,5.1,1.19,4.49
+40,Bastad,SkiStar Swedish Open,15/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Elias G.,Sousa J.,89,30,649,1355,6,2,6,2,,,,,,,2,0,Completed,2.5,1.5,2.35,1.45,2.5,1.53,2.75,1.49,2.75,1.57,2.53,1.5
+40,Bastad,SkiStar Swedish Open,16/07/16,ATP250,Outdoor,Clay,Semifinals,3,Ramos-Vinolas A.,Ferrer D.,35,13,1210,2650,7,5,6,4,,,,,,,2,0,Completed,2.75,1.44,2.65,1.38,3,1.4,2.94,1.47,3,1.47,2.78,1.42
+40,Bastad,SkiStar Swedish Open,16/07/16,ATP250,Outdoor,Clay,Semifinals,3,Verdasco F.,Elias G.,59,89,820,649,6,3,6,1,,,,,,,2,0,Completed,1.16,5,1.14,4.3,1.2,4.5,1.22,5.01,1.22,5.01,1.18,4.59
+40,Bastad,SkiStar Swedish Open,17/07/16,ATP250,Outdoor,Clay,The Final,3,Ramos-Vinolas A.,Verdasco F.,35,59,1210,820,6,3,6,4,,,,,,,2,0,Completed,2.75,1.4,2.5,1.4,2.75,1.44,3.06,1.44,3.06,1.5,2.75,1.43

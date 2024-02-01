@@ -1,0 +1,32 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+43,Osaka,Japan Open,11/09/2023,WTA250,Outdoor,Hard,1st Round,3,Podoroska N.,Yuan Y.,71,137,866,531,6,4,3,6,7,5,2,1,Completed,1.8,2,1.84,2.04,1.89,2.05,1.82,1.98
+43,Osaka,Japan Open,11/09/2023,WTA250,Outdoor,Hard,1st Round,3,Krueger A.,Baindl K.,123,84,577,790,6,2,6,3,,,2,0,Completed,1.73,2.1,1.83,2.05,1.83,2.23,1.73,2.09
+43,Osaka,Japan Open,11/09/2023,WTA250,Outdoor,Hard,1st Round,3,Savinykh V.,Friedsam A.L.,171,94,425,750,6,4,1,6,6,3,2,1,Completed,2.63,1.5,2.48,1.59,2.63,1.73,2.46,1.56
+43,Osaka,Japan Open,11/09/2023,WTA250,Outdoor,Hard,1st Round,3,Putintseva Y.,Shnaider D.,88,83,767,790,6,2,6,3,,,2,0,Completed,1.53,2.5,1.55,2.58,1.6,2.58,1.54,2.43
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Mandlik E.,Parry D.,167,90,432,757,7,5,6,2,,,2,0,Completed,1.73,2.1,1.68,2.27,1.75,2.27,1.68,2.16
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Uchijima M.,Raina A.,174,181,419,400,6,4,6,2,,,2,0,Completed,1.5,2.63,1.52,2.66,1.53,2.75,1.49,2.57
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Udvardy P.,Maria T.,126,48,572,1125,2,6,6,4,7,6,2,1,Completed,4.5,1.2,5.28,1.18,5.28,1.2,4.83,1.18
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Dart H.,Fruhvirtova L.,161,68,457,884,7,5,5,7,6,2,2,1,Completed,1.91,1.91,1.93,1.94,1.95,1.94,1.91,1.9
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Ponchet J.,Golubic V.,140,107,513,659,6,4,6,2,,,2,0,Completed,3.5,1.3,3.68,1.31,3.68,1.4,3.33,1.32
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Kalinskaya A.,Niemeier J.,92,136,755,533,6,4,6,4,,,2,0,Completed,1.36,3.2,1.4,3.13,1.43,3.4,1.36,3.13
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Hontama M.,Jang S.,176,155,418,465,7,5,0,6,6,2,2,1,Completed,2,1.8,2.06,1.83,2.06,1.9,1.94,1.83
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Marino R.,Hibino N.,129,81,559,804,6,3,6,4,,,2,0,Completed,2.2,1.67,2.37,1.64,2.37,1.71,2.21,1.65
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Sakatsume H.,Eala A.,184,195,386,372,6,0,6,3,,,2,0,Completed,1.8,2,1.75,2.16,1.9,2.2,1.77,2.03
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Hartono A.,Doi M.,191,329,378,184,6,2,3,6,6,3,2,1,Completed,1.62,2.3,1.58,2.5,1.63,2.63,1.57,2.39
+43,Osaka,Japan Open,12/09/2023,WTA250,Outdoor,Hard,1st Round,3,Zhu L.,Wang Xiy.,35,91,1268,756,6,4,6,4,,,2,0,Completed,1.67,2.2,1.72,2.21,1.8,2.21,1.73,2.12
+43,Osaka,Japan Open,13/09/2023,WTA250,Outdoor,Hard,1st Round,3,Wang Xin.,Teichmann J.,39,138,1261,517,7,6,6,3,,,2,0,Completed,1.44,2.75,1.48,2.79,1.5,3,1.45,2.7
+43,Osaka,Japan Open,13/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Putintseva Y.,Savinykh V.,88,171,767,425,6,1,6,2,,,2,0,Completed,1.29,3.75,1.26,4.26,1.31,4.26,1.26,3.9
+43,Osaka,Japan Open,13/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Kalinskaya A.,Dart H.,92,161,755,457,7,6,6,2,,,2,0,Completed,1.36,3.2,1.35,3.47,1.4,3.95,1.33,3.27
+43,Osaka,Japan Open,13/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Hontama M.,Podoroska N.,176,71,418,866,6,3,6,3,,,2,0,Completed,2,1.8,2.08,1.82,2.19,1.86,1.99,1.8
+43,Osaka,Japan Open,13/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Krueger A.,Ponchet J.,123,140,577,513,6,4,6,1,,,2,0,Completed,1.4,3,1.38,3.29,1.43,3.29,1.38,2.97
+43,Osaka,Japan Open,14/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Mandlik E.,Marino R.,167,129,432,559,7,5,3,6,6,1,2,1,Completed,1.91,1.91,2.03,1.86,2.03,2,1.91,1.88
+43,Osaka,Japan Open,14/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Hartono A.,Udvardy P.,191,126,378,572,6,2,6,0,,,2,0,Completed,1.67,2.2,1.7,2.26,1.74,2.29,1.67,2.17
+43,Osaka,Japan Open,14/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Zhu L.,Uchijima M.,35,174,1268,419,6,4,4,6,6,1,2,1,Completed,1.25,4,1.3,3.82,1.3,4,1.27,3.65
+43,Osaka,Japan Open,14/09/2023,WTA250,Outdoor,Hard,2nd Round,3,Wang Xin.,Sakatsume H.,39,184,1261,386,6,4,6,2,,,2,0,Completed,1.29,3.75,1.28,4.02,1.31,4.02,1.29,3.62
+43,Osaka,Japan Open,15/09/2023,WTA250,Outdoor,Hard,Quarterfinals,3,Krueger A.,Kalinskaya A.,123,92,577,755,6,3,6,1,,,2,0,Completed,2.3,1.62,2.57,1.57,2.6,1.63,2.43,1.55
+43,Osaka,Japan Open,15/09/2023,WTA250,Outdoor,Hard,Quarterfinals,3,Wang Xin.,Putintseva Y.,39,88,1261,767,7,6,6,7,6,3,2,1,Completed,1.73,2.1,1.78,2.16,1.8,2.23,1.73,2.09
+43,Osaka,Japan Open,15/09/2023,WTA250,Outdoor,Hard,Quarterfinals,3,Hontama M.,Hartono A.,176,191,418,378,6,7,6,4,6,1,2,1,Completed,1.53,2.5,1.61,2.49,1.63,2.5,1.56,2.39
+43,Osaka,Japan Open,15/09/2023,WTA250,Outdoor,Hard,Quarterfinals,3,Zhu L.,Mandlik E.,35,167,1268,432,6,3,6,2,,,2,0,Completed,1.3,3.5,1.29,3.98,1.39,3.98,1.3,3.48
+43,Osaka,Japan Open,16/09/2023,WTA250,Outdoor,Hard,Semifinals,3,Krueger A.,Hontama M.,123,176,577,418,6,3,6,3,,,2,0,Completed,1.4,3,1.46,2.95,1.47,3,1.42,2.85
+43,Osaka,Japan Open,16/09/2023,WTA250,Outdoor,Hard,Semifinals,3,Zhu L.,Wang Xin.,35,39,1268,1261,7,5,7,6,,,2,0,Completed,1.8,2,1.77,2.18,1.86,2.18,1.76,2.05
+43,Osaka,Japan Open,17/09/2023,WTA250,Outdoor,Hard,The Final,3,Krueger A.,Zhu L.,123,35,577,1268,6,3,7,6,,,2,0,Completed,2.3,1.62,2.42,1.64,2.42,1.66,2.31,1.61

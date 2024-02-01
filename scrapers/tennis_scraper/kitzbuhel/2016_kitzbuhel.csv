@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+44,Kitzbuhel,Generali Open,18/07/16,ATP250,Outdoor,Clay,1st Round,3,Sijsling I.,De Schepper K.,115,159,523,350,7,5,6,2,,,,,,,2,0,Completed,1.72,2,1.75,1.88,1.8,2,1.85,2.04,1.91,2.08,1.8,1.98
+44,Kitzbuhel,Generali Open,18/07/16,ATP250,Outdoor,Clay,1st Round,3,Khachanov K.,Volandri F.,104,226,592,239,6,2,6,4,,,,,,,2,0,Completed,1.57,2.25,1.52,2.2,1.57,2.38,1.7,2.27,1.7,2.5,1.6,2.29
+44,Kitzbuhel,Generali Open,18/07/16,ATP250,Outdoor,Clay,1st Round,3,Munoz De La Nava D.,Berrer M.,138,121,423,493,6,3,6,3,,,,,,,2,0,Completed,1.66,2.1,1.65,1.95,1.57,2.25,1.78,2.15,1.83,2.25,1.72,2.08
+44,Kitzbuhel,Generali Open,18/07/16,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Cervantes I.,131,76,454,713,6,4,6,4,,,,,,,2,0,Completed,2.2,1.61,2.1,1.55,2.25,1.62,2.44,1.61,2.45,1.67,2.3,1.6
+44,Kitzbuhel,Generali Open,18/07/16,ATP250,Outdoor,Clay,1st Round,3,Zverev M.,Bagnis F.,146,88,398,657,7,6,7,6,,,,,,,2,0,Completed,2.5,1.5,2.4,1.45,2.5,1.53,2.62,1.54,2.65,1.62,2.46,1.53
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Pavlasek A.,Gonzalez M.,116,134,511,437,6,3,6,4,,,,,,,2,0,Completed,2.1,1.66,1.92,1.7,2,1.8,2.02,1.87,2.18,1.88,2.04,1.76
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Struff J.L.,Santillan A.,86,295,661,165,6,2,6,2,,,,,,,2,0,Completed,1.22,4,1.22,3.3,1.25,4,1.27,4.11,1.27,4.2,1.24,3.95
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Melzer G.,Montanes A.,107,122,575,485,5,7,7,5,6,4,,,,,2,1,Completed,2.25,1.57,2.1,1.55,2.25,1.62,2.18,1.75,2.25,1.76,2.17,1.67
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Basilashvili N.,Rosol L.,123,79,481,705,6,4,7,6,,,,,,,2,0,Completed,2.37,1.53,2.4,1.45,2.38,1.57,2.17,1.73,2.69,1.73,2.44,1.54
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Novak D.,103,198,592,277,6,0,6,2,,,,,,,2,0,Completed,1.36,3,1.3,2.85,1.4,3,1.41,3.14,1.42,3.14,1.38,2.96
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Dutra Silva R.,83,352,691,132,7,6,6,1,,,,,,,2,0,Completed,1.4,2.75,1.38,2.65,1.5,2.62,1.49,2.78,1.5,2.96,1.44,2.72
+44,Kitzbuhel,Generali Open,19/07/16,ATP250,Outdoor,Clay,1st Round,3,Melzer J.,Daniel T.,421,113,98,527,6,4,7,6,,,,,,,2,0,Completed,2.75,1.4,2.5,1.4,2.75,1.44,2.61,1.55,2.75,1.55,2.61,1.47
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Basilashvili N.,Sijsling I.,123,115,481,523,6,4,4,6,6,2,,,,,2,1,Completed,1.61,2.2,1.52,2.2,1.57,2.38,1.85,2.07,1.85,2.44,1.6,2.29
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Lorenzi P.,Carballes Baena R.,48,103,940,592,6,2,6,2,,,,,,,2,0,Completed,1.72,2,1.6,2.1,1.67,2.2,1.89,2.02,1.89,2.25,1.71,2.12
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Struff J.L.,Munoz De La Nava D.,86,138,661,423,7,5,7,5,,,,,,,2,0,Completed,1.36,3,1.35,2.65,1.4,3,1.4,3.14,1.79,3.2,1.39,2.95
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Pavlasek A.,Granollers M.,116,46,511,972,6,2,6,4,,,,,,,2,0,Completed,2.62,1.44,2.35,1.45,2.62,1.5,2.59,1.57,2.66,1.6,2.52,1.5
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Melzer G.,Gimeno-Traver D.,107,131,575,454,6,3,6,1,,,,,,,2,0,Completed,2,1.72,1.95,1.65,2.2,1.67,1.81,2.06,2.23,2.06,2.05,1.75
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Zverev M.,83,146,691,398,6,4,6,4,,,,,,,2,0,Completed,1.5,2.5,1.52,2.25,1.57,2.38,1.6,2.5,1.61,2.5,1.55,2.39
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Khachanov K.,Kohlschreiber P.,104,23,592,1600,6,4,6,4,,,,,,,2,0,Completed,5.5,1.14,5.25,1.1,5.5,1.14,5.54,1.19,6.25,1.2,5.46,1.14
+44,Kitzbuhel,Generali Open,20/07/16,ATP250,Outdoor,Clay,2nd Round,3,Melzer J.,Thiem D.,421,9,98,3175,6,3,7,5,,,,,,,2,0,Completed,8,1.08,6.25,1.06,8,1.08,8.54,1.11,9.5,1.11,7.98,1.07
+44,Kitzbuhel,Generali Open,21/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Basilashvili N.,Pavlasek A.,123,116,481,511,5,7,7,6,6,3,,,,,2,1,Completed,2.2,1.61,2.1,1.55,2.2,1.67,2.3,1.71,2.3,1.73,2.17,1.67
+44,Kitzbuhel,Generali Open,21/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Lajovic D.,Khachanov K.,83,104,691,592,6,3,6,2,,,,,,,2,0,Completed,1.72,2,1.75,1.85,1.8,2,1.86,2.07,1.86,2.1,1.77,2.02
+44,Kitzbuhel,Generali Open,21/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Lorenzi P.,Struff J.L.,48,86,940,661,6,2,6,7,7,5,,,,,2,1,Completed,1.9,1.8,1.85,1.75,2,1.8,1.99,1.93,2.05,2,1.92,1.85
+44,Kitzbuhel,Generali Open,21/07/16,ATP250,Outdoor,Clay,Quarterfinals,3,Melzer G.,Melzer J.,107,421,575,98,3,6,6,3,6,1,,,,,2,1,Completed,2.1,1.66,1.95,1.65,2.1,1.73,2.17,1.79,2.18,1.8,2.07,1.73
+44,Kitzbuhel,Generali Open,22/07/16,ATP250,Outdoor,Clay,Semifinals,3,Basilashvili N.,Lajovic D.,123,83,481,691,6,3,6,1,,,,,,,2,0,Completed,2.75,1.4,2.35,1.45,2.62,1.5,2.91,1.48,2.91,1.5,2.69,1.45
+44,Kitzbuhel,Generali Open,22/07/16,ATP250,Outdoor,Clay,Semifinals,3,Lorenzi P.,Melzer G.,48,107,940,575,7,6,7,6,,,,,,,2,0,Completed,1.9,1.9,1.82,1.82,1.91,1.91,1.96,1.96,2.05,1.96,1.92,1.86
+44,Kitzbuhel,Generali Open,23/07/16,ATP250,Outdoor,Clay,The Final,3,Lorenzi P.,Basilashvili N.,48,123,940,481,6,3,6,4,,,,,,,2,0,Completed,1.8,2,1.65,1.95,1.8,2,1.79,2.16,1.91,2.16,1.79,2

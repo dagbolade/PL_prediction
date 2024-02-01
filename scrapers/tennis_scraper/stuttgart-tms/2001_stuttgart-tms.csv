@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Arazi H.,Schuettler R.,29,45,6,4,6,2,,,,,,,2,0,Completed,1.85,1.85,1.73,1.9,1.65,1.85,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Boutter J.,Rusedski G.,67,24,6,3,6,4,,,,,,,2,0,Completed,2.8,1.38,2.45,1.41,2.3,1.4,2.625,1.444
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Canas G.,Clavet F.,18,56,6,3,6,2,,,,,,,2,0,Completed,1.65,2.15,1.55,2.15,1.55,2,1.533,2.375
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Costa A.,Kiefer N.,35,42,3,6,6,0,7,6,,,,,2,1,Completed,3.35,1.28,3.05,1.27,2.7,1.3,2.75,1.4
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Enqvist T.,Escude N.,27,25,7,5,6,3,,,,,,,2,0,Completed,1.6,2.2,1.6,2.05,1.5,2.1,1.615,2.2
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Ferreira W.,Hrbaty D.,36,26,6,4,2,6,6,4,,,,,2,1,Completed,2.3,1.57,2.05,1.6,1.9,1.6,2.1,1.667
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Koubek S.,Robredo T.,77,28,4,6,7,6,6,3,,,,,2,1,Completed,2.8,1.38,2.45,1.42,2.7,1.3,2.75,1.4
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Lapentti N.,Moya C.,30,20,4,6,6,1,6,3,,,,,2,1,Completed,1.85,1.9,1.75,1.85,1.75,1.75,1.909,1.8
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Mirnyi M.,Rochus O.,53,126,7,6,6,2,,,,,,,2,0,Completed,1.25,3.6,1.27,3.05,1.35,2.5,1.286,3.25
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Novak J.,Massu N.,41,76,6,3,6,2,,,,,,,2,0,Completed,1.45,2.55,1.37,2.6,1.3,2.7,1.5,2.5
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Pavel A.,Gambill J.M.,23,21,7,5,7,5,,,,,,,2,0,Completed,,,,,,,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Philippoussis M.,Martin A.,48,40,6,3,3,6,6,3,,,,,2,1,Completed,1.4,2.75,1.42,2.45,1.4,2.3,1.4,2.75
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Pretzsch A.,Portas A.,130,22,6,3,4,6,6,3,,,,,2,1,Completed,,,1.85,1.73,1.1,4.5,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Rios M.,Santoro F.,46,19,4,6,6,1,6,2,,,,,2,1,Completed,1.5,2.5,1.53,2.2,1.5,2.1,1.571,2.25
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Schalken S.,Prinosil D.,32,63,6,2,6,4,,,,,,,2,0,Completed,1.38,2.8,1.37,2.6,1.3,2.7,1.364,2.875
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,1st Round,3,Ulihrach B.,Vinciguerra A.,33,44,6,3,6,2,,,,,,,2,0,Completed,1.67,2.1,1.65,2,1.6,1.9,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Arazi H.,Agassi A.,29,2,7,6,7,5,,,,,,,2,0,Completed,3.5,1.25,3.5,1.2,3,1.25,3.5,1.25
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Canas G.,Johansson T.,18,17,3,6,6,3,7,5,,,,,2,1,Completed,1.95,1.75,1.8,1.8,1.85,1.65,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Enqvist T.,Ferrero J.C.,27,5,4,6,6,3,7,6,,,,,2,1,Completed,1.85,1.85,1.75,1.82,1.75,1.75,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Ferreira W.,Federer R.,36,12,7,6,3,6,6,2,,,,,2,1,Completed,2.8,1.38,2.5,1.4,2.3,1.4,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Grosjean S.,Costa A.,8,35,6,3,6,4,,,,,,,2,0,Completed,1.42,2.65,1.4,2.5,1.4,2.3,1.444,2.625
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Haas T.,Schalken S.,14,32,4,6,7,6,6,2,,,,,2,1,Completed,1.3,3.2,1.25,3.2,1.25,3,1.333,3
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Henman T.,Pretzsch A.,9,130,6,3,6,0,,,,,,,2,0,Completed,1.18,4.5,1.15,4.1,1.15,3.8,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Hewitt L.,Ulihrach B.,3,33,3,6,6,3,6,4,,,,,2,1,Completed,1.15,4.75,1.18,3.75,1.15,3.8,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Ivanisevic G.,Philippoussis M.,15,48,7,6,3,6,6,3,,,,,2,1,Completed,1.95,1.75,1.75,1.85,1.75,1.75,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Kafelnikov Y.,Pavel A.,6,23,4,6,7,6,6,3,,,,,2,1,Completed,1.4,2.75,1.3,2.85,1.25,3,1.444,2.625
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Lapentti N.,Clement A.,30,13,4,6,6,2,7,5,,,,,2,1,Completed,2.05,1.67,2,1.62,1.9,1.6,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Mirnyi M.,Kuerten G.,53,1,4,6,7,6,6,4,,,,,2,1,Completed,2.5,1.48,2.5,1.4,2.3,1.4,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Novak J.,Corretja A.,41,11,3,6,6,2,6,4,,,,,2,1,Completed,1.7,2,1.8,1.8,1.7,1.8,,
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Rios M.,Safin M.,46,7,7,6,6,3,,,,,,,2,0,Completed,2.65,1.42,2.3,1.47,2.1,1.5,2.625,1.444
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Roddick A.,Boutter J.,16,67,7,6,7,6,,,,,,,2,0,Completed,1.28,3.25,1.24,3.2,1.25,3,1.25,3.5
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,2nd Round,3,Sampras P.,Koubek S.,10,77,6,3,7,6,,,,,,,2,0,Completed,1.18,4.25,1.2,3.5,1.2,3.2,1.222,3.75
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Enqvist T.,Roddick A.,27,16,6,3,6,7,7,6,,,,,2,1,Completed,2.2,1.6,2.05,1.6,2,1.55,2.25,1.571
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Ferreira W.,Grosjean S.,36,8,6,3,3,6,7,6,,,,,2,1,Completed,2.1,1.67,2.05,1.6,1.9,1.6,2.1,1.667
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Haas T.,Arazi H.,14,29,4,6,6,3,7,6,,,,,2,1,Completed,1.5,2.4,1.4,2.5,1.4,2.3,1.444,2.625
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Henman T.,Lapentti N.,9,30,7,6,6,2,,,,,,,2,0,Completed,1.38,2.8,1.35,2.65,1.3,2.7,1.364,2.875
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Hewitt L.,Canas G.,3,18,3,6,6,1,6,4,,,,,2,1,Completed,1.33,3,1.25,3.1,1.2,3.2,1.333,3
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Kafelnikov Y.,Novak J.,6,41,6,3,6,4,,,,,,,2,0,Completed,1.48,2.45,1.4,2.5,1.4,2.3,1.5,2.5
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Mirnyi M.,Ivanisevic G.,53,15,4,6,7,6,7,6,,,,,2,1,Completed,1.75,1.95,1.75,1.82,1.65,1.85,1.8,1.909
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,3rd Round,3,Sampras P.,Rios M.,10,46,4,6,7,6,6,4,,,,,2,1,Completed,1.48,2.45,1.45,2.35,1.45,2.2,1.444,2.625
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,Quarterfinals,3,Haas T.,Henman T.,14,9,2,6,6,3,6,4,,,,,2,1,Completed,2.05,1.7,1.95,1.7,1.85,1.65,2.1,1.667
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,Quarterfinals,3,Hewitt L.,Ferreira W.,3,36,6,7,6,3,6,2,,,,,2,1,Completed,1.26,3.5,1.27,3.15,1.25,3,1.25,3.5
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,Quarterfinals,3,Kafelnikov Y.,Enqvist T.,6,27,7,5,6,4,,,,,,,2,0,Completed,1.65,2.1,1.6,2.1,1.6,1.9,1.667,2.1
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,Quarterfinals,3,Mirnyi M.,Sampras P.,53,10,6,4,6,2,,,,,,,2,0,Completed,2.75,1.4,2.7,1.37,2.7,1.3,2.75,1.4
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,Semifinals,3,Haas T.,Hewitt L.,14,3,3,6,6,4,7,5,,,,,2,1,Completed,2.4,1.5,2.25,1.52,2.1,1.5,2.5,1.5
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,Semifinals,3,Mirnyi M.,Kafelnikov Y.,53,6,7,6,6,3,,,,,,,2,0,Completed,2.4,1.5,2.25,1.52,2.2,1.45,2.25,1.571
+64,Stuttgart,Stuttgart TMS,15/10/01,Masters,Indoor,Hard,The Final,5,Haas T.,Mirnyi M.,14,53,6,2,6,2,6,2,,,,,3,0,Completed,1.5,2.4,1.5,2.3,1.5,2.1,1.5,2.5

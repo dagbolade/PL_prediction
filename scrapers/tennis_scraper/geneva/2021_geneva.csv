@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+26,Geneva,Geneva Open,17/05/2021,ATP250,Outdoor,Clay,1st Round,3,Cazaux A.,Mannarino A.,517,37,67,1651,6,3,6,7,6,3,,,,,2,1,Completed,2.2,1.66,2.06,1.83,2.2,1.87,2.03,1.78
+26,Geneva,Geneva Open,17/05/2021,ATP250,Outdoor,Clay,1st Round,3,Sandgren T.,Caruso S.,67,81,1018,906,6,3,6,4,,,,,,,2,0,Completed,2.37,1.57,2.45,1.61,2.7,1.65,2.37,1.58
+26,Geneva,Geneva Open,17/05/2021,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Thompson J.,75,63,950,1042,6,0,6,4,,,,,,,2,0,Completed,1.4,3,1.41,3.1,1.51,3.2,1.39,2.96
+26,Geneva,Geneva Open,17/05/2021,ATP250,Outdoor,Clay,1st Round,3,Koepfer D.,Paire B.,59,36,1105,1669,6,7,7,6,6,4,,,,,2,1,Completed,1.4,3,1.46,2.92,1.48,3.15,1.42,2.85
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Lopez F.,Altmaier D.,61,144,1062,516,7,6,6,4,,,,,,,2,0,Completed,2.3,1.61,2.44,1.62,2.44,1.69,2.26,1.63
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Cecchinato M.,Travaglia S.,104,76,761,939,6,3,3,0,,,,,,,1,0,Retired,1.72,2.1,1.85,2.04,1.89,2.3,1.75,2.07
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Fucsovics M.,Laaksonen H.,44,150,1456,493,7,5,7,5,,,,,,,2,0,Completed,1.22,4.33,1.25,4.36,1.27,4.75,1.22,4.25
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Ivashka I.,Verdasco F.,91,105,830,755,7,6,6,4,,,,,,,2,0,Completed,1.14,5.5,1.2,5.2,1.2,6,1.15,5.29
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Opelka R.,102,35,764,1726,7,6,6,2,,,,,,,2,0,Completed,2.62,1.5,2.82,1.48,3.05,1.55,2.75,1.45
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Stricker D.,Cilic M.,419,46,97,1388,7,6,6,1,,,,,,,2,0,Completed,4,1.25,5.19,1.2,5.19,1.29,4.3,1.21
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Monteiro T.,54,78,1148,936,6,7,6,3,7,5,,,,,2,1,Completed,1.57,2.37,1.6,2.48,1.65,2.5,1.58,2.35
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,1st Round,3,Fognini F.,Pella G.,29,58,1923,1114,6,2,6,2,,,,,,,2,0,Completed,1.44,2.75,1.5,2.78,1.53,3.01,1.46,2.69
+26,Geneva,Geneva Open,18/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Andujar P.,Federer R.,75,8,950,5605,6,4,4,6,6,4,,,,,2,1,Completed,3.5,1.3,3.55,1.35,3.58,1.36,3.33,1.32
+26,Geneva,Geneva Open,19/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Ruud C.,Sandgren T.,21,67,2485,1018,7,5,6,2,,,,,,,2,0,Completed,1.11,6.5,1.17,5.93,1.17,6.65,1.14,5.58
+26,Geneva,Geneva Open,19/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Koepfer D.,Lopez F.,59,61,1105,1062,7,5,6,7,6,3,,,,,2,1,Completed,1.53,2.5,1.59,2.53,1.61,2.66,1.53,2.49
+26,Geneva,Geneva Open,19/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Stricker D.,Fucsovics M.,419,44,97,1456,7,5,6,4,,,,,,,2,0,Completed,3.4,1.33,3.47,1.36,3.65,1.37,3.32,1.32
+26,Geneva,Geneva Open,19/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Dimitrov G.,Ivashka I.,20,91,2496,830,6,4,6,4,,,,,,,2,0,Completed,2,1.8,2.06,1.85,2.1,1.89,1.99,1.81
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Shapovalov D.,Cecchinato M.,15,104,2675,761,6,7,7,5,6,1,,,,,2,1,Completed,1.44,2.75,1.48,2.86,1.49,3.15,1.43,2.8
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Cazaux A.,102,517,764,67,6,2,6,4,,,,,,,2,0,Completed,1.5,2.62,1.59,2.52,1.59,2.7,1.5,2.55
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Fognini F.,54,29,1148,1923,6,3,6,7,6,1,,,,,2,1,Completed,2.1,1.72,2.12,1.81,2.2,1.81,2.08,1.75
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Andujar P.,Stricker D.,75,419,950,97,4,6,6,4,6,4,,,,,2,1,Completed,1.53,2.5,1.62,2.46,1.63,2.6,1.55,2.43
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Ruud C.,Koepfer D.,21,59,2485,1105,2,6,6,1,6,4,,,,,2,1,Completed,1.16,5,1.19,5.38,1.21,5.8,1.17,4.95
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Cuevas P.,Dimitrov G.,102,20,764,2496,7,6,6,3,,,,,,,2,0,Completed,2.62,1.5,2.58,1.57,2.78,1.57,2.55,1.51
+26,Geneva,Geneva Open,20/05/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Shapovalov D.,Djere L.,15,54,2675,1148,6,4,6,4,,,,,,,2,0,Completed,1.57,2.37,1.56,2.59,1.63,2.59,1.57,2.41
+26,Geneva,Geneva Open,21/05/2021,ATP250,Outdoor,Clay,Semifinals,3,Ruud C.,Andujar P.,21,75,2485,950,6,3,6,2,,,,,,,2,0,Completed,1.2,4.5,1.24,4.54,1.24,4.84,1.2,4.5
+26,Geneva,Geneva Open,21/05/2021,ATP250,Outdoor,Clay,Semifinals,3,Shapovalov D.,Cuevas P.,15,102,2675,764,6,4,7,5,,,,,,,2,0,Completed,1.53,2.5,1.5,2.79,1.58,2.8,1.5,2.6
+26,Geneva,Geneva Open,22/05/2021,ATP250,Outdoor,Clay,The Final,3,Ruud C.,Shapovalov D.,21,15,2485,2675,7,6,6,4,,,,,,,2,0,Completed,1.61,2.3,1.69,2.31,1.71,2.35,1.65,2.24

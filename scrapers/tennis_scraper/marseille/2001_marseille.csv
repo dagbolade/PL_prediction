@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Boutter J.,Roux L.,59,242,6,1,5,7,6,4,,,,,2,1,Completed,,,,,,,,
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Bryan B.,Escude N.,146,58,6,7,7,6,6,4,,,,,2,1,Completed,,,,,,,,
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Clement A.,Ivanisevic G.,12,122,6,4,6,3,,,,,,,2,0,Completed,1.38,2.8,1.27,2.8,1.35,2.5,1.33,3
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Federer R.,Saulnier C.,23,114,7,6,6,4,,,,,,,2,0,Completed,1.25,3.5,1.21,3,1.2,2.8,1.22,3.75
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Grosjean S.,Ljubicic I.,14,95,7,5,7,6,,,,,,,2,0,Completed,1.3,3.2,1.25,2.8,1.3,2.7,1.33,3
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Kafelnikov Y.,Golmard J.,7,61,6,3,6,2,,,,,,,2,0,Completed,1.28,3.3,1.25,2.8,1.3,2.4,1.25,3.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Kratochvil M.,Huet S.,78,141,6,4,6,1,,,,,,,2,0,Completed,1.57,2.25,1.5,2.1,1.55,1.85,1.5,2.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Kucera K.,Tarango J.,74,109,7,6,5,3,,,,,,,1,0,Retired,1.42,2.65,1.4,2.3,1.5,1.9,1.5,2.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Lisnard J.,Gimelstob J.,210,105,7,6,6,2,,,,,,,2,0,Completed,,,,,,,,
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Mahut N.,Godwin N.,358,121,7,6,6,7,6,4,,,,,2,1,Completed,,,,,,,,
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Mirnyi M.,Diaz J.,52,116,7,6,6,7,6,3,,,,,2,1,Completed,1.22,3.8,1.21,3,1.25,2.6,1.25,3.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Norman M.,Rochus O.,5,71,7,6,7,5,,,,,,,2,0,Completed,1.28,3.3,1.17,3.4,1.2,2.8,1.29,3.25
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Pioline C.,Balcells J.,19,73,2,6,6,4,6,1,,,,,2,1,Completed,1.4,2.7,1.3,2.6,1.25,2.6,1.44,2.63
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Rosset M.,Pozzi G.,39,40,2,6,6,2,7,5,,,,,2,1,Completed,1.45,2.55,1.47,2.1,1.45,2,1.4,2.75
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Santoro F.,Johansson T.,50,29,6,4,6,2,,,,,,,2,0,Completed,2.55,1.45,2,1.55,1.9,1.5,2.5,1.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,1st Round,3,Vanek J.,Medvedev A.,79,55,6,4,1,6,6,4,,,,,2,1,Completed,2.4,1.5,2.4,1.35,,,2.38,1.53
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Boutter J.,Rosset M.,59,39,6,3,6,4,,,,,,,2,0,Completed,2.1,1.65,2.05,1.55,2,1.55,2,1.73
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Federer R.,Bryan B.,23,146,7,6,6,3,,,,,,,2,0,Completed,1.18,4.25,1.2,3.4,1.2,3.2,1.2,4
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Grosjean S.,Vanek J.,14,79,6,2,6,3,,,,,,,2,0,Completed,1.25,3.55,1.24,3.15,1.25,3,1.25,3.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Kafelnikov Y.,Mahut N.,7,358,4,6,6,1,6,2,,,,,2,1,Completed,1.12,5.25,1.12,4.3,1.15,4,1.17,4.5
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Kratochvil M.,Clement A.,78,12,3,6,6,3,6,4,,,,,2,1,Completed,2.95,1.35,2.92,1.27,3,1.25,3.25,1.29
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Kucera K.,Santoro F.,74,50,6,2,7,5,,,,,,,2,0,Completed,1.65,2.1,1.77,1.8,1.75,1.75,1.62,2.2
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Mirnyi M.,Norman M.,52,5,6,2,3,6,6,3,,,,,2,1,Completed,2.55,1.45,2.5,1.38,2.5,1.35,2.75,1.4
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,2nd Round,3,Pioline C.,Lisnard J.,19,210,6,7,6,2,6,4,,,,,2,1,Completed,1.28,3.25,1.25,3,1.2,3.2,1.36,2.88
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,Quarterfinals,3,Federer R.,Kratochvil M.,23,78,6,4,7,6,,,,,,,2,0,Completed,1.22,3.8,1.25,3.1,1.35,2.5,1.29,3.25
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,Quarterfinals,3,Grosjean S.,Kucera K.,14,74,6,3,6,2,,,,,,,2,0,Completed,1.7,2.05,1.55,2.05,1.5,2.1,1.53,2.38
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,Quarterfinals,3,Kafelnikov Y.,Pioline C.,7,19,7,5,6,7,6,2,,,,,2,1,Completed,1.35,2.95,1.4,2.4,1.45,2.2,1.36,2.88
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,Quarterfinals,3,Mirnyi M.,Boutter J.,52,59,6,2,6,3,,,,,,,2,0,Completed,1.8,1.9,1.72,1.85,1.7,1.8,1.91,1.8
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,Semifinals,3,Grosjean S.,Mirnyi M.,14,52,6,4,7,6,,,,,,,2,0,Completed,1.5,2.45,1.4,2.4,1.4,2.3,1.4,2.75
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,Semifinals,3,Kafelnikov Y.,Federer R.,7,23,6,7,6,4,6,4,,,,,2,1,Completed,1.75,2,1.6,1.95,1.55,2,1.8,1.91
+10,Marseille,Marseille Open,12/02/01,International,Indoor,Hard,The Final,3,Kafelnikov Y.,Grosjean S.,7,14,7,6,6,2,,,,,,,2,0,Completed,1.6,2.2,1.6,2,1.6,1.9,1.67,2.1

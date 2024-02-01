@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Arazi H.,Youzhny M.,23,60,7,6,2,6,6,3,,,,,2,1,Completed,,,1.65,2.1,1.68,1.94,1.7,1.8,1.571,2.25
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Davydenko N.,Meligeni F.,84,68,4,6,6,2,6,3,,,,,2,1,Completed,,,,,,,,,,
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,El Aynaoui Y.,Pless K.,20,65,4,6,6,3,7,6,,,,,2,1,Completed,,,1.38,2.75,1.4,2.55,1.35,2.5,1.4,2.75
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Escude N.,Rochus C.,29,78,4,6,6,3,6,4,,,,,2,1,Completed,,,1.25,3.5,1.27,3.1,1.25,3,1.286,3.25
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Federer R.,Koubek S.,13,50,7,6,6,3,,,,,,,2,0,Completed,,,1.22,3.75,1.2,3.7,1.2,3.3,1.286,3.25
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Ferrero J.C.,Boutter J.,3,54,3,6,7,6,6,4,,,,,2,1,Completed,,,1.8,1.9,1.75,1.85,1.75,1.75,1.667,2.1
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Galvani S.,Thomann N.,127,204,3,6,6,4,6,2,,,,,2,1,Completed,,,2.25,1.57,2.05,1.6,2.1,1.5,2.2,1.615
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Kratochvil M.,Gaudenzi A.,43,53,6,2,6,2,,,,,,,2,0,Completed,,,1.4,2.7,1.41,2.5,1.4,2.3,1.444,2.625
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Mirnyi M.,Luzzi F.,37,93,6,0,4,1,,,,,,,1,0,Retired,,,1.22,3.75,1.17,4,1.15,3.8,1.25,3.5
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Rusedski G.,Clavet F.,30,59,7,5,6,3,,,,,,,2,0,Completed,,,1.28,3.25,1.23,3.35,1.2,3.3,1.364,2.875
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Sa A.,Caratti C.,92,226,3,6,6,3,6,4,,,,,2,1,Completed,,,,,,,,,,
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Sanguinetti D.,Vinck C.,87,195,7,5,3,6,7,5,,,,,2,1,Completed,,,1.6,2.2,1.5,2.3,1.55,2,1.727,2
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Sargsian S.,Novak J.,74,16,6,3,2,6,6,4,,,,,2,1,Completed,,,3.35,1.28,3,1.3,2.7,1.3,3.5,1.25
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Schalken S.,Gambill J.M.,27,22,7,5,3,6,6,3,,,,,2,1,Completed,,,2.1,1.65,1.91,1.71,1.9,1.6,2.2,1.615
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Tabara M.,Ivanisevic G.,117,14,5,7,7,6,3,0,,,,,1,1,Retired,,,3.2,1.3,2.95,1.3,3,1.25,3,1.333
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,1st Round,3,Ulihrach B.,Nieminen J.,39,61,6,2,3,6,6,3,,,,,2,1,Completed,,,1.57,2.25,1.5,2.25,1.4,2.3,1.667,2.1
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,El Aynaoui Y.,Galvani S.,20,127,6,4,6,3,,,,,,,2,0,Completed,,,1.2,4,1.2,3.7,1.2,3.3,1.25,3.5
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Escude N.,Arazi H.,29,23,6,1,6,3,,,,,,,2,0,Completed,,,1.5,2.4,1.55,2.15,1.6,1.9,1.615,2.2
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Federer R.,Davydenko N.,13,84,6,3,6,7,7,5,,,,,2,1,Completed,,,1.17,4.3,1.15,4.3,1.15,3.8,1.167,4.5
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Mirnyi M.,Tabara M.,37,117,6,1,6,2,,,,,,,2,0,Completed,,,1.28,3.35,1.28,3.1,1.3,2.7,1.333,3
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Rusedski G.,Ulihrach B.,30,39,7,6,6,4,,,,,,,2,0,Completed,,,1.4,2.7,1.35,2.75,1.35,2.5,1.444,2.625
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Sanguinetti D.,Ferrero J.C.,87,3,6,2,6,4,,,,,,,2,0,Completed,,,3.4,1.27,2.95,1.3,3,1.25,3.5,1.25
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Sargsian S.,Kratochvil M.,74,43,6,4,6,4,,,,,,,2,0,Completed,,,3,1.33,2.55,1.4,2.5,1.35,2.625,1.444
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,2nd Round,3,Schalken S.,Sa A.,27,92,6,3,6,0,,,,,,,2,0,Completed,,,1.3,3.2,1.3,3,1.25,3,1.3,3.2
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,Quarterfinals,3,Escude N.,Mirnyi M.,29,37,7,6,6,3,,,,,,,2,0,Completed,,,1.8,1.9,1.81,1.81,1.7,1.8,1.833,1.833
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,Quarterfinals,3,Federer R.,Sargsian S.,13,74,4,6,6,3,6,2,,,,,2,1,Completed,,,1.22,3.75,1.22,3.5,1.2,3.3,1.2,4
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,Quarterfinals,3,Rusedski G.,Schalken S.,30,27,4,6,7,6,6,2,,,,,2,1,Completed,,,1.38,2.75,1.4,2.55,1.35,2.5,1.5,2.5
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,Quarterfinals,3,Sanguinetti D.,El Aynaoui Y.,87,20,7,6,7,6,,,,,,,2,0,Completed,,,2.9,1.35,2.98,1.3,2.5,1.35,2.75,1.4
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,Semifinals,3,Federer R.,Rusedski G.,13,30,7,6,7,6,,,,,,,2,0,Completed,,,1.75,2,1.5,2.25,1.55,2,1.615,2.2
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,Semifinals,3,Sanguinetti D.,Escude N.,87,29,3,6,6,3,6,2,,,,,2,1,Completed,,,3,1.35,3,1.3,2.5,1.35,3,1.333
+7,Milan,Milan Indoors,28/01/02,International,Indoor,Carpet,The Final,3,Sanguinetti D.,Federer R.,87,13,7,6,4,6,6,1,,,,,2,1,Completed,,,4,1.2,4.25,1.15,3.3,1.2,4,1.2

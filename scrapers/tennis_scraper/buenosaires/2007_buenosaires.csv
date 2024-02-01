@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+13,Buenos Aires,Copa Telmex,19/02/07,International,Outdoor,Clay,Round Robin,3,Andreev I.,Martin A.,148,57,295,636,6,3,2,6,6,1,,,,,2,1,Completed,1.36,2.87,1.35,3.1,1.35,3.1,1.418,3.19,1.37,3
+13,Buenos Aires,Copa Telmex,20/02/07,International,Outdoor,Clay,Round Robin,3,Roitman S.,Acasuso J.,78,41,513,815,7,6,6,1,,,,,,,2,0,Completed,3,1.33,3.4,1.3,3.35,1.3,3.7,1.333,3.6,1.27
+13,Buenos Aires,Copa Telmex,20/02/07,International,Outdoor,Clay,Round Robin,3,Lapentti N.,Devilder N.,61,97,587,430,6,3,2,6,6,3,,,,,2,1,Completed,1.61,2.2,1.68,2.15,1.55,2.35,1.602,2.56,1.6,2.28
+13,Buenos Aires,Copa Telmex,20/02/07,International,Outdoor,Clay,Round Robin,3,Montanes A.,Calleri A.,75,29,518,988,6,7,6,4,6,4,,,,,2,1,Completed,2.62,1.44,2.85,1.4,2.45,1.5,2.97,1.461,2.6,1.47
+13,Buenos Aires,Copa Telmex,20/02/07,International,Outdoor,Clay,Round Robin,3,Almagro N.,Vassallo-Arguello M.,30,62,960,584,7,5,6,4,,,,,,,2,0,Completed,1.3,3.2,1.35,3.1,1.35,3.1,1.353,3.63,1.37,3
+13,Buenos Aires,Copa Telmex,20/02/07,International,Outdoor,Clay,Round Robin,3,di Mauro A.,Ramirez-Hidalgo R.,98,59,428,613,6,4,7,6,,,,,,,2,0,Completed,2.87,1.36,3.2,1.33,2.85,1.4,3.24,1.41,2.85,1.4
+13,Buenos Aires,Copa Telmex,20/02/07,International,Outdoor,Clay,Round Robin,3,Moya C.,Starace P.,47,87,735,458,6,4,6,4,,,,,,,2,0,Completed,1.57,2.25,1.67,2.15,1.73,2.03,1.714,2.3,1.67,2.15
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Horna L.,Nalbandian D.,50,10,720,1995,6,4,6,3,,,,,,,2,0,Completed,2.75,1.39,2.85,1.4,2.75,1.42,3.04,1.446,2.85,1.4
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Vassallo-Arguello M.,Galvani S.,62,113,584,391,6,2,6,4,,,,,,,2,0,Completed,1.39,2.75,1.45,2.7,1.45,2.6,1.478,2.89,1.48,2.56
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Chela J.I.,Martin A.,35,57,880,636,6,1,6,3,,,,,,,2,0,Completed,1.25,3.5,1.3,3.4,1.3,3.35,1.299,4.05,1.25,3.8
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Devilder N.,Ferrero J.C.,97,27,430,1085,1,6,7,6,6,0,,,,,2,1,Completed,4.5,1.16,4.4,1.2,4.25,1.2,4.56,1.259,4.3,1.2
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Hartfield D.,Acasuso J.,117,41,380,815,6,3,,,,,,,,,1,0,Retired,2.87,1.36,2.8,1.42,2.6,1.45,2.77,1.526,2.8,1.41
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Monaco J.,Starace P.,66,87,564,458,6,3,6,4,,,,,,,2,0,Completed,1.53,2.37,1.6,2.3,1.65,2.15,1.633,2.48,1.53,2.44
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Saretta F.,Vanek J.,133,102,350,420,7,6,6,7,6,3,,,,,2,1,Completed,,,,,,,,,,
+13,Buenos Aires,Copa Telmex,21/02/07,International,Outdoor,Clay,Round Robin,3,Ramirez-Hidalgo R.,Gaudio G.,59,37,613,845,6,1,6,1,,,,,,,2,0,Completed,1.9,1.8,2.1,1.7,,,2.23,1.752,2,1.77
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Canas G.,Nalbandian D.,63,10,584,1995,6,4,6,4,,,,,,,2,0,Completed,1.57,2.25,1.57,2.35,1.45,2.6,1.633,2.48,,
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Ferrero J.C.,Dlouhy L.,27,118,1085,379,6,3,6,3,,,,,,,2,0,Completed,,,,,,,,,,
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Almagro N.,Galvani S.,30,113,960,391,6,4,7,6,,,,,,,2,0,Completed,1.12,5.5,1.14,5.4,,,,,1.15,5.2
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Montanes A.,Saretta F.,75,133,518,350,6,3,6,3,,,,,,,2,0,Completed,1.72,2,1.65,2.2,1.6,2.25,1.69,2.35,1.62,2.23
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Chela J.I.,Andreev I.,35,148,880,295,3,6,7,5,6,3,,,,,2,1,Completed,1.66,2.1,1.71,2.1,1.67,2.12,1.763,2.21,1.66,2.16
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Berlocq C.,di Mauro A.,115,98,382,428,6,1,6,4,,,,,,,2,0,Completed,1.25,3.5,,,,,1.324,3.79,,
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Hartfield D.,Roitman S.,117,78,380,513,5,7,6,4,7,6,,,,,2,1,Completed,2.1,1.66,2.2,1.65,,,2.6,1.588,2.1,1.7
+13,Buenos Aires,Copa Telmex,22/02/07,International,Outdoor,Clay,Round Robin,3,Horna L.,Canas G.,50,63,720,584,4,6,6,2,6,2,,,,,2,1,Completed,2.87,1.36,2.7,1.45,2.75,1.42,2.94,1.467,2.65,1.45
+13,Buenos Aires,Copa Telmex,23/02/07,International,Outdoor,Clay,Round Robin,3,Monaco J.,Moya C.,66,47,564,735,6,4,6,7,6,0,,,,,2,1,Completed,2.25,1.57,2.25,1.62,2.35,1.55,2.49,1.629,2.15,1.62
+13,Buenos Aires,Copa Telmex,23/02/07,International,Outdoor,Clay,Quarterfinals,3,di Mauro A.,Montanes A.,98,75,428,518,1,6,6,4,6,2,,,,,2,1,Completed,3.25,1.33,3.55,1.28,3.35,1.3,3.46,1.376,3.1,1.35
+13,Buenos Aires,Copa Telmex,23/02/07,International,Outdoor,Clay,Quarterfinals,3,Hartfield D.,Devilder N.,117,97,380,430,6,4,7,5,,,,,,,2,0,Completed,1.66,2.1,1.65,2.2,1.65,2.15,1.787,2.17,1.65,2.18
+13,Buenos Aires,Copa Telmex,23/02/07,International,Outdoor,Clay,Quarterfinals,3,Monaco J.,Horna L.,66,50,564,720,4,6,6,2,6,3,,,,,2,1,Completed,2.37,1.53,2.6,1.48,2.4,1.53,2.6,1.588,2.65,1.45
+13,Buenos Aires,Copa Telmex,24/02/07,International,Outdoor,Clay,Quarterfinals,3,Almagro N.,Chela J.I.,30,35,960,880,6,4,6,3,,,,,,,2,0,Completed,1.72,2,2,1.77,1.85,1.9,1.935,1.971,1.84,1.92
+13,Buenos Aires,Copa Telmex,24/02/07,International,Outdoor,Clay,Semifinals,3,di Mauro A.,Hartfield D.,98,117,428,380,6,1,6,4,,,,,,,2,0,Completed,2.2,1.61,2.45,1.55,2.53,1.48,2.57,1.599,2.3,1.58
+13,Buenos Aires,Copa Telmex,24/02/07,International,Outdoor,Clay,Semifinals,3,Monaco J.,Almagro N.,66,30,564,960,6,1,7,6,,,,,,,2,0,Completed,2.5,1.5,2.5,1.53,2.3,1.6,2.7,1.556,2.5,1.5
+13,Buenos Aires,Copa Telmex,25/02/07,International,Outdoor,Clay,The Final,3,Monaco J.,di Mauro A.,66,98,564,428,6,1,6,2,,,,,,,2,0,Completed,1.25,3.75,1.25,3.85,1.3,3.35,1.268,4.43,1.28,3.52

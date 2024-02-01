@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+50,Metz,Open de Moselle,20/09/2021,ATP250,Indoor,Hard,1st Round,3,Sonego L.,Fucsovics M.,24,41,2090,1459,6,3,6,2,,,,,,,2,0,Completed,2.1,1.72,2.24,1.71,2.3,1.76,2.14,1.7
+50,Metz,Open de Moselle,20/09/2021,ATP250,Indoor,Hard,1st Round,3,Pospisil V.,Barrere G.,66,151,990,493,6,3,6,4,,,,,,,2,0,Completed,1.61,2.3,1.64,2.39,1.67,2.5,1.6,2.31
+50,Metz,Open de Moselle,20/09/2021,ATP250,Indoor,Hard,1st Round,3,Basilashvili N.,Mager G.,36,78,1556,925,6,3,7,6,,,,,,,2,0,Completed,1.36,3.2,1.35,3.47,1.38,3.65,1.33,3.3
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Ymer M.,Struff J.L.,75,55,960,1208,7,5,6,3,,,,,,,2,0,Completed,2.2,1.66,2.1,1.81,2.23,1.83,2.1,1.72
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Giron M.,Rinderknech A.,69,74,982,965,3,6,7,6,6,4,,,,,2,1,Completed,2.37,1.57,2.4,1.63,2.5,1.63,2.36,1.58
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Kohlschreiber P.,Cecchinato M.,107,83,736,896,7,6,6,3,,,,,,,2,0,Completed,1.3,3.5,1.34,3.56,1.35,3.76,1.3,3.45
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Khachanov K.,Muller A.,27,203,1965,324,4,6,6,1,6,3,,,,,2,1,Completed,1.16,5,1.19,5.27,1.21,5.75,1.17,4.93
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Rune H.,Zapata Miralles B.,133,119,589,661,6,0,6,0,,,,,,,2,0,Completed,1.57,2.37,1.51,2.69,1.58,2.69,1.54,2.46
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Davidovich Fokina A.,Simon G.,45,99,1415,764,6,7,7,6,6,2,,,,,2,1,Completed,1.33,3.4,1.39,3.25,1.39,3.54,1.34,3.23
+50,Metz,Open de Moselle,21/09/2021,ATP250,Indoor,Hard,1st Round,3,Murray A.,Humbert U.,113,26,706,2045,4,6,6,3,6,2,,,,,2,1,Completed,2.3,1.61,2.34,1.66,2.45,1.66,2.33,1.59
+50,Metz,Open de Moselle,22/09/2021,ATP250,Indoor,Hard,1st Round,3,Gojowczyk P.,Hoang A.,101,155,758,466,6,2,3,6,6,4,,,,,2,1,Completed,1.44,2.75,1.43,3.05,1.5,3.05,1.43,2.8
+50,Metz,Open de Moselle,22/09/2021,ATP250,Indoor,Hard,1st Round,3,Pouille L.,Schnur B.,142,233,540,278,3,6,6,4,6,4,,,,,2,1,Completed,1.36,3.2,1.38,3.31,1.4,3.44,1.36,3.12
+50,Metz,Open de Moselle,22/09/2021,ATP250,Indoor,Hard,2nd Round,3,Rune H.,Sonego L.,133,24,589,2090,6,7,6,4,6,4,,,,,2,1,Completed,2.5,1.53,2.45,1.63,2.55,1.63,2.39,1.57
+50,Metz,Open de Moselle,22/09/2021,ATP250,Indoor,Hard,2nd Round,3,Murray A.,Pospisil V.,113,66,706,990,6,3,6,3,,,,,,,2,0,Completed,1.61,2.3,1.65,2.4,1.67,2.49,1.58,2.35
+50,Metz,Open de Moselle,22/09/2021,ATP250,Indoor,Hard,2nd Round,3,Carreno Busta P.,Ymer M.,16,75,2650,960,7,5,6,2,,,,,,,2,0,Completed,1.44,2.75,1.5,2.78,1.5,2.92,1.44,2.74
+50,Metz,Open de Moselle,23/09/2021,ATP250,Indoor,Hard,2nd Round,3,Giron M.,De Minaur A.,69,21,982,2218,7,5,7,6,,,,,,,2,0,Completed,2.37,1.57,2.6,1.56,2.7,1.62,2.46,1.54
+50,Metz,Open de Moselle,23/09/2021,ATP250,Indoor,Hard,2nd Round,3,Gojowczyk P.,Khachanov K.,101,27,758,1965,6,3,7,6,,,,,,,2,0,Completed,3.2,1.36,3.22,1.4,3.53,1.4,3.22,1.34
+50,Metz,Open de Moselle,23/09/2021,ATP250,Indoor,Hard,2nd Round,3,Hurkacz H.,Pouille L.,13,142,3128,540,6,2,6,3,,,,,,,2,0,Completed,1.36,3.2,1.41,3.14,1.41,3.46,1.35,3.13
+50,Metz,Open de Moselle,23/09/2021,ATP250,Indoor,Hard,2nd Round,3,Monfils G.,Kohlschreiber P.,20,107,2233,736,7,6,6,4,,,,,,,2,0,Completed,1.36,3.2,1.36,3.44,1.41,3.5,1.34,3.19
+50,Metz,Open de Moselle,23/09/2021,ATP250,Indoor,Hard,2nd Round,3,Basilashvili N.,Davidovich Fokina A.,36,45,1556,1415,0,6,6,4,7,6,,,,,2,1,Completed,1.61,2.3,1.66,2.36,1.77,2.6,1.63,2.26
+50,Metz,Open de Moselle,24/09/2021,ATP250,Indoor,Hard,Quarterfinals,3,Gojowczyk P.,Giron M.,101,69,758,982,3,6,6,1,6,3,,,,,2,1,Completed,1.8,2,1.82,2.11,1.83,2.12,1.78,2.02
+50,Metz,Open de Moselle,24/09/2021,ATP250,Indoor,Hard,Quarterfinals,3,Hurkacz H.,Murray A.,13,113,3128,706,7,6,6,3,,,,,,,2,0,Completed,1.66,2.2,1.65,2.4,1.71,2.41,1.63,2.25
+50,Metz,Open de Moselle,24/09/2021,ATP250,Indoor,Hard,Quarterfinals,3,Monfils G.,Basilashvili N.,20,36,2233,1556,6,3,6,3,,,,,,,2,0,Completed,1.5,2.62,1.49,2.84,1.58,2.88,1.52,2.5
+50,Metz,Open de Moselle,24/09/2021,ATP250,Indoor,Hard,Quarterfinals,3,Carreno Busta P.,Rune H.,16,133,2650,589,6,4,3,6,6,4,,,,,2,1,Completed,1.5,2.62,1.46,2.93,1.56,3,1.45,2.73
+50,Metz,Open de Moselle,25/09/2021,ATP250,Indoor,Hard,Semifinals,3,Hurkacz H.,Gojowczyk P.,13,101,3128,758,6,4,7,6,,,,,,,2,0,Completed,1.36,3.2,1.4,3.2,1.42,3.6,1.36,3.11
+50,Metz,Open de Moselle,25/09/2021,ATP250,Indoor,Hard,Semifinals,3,Carreno Busta P.,Monfils G.,16,20,2650,2233,7,5,7,6,,,,,,,2,0,Completed,1.8,2,2.13,1.8,2.13,2,1.95,1.85
+50,Metz,Open de Moselle,26/09/2021,ATP250,Indoor,Hard,The Final,3,Hurkacz H.,Carreno Busta P.,13,16,3128,2650,7,6,6,3,,,,,,,2,0,Completed,1.9,1.9,1.87,2.05,1.94,2.15,1.87,1.93

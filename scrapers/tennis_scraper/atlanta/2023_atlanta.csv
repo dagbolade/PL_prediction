@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+42,Atlanta,Atlanta Open,24/07/2023,ATP250,Outdoor,Hard,1st Round,3,Vukic A.,Quinn E.,82,394,716,116,7,6,6,3,,,,,,,2,0,Completed,1.36,3.2,1.33,3.58,1.38,3.58,1.34,3.22
+42,Atlanta,Atlanta Open,24/07/2023,ATP250,Outdoor,Hard,1st Round,3,Harris L.,Duckworth J.,204,128,289,518,3,6,6,3,6,2,,,,,2,1,Completed,1.4,3,1.42,3.06,1.44,3.07,1.4,2.91
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Kokkinakis T.,Monfils G.,86,322,676,162,1,6,6,3,7,6,,,,,2,1,Completed,1.53,2.5,1.61,2.45,1.61,2.53,1.56,2.4
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Wolf J.J.,Jung J.,46,281,953,194,6,2,6,1,,,,,,,2,0,Completed,1.17,5,1.17,5.88,1.19,5.88,1.16,5.08
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Nakashima B.,Purcell M.,58,74,855,778,6,3,7,6,,,,,,,2,0,Completed,1.25,4,1.29,3.9,1.31,4.01,1.28,3.67
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Nishikori K.,Thompson J.,439,63,98,827,7,6,7,6,,,,,,,2,0,Completed,2,1.8,1.91,1.98,2.02,2,1.89,1.9
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Humbert U.,Lestienne C.,38,95,1102,621,4,6,7,5,7,5,,,,,2,1,Completed,1.4,3,1.41,3.11,1.43,3.25,1.39,2.97
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Wu Y.,Moutet C.,89,73,663,782,6,3,6,4,,,,,,,2,0,Completed,1.44,2.75,1.49,2.81,1.62,3.04,1.46,2.69
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Koepfer D.,Isner J.,88,103,675,605,3,6,7,6,7,6,,,,,2,1,Completed,2.38,1.57,2.58,1.56,2.61,1.62,2.44,1.54
+42,Atlanta,Atlanta Open,25/07/2023,ATP250,Outdoor,Hard,1st Round,3,Cressy M.,Michelsen A.,105,140,605,456,6,3,6,3,,,,,,,2,0,Completed,1.8,2,1.87,2.02,1.89,2.1,1.81,1.98
+42,Atlanta,Atlanta Open,26/07/2023,ATP250,Outdoor,Hard,1st Round,3,Eubanks C.,Martin A.,32,723,1300,34,6,2,6,4,,,,,,,2,0,Completed,1.06,10,1.08,9.6,1.09,10.2,1.07,8.45
+42,Atlanta,Atlanta Open,26/07/2023,ATP250,Outdoor,Hard,1st Round,3,Shang J.,Shelton B.,156,41,388,1075,6,4,6,4,,,,,,,2,0,Completed,2.75,1.44,2.9,1.46,3.1,1.53,2.73,1.45
+42,Atlanta,Atlanta Open,26/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Humbert U.,Harris L.,38,204,1102,289,7,6,6,4,,,,,,,2,0,Completed,2.2,1.67,2.29,1.7,2.35,1.78,2.18,1.68
+42,Atlanta,Atlanta Open,26/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Vukic A.,Nishioka Y.,82,31,716,1315,4,6,7,5,7,6,,,,,2,1,Completed,2.1,1.73,2.09,1.83,2.12,1.86,2.01,1.79
+42,Atlanta,Atlanta Open,27/07/2023,ATP250,Outdoor,Hard,2nd Round,3,De Minaur A.,Kokkinakis T.,17,86,2150,676,6,3,6,4,,,,,,,2,0,Completed,1.3,3.5,1.4,3.22,1.4,3.53,1.35,3.16
+42,Atlanta,Atlanta Open,27/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Eubanks C.,Nakashima B.,32,58,1300,855,6,7,6,4,7,5,,,,,2,1,Completed,2,1.8,2.19,1.76,2.19,1.95,2.04,1.77
+42,Atlanta,Atlanta Open,27/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Koepfer D.,Evans D.,88,30,675,1321,2,6,7,6,6,4,,,,,2,1,Completed,1.91,1.91,1.93,1.98,1.95,2,1.89,1.91
+42,Atlanta,Atlanta Open,27/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Wolf J.J.,Cressy M.,46,105,953,605,7,6,6,3,,,,,,,2,0,Completed,1.57,2.38,1.57,2.58,1.66,2.58,1.54,2.46
+42,Atlanta,Atlanta Open,28/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Fritz T.,Wu Y.,9,89,3310,663,6,4,7,6,,,,,,,2,0,Completed,1.3,3.5,1.33,3.63,1.35,3.96,1.31,3.41
+42,Atlanta,Atlanta Open,28/07/2023,ATP250,Outdoor,Hard,2nd Round,3,Nishikori K.,Shang J.,439,156,98,388,6,4,7,6,,,,,,,2,0,Completed,1.53,2.5,1.55,2.63,1.56,2.64,1.52,2.51
+42,Atlanta,Atlanta Open,28/07/2023,ATP250,Outdoor,Hard,Quarterfinals,3,Wolf J.J.,Koepfer D.,46,88,953,675,6,2,6,3,,,,,,,2,0,Completed,1.44,2.75,1.41,3.18,1.46,3.21,1.4,2.93
+42,Atlanta,Atlanta Open,28/07/2023,ATP250,Outdoor,Hard,Quarterfinals,3,Fritz T.,Nishikori K.,9,439,3310,98,6,4,6,2,,,,,,,2,0,Completed,1.36,3.2,1.41,3.19,1.47,3.2,1.39,2.99
+42,Atlanta,Atlanta Open,29/07/2023,ATP250,Outdoor,Hard,Quarterfinals,3,Vukic A.,Eubanks C.,82,32,716,1300,6,4,6,4,,,,,,,2,0,Completed,2.5,1.53,2.62,1.56,2.62,1.56,2.52,1.53
+42,Atlanta,Atlanta Open,29/07/2023,ATP250,Outdoor,Hard,Quarterfinals,3,Humbert U.,De Minaur A.,38,17,1102,2150,7,6,6,3,,,,,,,2,0,Completed,3.2,1.36,3.2,1.4,3.2,1.48,2.95,1.4
+42,Atlanta,Atlanta Open,29/07/2023,ATP250,Outdoor,Hard,Semifinals,3,Fritz T.,Wolf J.J.,9,46,3310,953,6,3,7,5,,,,,,,2,0,Completed,1.36,3.2,1.38,3.32,1.4,3.32,1.37,3.09
+42,Atlanta,Atlanta Open,30/07/2023,ATP250,Outdoor,Hard,Semifinals,3,Vukic A.,Humbert U.,82,38,716,1102,3,6,7,6,7,5,,,,,2,1,Completed,2.63,1.5,2.85,1.47,2.92,1.56,2.67,1.47
+42,Atlanta,Atlanta Open,30/07/2023,ATP250,Outdoor,Hard,The Final,3,Fritz T.,Vukic A.,9,82,3310,716,7,5,6,7,6,4,,,,,2,1,Completed,1.17,5,1.21,5.15,1.23,5.6,1.18,4.94

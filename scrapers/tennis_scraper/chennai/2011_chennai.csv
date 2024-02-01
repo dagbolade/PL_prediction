@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+2,Chennai,Chennai Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Kendrick R.,Gremelmayr D.,115,121,486,469,7,6,6,4,,,,,,,2,0,Completed,1.5,2.5,1.55,2.4,1.5,2.5,1.54,2.64,1.57,2.25,1.62,2.65,1.55,2.38
+2,Chennai,Chennai Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Phau B.,Bolelli S.,102,107,551,532,6,2,6,2,,,,,,,2,0,Completed,1.72,2,1.7,2.08,1.73,2,1.8,2.11,1.67,2.1,1.82,2.15,1.73,2.03
+2,Chennai,Chennai Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Nishikori K.,Cilic M.,98,14,554,2300,4,6,7,6,6,2,,,,,2,1,Completed,3.25,1.33,2.8,1.4,2.75,1.4,3.29,1.37,2.75,1.4,3.4,1.45,2.9,1.39
+2,Chennai,Chennai Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Robert S.,Haider-Maurer A.,122,119,460,476,6,4,6,4,,,,,,,2,0,Completed,2.5,1.5,2.35,1.55,2.38,1.53,2.54,1.57,2.25,1.57,2.65,1.65,2.36,1.56
+2,Chennai,Chennai Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Dodig I.,Daniel M.,88,96,586,564,6,2,6,2,,,,,,,2,0,Completed,1.3,3.4,1.3,3.3,1.33,3.25,1.37,3.35,1.33,3,1.38,4,1.32,3.24
+2,Chennai,Chennai Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Tipsarevic J.,Schwank E.,49,74,935,655,6,3,6,4,,,,,,,2,0,Completed,1.14,5,1.2,4.25,1.29,3.5,1.2,5.18,1.29,3.25,1.29,5.18,1.23,4.07
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Kudryavtsev A.,Bhambri Y.,60,505,1006,60,6,2,6,1,,,,,,,2,0,Completed,1.4,2.75,1.45,2.6,1.36,3,1.46,2.9,,,1.46,3.04,1.41,2.78
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Gasquet R.,Roger-Vasselin E.,30,124,1385,456,6,1,6,3,,,,,,,2,0,Completed,1.14,5,1.2,4.25,1.22,4,1.19,5.22,1.2,4,1.22,5.22,1.19,4.42
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Malisse X.,Ilhan M.,60,90,816,574,6,3,6,1,,,,,,,2,0,Completed,1.5,2.5,1.55,2.35,1.53,2.38,1.6,2.48,1.57,2.25,1.61,2.65,1.55,2.38
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Berdych T.,Gil F.,6,101,3955,551,6,0,6,1,,,,,,,2,0,Completed,1.05,9,1.07,7,1.08,7,1.09,8.93,1.08,6.5,1.12,10.45,1.07,7.6
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Haase R.,Dancevic F.,65,269,778,172,6,7,6,4,6,4,,,,,2,1,Completed,1.33,3.25,1.35,3,1.36,3,1.36,3.38,1.36,2.88,1.44,3.7,1.37,2.94
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Falla A.,Machado R.,105,93,540,573,7,5,6,3,,,,,,,2,0,Completed,1.44,2.62,1.55,2.35,1.62,2.2,1.51,2.72,1.57,2.25,1.62,2.8,1.51,2.45
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Wawrinka S.,Bopanna R.,21,626,1755,32,6,4,6,4,,,,,,,2,0,Completed,1.05,9,1.07,7.75,1.06,8,1.07,10.48,1.07,7,1.08,12.7,1.06,8.63
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Goffin D.,Devvarman S.,229,108,210,526,6,2,6,4,,,,,,,2,0,Completed,2.75,1.4,2.8,1.4,3,1.36,3.09,1.42,2.88,1.36,3.21,1.49,2.76,1.41
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Sugita Y.,Brown D.,180,92,295,573,6,4,2,6,6,2,,,,,2,1,Completed,2,1.72,2.05,1.72,2.1,1.67,2.05,1.85,2.1,1.67,2.2,1.85,2.07,1.71
+2,Chennai,Chennai Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Kavcic B.,Chardy J.,112,45,516,960,6,3,6,2,,,,,,,2,0,Completed,3.75,1.25,3.3,1.3,3.4,1.3,3.91,1.29,3.25,1.29,3.94,1.33,3.53,1.28
+2,Chennai,Chennai Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Berdych T.,Dodig I.,6,88,3955,586,6,2,6,4,,,,,,,2,0,Completed,1.08,7,1.12,5.5,1.14,5,1.1,8.95,1.13,5.5,1.14,8.95,1.1,6.58
+2,Chennai,Chennai Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Kavcic B.,Kendrick R.,112,115,516,486,6,2,6,2,,,,,,,2,0,Completed,2.25,1.57,2.15,1.65,2.25,1.57,2.18,1.77,2.1,1.67,2.3,1.77,2.15,1.65
+2,Chennai,Chennai Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Phau B.,Gasquet R.,102,30,551,1385,1,6,7,6,7,6,,,,,2,1,Completed,5.5,1.12,4.3,1.2,4.33,1.2,5.98,1.17,4,1.2,6.04,1.2,4.86,1.17
+2,Chennai,Chennai Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Malisse X.,Robert S.,60,122,816,460,6,2,6,2,,,,,,,2,0,Completed,1.22,4,1.25,3.7,1.3,3.4,1.23,4.76,1.29,3.25,1.35,4.76,1.24,3.99
+2,Chennai,Chennai Open,06/01/11,ATP250,Outdoor,Hard,2nd Round,3,Haase R.,Sugita Y.,65,180,778,295,4,6,6,3,6,4,,,,,2,1,Completed,1.22,4,1.25,3.75,1.29,3.5,1.28,4.14,1.25,3.5,1.29,4.7,1.26,3.73
+2,Chennai,Chennai Open,06/01/11,ATP250,Outdoor,Hard,2nd Round,3,Tipsarevic J.,Kudryavtsev A.,49,60,935,1006,6,2,7,6,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.28,4.14,1.29,3.25,1.31,4.55,1.27,3.68
+2,Chennai,Chennai Open,06/01/11,ATP250,Outdoor,Hard,2nd Round,3,Nishikori K.,Falla A.,98,105,554,540,4,6,6,3,6,2,,,,,2,1,Completed,1.38,2.87,1.4,2.8,1.44,2.63,1.39,3.27,1.44,2.63,1.44,3.27,1.38,2.92
+2,Chennai,Chennai Open,06/01/11,ATP250,Outdoor,Hard,2nd Round,3,Wawrinka S.,Goffin D.,21,229,1755,210,7,6,7,6,,,,,,,2,0,Completed,1.1,6.5,1.1,6.5,1.1,6.5,1.13,7.38,1.1,6,1.13,7.74,1.1,6.53
+2,Chennai,Chennai Open,07/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Malisse X.,Phau B.,60,102,816,551,6,0,6,2,,,,,,,2,0,Completed,1.28,3.5,1.35,3.05,1.3,3.4,1.37,3.41,1.36,3,1.4,3.75,1.32,3.28
+2,Chennai,Chennai Open,07/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Berdych T.,Kavcic B.,6,112,3955,516,6,3,6,3,,,,,,,2,0,Completed,1.07,7.5,1.1,6,1.08,7,1.11,8.6,1.08,7.5,1.11,8.6,1.09,7.01
+2,Chennai,Chennai Open,07/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Tipsarevic J.,Nishikori K.,49,98,935,554,6,4,6,4,,,,,,,2,0,Completed,1.4,2.75,1.31,3.25,1.44,2.63,1.4,3.27,1.5,2.63,1.5,3.27,1.43,2.73
+2,Chennai,Chennai Open,07/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Wawrinka S.,Haase R.,21,65,1755,778,3,6,6,3,6,3,,,,,2,1,Completed,1.25,3.75,1.3,3.35,1.22,4,1.32,3.79,1.25,3.75,1.32,4,1.27,3.63
+2,Chennai,Chennai Open,08/01/11,ATP250,Outdoor,Hard,Semifinals,3,Malisse X.,Tipsarevic J.,60,49,816,935,3,6,6,3,6,2,,,,,2,1,Completed,2.37,1.53,2.15,1.65,2.2,1.62,2.43,1.64,2.25,1.62,2.58,1.67,2.28,1.6
+2,Chennai,Chennai Open,08/01/11,ATP250,Outdoor,Hard,Semifinals,3,Wawrinka S.,Berdych T.,21,6,1755,3955,6,4,6,1,,,,,,,2,0,Completed,2.75,1.4,2.8,1.4,2.38,1.53,3.28,1.4,2.63,1.5,3.3,1.55,2.67,1.46
+2,Chennai,Chennai Open,09/01/11,ATP250,Outdoor,Hard,The Final,3,Wawrinka S.,Malisse X.,21,60,1755,816,7,5,4,6,6,1,,,,,2,1,Completed,1.36,3.2,1.33,3.1,1.33,3.25,1.37,3.44,1.33,3.25,1.38,3.6,1.33,3.21

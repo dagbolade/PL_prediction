@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Nieminen J.,Ginepri R.,29,88,935,460,3,6,6,4,7,5,,,,,2,1,Completed,1.8,1.9,1.83,1.95,1.85,1.9,1.909,2,1.77,2
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Karanusic R.,Reister J.,159,290,273,126,6,0,6,3,,,,,,,2,0,Completed,,,,,,,,,,
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Calleri A.,Ferrer D.,51,6,675,2130,6,4,7,6,,,,,,,2,0,Completed,3.75,1.25,3.55,1.28,3.46,1.28,3.62,1.355,3.6,1.27
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Koubek S.,Chela J.I.,55,17,640,1455,6,3,6,4,,,,,,,2,0,Completed,2.1,1.66,2.05,1.75,2.15,1.65,2.19,1.775,1.94,1.82
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Mathieu P.H.,Dancevic F.,21,70,1370,551,6,3,6,1,,,,,,,2,0,Completed,1.28,3.5,1.27,3.65,1.28,3.46,1.29,4.15,1.32,3.25
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Federer R.,Berrer M.,1,56,7205,632,6,1,3,6,6,3,,,,,2,1,Completed,1,17,1.01,13,1.02,13.5,1.018,36,1.02,18
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Gonzalez F.,Haehnel J.,8,242,2020,158,7,6,6,4,,,,,,,2,0,Completed,1.1,6.5,1.13,5.65,1.13,5.5,1.167,6.4,1.12,5.85
+62,Basel,Davidoff Swiss Indoors,23/10/07,International,Indoor,Carpet,1st Round,3,Karlovic I.,Chiudinelli M.,25,387,1295,83,6,3,6,2,,,,,,,2,0,Completed,1.14,5,1.16,5,1.17,4.67,1.2,5.5,1.16,4.9
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Canas G.,Acasuso J.,12,58,1718,623,6,4,6,3,,,,,,,2,0,Completed,1.38,2.87,1.47,2.62,1.48,2.53,1.476,2.9,1.38,2.95
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Golubev A.,Delic A.,178,87,237,461,6,4,6,3,,,,,,,2,0,Completed,1.61,2.2,1.71,2.1,1.75,2.05,1.769,2.2,1.7,2.1
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Berdych T.,Lopez F.,13,36,1715,861,7,6,3,6,6,3,,,,,2,1,Completed,1.53,2.37,1.6,2.3,1.6,2.3,1.633,2.48,1.54,2.4
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Del Potro J.M.,Russell M.,49,71,689,536,5,2,,,,,,,,,0,0,Retired,1.28,3.5,1.28,3.55,1.28,3.46,1.372,3.49,1.3,3.4
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Blake J.,Hernandez O.,7,53,2110,644,6,3,6,4,,,,,,,2,0,Completed,1.03,11,1.03,11,1.05,8.5,1.061,14,1.02,15
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Wawrinka S.,Nalbandian D.,35,18,865,1435,7,6,6,2,,,,,,,2,0,Completed,2.5,1.5,2.25,1.62,2.35,1.55,2.48,1.633,2.2,1.64
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Baghdatis M.,Montanes A.,24,48,1325,690,6,2,6,2,,,,,,,2,0,Completed,1.07,7.5,1.08,7.25,1.1,6.75,1.136,7.65,1.07,8
+62,Basel,Davidoff Swiss Indoors,24/10/07,International,Indoor,Carpet,1st Round,3,Kiefer N.,Berlocq C.,64,69,595,555,6,1,6,1,,,,,,,2,0,Completed,1.06,8,1.06,8.5,1.1,6.75,1.1,9,1.07,8
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Gonzalez F.,Karanusic R.,8,159,2020,273,6,4,7,6,,,,,,,2,0,Completed,1.07,7.5,1.08,7.25,1.07,7.19,1.119,8.6,1.08,7.4
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Karlovic I.,Blake J.,25,7,1295,2110,4,6,7,6,6,4,,,,,2,1,Completed,1.72,2,1.75,2.05,1.7,2.1,1.87,2.05,1.67,2.15
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Nieminen J.,Canas G.,29,12,935,1718,6,4,3,6,7,5,,,,,2,1,Completed,2.5,1.5,2.48,1.52,2.4,1.53,2.81,1.51,2.52,1.5
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Berdych T.,Wawrinka S.,13,35,1715,865,7,5,6,4,,,,,,,2,0,Completed,1.8,1.9,1.78,2,1.8,1.95,1.893,2.02,1.8,1.96
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Kiefer N.,Koubek S.,64,55,595,640,6,3,6,2,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.85,1.4,3.3,1.44,2.7
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Federer R.,Del Potro J.M.,1,49,7205,689,6,1,6,4,,,,,,,2,0,Completed,1.01,13,1.03,11,1.06,7.79,1.056,15,1.03,12.5
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Baghdatis M.,Calleri A.,24,51,1325,675,6,7,6,3,6,3,,,,,2,1,Completed,1.5,2.5,1.6,2.3,1.6,2.3,1.538,2.76,1.6,2.28
+62,Basel,Davidoff Swiss Indoors,25/10/07,International,Indoor,Carpet,2nd Round,3,Mathieu P.H.,Golubev A.,21,178,1370,237,6,7,6,4,6,1,,,,,2,1,Completed,1.12,5.5,1.16,5,1.15,5.2,1.143,7.3,1.15,5.15
+62,Basel,Davidoff Swiss Indoors,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Nieminen J.,Gonzalez F.,29,8,935,2020,6,3,7,5,,,,,,,2,0,Completed,3,1.36,3.13,1.35,2.92,1.37,3.22,1.413,2.85,1.4
+62,Basel,Davidoff Swiss Indoors,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Baghdatis M.,Mathieu P.H.,24,21,1325,1370,6,2,7,6,,,,,,,2,0,Completed,1.9,1.8,1.95,1.83,1.95,1.8,1.885,2.03,1.88,1.88
+62,Basel,Davidoff Swiss Indoors,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Federer R.,Kiefer N.,1,64,7205,595,6,3,6,2,,,,,,,2,0,Completed,1.02,13,1.03,11,1.05,8.5,1.061,14,1.04,11
+62,Basel,Davidoff Swiss Indoors,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Karlovic I.,Berdych T.,25,13,1295,1715,6,7,7,6,7,6,,,,,2,1,Completed,2.25,1.57,2.25,1.62,2.25,1.6,2.5,1.625,2.15,1.67
+62,Basel,Davidoff Swiss Indoors,27/10/07,International,Indoor,Carpet,Semifinals,3,Nieminen J.,Baghdatis M.,29,24,935,1325,7,6,6,2,,,,,,,2,0,Completed,2.62,1.44,2.6,1.48,2.53,1.48,2.78,1.524,2.4,1.54
+62,Basel,Davidoff Swiss Indoors,27/10/07,International,Indoor,Carpet,Semifinals,3,Federer R.,Karlovic I.,1,25,7205,1295,7,6,7,6,,,,,,,2,0,Completed,1.04,10,1.08,7.25,1.1,6.75,1.093,9.76,1.08,7.4
+62,Basel,Davidoff Swiss Indoors,28/10/07,International,Indoor,Carpet,The Final,5,Federer R.,Nieminen J.,1,29,7205,935,6,3,6,4,,,,,,,2,0,Completed,1.01,15,1.02,12,1.04,9.25,1.05,16,1.03,15

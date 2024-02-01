@@ -1,0 +1,56 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Stosur S.,Morita A.,11,42,3215,1253,4,6,6,2,6,3,2,1,Completed,1.2,4.33,1.22,4,1.25,3.75,1.26,4.25,1.25,3.5,1.27,4.68,1.23,3.98
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Petrova N.,Gajdosova J.,28,29,1790,1760,6,1,6,2,,,2,0,Completed,1.33,3.25,1.33,3.15,1.4,2.75,1.38,3.27,1.33,3,1.43,3.3,1.36,3
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Safarova L.,Hercog P.,32,40,1570,1305,6,3,4,6,6,3,2,1,Completed,1.72,2,1.85,1.9,1.67,2.1,1.87,2.02,1.67,2.1,2,2.1,1.79,1.97
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Arn G.,Zakopalova K.,69,43,925,1235,6,3,6,1,,,2,0,Completed,1.61,2.2,1.65,2.15,1.73,2,1.68,2.31,1.62,2.2,1.73,2.38,1.65,2.17
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Voskoboeva G.,Bartoli M.,135,9,512,4425,6,3,6,3,,,2,0,Completed,7,1.1,6,1.11,5.5,1.13,7.59,1.11,6,1.13,8,1.13,6.43,1.1
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Zheng J.,Brianti A.,82,56,797,1061,6,2,6,1,,,2,0,Completed,1.53,2.37,1.55,2.35,1.57,2.25,1.65,2.37,1.62,2.2,1.68,2.45,1.59,2.28
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Halep S.,Kuznetsova S.,55,15,1063,2751,4,6,6,4,6,3,2,1,Completed,3.25,1.33,3.3,1.3,3.25,1.33,3.26,1.38,3.5,1.25,3.6,1.39,3.27,1.32
+41,Toronto,Rogers Cup,08/08/11,Premier,Outdoor,Hard,1st Round,3,Martinez-Sanchez M.J.,Pavlyuchenkova A.,37,13,1351,2775,3,6,6,4,6,1,2,1,Completed,2.2,1.61,2.15,1.65,2.2,1.62,2.27,1.69,2.1,1.67,2.38,1.72,2.19,1.64
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Goerges J.,Jankovic J.,20,14,2295,2775,6,1,6,3,,,2,0,Completed,2.75,1.4,2.65,1.45,2.63,1.44,3.01,1.43,2.63,1.44,3.01,1.5,2.72,1.43
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Makarova E.,Marino R.,41,39,1270,1322,7,6,6,4,,,2,0,Completed,2,1.72,2,1.75,2.1,1.67,2.1,1.81,1.83,1.83,2.19,1.83,2.04,1.72
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Petkovic A.,Bouchard E.,10,351,3375,133,6,2,6,2,,,2,0,Completed,1.04,13,1.03,10,1.03,10,1.02,16,1.04,10,1.05,16.19,1.03,11.68
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Hantuchova D.,Dulko G.,24,52,2115,1099,6,3,6,4,,,2,0,Completed,1.14,5.5,1.16,4.75,1.13,5.5,1.16,5.95,1.17,4.5,1.18,6.16,1.14,5.26
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Pennetta F.,Kirilenko M.,25,26,2060,1905,6,3,6,1,,,2,0,Completed,1.83,1.83,1.9,1.85,1.83,1.83,1.93,1.96,1.91,1.8,2.05,1.96,1.87,1.87
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Medina Garrigues A.,Errani S.,33,36,1500,1420,7,5,6,1,,,2,0,Completed,2.75,1.4,2.5,1.5,2.38,1.53,2.89,1.47,2.63,1.44,2.89,1.53,2.64,1.46
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Vinci R.,Wickmayer Y.,22,19,2195,2470,6,4,6,2,,,2,0,Completed,2.62,1.44,2.65,1.45,2.75,1.4,2.51,1.58,2.63,1.44,2.75,1.59,2.53,1.5
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Peng S.,Dominguez Lino L.,17,47,2600,1198,6,1,7,5,,,2,0,Completed,1.11,6.5,1.1,6.5,1.13,5.5,1.17,5.81,1.14,5,1.17,6.5,1.13,5.72
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Ivanovic A.,Zhang S.,16,99,2685,710,6,1,6,1,,,2,0,Completed,1.12,6,1.15,5,1.11,6,1.14,6.49,1.13,6,1.16,7.5,1.12,5.95
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Dubois S.,Woerle K.,108,141,643,470,7,6,6,1,,,2,0,Completed,1.36,3,1.4,2.8,1.44,2.63,1.38,3.27,1.44,2.63,1.45,3.27,1.39,2.89
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Radwanska A.,Vesnina E.,12,38,3065,1340,6,4,6,1,,,2,0,Completed,1.14,5.5,1.18,4.5,1.2,4.33,1.17,5.81,1.2,4,1.22,6.02,1.16,4.84
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Jovanovski B.,Dokic J.,54,72,1083,875,2,0,,,,,0,0,Retired,1.57,2.25,1.72,2.05,1.57,2.25,1.75,2.18,1.57,2.25,1.74,2.28,1.65,2.17
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Martic P.,Hradecka L.,86,48,776,1181,1,6,6,4,6,4,2,1,Completed,2.1,1.66,2.1,1.7,2,1.73,2.24,1.71,2,1.73,2.25,1.77,2.08,1.7
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Benesova I.,Cibulkova D.,45,18,1218,2595,7,5,4,6,1,3,1,1,Retired,2.62,1.44,2.65,1.45,2.5,1.5,3.04,1.43,2.63,1.44,3.6,1.5,2.8,1.42
+41,Toronto,Rogers Cup,09/08/11,Premier,Outdoor,Hard,1st Round,3,Wozniak A.,Peer S.,150,23,433,2155,6,1,6,0,,,2,0,Completed,2.75,1.4,2.65,1.45,2.75,1.4,2.6,1.55,2.75,1.4,2.78,1.56,2.61,1.46
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,1st Round,3,Williams S.,Bondarenko A.,80,126,810,554,6,0,6,3,,,2,0,Completed,1.03,15,1.03,10,1.04,9,1.04,15.21,1.03,10,1.05,20.25,1.03,11.58
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Zheng J.,Clijsters K.,82,2,797,7625,3,6,2,1,,,0,1,Retired,2.75,1.4,2.8,1.4,3,1.36,3.17,1.41,2.75,1.4,3.25,1.45,2.93,1.38
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Li N.,Peng S.,6,17,5726,2600,,,,,,,,,Walkover,1.5,2.5,1.5,2.5,1.53,2.38,1.68,2.34,1.5,2.5,1.75,2.62,1.56,2.36
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Schiavone F.,Makarova E.,8,41,4831,1270,6,1,6,3,,,2,0,Completed,1.4,2.75,1.45,2.65,1.44,2.63,1.54,2.66,1.5,2.63,1.56,2.8,1.46,2.61
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Kvitova P.,Medina Garrigues A.,7,33,5437,1500,7,6,6,3,,,2,0,Completed,1.16,5,1.2,4.25,1.14,5,1.22,4.85,1.14,5,1.22,5.5,1.17,4.67
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Safarova L.,Halep S.,32,55,1570,1063,6,2,6,4,,,2,0,Completed,1.53,2.37,1.6,2.25,1.5,2.5,1.72,2.25,1.57,2.25,1.72,2.5,1.57,2.33
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Martinez-Sanchez M.J.,Hantuchova D.,37,24,1351,2115,7,5,6,2,,,2,0,Completed,2.75,1.4,2.65,1.45,2.5,1.5,2.8,1.5,2.75,1.4,3.13,1.67,2.6,1.46
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Vinci R.,Wozniacki C.,22,1,2195,9915,6,4,7,5,,,2,0,Completed,4.5,1.18,4.15,1.2,4.33,1.2,5.12,1.21,4.5,1.2,5.12,1.22,4.57,1.18
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Radwanska A.,Martic P.,12,86,3065,776,6,3,6,3,,,2,0,Completed,1.08,8,1.08,7,1.08,7,1.11,8.36,1.07,7,1.11,8.5,1.08,7.21
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Stosur S.,Wozniak A.,11,150,3215,433,6,3,6,4,,,2,0,Completed,1.66,2.1,1.75,2,1.62,2.2,1.79,2.14,1.53,2.38,1.83,2.75,1.69,2.13
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Voskoboeva G.,Pennetta F.,135,25,512,2060,2,6,6,3,6,2,2,1,Completed,2.5,1.5,2.35,1.55,2.38,1.53,2.32,1.68,2.5,1.5,2.63,1.7,2.4,1.54
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Petkovic A.,Arn G.,10,69,3375,925,6,4,7,5,,,2,0,Completed,1.18,4.5,1.2,4.25,1.25,3.75,1.26,4.34,1.14,5,1.3,5,1.2,4.24
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Williams S.,Goerges J.,80,20,810,2295,6,1,7,6,,,2,0,Completed,1.07,9,1.11,5.75,1.13,5.5,1.15,6.34,1.07,8,1.15,9,1.1,6.54
+41,Toronto,Rogers Cup,10/08/11,Premier,Outdoor,Hard,2nd Round,3,Ivanovic A.,Benesova I.,16,45,2685,1218,6,3,6,2,,,2,0,Completed,1.14,5.5,1.15,5,1.14,5,1.21,5.12,1.14,5,1.25,5.5,1.16,4.84
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,2nd Round,3,Zvonareva V.,Petrova N.,3,28,7045,1790,7,5,6,4,,,2,0,Completed,1.5,2.5,1.55,2.35,1.5,2.5,1.51,2.75,1.53,2.38,1.56,3,1.5,2.53
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,2nd Round,3,Sharapova M.,Jovanovski B.,5,54,5941,1083,6,1,7,5,,,2,0,Completed,1.14,5.5,1.16,4.75,1.17,4.5,1.17,5.98,1.17,4.5,1.2,6,1.15,5.05
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,2nd Round,3,Azarenka V.,Dubois S.,4,108,6115,643,6,0,6,0,,,2,0,Completed,1.08,8,1.11,6,1.13,5.5,1.12,7.75,1.1,6,1.13,8,1.1,6.63
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,3rd Round,3,Stosur S.,Li N.,11,6,3215,5726,6,2,6,4,,,2,0,Completed,2,1.72,1.95,1.8,1.73,2,2.06,1.88,1.8,2,2.2,2.1,1.89,1.86
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,3rd Round,3,Petkovic A.,Kvitova P.,10,7,3375,5437,6,1,6,2,,,2,0,Completed,2.62,1.44,2.5,1.5,2.63,1.44,2.59,1.58,2.5,1.53,2.65,1.62,2.48,1.52
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,3rd Round,3,Vinci R.,Ivanovic A.,22,16,2195,2685,7,6,6,2,,,2,0,Completed,3,1.36,3,1.35,3,1.36,3.41,1.37,3.25,1.33,3.4,1.4,3.1,1.35
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,3rd Round,3,Azarenka V.,Martinez-Sanchez M.J.,4,37,6115,1351,6,1,6,2,,,2,0,Completed,1.22,4,1.22,4,1.25,3.75,1.24,4.68,1.2,4.33,1.25,4.68,1.22,4.07
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,3rd Round,3,Voskoboeva G.,Sharapova M.,135,5,512,5941,6,3,7,5,,,2,0,Completed,6,1.12,5.75,1.12,5,1.14,5.57,1.19,5.5,1.14,6.1,1.25,5.37,1.14
+41,Toronto,Rogers Cup,11/08/11,Premier,Outdoor,Hard,3rd Round,3,Radwanska A.,Zvonareva V.,12,3,3065,7045,6,4,7,6,,,2,0,Completed,2,1.72,2.15,1.65,2,1.73,2.31,1.7,2.1,1.73,2.31,1.77,2.09,1.69
+41,Toronto,Rogers Cup,12/08/11,Premier,Outdoor,Hard,3rd Round,3,Williams S.,Zheng J.,80,82,810,797,4,6,6,3,6,3,2,1,Completed,1.06,10,1.06,8,1.06,8,1.08,10.75,1.05,9,1.09,10.4,1.06,8.22
+41,Toronto,Rogers Cup,12/08/11,Premier,Outdoor,Hard,3rd Round,3,Safarova L.,Schiavone F.,32,8,1570,4831,6,3,6,3,,,2,0,Completed,2.37,1.53,2.35,1.55,2.25,1.57,2.29,1.71,2.5,1.53,2.5,1.76,2.29,1.6
+41,Toronto,Rogers Cup,12/08/11,Premier,Outdoor,Hard,Quarterfinals,3,Stosur S.,Vinci R.,11,22,3215,2195,6,4,6,1,,,2,0,Completed,1.5,2.5,1.55,2.35,1.53,2.5,1.6,2.55,1.53,2.5,1.62,2.71,1.52,2.47
+41,Toronto,Rogers Cup,12/08/11,Premier,Outdoor,Hard,Quarterfinals,3,Azarenka V.,Voskoboeva G.,4,135,6115,512,6,1,6,2,,,2,0,Completed,1.14,5.5,1.18,4.5,1.14,5,1.17,5.96,1.14,5.5,1.49,5.96,1.18,4.79
+41,Toronto,Rogers Cup,12/08/11,Premier,Outdoor,Hard,Quarterfinals,3,Radwanska A.,Petkovic A.,12,10,3065,3375,6,4,6,3,,,2,0,Completed,1.8,1.9,1.85,1.9,1.8,2,1.88,2.05,1.73,2.1,1.88,2.11,1.8,1.97
+41,Toronto,Rogers Cup,13/08/11,Premier,Outdoor,Hard,Quarterfinals,3,Williams S.,Safarova L.,80,32,810,1570,4,6,6,3,6,2,2,1,Completed,1.14,5.5,1.18,4.5,1.17,5,1.18,5.88,1.17,5,1.22,5.9,1.16,5.05
+41,Toronto,Rogers Cup,13/08/11,Premier,Outdoor,Hard,Semifinals,3,Stosur S.,Radwanska A.,11,12,3215,3065,6,2,5,7,6,2,2,1,Completed,2.2,1.61,2.08,1.7,2.1,1.73,2.22,1.76,2.2,1.67,2.3,1.83,2.11,1.7
+41,Toronto,Rogers Cup,13/08/11,Premier,Outdoor,Hard,Semifinals,3,Williams S.,Azarenka V.,80,4,810,6115,6,3,6,3,,,2,0,Completed,2,1.72,2,1.75,2.1,1.73,2.29,1.71,2,1.73,2.29,2.15,2.01,1.77
+41,Toronto,Rogers Cup,14/08/11,Premier,Outdoor,Hard,The Final,3,Williams S.,Stosur S.,80,11,810,3215,6,4,6,2,,,2,0,Completed,1.28,3.75,1.24,3.79,1.29,3.75,1.34,3.65,1.29,3.5,1.34,3.95,1.28,3.54

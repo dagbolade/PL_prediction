@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+47,Kitzbuhel,Generali Open,30/07/18,ATP250,Outdoor,Clay,1st Round,3,Kukushkin M.,Moutet C.,87,109,669,502,4,6,6,3,6,4,,,,,2,1,Completed,1.83,1.83,1.8,1.9,1.8,2,1.85,2.05,1.92,2.05,1.85,1.95
+47,Kitzbuhel,Generali Open,30/07/18,ATP250,Outdoor,Clay,1st Round,3,Munar J.,Hanfmann Y.,88,135,668,430,2,6,7,6,6,1,,,,,2,1,Completed,1.9,1.8,1.95,1.75,2,1.8,2.08,1.83,2.13,1.95,1.99,1.82
+47,Kitzbuhel,Generali Open,30/07/18,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Delbonis F.,95,107,597,510,7,6,6,2,,,,,,,2,0,Completed,2.37,1.53,2.4,1.5,2.5,1.53,2.73,1.51,2.73,1.57,2.5,1.54
+47,Kitzbuhel,Generali Open,30/07/18,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Garcia-Lopez G.,66,71,850,805,6,4,6,2,,,,,,,2,0,Completed,1.4,2.75,1.4,2.75,1.44,2.75,1.44,2.98,1.45,3.05,1.42,2.88
+47,Kitzbuhel,Generali Open,30/07/18,ATP250,Outdoor,Clay,1st Round,3,Novak D.,Rodionov J.,136,268,423,199,6,4,0,6,6,1,,,,,2,1,Completed,1.8,1.9,1.8,1.9,1.91,1.91,1.78,2.14,1.91,2.16,1.82,2
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Jarry N.,Carballes Baena R.,53,84,969,686,7,6,6,7,6,4,,,,,2,1,Completed,1.61,2.2,1.53,2.35,1.61,2.25,1.56,2.56,1.67,2.6,1.56,2.42
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Albot R.,Kovalik J.,98,82,578,701,6,1,6,3,,,,,,,2,0,Completed,3.25,1.33,3.1,1.32,3.25,1.36,3.3,1.38,3.4,1.4,3.17,1.36
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Marterer M.,Zopp J.,47,96,997,596,6,4,3,6,6,3,,,,,2,1,Completed,1.53,2.37,1.53,2.35,1.57,2.37,1.56,2.57,1.61,2.6,1.56,2.43
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Daniel T.,Struff J.L.,81,56,713,920,7,6,6,1,,,,,,,2,0,Completed,2.1,1.66,2.2,1.6,2.25,1.61,2.34,1.66,2.5,1.67,2.29,1.62
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Basilashvili N.,90,35,649,1215,6,3,6,3,,,,,,,2,0,Completed,1.61,2.2,1.6,2.2,1.57,2.37,1.7,2.26,1.74,2.48,1.62,2.29
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Berrettini M.,Simon G.,54,40,927,1060,1,6,6,3,6,4,,,,,2,1,Completed,1.9,1.8,1.75,1.95,1.8,2,1.83,2.07,2.1,2.1,1.82,1.99
+47,Kitzbuhel,Generali Open,31/07/18,ATP250,Outdoor,Clay,1st Round,3,Klizan M.,Ofner S.,112,157,491,360,6,2,6,4,,,,,,,2,0,Completed,1.36,3,1.4,2.75,1.44,2.75,1.44,2.99,1.5,3.05,1.42,2.86
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Munar J.,Haase R.,88,38,668,1110,7,6,6,4,,,,,,,2,0,Completed,1.9,1.8,1.95,1.75,2,1.8,2.12,1.81,2.15,1.86,2.04,1.77
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Marterer M.,Kukushkin M.,47,87,997,669,6,3,6,4,,,,,,,2,0,Completed,1.66,2.1,1.62,2.15,1.67,2.2,1.75,2.2,1.75,2.3,1.67,2.2
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Daniel T.,Djere L.,81,90,713,649,6,3,6,2,,,,,,,2,0,Completed,2.25,1.57,2.1,1.65,2.1,1.73,2.2,1.76,2.35,1.77,2.15,1.7
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Istomin D.,Kohlschreiber P.,95,29,597,1475,5,7,6,3,6,1,,,,,2,1,Completed,3.5,1.28,3.35,1.28,3.5,1.3,3.43,1.36,3.65,1.37,3.43,1.31
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Jarry N.,Verdasco F.,53,33,969,1305,6,7,7,5,6,3,,,,,2,1,Completed,2.1,1.66,2,1.72,2,1.8,2.2,1.75,2.2,1.82,2.06,1.76
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Novak D.,66,136,850,423,6,2,6,4,,,,,,,2,0,Completed,1.36,3,1.33,3.05,1.36,3.25,1.37,3.4,1.38,3.5,1.35,3.23
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Berrettini M.,Albot R.,54,98,927,578,6,3,6,7,6,1,,,,,2,1,Completed,1.44,2.62,1.4,2.75,1.44,2.75,1.47,2.91,1.48,3,1.44,2.79
+47,Kitzbuhel,Generali Open,01/08/18,ATP250,Outdoor,Clay,2nd Round,3,Klizan M.,Thiem D.,112,8,491,3665,6,1,1,6,7,5,,,,,2,1,Completed,4.33,1.2,3.95,1.21,4,1.25,4.14,1.28,4.5,1.28,4.12,1.23
+47,Kitzbuhel,Generali Open,02/08/18,ATP250,Outdoor,Clay,Quarterfinals,3,Istomin D.,Marterer M.,95,47,597,997,6,3,6,3,,,,,,,2,0,Completed,2.37,1.57,2.35,1.53,2.37,1.57,2.74,1.53,2.74,1.63,2.46,1.55
+47,Kitzbuhel,Generali Open,02/08/18,ATP250,Outdoor,Clay,Quarterfinals,3,Jarry N.,Berrettini M.,53,54,969,927,7,5,6,3,,,,,,,2,0,Completed,1.9,1.9,1.85,1.85,1.91,1.91,2.11,1.83,2.11,2,1.94,1.87
+47,Kitzbuhel,Generali Open,02/08/18,ATP250,Outdoor,Clay,Quarterfinals,3,Munar J.,Daniel T.,88,81,668,713,7,6,6,3,,,,,,,2,0,Completed,1.8,2,1.8,1.9,1.91,1.91,1.92,2.01,1.95,2.1,1.85,1.95
+47,Kitzbuhel,Generali Open,02/08/18,ATP250,Outdoor,Clay,Quarterfinals,3,Klizan M.,Lajovic D.,112,66,491,850,4,6,7,6,6,2,,,,,2,1,Completed,2.2,1.66,2.1,1.65,1.36,3,2.23,1.75,2.3,1.78,2.16,1.7
+47,Kitzbuhel,Generali Open,03/08/18,ATP250,Outdoor,Clay,Semifinals,3,Istomin D.,Jarry N.,95,53,597,969,7,5,6,7,6,4,,,,,2,1,Completed,2.5,1.53,2.4,1.5,2.37,1.57,2.58,1.58,2.6,1.63,2.45,1.55
+47,Kitzbuhel,Generali Open,03/08/18,ATP250,Outdoor,Clay,Semifinals,3,Klizan M.,Munar J.,112,88,491,668,7,6,6,3,,,,,,,2,0,Completed,1.66,2.2,1.62,2.15,1.67,2.2,1.68,2.36,1.74,2.52,1.62,2.3
+47,Kitzbuhel,Generali Open,04/08/18,ATP250,Outdoor,Clay,The Final,3,Klizan M.,Istomin D.,112,95,491,597,6,2,6,2,,,,,,,2,0,Completed,1.53,2.5,1.55,2.3,1.61,2.25,1.59,2.55,1.66,2.6,1.56,2.46

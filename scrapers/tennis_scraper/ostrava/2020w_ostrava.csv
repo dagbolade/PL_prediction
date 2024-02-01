@@ -1,0 +1,28 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+23,Ostrava,Ostrava Open,19/10/2020,Premier,Indoor,Hard,1st Round,3,Kontaveit A.,Alexandrova E.,22,33,2330,1775,4,6,6,2,7,6,2,1,Completed,1.61,2.2,1.72,2.23,1.73,2.31,1.68,2.18
+23,Ostrava,Ostrava Open,19/10/2020,Premier,Indoor,Hard,1st Round,3,Sorribes Tormo S.,Linette M.,73,40,945,1573,6,1,6,3,,,2,0,Completed,2.25,1.57,2.31,1.68,2.35,1.69,2.25,1.63
+23,Ostrava,Ostrava Open,19/10/2020,Premier,Indoor,Hard,1st Round,3,Sakkari M.,Pliskova Kr.,23,68,2300,1020,6,3,6,3,,,2,0,Completed,1.5,2.5,1.48,2.85,1.54,2.88,1.49,2.61
+23,Ostrava,Ostrava Open,19/10/2020,Premier,Indoor,Hard,1st Round,3,Krejcikova B.,Martincova T.,85,121,868,620,7,5,6,1,,,2,0,Completed,1.53,2.37,1.67,2.33,1.67,2.42,1.6,2.31
+23,Ostrava,Ostrava Open,20/10/2020,Premier,Indoor,Hard,1st Round,3,Kudermetova V.,Vekic D.,47,31,1388,1880,6,2,6,4,,,2,0,Completed,1.9,1.9,1.83,2.08,1.92,2.08,1.83,1.96
+23,Ostrava,Ostrava Open,20/10/2020,Premier,Indoor,Hard,1st Round,3,Kasatkina D.,Rybakina E.,75,19,935,2696,6,2,3,6,6,3,2,1,Completed,2.75,1.4,2.86,1.47,3.04,1.52,2.72,1.45
+23,Ostrava,Ostrava Open,20/10/2020,Premier,Indoor,Hard,1st Round,3,Brady J.,Yastremska D.,26,29,2165,1925,3,6,7,6,6,1,2,1,Completed,1.57,2.25,1.6,2.47,1.64,2.5,1.58,2.36
+23,Ostrava,Ostrava Open,20/10/2020,Premier,Indoor,Hard,1st Round,3,Muchova K.,Zhang S.,28,35,1982,1693,6,1,6,1,,,2,0,Completed,1.36,3,1.37,3.35,1.37,3.45,1.34,3.22
+23,Ostrava,Ostrava Open,20/10/2020,Premier,Indoor,Hard,1st Round,3,Gauff C.,Siniakova K.,55,65,1284,1075,7,5,6,4,,,2,0,Completed,1.28,3.5,1.31,3.77,1.43,3.77,1.3,3.46
+23,Ostrava,Ostrava Open,20/10/2020,Premier,Indoor,Hard,1st Round,3,Jabeur O.,Strycova B.,32,37,1803,1630,6,2,6,2,,,2,0,Completed,1.5,2.5,1.53,2.67,1.56,2.73,1.51,2.55
+23,Ostrava,Ostrava Open,21/10/2020,Premier,Indoor,Hard,1st Round,3,Mertens E.,Anisimova A.,21,30,2490,1905,6,2,6,3,,,2,0,Completed,1.83,1.83,1.45,2.93,1.83,2.93,1.47,2.7
+23,Ostrava,Ostrava Open,21/10/2020,Premier,Indoor,Hard,1st Round,3,Ostapenko J.,Martic P.,44,18,1485,2850,6,3,6,1,,,2,0,Completed,1.83,1.83,2.15,1.78,2.2,1.85,2.08,1.74
+23,Ostrava,Ostrava Open,21/10/2020,Premier,Indoor,Hard,2nd Round,3,Azarenka V.,Krejcikova B.,14,85,3122,868,2,6,6,2,6,1,2,1,Completed,1.28,3.5,1.33,3.69,1.37,3.75,1.3,3.49
+23,Ostrava,Ostrava Open,21/10/2020,Premier,Indoor,Hard,2nd Round,3,Sakkari M.,Svitolina E.,23,5,2300,5260,6,3,6,3,,,2,0,Completed,2.2,1.61,2.18,1.76,2.35,1.82,2.1,1.73
+23,Ostrava,Ostrava Open,21/10/2020,Premier,Indoor,Hard,2nd Round,3,Sorribes Tormo S.,Kontaveit A.,73,22,945,2330,6,1,6,4,,,2,0,Completed,3.5,1.28,4.37,1.26,4.37,1.31,3.82,1.26
+23,Ostrava,Ostrava Open,22/10/2020,Premier,Indoor,Hard,2nd Round,3,Jabeur O.,Ostapenko J.,32,44,1803,1485,6,4,6,4,,,2,0,Completed,1.75,2,1.73,2.24,1.81,2.3,1.73,2.09
+23,Ostrava,Ostrava Open,22/10/2020,Premier,Indoor,Hard,2nd Round,3,Sabalenka A.,Gauff C.,12,55,3675,1284,1,6,7,5,7,6,2,1,Completed,1.8,1.95,1.93,1.98,1.93,2.1,1.8,1.99
+23,Ostrava,Ostrava Open,22/10/2020,Premier,Indoor,Hard,2nd Round,3,Mertens E.,Muchova K.,21,28,2490,1982,6,4,6,2,,,2,0,Completed,1.53,2.37,1.72,2.26,1.72,2.4,1.64,2.24
+23,Ostrava,Ostrava Open,22/10/2020,Premier,Indoor,Hard,2nd Round,3,Kudermetova V.,Pliskova Ka.,47,6,1388,5205,4,6,6,4,6,3,2,1,Completed,2.5,1.5,2.66,1.54,2.72,1.59,2.51,1.53
+23,Ostrava,Ostrava Open,22/10/2020,Premier,Indoor,Hard,2nd Round,3,Brady J.,Kasatkina D.,26,75,2165,935,7,5,6,2,,,2,0,Completed,1.44,2.62,1.48,2.86,1.53,2.9,1.45,2.75
+23,Ostrava,Ostrava Open,23/10/2020,Premier,Indoor,Hard,Quarterfinals,3,Sakkari M.,Jabeur O.,23,32,2300,1803,3,6,6,3,6,1,2,1,Completed,1.95,1.8,1.88,2.02,2.04,2.03,1.94,1.87
+23,Ostrava,Ostrava Open,23/10/2020,Premier,Indoor,Hard,Quarterfinals,3,Azarenka V.,Mertens E.,14,21,3122,2490,6,4,6,1,,,2,0,Completed,1.66,2.1,1.72,2.25,1.77,2.28,1.69,2.17
+23,Ostrava,Ostrava Open,23/10/2020,Premier,Indoor,Hard,Quarterfinals,3,Brady J.,Kudermetova V.,26,47,2165,1388,6,7,6,3,6,1,2,1,Completed,1.44,2.62,1.51,2.75,1.55,2.9,1.49,2.62
+23,Ostrava,Ostrava Open,23/10/2020,Premier,Indoor,Hard,Quarterfinals,3,Sabalenka A.,Sorribes Tormo S.,12,73,3675,945,0,6,6,4,6,0,2,1,Completed,1.33,3.25,1.38,3.32,1.44,3.55,1.34,3.24
+23,Ostrava,Ostrava Open,24/10/2020,Premier,Indoor,Hard,Semifinals,3,Azarenka V.,Sakkari M.,14,23,3122,2300,6,1,6,3,,,2,0,Completed,1.44,2.75,1.59,2.53,1.65,2.81,1.51,2.58
+23,Ostrava,Ostrava Open,24/10/2020,Premier,Indoor,Hard,Semifinals,3,Sabalenka A.,Brady J.,12,26,3675,2165,6,4,6,4,,,2,0,Completed,2.5,1.53,2.54,1.58,2.56,1.71,2.4,1.58
+23,Ostrava,Ostrava Open,25/10/2020,Premier,Indoor,Hard,The Final,3,Sabalenka A.,Azarenka V.,12,14,3675,3122,6,2,6,2,,,2,0,Completed,2.37,1.53,2.8,1.5,2.88,1.56,2.63,1.49

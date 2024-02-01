@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Berdych T.,Smeets R.,13,368,1655,92,6,2,7,5,,,,,,,2,0,Completed,1.08,6.5,1.1,7,1.07,7.19,,,1.1,6.6
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Verdasco F.,Grosjean S.,35,28,910,965,6,4,6,4,,,,,,,2,0,Completed,2.25,1.57,2.4,1.57,2.3,1.6,2.6,1.588,2.28,1.6
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Hernych J.,Seppi A.,75,78,511,493,6,4,6,2,,,,,,,2,0,Completed,1.61,2.2,1.62,2.3,1.6,2.25,1.613,2.53,1.64,2.2
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Baghdatis M.,Gulbis E.,11,141,1860,328,7,6,6,1,,,,,,,2,0,Completed,1.2,4,1.25,3.95,1.25,3.75,,,1.29,3.45
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Ginepri R.,Mayer F.,52,57,725,700,6,3,6,2,,,,,,,2,0,Completed,1.39,2.75,1.5,2.6,1.37,2.92,1.465,2.95,1.5,2.5
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Becker B.,Volandri F.,58,43,686,809,6,3,6,2,,,,,,,2,0,Completed,1.5,2.5,1.53,2.5,1.55,2.35,1.578,2.63,1.58,2.32
+5,Sydney,Sydney International,08/01/07,International,Outdoor,Hard,1st Round,3,Korolev E.,Lee H.T.,102,48,424,747,6,7,6,3,6,2,,,,,2,1,Completed,,,,,,,,,,
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Blake J.,Kim K.,5,97,2530,433,6,3,6,4,,,,,,,2,0,Completed,1.12,5.5,1.15,5.5,1.15,4.9,1.149,7.1,1.17,4.8
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Minar I.,Srichaphan P.,161,54,263,725,6,2,3,0,,,,,,,1,0,Retired,2.37,1.53,2.35,1.6,2.3,1.6,2.42,1.658,2.33,1.57
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Gasquet R.,Benneteau J.,18,37,1385,902,6,1,6,4,,,,,,,2,0,Completed,1.28,3.25,1.28,3.65,1.26,3.59,1.295,4.09,1.27,3.6
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Moya C.,Bourgeois L.,44,369,790,92,7,6,4,6,7,6,,,,,2,1,Completed,1.1,6,1.08,8,,,1.124,8.24,1.08,7.2
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Melzer J.,Santoro F.,40,50,865,740,6,2,2,6,6,4,,,,,2,1,Completed,2.1,1.66,2.15,1.7,2,1.75,2.22,1.758,2.05,1.73
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Guccione C.,Nadal R.,107,2,402,4525,6,5,,,,,,,,,0,0,Retired,4.5,1.16,4.55,1.2,4.25,1.2,4.47,1.265,3.9,1.24
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Mathieu P.H.,Clement A.,51,41,735,850,7,6,6,4,,,,,,,2,0,Completed,2,1.72,2,1.81,2.2,1.65,2.11,1.826,2.02,1.75
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Healey N.,Koubek S.,163,62,258,605,6,3,7,5,,,,,,,2,0,Completed,2.25,1.57,2.27,1.63,2.12,1.67,1.629,2.49,1.95,1.8
+5,Sydney,Sydney International,09/01/07,International,Outdoor,Hard,1st Round,3,Davydenko N.,Spadea V.,3,70,2825,544,3,6,6,3,6,4,,,,,2,1,Completed,1.22,4,1.22,4.25,1.3,3.45,1.241,4.75,1.25,3.8
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Baghdatis M.,Hernych J.,11,75,1860,511,6,4,6,7,6,3,,,,,2,1,Completed,1.25,3.75,1.28,3.65,1.34,3.12,1.299,4.04,1.31,3.3
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Korolev E.,Ginepri R.,102,52,424,725,0,6,6,4,6,4,,,,,2,1,Completed,2.87,1.38,2.95,1.4,2.6,1.45,2.96,1.463,2.85,1.4
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Gasquet R.,Becker B.,18,58,1385,686,6,3,6,4,,,,,,,2,0,Completed,1.22,4,1.22,4.25,1.25,3.9,1.31,3.93,1.23,4
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Blake J.,Healey N.,5,163,2530,258,6,2,6,4,,,,,,,2,0,Completed,1.05,8.5,1.07,8.5,1.11,5.84,1.099,9.15,1.07,7.8
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Moya C.,Verdasco F.,44,35,790,910,4,6,7,6,6,3,,,,,2,1,Completed,2.1,1.66,2.2,1.67,2.25,1.6,2.33,1.699,2.16,1.66
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Mathieu P.H.,Davydenko N.,51,3,735,2825,6,4,,,,,,,,,1,0,Retired,2.75,1.39,2.75,1.45,2.28,1.58,2.78,1.524,2.4,1.55
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Berdych T.,Minar I.,13,161,1655,263,6,7,6,0,6,4,,,,,2,1,Completed,1.12,5.5,1.16,5.25,1.15,5.2,1.211,5.35,1.2,4.3
+5,Sydney,Sydney International,10/01/07,International,Outdoor,Hard,2nd Round,3,Melzer J.,Guccione C.,40,107,865,402,7,6,6,3,,,,,,,2,0,Completed,2.1,1.66,2.15,1.67,2.25,1.6,2.31,1.709,2.15,1.65
+5,Sydney,Sydney International,11/01/07,International,Outdoor,Hard,Quarterfinals,3,Blake J.,Korolev E.,5,102,2530,424,6,1,6,4,,,,,,,2,0,Completed,1.11,5.5,1.16,5.25,1.17,4.67,1.212,5.32,1.18,4.6
+5,Sydney,Sydney International,11/01/07,International,Outdoor,Hard,Quarterfinals,3,Melzer J.,Berdych T.,40,13,865,1655,6,2,6,4,,,,,,,2,0,Completed,3.5,1.28,3.5,1.3,3.22,1.32,3.8,1.323,3.12,1.34
+5,Sydney,Sydney International,11/01/07,International,Outdoor,Hard,Quarterfinals,3,Moya C.,Baghdatis M.,44,11,790,1860,6,1,3,6,7,6,,,,,2,1,Completed,2.62,1.44,2.85,1.42,2.45,1.5,2.95,1.465,2.75,1.42
+5,Sydney,Sydney International,11/01/07,International,Outdoor,Hard,Quarterfinals,3,Gasquet R.,Mathieu P.H.,18,51,1385,735,6,4,6,7,6,0,,,,,2,1,Completed,1.28,3.5,1.3,3.5,1.32,3.22,1.325,3.78,1.3,3.4
+5,Sydney,Sydney International,12/01/07,International,Outdoor,Hard,Semifinals,3,Blake J.,Melzer J.,5,40,2530,865,,,,,,,,,,,,,Walkover,1.16,4.5,1.22,4.25,1.25,3.9,1.244,4.7,1.25,3.8
+5,Sydney,Sydney International,12/01/07,International,Outdoor,Hard,Semifinals,3,Moya C.,Gasquet R.,44,18,790,1385,6,3,4,6,6,2,,,,,2,1,Completed,3.25,1.33,3.2,1.35,3.22,1.32,3.49,1.372,2.95,1.38
+5,Sydney,Sydney International,13/01/07,International,Outdoor,Hard,The Final,3,Blake J.,Moya C.,5,44,2530,790,6,3,5,7,6,1,,,,,2,1,Completed,1.25,3.75,1.22,4.25,1.25,3.75,1.273,4.36,1.3,3.4

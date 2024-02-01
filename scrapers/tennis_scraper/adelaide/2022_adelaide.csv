@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+1,Adelaide,Adelaide International 1,03/01/2022,ATP250,Outdoor,Hard,1st Round,3,Kwon S.W.,Nishioka Y.,53,81,1115,823,6,1,6,2,,,,,,,2,0,Completed,1.61,2.3,1.7,2.26,1.76,2.5,1.64,2.22
+1,Adelaide,Adelaide International 1,03/01/2022,ATP250,Outdoor,Hard,1st Round,3,Monteiro T.,Altmaier D.,89,84,805,813,6,2,3,6,7,6,,,,,2,1,Completed,2.3,1.61,2.49,1.6,2.6,1.62,2.38,1.57
+1,Adelaide,Adelaide International 1,03/01/2022,ATP250,Outdoor,Hard,1st Round,3,Djere L.,Carballes Baena R.,52,79,1131,837,7,5,7,6,,,,,,,2,0,Completed,1.66,2.2,1.81,2.1,1.83,2.26,1.7,2.12
+1,Adelaide,Adelaide International 1,03/01/2022,ATP250,Outdoor,Hard,1st Round,3,Johnson S.,Vukic A.,85,156,812,440,6,4,2,6,6,4,,,,,2,1,Completed,2,1.8,2.21,1.74,2.3,1.8,2.1,1.72
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Moutet C.,Rune H.,92,103,797,740,7,6,6,4,,,,,,,2,0,Completed,2.75,1.44,2.66,1.53,2.81,1.54,2.64,1.47
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Daniel T.,Musetti L.,125,59,584,1004,6,4,6,7,6,3,,,,,2,1,Completed,2,1.8,2.19,1.75,2.25,1.8,2.09,1.73
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Gerasimov E.,Fucsovics M.,113,40,665,1459,6,3,6,4,,,,,,,2,0,Completed,2.37,1.57,2.91,1.46,2.91,1.57,2.62,1.48
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Ymer M.,Bonzi B.,94,64,782,969,7,5,7,5,,,,,,,2,0,Completed,2,1.8,2.15,1.78,2.15,1.82,2.04,1.77
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Cerundolo J.M.,Bolt A.,90,137,803,506,6,2,6,4,,,,,,,2,0,Completed,2.75,1.44,2.87,1.47,3.32,1.47,2.89,1.41
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Paul T.,Vesely J.,43,83,1349,822,6,4,4,6,6,4,,,,,2,1,Completed,1.33,3.4,1.35,3.45,1.35,3.6,1.32,3.35
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Mager G.,Cerundolo F.,62,127,978,582,6,4,3,6,6,4,,,,,2,1,Completed,2,1.8,1.94,1.94,2,2.07,1.9,1.88
+1,Adelaide,Adelaide International 1,04/01/2022,ATP250,Outdoor,Hard,1st Round,3,Kokkinakis T.,Millman J.,171,72,394,875,6,4,6,3,,,,,,,2,0,Completed,1.72,2.1,1.8,2.11,1.87,2.15,1.77,2.03
+1,Adelaide,Adelaide International 1,05/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Djere L.,Moutet C.,52,92,1131,797,4,6,7,5,,,,,,,1,1,Retired,2.3,1.61,2.31,1.69,2.49,1.72,2.28,1.62
+1,Adelaide,Adelaide International 1,05/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Cilic M.,Monteiro T.,30,89,1710,805,6,4,7,6,,,,,,,2,0,Completed,1.3,3.5,1.34,3.6,1.35,3.7,1.3,3.44
+1,Adelaide,Adelaide International 1,05/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Ymer M.,Kwon S.W.,94,53,782,1115,6,3,6,2,,,,,,,2,0,Completed,2.37,1.57,2.33,1.68,2.41,1.71,2.31,1.6
+1,Adelaide,Adelaide International 1,05/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Kokkinakis T.,Tiafoe F.,171,38,394,1492,3,6,7,5,6,1,,,,,2,1,Completed,2.3,1.61,2.37,1.66,2.4,1.73,2.26,1.63
+1,Adelaide,Adelaide International 1,06/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Paul T.,Daniel T.,43,125,1349,584,6,4,6,7,6,4,,,,,2,1,Completed,1.33,3.4,1.3,3.93,1.38,3.93,1.29,3.5
+1,Adelaide,Adelaide International 1,06/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Gerasimov E.,Mager G.,113,62,665,978,6,1,3,6,6,3,,,,,2,1,Completed,1.66,2.2,1.75,2.21,1.75,2.45,1.67,2.18
+1,Adelaide,Adelaide International 1,06/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Khachanov K.,Johnson S.,29,85,1731,812,6,4,4,6,6,2,,,,,2,1,Completed,1.25,4,1.29,3.99,1.3,4.36,1.24,3.91
+1,Adelaide,Adelaide International 1,06/01/2022,ATP250,Outdoor,Hard,2nd Round,3,Monfils G.,Cerundolo J.M.,21,90,2158,803,6,2,6,1,,,,,,,2,0,Completed,1.2,4.5,1.2,5.21,1.22,5.55,1.18,4.68
+1,Adelaide,Adelaide International 1,07/01/2022,ATP250,Outdoor,Hard,Quarterfinals,3,Cilic M.,Djere L.,30,52,1710,1131,6,3,6,2,,,,,,,2,0,Completed,1.28,3.75,1.31,3.85,1.33,4.15,1.29,3.58
+1,Adelaide,Adelaide International 1,07/01/2022,ATP250,Outdoor,Hard,Quarterfinals,3,Monfils G.,Paul T.,21,43,2158,1349,6,4,6,1,,,,,,,2,0,Completed,1.53,2.5,1.63,2.44,1.63,2.7,1.56,2.42
+1,Adelaide,Adelaide International 1,07/01/2022,ATP250,Outdoor,Hard,Quarterfinals,3,Khachanov K.,Gerasimov E.,29,113,1731,665,7,5,6,3,,,,,,,2,0,Completed,1.25,4,1.26,4.3,1.3,4.3,1.26,3.81
+1,Adelaide,Adelaide International 1,07/01/2022,ATP250,Outdoor,Hard,Quarterfinals,3,Kokkinakis T.,Ymer M.,171,94,394,782,7,6,4,6,6,4,,,,,2,1,Completed,1.61,2.3,1.68,2.33,1.71,2.39,1.63,2.26
+1,Adelaide,Adelaide International 1,08/01/2022,ATP250,Outdoor,Hard,Semifinals,3,Khachanov K.,Cilic M.,29,30,1731,1710,7,6,6,3,,,,,,,2,0,Completed,2.1,1.72,2.16,1.78,2.28,1.83,2.14,1.7
+1,Adelaide,Adelaide International 1,08/01/2022,ATP250,Outdoor,Hard,Semifinals,3,Monfils G.,Kokkinakis T.,21,171,2158,394,7,5,6,0,,,,,,,2,0,Completed,1.4,3,1.41,3.17,1.44,3.4,1.37,3.04
+1,Adelaide,Adelaide International 1,09/01/2022,ATP250,Outdoor,Hard,The Final,3,Monfils G.,Khachanov K.,21,29,2158,1731,6,4,6,4,,,,,,,2,0,Completed,1.61,2.3,1.63,2.44,1.67,2.5,1.6,2.34

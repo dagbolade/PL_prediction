@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,IWW,IWL,PSW,PSL
+52,Beijing,China Open,12/09/05,International,Outdoor,Hard,1st Round,3,Koubek S.,Heuberger I.,106,191,408,217,6,3,7,6,,,,,,,2,0,Completed,1.36,2.87,1.37,3,1.45,2.6,,,1.435,3.1
+52,Beijing,China Open,12/09/05,International,Outdoor,Hard,1st Round,3,Tursunov D.,Burgsmuller L.,135,90,302,453,6,3,6,4,,,,,,,2,0,Completed,1.36,2.87,1.37,3,1.35,3.1,,,1.439,3.08
+52,Beijing,China Open,12/09/05,International,Outdoor,Hard,1st Round,3,Wessels P.,Arthurs W.,115,98,371,420,7,6,6,4,,,,,,,2,0,Completed,1.72,2,1.7,2.1,1.75,2.05,,,1.73,2.27
+52,Beijing,China Open,12/09/05,International,Outdoor,Hard,1st Round,3,Moya C.,Srichaphan P.,33,55,990,715,7,6,6,3,,,,,,,2,0,Completed,1.83,1.83,1.93,1.83,2.1,1.7,1.6,2,2.15,1.8
+52,Beijing,China Open,12/09/05,International,Outdoor,Hard,1st Round,3,Ferrero J.C.,Lee H.T.,23,93,1225,443,4,6,6,3,7,5,,,,,2,1,Completed,1.33,3,1.3,3.4,1.25,3.74,1.35,2.7,1.376,3.46
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Wang Y. Jr,Gregorc L.,401,574,71,37,7,6,6,1,,,,,,,2,0,Completed,,,,,,,,,,
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Johansson T.,Bjorkman J.,15,94,1420,438,6,4,6,3,,,,,,,2,0,Completed,1.36,2.87,1.33,3.2,1.3,3.35,1.3,2.9,1.329,3.74
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Hadad A.,Norman D.,344,113,91,380,7,5,7,6,,,,,,,2,0,Completed,,,,,,,,,,
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Udomchoke D.,Okun N.,147,172,281,241,7,6,3,6,6,4,,,,,2,1,Completed,1.83,1.83,1.9,1.85,2.15,1.65,1.8,1.8,2.21,1.763
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Nalbandian D.,Pless K.,9,186,1915,226,6,3,7,6,,,,,,,2,0,Completed,1.08,6.5,1.12,6,1.15,4.92,1.15,4,1.151,6.94
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Nieminen J.,Schuettler R.,36,91,912,450,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,1.53,2.4,1.5,2.2,1.469,2.93
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Coria G.,Zeng S.X.,8,921,2015,10,6,2,6,1,,,,,,,2,0,Completed,1.03,10,,,,,1.03,7,1.056,15.71
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Gimelstob J.,Karanusic R.,95,151,433,271,6,4,6,1,,,,,,,2,0,Completed,1.5,2.5,1.53,2.45,1.6,2.3,1.6,2,1.578,2.63
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Youzhny M.,Healey N.,24,270,1220,136,7,5,6,4,,,,,,,2,0,Completed,1.1,6,,,,,1.15,4,1.14,7.45
+52,Beijing,China Open,13/09/05,International,Outdoor,Hard,1st Round,3,Matsui T.,Sun P.,443,320,62,105,6,4,5,7,6,4,,,,,2,1,Completed,,,,,,,2.35,1.45,,
+52,Beijing,China Open,14/09/05,International,Outdoor,Hard,1st Round,3,Nadal R.,Wang Y.T.,2,100,4360,417,6,2,6,4,,,,,,,2,0,Completed,1.05,8,1.03,11,1.05,8.5,1.05,6,1.069,12
+52,Beijing,China Open,14/09/05,International,Outdoor,Hard,2nd Round,3,Ferrero J.C.,Tursunov D.,23,135,1225,302,6,4,7,6,,,,,,,2,0,Completed,1.39,2.75,1.45,2.7,1.5,2.45,1.4,2.5,1.526,2.7
+52,Beijing,China Open,14/09/05,International,Outdoor,Hard,2nd Round,3,Nalbandian D.,Hadad A.,9,344,1915,91,6,4,6,0,,,,,,,2,0,Completed,1.06,8,1.07,8,1.1,6.75,1.1,5,1.071,13
+52,Beijing,China Open,14/09/05,International,Outdoor,Hard,2nd Round,3,Moya C.,Koubek S.,33,106,990,408,3,6,6,3,6,2,,,,,2,1,Completed,1.25,3.75,1.28,3.55,1.35,3.1,1.2,3.6,1.325,3.78
+52,Beijing,China Open,14/09/05,International,Outdoor,Hard,2nd Round,3,Johansson T.,Nieminen J.,15,36,1420,912,6,4,6,4,,,,,,,2,0,Completed,1.72,2,1.77,2,1.75,2,1.7,1.9,1.758,2.22
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,2nd Round,3,Coria G.,Matsui T.,8,443,2015,62,6,1,6,0,,,,,,,2,0,Completed,1.03,10,1.02,12,1.05,8.5,1.02,8,1.04,19.85
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,2nd Round,3,Youzhny M.,Udomchoke D.,24,147,1220,281,7,5,6,1,,,,,,,2,0,Completed,1.12,5.5,1.13,5.65,1.17,4.67,1.2,3.6,1.177,6.05
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,2nd Round,3,Nadal R.,Gimelstob J.,2,95,4360,433,5,7,6,4,6,4,,,,,2,1,Completed,1.03,10,1.04,10,1.05,8.5,1.05,6,1.033,25
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,2nd Round,3,Wessels P.,Wang Y. Jr,115,401,371,71,6,1,7,6,,,,,,,2,0,Completed,1.16,4.5,1.17,4.85,1.17,4.67,1.15,4,1.185,5.9
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,Quarterfinals,3,Johansson T.,Moya C.,15,33,1420,990,7,6,6,3,,,,,,,2,0,Completed,1.66,2.1,1.65,2.2,1.65,2.15,1.7,1.9,1.667,2.4
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,Quarterfinals,3,Ferrero J.C.,Nalbandian D.,23,9,1225,1915,6,2,3,6,6,3,,,,,2,1,Completed,2.37,1.53,2.4,1.55,2.3,1.6,2.2,1.5,2.8,1.5
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,Quarterfinals,3,Coria G.,Youzhny M.,8,24,2015,1220,6,4,1,6,6,2,,,,,2,1,Completed,1.39,2.75,1.42,2.8,,,,,1.472,2.92
+52,Beijing,China Open,16/09/05,International,Outdoor,Hard,Quarterfinals,3,Nadal R.,Wessels P.,2,115,4360,371,7,6,6,2,,,,,,,2,0,Completed,1.07,7.5,1.05,9,,,,,1.078,11.25
+52,Beijing,China Open,17/09/05,International,Outdoor,Hard,Semifinals,3,Coria G.,Johansson T.,8,15,2015,1420,4,6,7,5,6,2,,,,,2,1,Completed,1.57,2.25,1.65,2.2,1.7,2.1,1.65,1.95,1.741,2.25
+52,Beijing,China Open,17/09/05,International,Outdoor,Hard,Semifinals,3,Nadal R.,Ferrero J.C.,2,23,4360,1225,6,4,6,4,,,,,,,2,0,Completed,1.19,4.33,1.2,4.4,1.25,3.75,1.25,3.2,1.247,4.65
+52,Beijing,China Open,18/09/05,International,Outdoor,Hard,The Final,3,Nadal R.,Coria G.,2,8,4360,2015,5,7,6,1,6,2,,,,,2,1,Completed,1.22,4,1.25,3.85,1.3,3.35,1.3,2.9,1.287,4.18

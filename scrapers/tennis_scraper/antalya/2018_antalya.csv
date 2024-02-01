@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+38,Antalya,Antalya Open,24/06/18,ATP250,Outdoor,Grass,1st Round,3,Basilashvili N.,Carballes Baena R.,76,74,722,729,6,2,6,3,,,,,,,2,0,Completed,1.33,3.25,1.31,3.15,1.33,3.4,1.37,3.34,1.37,3.72,1.33,3.32
+38,Antalya,Antalya Open,24/06/18,ATP250,Outdoor,Grass,1st Round,3,Sousa J.,Mayer F.,47,89,1016,646,6,2,6,2,,,,,,,2,0,Completed,1.72,2,1.78,1.93,1.8,2,1.9,1.99,1.91,2.08,1.82,1.98
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Herbert P.H.,Delbonis F.,75,81,725,715,7,6,6,4,,,,,,,2,0,Completed,1.36,3,1.31,3.15,,,1.34,3.5,1.39,3.65,1.34,3.3
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Berankis R.,Donskoy E.,96,82,585,706,6,2,6,7,6,3,,,,,2,1,Completed,2.25,1.57,2.31,1.55,2.37,1.57,2.43,1.62,2.5,1.67,2.38,1.58
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Sugita Y.,Pella G.,45,72,1050,770,6,4,3,6,6,4,,,,,2,1,Completed,1.5,2.5,1.47,2.49,1.53,2.5,1.53,2.67,1.58,2.7,1.51,2.56
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Lajovic D.,Horansky F.,57,301,920,175,6,3,6,3,,,,,,,2,0,Completed,1.22,4,1.2,4,1.22,4.33,1.24,4.46,1.26,4.8,1.22,4.29
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Garcia-Lopez G.,Daniel T.,69,87,834,656,6,4,6,7,6,4,,,,,2,1,Completed,1.57,2.25,1.55,2.31,1.57,2.37,1.63,2.42,1.67,2.6,1.57,2.41
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Kavcic B.,Baghdatis M.,176,84,328,689,7,6,6,3,,,,,,,2,0,Completed,3.75,1.25,3.25,1.3,,,3.7,1.32,3.8,1.36,3.48,1.31
+38,Antalya,Antalya Open,25/06/18,ATP250,Outdoor,Grass,1st Round,3,Vesely J.,Thompson J.,103,99,550,575,6,4,7,6,,,,,,,2,0,Completed,2.1,1.66,2,1.72,2.1,1.73,2.12,1.79,2.17,1.82,2.08,1.75
+38,Antalya,Antalya Open,26/06/18,ATP250,Outdoor,Grass,1st Round,3,Haase R.,Youzhny M.,44,100,1075,571,7,6,6,7,6,4,,,,,2,1,Completed,1.72,2,1.78,1.93,1.83,2,1.9,1.99,1.91,2.06,1.85,1.96
+38,Antalya,Antalya Open,26/06/18,ATP250,Outdoor,Grass,1st Round,3,Basic M.,Lorenzi P.,78,86,719,668,6,3,6,3,,,,,,,2,0,Completed,1.3,3.4,1.32,3.1,1.36,3.25,1.35,3.44,1.43,3.5,1.33,3.3
+38,Antalya,Antalya Open,26/06/18,ATP250,Outdoor,Grass,1st Round,3,Copil M.,Ilkel C.,95,247,607,231,6,4,7,6,,,,,,,2,0,Completed,1.18,4.5,1.22,3.8,1.28,3.75,1.28,4.06,1.29,4.5,1.24,4.02
+38,Antalya,Antalya Open,26/06/18,ATP250,Outdoor,Grass,2nd Round,3,Basilashvili N.,Lajovic D.,76,57,722,920,6,4,2,6,7,5,,,,,2,1,Completed,2.25,1.57,2.25,1.57,2.25,1.61,2.41,1.64,2.54,1.66,2.32,1.61
+38,Antalya,Antalya Open,26/06/18,ATP250,Outdoor,Grass,2nd Round,3,Vesely J.,Verdasco F.,103,33,550,1305,6,3,7,5,,,,,,,2,0,Completed,2.62,1.44,2.45,1.49,2.62,1.5,2.59,1.56,2.71,1.56,2.57,1.51
+38,Antalya,Antalya Open,27/06/18,ATP250,Outdoor,Grass,2nd Round,3,Sousa J.,Basic M.,47,78,1016,719,6,7,6,4,6,4,,,,,2,1,Completed,1.4,2.75,1.46,2.55,1.5,2.62,1.48,2.86,1.56,2.86,1.48,2.67
+38,Antalya,Antalya Open,27/06/18,ATP250,Outdoor,Grass,2nd Round,3,Garcia-Lopez G.,Haase R.,69,44,834,1075,6,2,6,7,7,6,,,,,2,1,Completed,2.25,1.57,2.25,1.57,2.25,1.61,2.44,1.63,2.44,2.28,2.31,1.62
+38,Antalya,Antalya Open,27/06/18,ATP250,Outdoor,Grass,2nd Round,3,Mannarino A.,Berankis R.,24,96,1580,585,6,4,7,5,,,,,,,2,0,Completed,1.25,3.75,1.27,3.4,1.3,3.5,1.35,3.52,1.35,3.9,1.29,3.58
+38,Antalya,Antalya Open,27/06/18,ATP250,Outdoor,Grass,2nd Round,3,Monfils G.,Kavcic B.,41,176,1130,328,6,3,5,7,7,5,,,,,2,1,Completed,1.2,4.33,1.18,4.3,1.22,4.33,1.22,4.91,1.24,5,1.19,4.6
+38,Antalya,Antalya Open,27/06/18,ATP250,Outdoor,Grass,2nd Round,3,Dzumhur D.,Copil M.,30,95,1460,607,4,6,6,4,6,4,,,,,2,1,Completed,1.83,1.83,1.91,1.79,1.91,1.83,2.03,1.88,2.05,1.94,1.96,1.85
+38,Antalya,Antalya Open,27/06/18,ATP250,Outdoor,Grass,2nd Round,3,Herbert P.H.,Sugita Y.,75,45,725,1050,2,6,6,4,7,6,,,,,2,1,Completed,2.2,1.61,2.11,1.65,2.1,1.73,2.15,1.79,2.25,1.79,2.15,1.71
+38,Antalya,Antalya Open,28/06/18,ATP250,Outdoor,Grass,Quarterfinals,3,Vesely J.,Basilashvili N.,103,76,550,722,7,6,6,2,,,,,,,2,0,Completed,1.57,2.37,1.57,2.25,1.61,2.25,1.57,2.6,1.67,2.6,1.59,2.37
+38,Antalya,Antalya Open,28/06/18,ATP250,Outdoor,Grass,Quarterfinals,3,Dzumhur D.,Herbert P.H.,30,75,1460,725,6,4,6,1,,,,,,,2,0,Completed,2.1,1.72,1.95,1.76,1.91,1.91,2.27,1.72,2.27,1.87,2.04,1.79
+38,Antalya,Antalya Open,28/06/18,ATP250,Outdoor,Grass,Quarterfinals,3,Mannarino A.,Sousa J.,24,47,1580,1016,7,6,6,4,,,,,,,2,0,Completed,1.53,2.37,1.48,2.47,1.57,2.37,1.54,2.7,1.57,2.77,1.52,2.55
+38,Antalya,Antalya Open,28/06/18,ATP250,Outdoor,Grass,Quarterfinals,3,Monfils G.,Garcia-Lopez G.,41,69,1130,834,7,6,6,4,,,,,,,2,0,Completed,1.53,2.5,1.54,2.33,1.57,2.37,1.61,2.5,1.65,2.55,1.57,2.41
+38,Antalya,Antalya Open,29/06/18,ATP250,Outdoor,Grass,Semifinals,3,Dzumhur D.,Vesely J.,30,103,1460,550,6,3,7,6,,,,,,,2,0,Completed,1.9,1.9,1.84,1.87,1.8,2,1.96,1.96,2,2.05,1.88,1.93
+38,Antalya,Antalya Open,29/06/18,ATP250,Outdoor,Grass,Semifinals,3,Mannarino A.,Monfils G.,24,41,1580,1130,4,6,7,6,6,4,,,,,2,1,Completed,2,1.8,2.03,1.7,2,1.8,2.04,1.88,2.14,1.88,2.04,1.79
+38,Antalya,Antalya Open,30/06/18,ATP250,Outdoor,Grass,The Final,3,Dzumhur D.,Mannarino A.,30,24,1460,1580,6,1,1,6,6,1,,,,,2,1,Completed,2.2,1.66,2.26,1.57,2.25,1.61,2.47,1.63,2.47,1.7,2.31,1.62

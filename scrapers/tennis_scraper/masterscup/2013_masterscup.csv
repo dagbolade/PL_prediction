@@ -1,0 +1,16 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+65,London,Masters Cup,04/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Wawrinka S.,Berdych T.,8,6,3330,3980,6,3,6,7,6,3,,,,,2,1,Completed,2.1,1.72,2.1,1.7,2.1,1.73,2.25,1.72,2.15,1.73,2.25,1.8,2.11,1.71
+65,London,Masters Cup,04/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Del Potro J.M.,Gasquet R.,5,9,5055,3300,6,7,6,3,7,5,,,,,2,1,Completed,1.22,4.33,1.2,4.3,1.22,4.33,1.28,4.1,1.22,4.5,1.28,4.55,1.22,4.18
+65,London,Masters Cup,05/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Nadal R.,Ferrer D.,1,3,12030,5800,6,3,6,2,,,,,,,2,0,Completed,1.22,4.33,1.22,4,1.22,4.33,1.26,4.38,1.22,4.33,1.29,4.8,1.23,4.07
+65,London,Masters Cup,05/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Federer R.,2,7,10610,3805,6,4,6,7,6,2,,,,,2,1,Completed,1.28,3.75,1.28,3.5,1.29,3.75,1.3,3.93,1.29,3.75,1.33,4,1.29,3.6
+65,London,Masters Cup,06/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Nadal R.,Wawrinka S.,1,8,12030,3330,7,6,7,6,,,,,,,2,0,Completed,1.12,6,1.15,5.25,1.14,5.5,1.17,5.98,1.17,5.5,1.2,6.3,1.15,5.4
+65,London,Masters Cup,06/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Berdych T.,Ferrer D.,6,3,3980,5800,6,4,6,4,,,,,,,2,0,Completed,2.1,1.72,2,1.8,2,1.8,2.06,1.85,2,1.8,2.2,1.85,2.03,1.78
+65,London,Masters Cup,07/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Gasquet R.,7,9,3805,3300,6,4,6,3,,,,,,,2,0,Completed,1.28,3.75,1.3,3.4,1.29,3.75,1.34,3.6,1.3,3.5,1.35,4.2,1.29,3.59
+65,London,Masters Cup,07/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Del Potro J.M.,2,5,10610,5055,6,3,3,6,6,3,,,,,2,1,Completed,1.28,3.75,1.28,3.5,1.3,3.5,1.3,3.89,1.29,3.75,1.33,4.05,1.28,3.61
+65,London,Masters Cup,08/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Wawrinka S.,Ferrer D.,8,3,3330,5800,6,7,6,4,6,1,,,,,2,1,Completed,1.44,2.75,1.45,2.7,1.44,2.75,1.56,2.62,1.44,2.75,1.57,2.8,1.48,2.63
+65,London,Masters Cup,08/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Nadal R.,Berdych T.,1,6,12030,3980,6,4,1,6,6,3,,,,,2,1,Completed,1.2,4.5,1.22,4,1.2,4.5,1.27,4.26,1.22,4,1.3,4.6,1.23,4.12
+65,London,Masters Cup,09/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Del Potro J.M.,7,5,3805,5055,4,6,7,6,7,5,,,,,2,1,Completed,2,1.8,2,1.8,2,1.8,2.07,1.85,2,1.8,2.1,1.95,1.98,1.81
+65,London,Masters Cup,09/11/13,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Gasquet R.,2,9,10610,3300,7,6,4,6,6,3,,,,,2,1,Completed,1.06,10,1.05,9,1.05,10,1.07,10.75,1.05,9,1.1,10.75,1.06,9.22
+65,London,Masters Cup,10/11/13,Masters Cup,Indoor,Hard,Semifinals,3,Nadal R.,Federer R.,1,7,12030,3805,7,5,6,3,,,,,,,2,0,Completed,1.3,3.5,1.33,3.2,1.3,3.5,1.34,3.67,1.33,3.4,1.37,4.05,1.33,3.34
+65,London,Masters Cup,10/11/13,Masters Cup,Indoor,Hard,Semifinals,3,Djokovic N.,Wawrinka S.,2,8,10610,3330,6,3,6,3,,,,,,,2,0,Completed,1.14,5.5,1.13,5.5,1.14,5.5,1.19,5.61,1.15,5.5,1.19,6.3,1.16,5.25
+65,London,Masters Cup,11/11/13,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Nadal R.,2,1,10610,12030,6,3,6,4,,,,,,,2,0,Completed,1.57,2.37,1.55,2.4,1.57,2.38,1.58,2.58,1.57,2.38,1.65,2.58,1.57,2.43

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+22,Marrakech,Grand Prix Hassan II,09/04/18,ATP250,Outdoor,Clay,1st Round,3,Simon G.,Paire B.,71,47,755,1065,6,2,6,7,7,6,,,,,2,1,Completed,2.1,1.66,2.1,1.65,,,2.22,1.73,2.25,1.78,2.16,1.69
+22,Marrakech,Grand Prix Hassan II,09/04/18,ATP250,Outdoor,Clay,1st Round,3,Gasquet R.,Fabbiano T.,38,102,1295,586,6,1,7,6,,,,,,,2,0,Completed,1.16,5,1.16,4.6,,,1.19,5.32,1.23,5.32,1.19,4.8
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Arnaboldi A.,Dolgopolov O.,221,52,246,966,6,2,6,3,,,,,,,2,0,Completed,3.25,1.33,3.05,1.33,,,3.2,1.4,3.35,1.41,3.15,1.36
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Basic M.,Haase R.,94,44,623,1120,4,6,6,4,7,5,,,,,2,1,Completed,3.5,1.28,3.45,1.27,,,3.59,1.33,3.8,1.34,3.56,1.3
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Vatutin A.,Struff J.L.,160,60,349,880,3,6,6,3,6,2,,,,,2,1,Completed,2.5,1.5,2.75,1.4,,,2.94,1.45,3.16,1.5,2.85,1.43
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Marterer M.,78,73,706,738,6,3,6,1,,,,,,,2,0,Completed,2.1,1.66,2.15,1.62,,,2.32,1.67,2.43,1.7,2.23,1.66
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Basilashvili N.,Berrettini M.,86,104,655,577,7,6,6,4,,,,,,,2,0,Completed,2.5,1.5,2.5,1.47,,,2.68,1.52,2.75,1.57,2.57,1.51
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Ivashka I.,355,123,126,452,6,3,7,5,,,,,,,2,0,Completed,1.57,2.25,1.57,2.25,,,1.69,2.29,1.69,2.58,1.59,2.35
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Garcia-Lopez G.,Hemery C.,67,135,787,418,6,2,6,2,,,,,,,2,0,Completed,1.53,2.37,1.57,2.25,,,1.69,2.28,1.75,2.45,1.63,2.28
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Ahouda A.,23,727,1745,27,6,1,6,2,,,,,,,2,0,Completed,1.01,17,1.01,11.5,,,1.03,16.29,1.04,20.48,1.02,16.05
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Martinez P.,70,228,760,240,7,5,7,5,,,,,,,2,0,Completed,1.28,3.5,1.28,3.35,,,1.32,3.72,1.34,3.85,1.3,3.53
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Zverev M.,Lorenzi P.,55,57,932,895,6,3,6,4,,,,,,,2,0,Completed,2.2,1.61,2.1,1.65,,,2.13,1.79,2.2,1.8,2.1,1.73
+22,Marrakech,Grand Prix Hassan II,10/04/18,ATP250,Outdoor,Clay,1st Round,3,Edmund K.,Vesely J.,26,65,1627,815,5,0,,,,,,,,,0,0,Retired,1.57,2.25,1.53,2.35,,,1.55,2.61,1.61,2.77,1.56,2.45
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,1st Round,3,Albot R.,Seppi A.,93,62,626,851,1,6,6,3,6,0,,,,,2,1,Completed,2.25,1.57,2.2,1.6,,,2.24,1.71,2.4,1.71,2.27,1.63
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,1st Round,3,Jaziri M.,Fucsovics M.,91,61,638,864,1,6,6,4,6,2,,,,,2,1,Completed,3,1.36,3.05,1.33,,,3.4,1.36,3.55,1.38,3.18,1.35
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,1st Round,3,Ouahab L.,Kohlschreiber P.,617,34,43,1380,2,6,6,0,7,6,,,,,2,1,Completed,5.5,1.14,5.2,1.13,,,5.95,1.16,6.05,1.16,5.52,1.14
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,2nd Round,3,Vatutin A.,Ramos-Vinolas A.,160,23,349,1745,7,6,6,2,,,,,,,2,0,Completed,3.75,1.25,3.6,1.25,3,1.4,4.1,1.28,4.2,1.3,3.81,1.27
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Carballes Baena R.,71,78,755,706,7,5,6,1,,,,,,,2,0,Completed,1.83,1.83,1.9,1.8,4.5,1.2,2.11,1.81,2.11,1.96,1.95,1.86
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,2nd Round,3,Andujar P.,Arnaboldi A.,355,221,126,246,6,0,6,2,,,,,,,2,0,Completed,1.33,3.25,1.33,3.05,1.36,3.25,1.38,3.33,1.45,3.45,1.37,3.11
+22,Marrakech,Grand Prix Hassan II,11/04/18,ATP250,Outdoor,Clay,2nd Round,3,Gasquet R.,Garcia-Lopez G.,38,67,1295,787,6,2,6,4,,,,,,,2,0,Completed,1.36,3,1.37,2.85,1.4,3,1.45,2.99,1.45,3.1,1.4,2.93
+22,Marrakech,Grand Prix Hassan II,12/04/18,ATP250,Outdoor,Clay,2nd Round,3,Sousa J.,Basic M.,70,94,760,623,6,3,3,6,6,4,,,,,2,1,Completed,1.36,3,1.35,2.95,1.36,3.25,1.38,3.33,1.42,3.4,1.36,3.13
+22,Marrakech,Grand Prix Hassan II,12/04/18,ATP250,Outdoor,Clay,2nd Round,3,Basilashvili N.,Ouahab L.,86,617,655,43,7,6,5,7,6,3,,,,,2,1,Completed,1.5,2.5,1.47,2.5,1.44,2.62,1.55,2.64,1.55,2.88,1.49,2.63
+22,Marrakech,Grand Prix Hassan II,12/04/18,ATP250,Outdoor,Clay,2nd Round,3,Edmund K.,Albot R.,26,93,1627,626,6,2,6,4,,,,,,,2,0,Completed,1.25,3.75,1.22,3.85,1.22,4.33,1.26,4.39,1.3,4.45,1.24,4.02
+22,Marrakech,Grand Prix Hassan II,12/04/18,ATP250,Outdoor,Clay,2nd Round,3,Jaziri M.,Zverev M.,91,55,638,932,6,2,6,4,,,,,,,2,0,Completed,2,1.72,2,1.72,2,1.8,2.16,1.78,2.16,1.87,2.04,1.78
+22,Marrakech,Grand Prix Hassan II,14/04/18,ATP250,Outdoor,Clay,Quarterfinals,3,Sousa J.,Basilashvili N.,70,86,760,655,6,2,4,6,6,1,,,,,2,1,Completed,1.33,3.4,1.3,3.2,1.33,3.4,1.35,3.55,1.37,3.65,1.33,3.33
+22,Marrakech,Grand Prix Hassan II,14/04/18,ATP250,Outdoor,Clay,Quarterfinals,3,Gasquet R.,Simon G.,38,71,1295,755,6,2,7,6,,,,,,,2,0,Completed,1.4,3,1.35,2.95,1.4,3,1.38,3.36,1.45,3.45,1.38,3.08
+22,Marrakech,Grand Prix Hassan II,14/04/18,ATP250,Outdoor,Clay,Quarterfinals,3,Andujar P.,Vatutin A.,355,160,126,349,6,4,5,7,6,3,,,,,2,1,Completed,1.57,2.37,1.55,2.3,1.57,2.37,1.63,2.47,1.65,2.64,1.59,2.39
+22,Marrakech,Grand Prix Hassan II,14/04/18,ATP250,Outdoor,Clay,Quarterfinals,3,Edmund K.,Jaziri M.,26,91,1627,638,6,2,6,1,,,,,,,2,0,Completed,1.28,3.75,1.27,3.45,1.3,3.5,1.28,4.22,1.33,4.4,1.29,3.69
+22,Marrakech,Grand Prix Hassan II,14/04/18,ATP250,Outdoor,Clay,Semifinals,3,Edmund K.,Gasquet R.,26,38,1627,1295,6,3,6,4,,,,,,,2,0,Completed,1.72,2.1,1.65,2.1,,,1.69,2.33,1.8,2.33,1.71,2.15
+22,Marrakech,Grand Prix Hassan II,14/04/18,ATP250,Outdoor,Clay,Semifinals,3,Andujar P.,Sousa J.,355,70,126,760,6,4,6,4,,,,,,,2,0,Completed,2.5,1.53,2.4,1.5,,,2.59,1.58,2.6,1.61,2.45,1.56
+22,Marrakech,Grand Prix Hassan II,15/04/18,ATP250,Outdoor,Clay,The Final,3,Andujar P.,Edmund K.,355,26,126,1627,6,2,6,2,,,,,,,2,0,Completed,3.75,1.28,3.6,1.25,,,4.18,1.28,4.18,1.33,3.68,1.29

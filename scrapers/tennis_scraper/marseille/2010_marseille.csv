@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL
+14,Marseille,Open 13,15/02/10,ATP250,Indoor,Hard,1st Round,3,Serra F.,Kunitsyn I.,59,90,745,560,6,3,6,3,,,,,,,2,0,Completed,1.36,3,1.41,2.85,1.4,2.75,1.45,3.03,1.4,2.75
+14,Marseille,Open 13,15/02/10,ATP250,Indoor,Hard,1st Round,3,Baghdatis M.,Brands D.,36,96,1125,540,6,3,6,2,,,,,,,2,0,Completed,1.1,6.5,1.1,6.5,1.125,5.5,1.111,8.36,1.125,5.5
+14,Marseille,Open 13,15/02/10,ATP250,Indoor,Hard,1st Round,3,Zverev M.,Guez D.,92,135,549,402,7,6,6,4,,,,,,,2,0,Completed,1.83,1.83,1.8,1.95,2,1.727,1.935,1.99,2,1.727
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Stakhovsky S.,Bolelli S.,69,110,658,494,6,3,3,6,6,4,,,,,2,1,Completed,1.57,2.25,1.66,2.2,1.533,2.375,1.645,2.43,1.533,2.375
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Marchenko I.,Bemelmans R.,88,192,563,251,4,6,6,3,6,2,,,,,2,1,Completed,1.5,2.5,1.4,2.8,1.5,2.5,1.5,2.83,1.444,2.625
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Llodra M.,Roger-Vasselin E.,79,151,617,331,6,7,6,3,6,4,,,,,2,1,Completed,1.5,2.5,1.55,2.35,1.5,2.5,1.521,2.76,1.5,2.5
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Benneteau J.,Bohli S.,39,143,1004,356,7,6,7,6,,,,,,,2,0,Completed,1.28,3.5,1.35,3.1,1.286,3.5,1.33,3.73,1.286,3.25
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Ouanna J.,Istomin D.,121,77,464,630,6,4,1,6,6,3,,,,,2,1,Completed,,,,,,,,,,
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Rochus O.,Simon G.,58,16,772,1880,7,5,6,2,,,,,,,2,0,Completed,3,1.36,2.7,1.44,2.75,1.4,3.15,1.424,2.875,1.364
+14,Marseille,Open 13,16/02/10,ATP250,Indoor,Hard,1st Round,3,Seppi A.,Clement A.,46,62,900,724,7,6,7,5,,,,,,,2,0,Completed,2,1.72,2.05,1.75,2,1.727,2,1.926,2.1,1.667
+14,Marseille,Open 13,17/02/10,ATP250,Indoor,Hard,1st Round,3,Mertens Y.,Hajek J.,271,84,165,596,7,6,6,1,,,,,,,2,0,Completed,2.1,1.66,2.05,1.75,2,1.727,2.14,1.813,1.909,1.8
+14,Marseille,Open 13,17/02/10,ATP250,Indoor,Hard,1st Round,3,Rufin G.,Recouderc L.,154,139,327,376,7,5,4,6,7,6,,,,,2,1,Completed,,,,,,,,,,
+14,Marseille,Open 13,17/02/10,ATP250,Indoor,Hard,2nd Round,3,Zverev M.,Robredo T.,92,17,549,1845,6,2,3,6,6,1,,,,,2,1,Completed,3.5,1.28,3.1,1.35,3.5,1.286,3.5,1.362,3.25,1.286
+14,Marseille,Open 13,17/02/10,ATP250,Indoor,Hard,2nd Round,3,Benneteau J.,Serra F.,39,59,1004,745,6,4,6,4,,,,,,,2,0,Completed,1.53,2.37,1.62,2.25,1.571,2.25,1.725,2.27,1.571,2.25
+14,Marseille,Open 13,17/02/10,ATP250,Indoor,Hard,2nd Round,3,Llodra M.,Baghdatis M.,79,36,617,1125,7,6,6,4,,,,,,,2,0,Completed,3,1.36,3.15,1.33,3.25,1.333,3.01,1.455,3,1.364
+14,Marseille,Open 13,17/02/10,ATP250,Indoor,Hard,2nd Round,3,Tsonga J.W.,Ouanna J.,9,121,2985,464,7,6,6,4,,,,,,,2,0,Completed,1.11,6,1.13,5.5,1.111,6,1.115,8.15,1.1,6
+14,Marseille,Open 13,18/02/10,ATP250,Indoor,Hard,2nd Round,3,Rufin G.,Mertens Y.,154,271,327,165,6,3,2,6,6,2,,,,,2,1,Completed,2.1,1.66,2.1,1.7,2,1.727,2.29,1.714,2.1,1.667
+14,Marseille,Open 13,18/02/10,ATP250,Indoor,Hard,2nd Round,3,Soderling R.,Stakhovsky S.,8,69,3855,658,6,7,6,3,6,4,,,,,2,1,Completed,1.06,8,1.11,5.9,1.1,6.5,1.121,7.83,1.071,7
+14,Marseille,Open 13,18/02/10,ATP250,Indoor,Hard,2nd Round,3,Monfils G.,Seppi A.,13,46,2430,900,7,6,3,6,7,6,,,,,2,1,Completed,1.22,4,1.2,4.25,1.25,3.75,1.236,4.75,1.222,3.75
+14,Marseille,Open 13,18/02/10,ATP250,Indoor,Hard,2nd Round,3,Marchenko I.,Rochus O.,88,58,563,772,6,1,3,6,6,2,,,,,2,1,Completed,2,1.72,2,1.75,2,1.727,1.971,1.952,2,1.727
+14,Marseille,Open 13,19/02/10,ATP250,Indoor,Hard,Quarterfinals,3,Llodra M.,Soderling R.,79,8,617,3855,7,6,6,4,,,,,,,2,0,Completed,4,1.22,3.75,1.25,4,1.22,3.92,1.308,3.75,1.25
+14,Marseille,Open 13,19/02/10,ATP250,Indoor,Hard,Quarterfinals,3,Tsonga J.W.,Marchenko I.,9,88,2985,563,6,3,6,4,,,,,,,2,0,Completed,1.08,7,1.13,5.5,1.125,5.5,1.133,7.29,1.143,5.5
+14,Marseille,Open 13,19/02/10,ATP250,Indoor,Hard,Quarterfinals,3,Benneteau J.,Monfils G.,39,13,1004,2430,6,3,7,5,,,,,,,2,0,Completed,2.75,1.4,2.75,1.42,2.75,1.4,2.68,1.546,2.375,1.533
+14,Marseille,Open 13,19/02/10,ATP250,Indoor,Hard,Quarterfinals,3,Zverev M.,Rufin G.,92,154,549,327,7,5,6,7,6,3,,,,,2,1,Completed,1.4,2.75,1.45,2.6,1.444,2.625,1.485,2.89,1.5,2.625
+14,Marseille,Open 13,20/02/10,ATP250,Indoor,Hard,Semifinals,3,Benneteau J.,Tsonga J.W.,39,9,1004,2985,7,6,5,7,7,6,,,,,2,1,Completed,3,1.36,3.35,1.3,3.25,1.333,3.23,1.408,3.5,1.286
+14,Marseille,Open 13,20/02/10,ATP250,Indoor,Hard,Semifinals,3,Llodra M.,Zverev M.,79,92,617,549,6,1,7,6,,,,,,,2,0,Completed,1.28,3.5,1.35,3.1,1.286,3.5,1.313,3.88,1.333,3.25
+14,Marseille,Open 13,21/02/10,ATP250,Indoor,Hard,The Final,3,Llodra M.,Benneteau J.,79,39,617,1004,6,3,6,4,,,,,,,2,0,Completed,1.8,2,1.85,1.9,1.833,1.833,1.98,1.943,1.9,1.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

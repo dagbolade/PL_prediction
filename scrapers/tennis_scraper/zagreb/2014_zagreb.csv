@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+9,Zagreb,PBZ Zagreb Indoors,03/02/14,ATP250,Indoor,Hard,1st Round,3,Cilic M.,Delic M.,37,370,1085,110,6,4,6,4,,,,,,,2,0,Completed,1.03,15,1.05,9,1.04,9,1.03,15.56,1.05,9,1.05,16.25,1.03,11.67
+9,Zagreb,PBZ Zagreb Indoors,03/02/14,ATP250,Indoor,Hard,1st Round,3,Becker B.,Huta Galung J.,93,92,602,609,6,7,6,3,7,6,,,,,2,1,Completed,1.5,2.5,1.48,2.6,1.5,2.5,1.54,2.62,1.5,2.63,1.59,2.65,1.5,2.51
+9,Zagreb,PBZ Zagreb Indoors,04/02/14,ATP250,Indoor,Hard,1st Round,3,Lajovic D.,Krstin P.,101,373,547,109,6,2,6,3,,,,,,,2,0,Completed,1.4,2.75,1.4,2.9,1.36,3,1.46,2.89,1.36,3,1.47,3.25,1.4,2.86
+9,Zagreb,PBZ Zagreb Indoors,04/02/14,ATP250,Indoor,Hard,1st Round,3,Phau B.,Pavic A.,358,229,117,210,6,3,6,4,,,,,,,2,0,Completed,1.8,1.9,1.85,1.9,1.73,2,1.65,2.37,1.8,2,1.85,2.37,1.76,2.01
+9,Zagreb,PBZ Zagreb Indoors,04/02/14,ATP250,Indoor,Hard,1st Round,3,Berrer M.,Coric B.,148,303,360,147,6,4,3,6,6,4,,,,,2,1,Completed,1.16,5,1.16,5,1.14,5,1.17,5.81,1.14,5.5,1.19,5.81,1.16,4.96
+9,Zagreb,PBZ Zagreb Indoors,04/02/14,ATP250,Indoor,Hard,1st Round,3,Lacko L.,Struff J.L.,102,119,547,481,6,4,6,4,,,,,,,2,0,Completed,1.72,2,1.75,2.05,1.73,2,1.81,2.09,1.8,2,1.84,2.1,1.76,2.01
+9,Zagreb,PBZ Zagreb Indoors,04/02/14,ATP250,Indoor,Hard,1st Round,3,Karlovic I.,Brands D.,79,68,667,719,6,7,7,5,7,6,,,,,2,1,Completed,1.8,1.9,1.8,2,1.8,1.91,1.94,1.94,1.8,2,1.95,2.1,1.85,1.9
+9,Zagreb,PBZ Zagreb Indoors,05/02/14,ATP250,Indoor,Hard,1st Round,3,Evans D.,Hajek J.,147,106,362,540,6,3,6,1,,,,,,,2,0,Completed,1.57,2.25,1.55,2.4,1.67,2.1,1.54,2.62,1.62,2.25,1.68,2.62,1.6,2.3
+9,Zagreb,PBZ Zagreb Indoors,05/02/14,ATP250,Indoor,Hard,1st Round,3,Sela D.,Rosol L.,78,49,671,911,6,3,7,6,,,,,,,2,0,Completed,2.37,1.53,2.35,1.58,2.25,1.57,2.3,1.68,2.5,1.53,2.5,1.68,2.33,1.58
+9,Zagreb,PBZ Zagreb Indoors,05/02/14,ATP250,Indoor,Hard,1st Round,3,Kuznetsov An.,Stakhovsky S.,142,83,382,636,6,4,7,6,,,,,,,2,0,Completed,3,1.36,3.1,1.35,2.75,1.4,3.14,1.41,3,1.36,3.14,1.43,2.93,1.38
+9,Zagreb,PBZ Zagreb Indoors,05/02/14,ATP250,Indoor,Hard,1st Round,3,Golubev A.,Hanescu V.,87,73,620,700,7,6,4,6,7,6,,,,,2,1,Completed,1.66,2.1,1.65,2.2,1.67,2.1,1.67,2.33,1.62,2.25,1.77,2.38,1.64,2.2
+9,Zagreb,PBZ Zagreb Indoors,05/02/14,ATP250,Indoor,Hard,1st Round,3,Sijsling I.,Kavcic B.,63,112,740,514,6,7,6,3,6,4,,,,,2,1,Completed,1.5,2.5,1.5,2.5,1.53,2.38,1.54,2.64,1.53,2.5,1.57,2.64,1.53,2.46
+9,Zagreb,PBZ Zagreb Indoors,05/02/14,ATP250,Indoor,Hard,2nd Round,3,Cilic M.,Lajovic D.,37,101,1085,547,6,4,7,5,,,,,,,2,0,Completed,1.1,7,1.11,6,1.1,6.5,1.1,8.7,1.11,6.5,1.11,9.5,1.1,6.8
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Sela D.,Lacko L.,78,102,671,547,6,3,6,2,,,,,,,2,0,Completed,1.9,1.8,1.8,2,1.83,1.83,2.08,1.83,2,1.8,2.08,2,1.94,1.82
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Phau B.,Youzhny M.,358,14,117,2145,4,6,7,5,6,1,,,,,2,1,Completed,5,1.16,4.75,1.17,5,1.14,5.8,1.17,5,1.17,5.8,1.2,4.97,1.16
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Evans D.,Berrer M.,147,148,362,360,1,6,6,1,7,6,,,,,2,1,Completed,2.5,1.5,2.5,1.5,2.38,1.53,2.39,1.65,2.5,1.53,2.62,1.65,2.43,1.54
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Kohlschreiber P.,Golubev A.,27,87,1330,620,6,4,6,2,,,,,,,2,0,Completed,1.3,3.4,1.3,3.4,1.3,3.4,1.38,3.41,1.33,3.25,1.39,3.5,1.32,3.28
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Kuznetsov An.,Sijsling I.,142,63,382,740,1,6,6,3,7,6,,,,,2,1,Completed,2.75,1.4,2.8,1.42,2.62,1.44,3.41,1.37,2.75,1.44,3.41,1.45,2.89,1.4
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Dodig I.,Karlovic I.,34,79,1145,667,7,6,6,3,,,,,,,2,0,Completed,1.8,1.9,1.8,2,1.73,2,1.81,2.11,1.8,2,1.82,2.24,1.78,1.99
+9,Zagreb,PBZ Zagreb Indoors,06/02/14,ATP250,Indoor,Hard,2nd Round,3,Haas T.,Becker B.,12,93,2435,602,4,6,6,3,6,3,,,,,2,1,Completed,1.44,2.62,1.48,2.6,1.4,2.75,1.43,3.05,1.4,2.75,1.5,3.05,1.44,2.7
+9,Zagreb,PBZ Zagreb Indoors,07/02/14,ATP250,Indoor,Hard,Quarterfinals,3,Phau B.,Sela D.,358,78,117,671,6,4,6,3,,,,,,,2,0,Completed,2.75,1.4,2.9,1.4,2.62,1.44,2.97,1.47,2.75,1.44,3.13,1.48,2.79,1.42
+9,Zagreb,PBZ Zagreb Indoors,07/02/14,ATP250,Indoor,Hard,Quarterfinals,3,Cilic M.,Dodig I.,37,34,1085,1145,7,5,6,4,,,,,,,2,0,Completed,1.5,2.5,1.52,2.45,1.5,2.5,1.6,2.55,1.57,2.38,1.62,2.62,1.54,2.44
+9,Zagreb,PBZ Zagreb Indoors,07/02/14,ATP250,Indoor,Hard,Quarterfinals,3,Evans D.,Kohlschreiber P.,147,27,362,1330,6,4,2,6,6,4,,,,,2,1,Completed,5,1.16,4.75,1.17,4,1.22,5.05,1.22,4.5,1.2,5.3,1.22,4.6,1.19
+9,Zagreb,PBZ Zagreb Indoors,07/02/14,ATP250,Indoor,Hard,Quarterfinals,3,Haas T.,Kuznetsov An.,12,142,2435,382,7,6,6,4,,,,,,,2,0,Completed,1.18,4.5,1.22,4,1.25,3.75,1.25,4.55,1.2,4.5,1.26,4.7,1.23,4.09
+9,Zagreb,PBZ Zagreb Indoors,08/02/14,ATP250,Indoor,Hard,Semifinals,3,Cilic M.,Phau B.,37,358,1085,117,6,3,6,4,,,,,,,2,0,Completed,1.1,7,1.12,5.75,1.12,6,1.13,7.3,1.14,5.5,1.15,7.3,1.12,6.01
+9,Zagreb,PBZ Zagreb Indoors,08/02/14,ATP250,Indoor,Hard,Semifinals,3,Haas T.,Evans D.,12,147,2435,362,5,7,6,4,6,3,,,,,2,1,Completed,1.3,3.5,1.28,3.5,1.25,4,1.35,3.55,1.25,3.75,1.35,4,1.28,3.6
+9,Zagreb,PBZ Zagreb Indoors,09/02/14,ATP250,Indoor,Hard,The Final,3,Cilic M.,Haas T.,37,12,1085,2435,6,3,6,4,,,,,,,2,0,Completed,1.5,2.62,1.5,2.5,1.53,2.5,1.53,2.74,1.52,2.5,1.56,2.74,1.51,2.53

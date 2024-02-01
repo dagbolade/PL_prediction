@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+25,Budapest,Hungarian Open,22/04/2019,ATP250,Outdoor,Clay,1st Round,3,Berrettini M.,Kukushkin M.,55,40,927,1050,6,4,6,4,,,,,,,2,0,Completed,1.57,2.25,1.56,2.56,1.67,2.56,1.59,2.34
+25,Budapest,Hungarian Open,22/04/2019,ATP250,Outdoor,Clay,1st Round,3,Bedene A.,Tomic B.,74,77,755,724,7,6,6,4,,,,,,,2,0,Completed,1.36,3,1.46,2.92,1.54,3,1.44,2.78
+25,Budapest,Hungarian Open,22/04/2019,ATP250,Outdoor,Clay,1st Round,3,Krajinovic F.,Seppi A.,105,62,576,865,6,2,6,7,7,5,,,,,2,1,Completed,1.36,3,1.53,2.67,1.53,3.3,1.44,2.78
+25,Budapest,Hungarian Open,22/04/2019,ATP250,Outdoor,Clay,1st Round,3,Albot R.,Stakhovsky S.,44,115,1012,511,7,5,6,4,,,,,,,2,0,Completed,1.22,4,1.28,4.03,1.3,4.2,1.27,3.71
+25,Budapest,Hungarian Open,23/04/2019,ATP250,Outdoor,Clay,1st Round,3,Gojowczyk P.,Harris L.,85,90,655,633,7,5,6,4,,,,,,,2,0,Completed,2.2,1.61,2.37,1.65,2.4,1.67,2.27,1.62
+25,Budapest,Hungarian Open,23/04/2019,ATP250,Outdoor,Clay,1st Round,3,Millman J.,Kecmanovic M.,39,87,1095,650,6,1,6,2,,,,,,,2,0,Completed,2.1,1.66,2.24,1.71,2.25,1.86,2.14,1.7
+25,Budapest,Hungarian Open,23/04/2019,ATP250,Outdoor,Clay,1st Round,3,Herbert P.H.,Gerasimov E.,49,136,968,421,6,3,6,2,,,,,,,2,0,Completed,,,,,1.4,3.64,1.35,3.26
+25,Budapest,Hungarian Open,23/04/2019,ATP250,Outdoor,Clay,1st Round,3,Balazs A.,Hurkacz H.,246,52,184,937,6,3,6,4,,,,,,,2,0,Completed,3,1.36,3.49,1.35,3.55,1.4,3.25,1.34
+25,Budapest,Hungarian Open,23/04/2019,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Fabbiano T.,64,91,835,631,6,7,6,3,6,2,,,,,2,1,Completed,1.5,2.5,1.49,2.79,1.52,2.85,1.47,2.66
+25,Budapest,Hungarian Open,23/04/2019,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Gulbis E.,33,78,1246,707,6,4,6,7,7,6,,,,,2,1,Completed,1.36,3,1.44,2.98,1.45,3.42,1.41,2.91
+25,Budapest,Hungarian Open,24/04/2019,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Maden Y.,73,109,757,552,6,3,3,6,6,4,,,,,2,1,Completed,1.33,3.25,1.4,3.16,1.42,3.3,1.38,2.99
+25,Budapest,Hungarian Open,24/04/2019,ATP250,Outdoor,Clay,1st Round,3,Sinner J.,Valkusz M.,314,323,96,91,6,2,0,6,6,4,,,,,2,1,Completed,1.72,2,2.07,1.83,2.07,2.05,1.87,1.92
+25,Budapest,Hungarian Open,24/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Balazs A.,Millman J.,246,39,184,1095,6,4,2,6,6,2,,,,,2,1,Completed,2.75,1.4,2.76,1.51,2.88,1.51,2.76,1.44
+25,Budapest,Hungarian Open,24/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Herbert P.H.,Bachinger M.,49,129,968,439,7,5,6,2,,,,,,,2,0,Completed,1.3,3.4,1.29,4.05,1.33,4.05,1.28,3.62
+25,Budapest,Hungarian Open,25/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Krajinovic F.,Albot R.,105,44,576,1012,7,5,6,4,,,,,,,2,0,Completed,1.36,3,1.39,3.25,1.41,3.3,1.37,3.08
+25,Budapest,Hungarian Open,25/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Coric B.,Haase R.,15,64,2480,835,6,3,4,6,6,4,,,,,2,1,Completed,1.33,3.25,1.37,3.41,1.37,3.55,1.33,3.28
+25,Budapest,Hungarian Open,25/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Berrettini M.,Bedene A.,55,74,927,755,7,6,6,2,,,,,,,2,0,Completed,1.66,2.1,1.68,2.34,1.7,2.35,1.65,2.22
+25,Budapest,Hungarian Open,25/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Basilashvili N.,Gojowczyk P.,18,85,1930,655,6,3,0,6,6,3,,,,,2,1,Completed,1.36,3,1.44,3.01,1.5,3.01,1.42,2.84
+25,Budapest,Hungarian Open,25/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Cilic M.,73,11,757,2845,5,7,7,6,7,6,,,,,2,1,Completed,2.2,1.61,2.4,1.65,2.5,1.65,2.33,1.59
+25,Budapest,Hungarian Open,25/04/2019,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Sinner J.,33,314,1246,96,6,3,6,1,,,,,,,2,0,Completed,1.18,4.5,1.2,5.28,1.25,5.3,1.2,4.54
+25,Budapest,Hungarian Open,26/04/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Krajinovic F.,Coric B.,105,15,576,2480,6,4,7,5,,,,,,,2,0,Completed,2,1.8,2.06,1.87,2.2,1.87,2.07,1.75
+25,Budapest,Hungarian Open,26/04/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Herbert P.H.,Balazs A.,49,246,968,184,6,3,6,4,,,,,,,2,0,Completed,1.5,2.62,1.55,2.68,1.57,2.71,1.52,2.54
+25,Budapest,Hungarian Open,26/04/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Berrettini M.,Cuevas P.,55,73,927,757,6,3,1,6,6,3,,,,,2,1,Completed,1.57,2.37,1.65,2.42,1.67,2.44,1.6,2.32
+25,Budapest,Hungarian Open,26/04/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Djere L.,Basilashvili N.,33,18,1246,1930,3,6,6,2,6,3,,,,,2,1,Completed,1.66,2.2,1.75,2.24,1.75,2.25,1.67,2.2
+25,Budapest,Hungarian Open,27/04/2019,ATP250,Outdoor,Clay,Semifinals,3,Krajinovic F.,Herbert P.H.,105,49,576,968,6,2,6,2,,,,,,,2,0,Completed,1.4,3,1.43,3.12,1.43,3.3,1.39,2.98
+25,Budapest,Hungarian Open,27/04/2019,ATP250,Outdoor,Clay,Semifinals,3,Berrettini M.,Djere L.,55,33,927,1246,6,4,6,2,,,,,,,2,0,Completed,1.66,2.2,1.7,2.31,1.73,2.31,1.68,2.17
+25,Budapest,Hungarian Open,28/04/2019,ATP250,Outdoor,Clay,The Final,3,Berrettini M.,Krajinovic F.,55,105,927,576,4,6,6,3,6,1,,,,,2,1,Completed,2.2,1.66,2.28,1.72,2.3,1.76,2.18,1.68

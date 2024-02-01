@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+5,Cordoba,Cordoba Open,03/02/2020,ATP250,Outdoor,Clay,1st Round,3,Balazs A.,Sonego L.,108,52,505,980,6,2,7,6,,,,,,,2,0,Completed,2.5,1.5,2.41,1.63,2.84,1.63,2.45,1.54
+5,Cordoba,Cordoba Open,03/02/2020,ATP250,Outdoor,Clay,1st Round,3,Mager G.,Ficovich J.P.,133,244,401,196,6,2,3,6,6,2,,,,,2,1,Completed,1.83,1.83,1.94,1.94,2,2,1.87,1.91
+5,Cordoba,Cordoba Open,03/02/2020,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Delbonis F.,48,74,1062,746,7,5,6,2,,,,,,,2,0,Completed,2.1,1.66,2.44,1.61,2.45,1.72,2.25,1.63
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Taberner C.,Verdasco F.,198,49,252,1050,4,6,6,1,6,4,,,,,2,1,Completed,2.5,1.5,2.97,1.44,3,1.55,2.7,1.46
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Martin A.,Coria F.,100,116,551,466,7,6,6,4,,,,,,,2,0,Completed,1.8,1.9,1.83,2.07,1.99,2.07,1.83,1.95
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Martinez P.,Gaio F.,150,124,347,422,4,6,6,3,6,4,,,,,2,1,Completed,,,,,1.76,2.08,1.76,2.08
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Bagnis F.,42,135,1130,392,6,4,7,6,,,,,,,2,0,Completed,1.5,2.5,1.61,2.44,1.62,2.75,1.54,2.45
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Horansky F.,63,173,867,300,6,2,6,2,,,,,,,2,0,Completed,,,,,1.2,6.4,1.16,5.37
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Moutet C.,Monteiro T.,71,89,777,634,6,4,6,3,,,,,,,2,0,Completed,2,1.72,2.27,1.7,2.3,1.95,2.02,1.77
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Cachin P.,Dellien H.,354,77,104,738,6,1,6,1,,,,,,,2,0,Completed,3.25,1.33,3.13,1.41,3.25,1.5,2.86,1.41
+5,Cordoba,Cordoba Open,04/02/2020,ATP250,Outdoor,Clay,1st Round,3,Londero J.I.,Cecchinato M.,50,72,1012,758,6,2,7,5,,,,,,,2,0,Completed,1.57,2.25,1.65,2.36,1.72,2.38,1.63,2.24
+5,Cordoba,Cordoba Open,05/02/2020,ATP250,Outdoor,Clay,1st Round,3,Munar J.,Mayer L.,87,103,643,529,6,4,6,3,,,,,,,2,0,Completed,1.8,1.9,1.74,2.2,1.85,2.2,1.77,2.03
+5,Cordoba,Cordoba Open,05/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Martin A.,Taberner C.,100,198,551,252,6,3,7,6,,,,,,,2,0,Completed,2,1.72,2.16,1.78,2.21,1.92,1.99,1.8
+5,Cordoba,Cordoba Open,05/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Mager G.,48,133,1062,401,6,7,7,6,6,1,,,,,2,1,Completed,1.4,2.75,1.47,2.93,1.48,3.22,1.41,2.88
+5,Cordoba,Cordoba Open,05/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Moutet C.,Pella G.,71,22,777,1665,6,7,7,5,6,3,,,,,2,1,Completed,2.1,1.66,2.69,1.53,2.8,1.69,2.52,1.52
+5,Cordoba,Cordoba Open,06/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Garin C.,Balazs A.,31,108,1320,505,6,3,6,0,,,,,,,2,0,Completed,1.44,2.62,1.43,3.06,1.49,3.06,1.44,2.75
+5,Cordoba,Cordoba Open,06/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Martinez P.,39,150,1185,347,6,3,6,4,,,,,,,2,0,Completed,1.57,2.25,1.71,2.27,1.71,2.56,1.65,2.2
+5,Cordoba,Cordoba Open,06/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Andujar P.,42,63,1130,867,6,3,6,7,6,4,,,,,2,1,Completed,1.72,2,1.83,2.09,1.87,2.33,1.73,2.07
+5,Cordoba,Cordoba Open,07/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Londero J.I.,Cachin P.,50,354,1012,104,6,3,6,3,,,,,,,2,0,Completed,1.22,4,1.26,4.34,1.29,4.4,1.23,4.01
+5,Cordoba,Cordoba Open,07/02/2020,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Munar J.,14,87,2220,643,6,1,7,5,,,,,,,2,0,Completed,1.28,3.5,1.31,3.81,1.31,3.9,1.27,3.65
+5,Cordoba,Cordoba Open,07/02/2020,ATP250,Outdoor,Clay,Quarterfinals,3,Martin A.,Moutet C.,100,71,551,777,6,3,6,2,,,,,,,2,0,Completed,2.37,1.57,2.37,1.67,2.55,1.67,2.36,1.58
+5,Cordoba,Cordoba Open,07/02/2020,ATP250,Outdoor,Clay,Quarterfinals,3,Garin C.,Cuevas P.,31,48,1320,1062,1,6,6,3,6,4,,,,,2,1,Completed,1.53,2.5,1.57,2.6,1.58,2.75,1.52,2.52
+5,Cordoba,Cordoba Open,07/02/2020,ATP250,Outdoor,Clay,Quarterfinals,3,Schwartzman D.,Ramos-Vinolas A.,14,42,2220,1130,6,0,7,6,,,,,,,2,0,Completed,1.25,4,1.2,5.32,1.28,5.32,1.23,4.07
+5,Cordoba,Cordoba Open,08/02/2020,ATP250,Outdoor,Clay,Quarterfinals,3,Djere L.,Londero J.I.,39,50,1185,1012,6,7,6,3,7,6,,,,,2,1,Completed,2.2,1.66,2.33,1.69,2.35,1.73,2.19,1.66
+5,Cordoba,Cordoba Open,08/02/2020,ATP250,Outdoor,Clay,Semifinals,3,Garin C.,Martin A.,31,100,1320,551,2,6,6,2,6,2,,,,,2,1,Completed,1.5,2.62,1.61,2.52,1.61,2.88,1.49,2.6
+5,Cordoba,Cordoba Open,09/02/2020,ATP250,Outdoor,Clay,Semifinals,3,Schwartzman D.,Djere L.,14,39,2220,1185,6,1,1,6,6,2,,,,,2,1,Completed,1.16,5,1.18,5.78,1.22,5.78,1.17,4.92
+5,Cordoba,Cordoba Open,09/02/2020,ATP250,Outdoor,Clay,The Final,3,Garin C.,Schwartzman D.,31,14,1320,2220,2,6,6,4,6,0,,,,,2,1,Completed,3,1.4,3.28,1.4,3.28,1.44,3.02,1.38

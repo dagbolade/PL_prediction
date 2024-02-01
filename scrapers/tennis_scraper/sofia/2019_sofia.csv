@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+9,Sofia,Sofia Open,04/02/2019,ATP250,Indoor,Hard,1st Round,3,Ebden M.,Andreev A.,45,N/A,981,N/A,6,3,4,6,7,6,,,,,2,1,Completed,1.04,13,1.04,14.78,1.06,15.75,1.04,12
+9,Sofia,Sofia Open,04/02/2019,ATP250,Indoor,Hard,1st Round,3,Copil M.,Wawrinka S.,56,57,858,830,3,6,7,6,6,4,,,,,2,1,Completed,2.37,1.53,2.57,1.56,2.8,1.62,2.46,1.55
+9,Sofia,Sofia Open,05/02/2019,ATP250,Indoor,Hard,1st Round,3,Brands D.,Basilashvili N.,180,22,285,1820,7,6,7,5,,,,,,,2,0,Completed,3.5,1.28,3.97,1.29,3.97,1.32,3.64,1.29
+9,Sofia,Sofia Open,05/02/2019,ATP250,Indoor,Hard,1st Round,3,Maden Y.,Mannarino A.,121,46,468,965,6,4,7,6,,,,,,,2,0,Completed,2.1,1.66,2.14,1.78,2.2,1.94,2.1,1.74
+9,Sofia,Sofia Open,05/02/2019,ATP250,Indoor,Hard,1st Round,3,Struff J.L.,Travaglia S.,51,122,910,463,6,4,6,3,,,,,,,2,0,Completed,1.4,2.75,1.44,3,1.5,3.23,1.44,2.78
+9,Sofia,Sofia Open,05/02/2019,ATP250,Indoor,Hard,1st Round,3,Berrettini M.,Istomin D.,53,106,904,542,6,4,7,6,,,,,,,2,0,Completed,1.5,2.5,1.64,2.38,1.64,2.55,1.56,2.43
+9,Sofia,Sofia Open,05/02/2019,ATP250,Indoor,Hard,1st Round,3,Haase R.,Kuzmanov D.,54,336,895,76,6,2,6,4,,,,,,,2,0,Completed,1.12,6,1.17,5.67,1.2,6.9,1.15,5.4
+9,Sofia,Sofia Open,05/02/2019,ATP250,Indoor,Hard,1st Round,3,Monfils G.,Troicki V.,33,185,1195,277,6,3,6,4,,,,,,,2,0,Completed,1.25,3.75,1.25,4.4,1.29,4.4,1.25,3.93
+9,Sofia,Sofia Open,06/02/2019,ATP250,Indoor,Hard,1st Round,3,Klizan M.,Basic M.,38,99,1066,589,6,0,3,6,6,2,,,,,2,1,Completed,1.44,2.62,1.44,2.99,1.5,3.05,1.43,2.83
+9,Sofia,Sofia Open,06/02/2019,ATP250,Indoor,Hard,1st Round,3,Kukushkin M.,Djere L.,55,88,890,627,7,6,6,4,,,,,,,2,0,Completed,1.28,3.5,1.3,3.85,1.35,3.95,1.29,3.56
+9,Sofia,Sofia Open,06/02/2019,ATP250,Indoor,Hard,1st Round,3,Verdasco F.,Lazarov A.,26,N/A,1455,N/A,6,2,6,1,,,,,,,2,0,Completed,1.05,11,1.07,11.01,1.07,15,1.04,10.98
+9,Sofia,Sofia Open,06/02/2019,ATP250,Indoor,Hard,1st Round,3,Fucsovics M.,Seppi A.,47,37,959,1080,6,2,7,6,,,,,,,2,0,Completed,1.9,1.8,2.12,1.79,2.17,1.88,2.02,1.79
+9,Sofia,Sofia Open,06/02/2019,ATP250,Indoor,Hard,2nd Round,3,Bautista Agut R.,Ebden M.,18,45,1955,981,3,6,6,3,6,2,,,,,2,1,Completed,1.12,6,1.15,6.46,1.17,6.46,1.14,5.71
+9,Sofia,Sofia Open,06/02/2019,ATP250,Indoor,Hard,2nd Round,3,Berrettini M.,Khachanov K.,53,11,904,2880,6,7,6,3,6,4,,,,,2,1,Completed,3.5,1.28,3.94,1.3,3.95,1.32,3.6,1.29
+9,Sofia,Sofia Open,07/02/2019,ATP250,Indoor,Hard,2nd Round,3,Klizan M.,Brands D.,38,180,1066,285,7,6,6,4,,,,,,,2,0,Completed,1.44,2.62,1.4,3.24,1.51,3.24,1.44,2.8
+9,Sofia,Sofia Open,07/02/2019,ATP250,Indoor,Hard,2nd Round,3,Fucsovics M.,Maden Y.,47,121,959,468,7,6,3,6,6,4,,,,,2,1,Completed,1.36,3,1.41,3.17,1.42,3.25,1.37,3.07
+9,Sofia,Sofia Open,07/02/2019,ATP250,Indoor,Hard,2nd Round,3,Verdasco F.,Copil M.,26,56,1455,858,6,2,4,6,6,1,,,,,2,1,Completed,1.61,2.2,1.62,2.46,1.67,2.46,1.63,2.28
+9,Sofia,Sofia Open,07/02/2019,ATP250,Indoor,Hard,2nd Round,3,Medvedev D.,Haase R.,16,54,2000,895,5,7,6,2,6,2,,,,,2,1,Completed,1.22,4,1.28,4.15,1.32,4.35,1.24,4.04
+9,Sofia,Sofia Open,07/02/2019,ATP250,Indoor,Hard,2nd Round,3,Monfils G.,Kukushkin M.,33,55,1195,890,7,5,6,3,,,,,,,2,0,Completed,1.36,3,1.43,3.07,1.45,3.2,1.4,2.94
+9,Sofia,Sofia Open,07/02/2019,ATP250,Indoor,Hard,2nd Round,3,Tsitsipas S.,Struff J.L.,12,51,2805,910,7,6,6,4,,,,,,,2,0,Completed,1.44,2.62,1.52,2.73,1.54,2.75,1.48,2.64
+9,Sofia,Sofia Open,08/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Fucsovics M.,Bautista Agut R.,47,18,959,1955,,,,,,,,,,,,,Walkover,4,1.25,4.14,1.28,4.33,1.32,3.85,1.27
+9,Sofia,Sofia Open,08/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Berrettini M.,Verdasco F.,53,26,904,1455,4,6,7,5,6,4,,,,,2,1,Completed,2.37,1.57,2.44,1.64,2.57,1.67,2.34,1.61
+9,Sofia,Sofia Open,08/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Medvedev D.,Klizan M.,16,38,2000,1066,6,4,6,1,,,,,,,2,0,Completed,1.28,3.75,1.26,4.39,1.32,4.47,1.26,3.87
+9,Sofia,Sofia Open,08/02/2019,ATP250,Indoor,Hard,Quarterfinals,3,Monfils G.,Tsitsipas S.,33,12,1195,2805,6,3,7,6,,,,,,,2,0,Completed,2.2,1.66,2.24,1.75,2.25,1.83,2.13,1.72
+9,Sofia,Sofia Open,09/02/2019,ATP250,Indoor,Hard,Semifinals,3,Fucsovics M.,Berrettini M.,47,53,959,904,5,7,7,5,6,3,,,,,2,1,Completed,2.3,1.61,2.37,1.67,2.37,1.74,2.27,1.64
+9,Sofia,Sofia Open,09/02/2019,ATP250,Indoor,Hard,Semifinals,3,Medvedev D.,Monfils G.,16,33,2000,1195,6,2,6,4,,,,,,,2,0,Completed,1.66,2.2,1.7,2.31,1.73,2.35,1.68,2.2
+9,Sofia,Sofia Open,10/02/2019,ATP250,Indoor,Hard,The Final,3,Medvedev D.,Fucsovics M.,16,47,2000,959,6,4,6,3,,,,,,,2,0,Completed,1.14,5.5,1.17,6.03,1.18,6.05,1.16,5.35

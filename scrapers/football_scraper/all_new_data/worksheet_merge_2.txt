@@ -1,0 +1,58 @@
+Sub MergeData()
+
+    Dim iWorksheets As Integer
+    Dim iActive As Integer
+    
+    Application.ScreenUpdating = False
+    Application.DisplayAlerts = False
+    
+    iWorksheets = ActiveWorkbook.Worksheets.Count
+    
+    'Add new ALL worksheet
+    Worksheets.Add(After:=Worksheets(iWorksheets)).Name = "ALL"
+    
+    'Copy column headers
+    ActiveWorkbook.Worksheets(1).Activate
+    Cells(1, 1).Select
+    Range(Selection, Selection.End(xlDown)).Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Selection.Copy
+    Sheets("ALL").Select
+    Cells(1, 1).Select
+    ActiveSheet.Paste
+    
+    'Loop all sheets to copy data
+    iActive = 2
+    While iActive <= iWorksheets
+        ActiveWorkbook.Worksheets(iActive).Activate
+        Cells(2, 1).Select
+        Range(Selection, Selection.End(xlDown)).Select
+        Range(Selection, Selection.End(xlToRight)).Select
+        Selection.Copy
+        Sheets("ALL").Select
+        Cells(2, 1).Select
+        Range(Selection, Selection.End(xlDown)).Select
+        Selection.End(xlDown).Select
+        Selection.Offset(1, 0).Select
+        ActiveSheet.Paste
+        iActive = iActive + 1
+    Wend
+    
+    'Delete other sheets
+    iActive = 1
+    While iActive < iWorksheets
+        iWorksheets = ActiveWorkbook.Worksheets.Count
+        If iActive < iWorksheets Then
+            ActiveWorkbook.Worksheets(iActive).Delete
+        End If
+    Wend
+    
+    Sheets("ALL").Select
+    Cells(1, 1).Select
+    ActiveWindow.ScrollRow = 1
+    ActiveWindow.ScrollColumn = 1
+
+    Application.DisplayAlerts = True
+    Application.ScreenUpdating = True
+    
+End Sub

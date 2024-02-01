@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Alami K.,Kralert P.,72,154,6,2,6,7,6,2,,,,,2,1,Completed,1.35,3,,,1.3,2.7,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Bruguera S.,El Aarej M.,71,347,6,4,7,5,,,,,,,2,0,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Calatrava A.,Stoliarov A.,54,91,6,2,6,2,,,,,,,2,0,Completed,1.53,2.35,1.45,2.25,1.4,2.3,1.444,2.625
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Canas G.,Tahiri M.,128,433,6,0,6,2,,,,,,,2,0,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,El Aynaoui Y.,Belal C.,56,553,6,3,6,2,,,,,,,2,0,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Gaudenzi A.,Vinciguerra A.,110,51,6,4,6,4,,,,,,,2,0,Completed,2.7,1.4,2.3,1.45,2.2,1.45,2.75,1.4
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Golmard J.,Vinck C.,66,107,6,1,6,3,,,,,,,2,0,Completed,1.45,2.5,1.4,2.4,1.4,2.3,1.5,2.5
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Knippschild J.,di Pasquale A.,99,59,7,5,3,6,6,3,,,,,2,1,Completed,2.5,1.45,2.4,1.4,2.3,1.4,2.75,1.4
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Massu N.,Blanco G.,64,78,7,6,1,6,7,5,,,,,2,1,Completed,2,1.7,1.93,1.65,1.9,1.6,2,1.727
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Puentes G.,Dupuis A.,116,88,2,6,7,6,6,2,,,,,2,1,Completed,1.55,2.3,1.55,2.05,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Robredo T.,Malcor O.,114,442,6,7,6,3,6,0,,,,,2,1,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Rochus O.,Puerta M.,74,47,2,6,6,3,6,4,,,,,2,1,Completed,2.6,1.42,2.4,1.4,2.3,1.4,2.625,1.444
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Sargsian S.,Schuettler R.,96,48,4,6,7,5,7,5,,,,,2,1,Completed,2.2,1.6,2.2,1.51,2.1,1.5,2.2,1.615
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Savolt A.,Hantschk M.,140,115,6,2,6,2,,,,,,,2,0,Completed,1.95,1.75,2.2,1.5,2.1,1.5,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Vanek J.,Vacek J.,90,162,6,2,7,6,,,,,,,2,0,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,1st Round,3,Zabaleta M.,Vicente F.,76,32,6,4,2,6,6,4,,,,,2,1,Completed,2.1,1.65,2,1.6,2.1,1.5,2,1.727
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Bruguera S.,Rochus O.,71,74,6,1,6,3,,,,,,,2,0,Completed,1.62,2.15,1.65,1.9,1.65,1.85,1.8,1.909
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Canas G.,Knippschild J.,128,99,6,0,6,2,,,,,,,2,0,Completed,1.35,2.9,1.42,2.37,1.45,2.2,1.4,2.75
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,El Aynaoui Y.,Alami K.,56,72,4,6,6,2,6,1,,,,,2,1,Completed,1.7,2,1.6,2,1.6,1.9,1.615,2.2
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Gaudenzi A.,Golmard J.,110,66,6,4,6,4,,,,,,,2,0,Completed,2.1,1.65,2,1.6,2,1.55,2.2,1.615
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Puentes G.,Sargsian S.,116,96,6,1,2,6,7,5,,,,,2,1,Completed,2,1.7,1.9,1.65,1.75,1.75,2,1.727
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Robredo T.,Vanek J.,114,90,4,6,6,4,6,4,,,,,2,1,Completed,1.65,2.1,1.67,1.9,1.7,1.8,1.667,2.1
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Savolt A.,Calatrava A.,140,54,7,6,6,4,,,,,,,2,0,Completed,2.65,1.42,2.4,1.4,2.3,1.4,2.875,1.364
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,2nd Round,3,Zabaleta M.,Massu N.,76,64,6,4,3,6,6,1,,,,,2,1,Completed,1.57,2.25,1.65,1.9,1.65,1.85,1.667,2.1
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,Quarterfinals,3,Bruguera S.,Savolt A.,71,140,6,3,7,6,,,,,,,2,0,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,Quarterfinals,3,Canas G.,Gaudenzi A.,128,110,6,2,6,0,,,,,,,2,0,Completed,,,1.8,1.75,1.75,1.75,1.571,2.25
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,Quarterfinals,3,El Aynaoui Y.,Zabaleta M.,56,76,6,4,6,2,,,,,,,2,0,Completed,,,,,,,,
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,Quarterfinals,3,Robredo T.,Puentes G.,114,116,6,0,6,1,,,,,,,2,0,Completed,,,1.64,1.95,1.65,1.85,1.571,2.25
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,Semifinals,3,Canas G.,Bruguera S.,128,71,6,0,7,6,,,,,,,2,0,Completed,1.6,2.2,1.6,2,1.6,1.9,1.533,2.375
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,Semifinals,3,Robredo T.,El Aynaoui Y.,114,56,3,6,6,3,7,6,,,,,2,1,Completed,2.2,1.6,2,1.55,2.1,1.5,2.1,1.667
+22,Casablanca,Grand Prix Hassan II,09/04/01,International,Outdoor,Clay,The Final,3,Canas G.,Robredo T.,128,114,7,5,6,2,,,,,,,2,0,Completed,1.53,2.35,1.6,2.1,1.6,1.9,1.533,2.375

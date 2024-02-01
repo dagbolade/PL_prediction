@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+63,Lyon,Grand Prix de Lyon,22/10/07,International,Indoor,Carpet,1st Round,3,Fish M.,Almagro N.,43,26,730,1010,2,6,6,3,7,6,,,,,2,1,Completed,1.57,2.25,1.62,2.25,1.65,2.15,1.73,2.27,1.64,2.2
+63,Lyon,Grand Prix de Lyon,22/10/07,International,Indoor,Carpet,1st Round,3,Tsonga J.W.,Spadea V.,65,76,587,515,6,3,6,4,,,,,,,2,0,Completed,1.28,3.5,1.37,3,1.3,3.35,1.352,3.64,1.37,3
+63,Lyon,Grand Prix de Lyon,22/10/07,International,Indoor,Carpet,1st Round,3,Benneteau J.,Roger-Vasselin E.,68,93,560,444,5,7,6,3,6,1,,,,,2,1,Completed,1.4,2.75,1.42,2.8,1.4,2.85,1.493,2.83,1.48,2.57
+63,Lyon,Grand Prix de Lyon,22/10/07,International,Indoor,Carpet,1st Round,3,Gicquel M.,Robredo T.,79,9,500,1965,6,4,7,6,,,,,,,2,0,Completed,2.75,1.39,2.8,1.42,2.65,1.45,3.35,1.392,2.65,1.46
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Falla A.,Andreev I.,128,33,335,900,7,6,6,1,,,,,,,2,0,Completed,3.25,1.33,2.87,1.4,,,3.04,1.446,,
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Monaco J.,de Chaunac S.,20,506,1385,50,6,7,6,3,7,6,,,,,2,1,Completed,1.16,4.5,1.21,4.25,1.23,3.89,1.278,4.3,,
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Hartfield D.,Mahut N.,95,52,441,653,7,6,6,4,,,,,,,2,0,Completed,6,1.11,6.5,1.1,6.25,1.1,7.35,1.142,5.8,1.12
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Simon G.,Pavel A.,32,72,925,522,6,2,2,6,6,1,,,,,2,1,Completed,1.66,2.1,1.7,2.1,1.75,2,1.714,2.3,1.8,1.97
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Marach O.,Seppi A.,157,57,273,629,7,6,7,6,,,,,,,2,0,Completed,4,1.22,3.8,1.25,3.59,1.26,4.35,1.274,,
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Becker B.,Clement A.,74,42,518,735,7,6,7,6,,,,,,,2,0,Completed,3,1.36,2.7,1.45,2.53,1.48,2.99,1.457,2.78,1.42
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Ljubicic I.,Querrey S.,14,61,1675,605,7,6,7,6,,,,,,,2,0,Completed,1.33,3.25,1.33,3.25,1.32,3.22,1.408,3.25,1.33,3.2
+63,Lyon,Grand Prix de Lyon,23/10/07,International,Indoor,Carpet,1st Round,3,Ascione T.,Tipsarevic J.,96,63,434,596,6,3,7,6,,,,,,,2,0,Completed,2.62,1.44,2.45,1.53,2.6,1.45,2.7,1.556,2.38,1.55
+63,Lyon,Grand Prix de Lyon,24/10/07,International,Indoor,Carpet,1st Round,3,Rochus O.,Llodra M.,54,75,641,517,7,6,6,2,,,,,,,2,0,Completed,1.44,2.62,1.42,2.8,1.5,2.5,1.426,3.15,1.38,2.95
+63,Lyon,Grand Prix de Lyon,24/10/07,International,Indoor,Carpet,1st Round,3,Gasquet R.,Rochus C.,11,168,1855,256,7,6,6,3,,,,,,,2,0,Completed,1.03,11,1.04,10,1.04,9.25,1.045,18,1.05,9
+63,Lyon,Grand Prix de Lyon,24/10/07,International,Indoor,Carpet,1st Round,3,Grosjean S.,Cadart R.,81,N/A,486,N/A,6,3,6,2,,,,,,,2,0,Completed,1.08,7,1.12,5.95,1.1,6.75,1.134,7.78,1.11,6.2
+63,Lyon,Grand Prix de Lyon,24/10/07,International,Indoor,Carpet,1st Round,3,Santoro F.,Roddick A.,46,5,719,2430,7,6,2,6,6,4,,,,,2,1,Completed,5.5,1.12,5.25,1.15,5.5,1.13,5.67,1.193,5.2,1.15
+63,Lyon,Grand Prix de Lyon,24/10/07,International,Indoor,Carpet,2nd Round,3,Gicquel M.,Becker B.,79,74,500,518,6,3,6,3,,,,,,,2,0,Completed,1.61,2.2,1.65,2.2,1.7,2.1,1.676,2.38,1.7,2.1
+63,Lyon,Grand Prix de Lyon,24/10/07,International,Indoor,Carpet,2nd Round,3,Hartfield D.,Monaco J.,95,20,441,1385,6,4,6,3,,,,,,,2,0,Completed,4,1.22,3.8,1.25,4.25,1.2,4.2,1.286,3.8,1.25
+63,Lyon,Grand Prix de Lyon,25/10/07,International,Indoor,Carpet,2nd Round,3,Rochus O.,Fish M.,54,43,641,730,6,7,7,6,7,6,,,,,2,1,Completed,2.25,1.57,2.35,1.58,2.15,1.65,2.39,1.671,2.15,1.68
+63,Lyon,Grand Prix de Lyon,25/10/07,International,Indoor,Carpet,2nd Round,3,Ljubicic I.,Ascione T.,14,96,1675,434,6,3,6,7,7,6,,,,,2,1,Completed,1.28,3.5,1.36,3.08,1.35,3.1,1.377,3.45,1.38,2.95
+63,Lyon,Grand Prix de Lyon,25/10/07,International,Indoor,Carpet,2nd Round,3,Falla A.,Marach O.,128,157,335,273,6,2,6,1,,,,,,,2,0,Completed,1.36,3,1.35,3.1,1.37,2.92,1.431,3.12,1.35,3.1
+63,Lyon,Grand Prix de Lyon,25/10/07,International,Indoor,Carpet,2nd Round,3,Benneteau J.,Simon G.,68,32,560,925,7,5,6,4,,,,,,,2,0,Completed,2.1,1.66,2.25,1.62,2.15,1.65,2.36,1.685,2.18,1.65
+63,Lyon,Grand Prix de Lyon,25/10/07,International,Indoor,Carpet,2nd Round,3,Tsonga J.W.,Gasquet R.,65,11,587,1855,6,4,6,4,,,,,,,2,0,Completed,3,1.36,3.08,1.36,2.85,1.4,3.15,1.426,3,1.37
+63,Lyon,Grand Prix de Lyon,25/10/07,International,Indoor,Carpet,2nd Round,3,Grosjean S.,Santoro F.,81,46,486,719,4,6,6,1,6,2,,,,,2,1,Completed,2.2,1.61,2.2,1.65,2.03,1.73,2.36,1.685,2.15,1.67
+63,Lyon,Grand Prix de Lyon,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Gicquel M.,Hartfield D.,79,95,500,441,7,5,6,3,,,,,,,2,0,Completed,1.25,3.75,1.26,3.75,1.23,3.89,1.278,4.3,1.26,3.7
+63,Lyon,Grand Prix de Lyon,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Tsonga J.W.,Rochus O.,65,54,587,641,6,3,6,2,,,,,,,2,0,Completed,1.38,2.87,1.42,2.8,1.4,2.85,1.442,3.06,1.4,2.85
+63,Lyon,Grand Prix de Lyon,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Falla A.,Ljubicic I.,128,14,335,1675,7,5,6,7,7,5,,,,,2,1,Completed,2.87,1.38,2.7,1.45,2.92,1.37,2.94,1.467,2.85,1.4
+63,Lyon,Grand Prix de Lyon,26/10/07,International,Indoor,Carpet,Quarterfinals,3,Grosjean S.,Benneteau J.,81,68,486,560,6,7,6,2,7,6,,,,,2,1,Completed,1.66,2.1,1.72,2.1,1.75,2.05,1.781,2.18,1.7,2.1
+63,Lyon,Grand Prix de Lyon,27/10/07,International,Indoor,Carpet,Semifinals,3,Gicquel M.,Falla A.,79,128,500,335,4,6,6,2,7,6,,,,,2,1,Completed,1.5,2.5,1.53,2.45,1.5,2.45,1.524,2.78,1.57,2.35
+63,Lyon,Grand Prix de Lyon,27/10/07,International,Indoor,Carpet,Semifinals,3,Grosjean S.,Tsonga J.W.,81,65,486,587,6,1,6,2,,,,,,,2,0,Completed,2.62,1.44,2.55,1.5,2.35,1.55,2.85,1.488,2.52,1.5
+63,Lyon,Grand Prix de Lyon,28/10/07,International,Indoor,Carpet,The Final,3,Grosjean S.,Gicquel M.,81,79,486,500,7,6,6,4,,,,,,,2,0,Completed,1.61,2.25,1.6,2.3,1.65,2.15,1.654,2.43,1.6,2.28

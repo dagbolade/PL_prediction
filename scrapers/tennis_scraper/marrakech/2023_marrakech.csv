@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+22,Marrakech,Grand Prix Hassan II,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Gaston H.,Struff J.L.,104,100,535,574,3,6,6,4,7,5,,,,,2,1,Completed,2.5,1.53,2.79,1.49,2.79,1.53,2.66,1.46
+22,Marrakech,Grand Prix Hassan II,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Passaro F.,Karatsev A.,115,124,497,475,7,5,3,6,6,3,,,,,2,1,Completed,2.1,1.73,2.21,1.74,2.21,1.8,2.09,1.72
+22,Marrakech,Grand Prix Hassan II,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Munar J.,Benchetrit E.,83,445,675,98,6,4,6,4,,,,,,,2,0,Completed,1.1,7,1.16,6.05,1.16,7,1.12,5.92
+22,Marrakech,Grand Prix Hassan II,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Popyrin A.,Lalami Laaroussi Y.,95,937,611,13,6,3,6,2,,,,,,,2,0,Completed,1.03,15,1.04,17.65,1.04,17.65,1.03,13
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Vavassori A.,Jarry N.,201,59,293,859,6,2,3,6,6,3,,,,,2,1,Completed,3.2,1.36,3.37,1.36,3.37,1.42,2.98,1.38
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Cressy M.,82,38,675,1016,6,7,6,3,6,1,,,,,2,1,Completed,1.53,2.5,1.52,2.69,1.59,2.71,1.52,2.5
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Kotov P.,Martinez P.,114,125,502,471,6,2,1,6,7,6,,,,,2,1,Completed,2,1.8,2.01,1.88,2.05,1.89,1.95,1.83
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Kuzmanov D.,Grenier H.,207,129,283,464,6,3,6,4,,,,,,,2,0,Completed,1.53,2.5,1.6,2.45,1.6,2.5,1.54,2.44
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Ymer E.,Moundir A.,157,720,376,33,6,4,7,6,,,,,,,2,0,Completed,1.13,6,1.13,6.88,1.14,6.88,1.12,6.07
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,O Connell C.,Bonadio R.,87,181,657,325,7,5,6,4,,,,,,,2,0,Completed,1.73,2.1,1.78,2.15,1.8,2.15,1.73,2.08
+22,Marrakech,Grand Prix Hassan II,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Muller A.,Gasquet R.,126,42,471,975,6,4,6,4,,,,,,,2,0,Completed,2.2,1.67,2.18,1.76,2.25,1.77,2.15,1.68
+22,Marrakech,Grand Prix Hassan II,05/04/2023,ATP250,Outdoor,Clay,1st Round,3,Bonzi B.,Vatutin A.,50,295,889,176,6,3,6,3,,,,,,,2,0,Completed,1.36,3.2,1.39,3.16,1.4,3.67,1.35,3.13
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Griekspoor T.,Ymer E.,35,157,1059,376,1,6,6,3,6,4,,,,,2,1,Completed,1.25,4,1.27,4.1,1.27,4.1,1.25,3.85
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,O Connell C.,Van De Zandschulp B.,87,31,657,1250,6,7,6,4,6,0,,,,,2,1,Completed,2.63,1.5,2.65,1.53,2.8,1.53,2.6,1.48
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Kuzmanov D.,Carballes Baena R.,207,82,283,675,0,2,,,,,,,,,0,0,Retired,3,1.4,3.01,1.43,3.43,1.46,3.06,1.36
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Vavassori A.,Munar J.,201,83,293,675,6,7,7,6,6,4,,,,,2,1,Completed,2.63,1.5,2.59,1.56,2.75,1.58,2.52,1.51
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Evans D.,Popyrin A.,30,95,1345,611,6,1,6,3,,,,,,,2,0,Completed,2.2,1.67,2.29,1.68,2.31,1.75,2.2,1.65
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Musetti L.,Gaston H.,21,104,1840,535,6,2,6,3,,,,,,,2,0,Completed,1.57,2.38,1.5,2.71,1.57,2.76,1.49,2.56
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Kotov P.,Bonzi B.,114,50,502,889,6,0,7,6,,,,,,,2,0,Completed,2.38,1.57,2.5,1.59,2.52,1.62,2.37,1.56
+22,Marrakech,Grand Prix Hassan II,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Muller A.,Passaro F.,126,115,471,497,6,4,6,4,,,,,,,2,0,Completed,1.57,2.38,1.51,2.74,1.58,2.75,1.5,2.55
+22,Marrakech,Grand Prix Hassan II,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Evans D.,Vavassori A.,30,201,1345,293,6,3,7,5,,,,,,,2,0,Completed,1.62,2.3,1.74,2.23,1.76,2.32,1.68,2.16
+22,Marrakech,Grand Prix Hassan II,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Carballes Baena R.,Griekspoor T.,82,35,675,1059,6,3,2,6,6,2,,,,,2,1,Completed,2.38,1.57,2.63,1.55,2.63,1.66,2.32,1.59
+22,Marrakech,Grand Prix Hassan II,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Muller A.,Musetti L.,126,21,471,1840,6,3,1,6,6,4,,,,,2,1,Completed,3,1.4,3.13,1.42,3.13,1.51,2.76,1.43
+22,Marrakech,Grand Prix Hassan II,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Kotov P.,O Connell C.,114,87,502,657,6,3,6,7,7,6,,,,,2,1,Completed,2.1,1.73,2.09,1.83,2.24,1.83,2.09,1.72
+22,Marrakech,Grand Prix Hassan II,08/04/2023,ATP250,Outdoor,Clay,Semifinals,3,Carballes Baena R.,Evans D.,82,30,675,1345,2,6,6,4,6,2,,,,,2,1,Completed,1.8,2,1.78,2.17,1.85,2.17,1.76,2.05
+22,Marrakech,Grand Prix Hassan II,08/04/2023,ATP250,Outdoor,Clay,Semifinals,3,Muller A.,Kotov P.,126,114,471,502,7,6,7,5,,,,,,,2,0,Completed,1.53,2.5,1.56,2.59,1.62,2.61,1.53,2.46
+22,Marrakech,Grand Prix Hassan II,09/04/2023,ATP250,Outdoor,Clay,The Final,3,Carballes Baena R.,Muller A.,82,126,675,471,4,6,7,6,6,2,,,,,2,1,Completed,1.73,2.1,1.78,2.17,1.81,2.18,1.74,2.08

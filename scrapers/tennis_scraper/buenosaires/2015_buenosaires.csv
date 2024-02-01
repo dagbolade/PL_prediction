@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+17,Buenos Aires,Argentina Open,23/02/15,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Bellucci T.,66,71,762,681,6,4,6,7,6,1,,,,,2,1,Completed,2.62,1.44,2.6,1.48,2.38,1.53,2.53,1.58,2.66,1.58,2.52,1.5
+17,Buenos Aires,Argentina Open,23/02/15,ATP250,Outdoor,Clay,1st Round,3,Mayer L.,Robert S.,29,211,1264,225,6,0,6,1,,,,,,,2,0,Completed,1.18,4.5,1.18,4.5,1.2,4.33,1.18,5.47,1.25,5.47,1.19,4.48
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Monaco J.,Gonzalez M.,60,94,815,564,6,2,6,2,,,,,,,2,0,Completed,1.28,3.5,1.3,3.4,1.29,3.5,1.33,3.62,1.33,3.9,1.28,3.55
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Olivo R.,Nieminen J.,186,70,269,693,7,6,5,7,6,0,,,,,2,1,Completed,2.5,1.5,2.45,1.52,2.62,1.44,2.55,1.57,2.62,1.57,2.47,1.52
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Rola B.,Vesely J.,85,46,602,958,6,4,6,3,,,,,,,2,0,Completed,3.5,1.28,3.5,1.28,3.5,1.29,3.9,1.29,3.9,1.32,3.56,1.28
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Carreno-Busta P.,59,54,816,866,7,6,3,0,,,,,,,1,0,Retired,1.61,2.2,1.65,2.15,1.62,2.2,1.72,2.23,1.77,2.23,1.67,2.16
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Arguello F.,Montanes A.,146,90,363,571,6,3,6,2,,,,,,,2,0,Completed,2.5,1.5,2.4,1.55,2.38,1.53,2.47,1.6,2.5,1.62,2.37,1.56
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Schwartzman D.,74,64,670,780,6,3,6,3,,,,,,,2,0,Completed,1.66,2.1,1.72,2.05,1.67,2.1,1.74,2.2,1.81,2.2,1.72,2.07
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Zeballos H.,68,125,730,441,6,4,6,1,,,,,,,2,0,Completed,1.44,2.62,1.52,2.45,1.5,2.5,1.55,2.61,1.57,2.65,1.5,2.51
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Andreozzi G.,Molteni A.,194,280,246,169,6,2,6,2,,,,,,,2,0,Completed,1.4,2.75,1.45,2.7,1.44,2.62,1.46,2.89,1.5,2.95,1.44,2.71
+17,Buenos Aires,Argentina Open,24/02/15,ATP250,Outdoor,Clay,1st Round,3,Bagnis F.,Cecchinato M.,128,150,431,336,4,6,7,5,6,3,,,,,2,1,Completed,1.83,1.83,2.05,1.72,2,1.73,1.93,1.96,2.15,1.96,1.97,1.8
+17,Buenos Aires,Argentina Open,25/02/15,ATP250,Outdoor,Clay,1st Round,3,Almagro N.,Andujar P.,89,67,575,760,6,3,3,6,6,2,,,,,2,1,Completed,1.33,3.25,1.35,3.1,1.36,3,1.38,3.36,1.38,3.5,1.34,3.17
+17,Buenos Aires,Argentina Open,25/02/15,ATP250,Outdoor,Clay,2nd Round,3,Delbonis F.,Lorenzi P.,59,66,816,762,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.45,2.65,1.44,2.62,1.5,2.8,1.5,2.8,1.46,2.65
+17,Buenos Aires,Argentina Open,25/02/15,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Andreozzi G.,24,194,1492,246,7,6,6,1,,,,,,,2,0,Completed,1.22,4,1.22,4,1.17,4.5,1.26,4.38,1.26,4.7,1.21,4.2
+17,Buenos Aires,Argentina Open,25/02/15,ATP250,Outdoor,Clay,2nd Round,3,Monaco J.,Mayer L.,60,29,815,1264,6,4,6,4,,,,,,,2,0,Completed,1.9,1.8,1.9,1.82,2,1.73,2.02,1.88,2.17,1.88,1.96,1.8
+17,Buenos Aires,Argentina Open,26/02/15,ATP250,Outdoor,Clay,2nd Round,3,Nadal R.,Arguello F.,4,146,5425,363,6,4,6,0,,,,,,,2,0,Completed,1.02,19,1.02,12,1.02,13,1.03,17.5,1.04,19,1.02,13.72
+17,Buenos Aires,Argentina Open,26/02/15,ATP250,Outdoor,Clay,2nd Round,3,Rola B.,Bagnis F.,85,128,602,431,6,2,6,1,,,,,,,2,0,Completed,1.66,2.1,1.7,2.1,1.67,2.1,1.73,2.25,1.73,2.31,1.67,2.15
+17,Buenos Aires,Argentina Open,26/02/15,ATP250,Outdoor,Clay,2nd Round,3,Berlocq C.,Fognini F.,74,22,670,1530,6,3,6,0,,,,,,,2,0,Completed,2.2,1.61,2.15,1.65,2.25,1.57,2.25,1.72,2.4,1.72,2.18,1.65
+17,Buenos Aires,Argentina Open,26/02/15,ATP250,Outdoor,Clay,2nd Round,3,Almagro N.,Ramos-Vinolas A.,89,68,575,730,6,3,6,4,,,,,,,2,0,Completed,1.28,3.5,1.3,3.4,1.33,3.25,1.36,3.44,1.36,3.75,1.3,3.41
+17,Buenos Aires,Argentina Open,27/02/15,ATP250,Outdoor,Clay,2nd Round,3,Robredo T.,Olivo R.,18,186,1755,269,6,1,6,2,,,,,,,2,0,Completed,1.28,3.5,1.25,3.75,1.29,3.5,1.29,4,1.33,4.05,1.27,3.63
+17,Buenos Aires,Argentina Open,27/02/15,ATP250,Outdoor,Clay,Quarterfinals,3,Monaco J.,Cuevas P.,60,24,815,1492,7,6,6,7,6,4,,,,,2,1,Completed,1.9,1.8,2,1.8,1.83,1.83,2.1,1.84,2.1,1.9,1.95,1.82
+17,Buenos Aires,Argentina Open,27/02/15,ATP250,Outdoor,Clay,Quarterfinals,3,Almagro N.,Robredo T.,89,18,575,1755,6,3,6,2,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.53,2.38,1.67,2.38,1.67,2.5,1.59,2.32
+17,Buenos Aires,Argentina Open,27/02/15,ATP250,Outdoor,Clay,Quarterfinals,3,Berlocq C.,Rola B.,74,85,670,602,6,1,6,3,,,,,,,2,0,Completed,1.33,3.25,1.3,3.4,1.33,3.25,1.33,3.75,1.36,3.75,1.32,3.29
+17,Buenos Aires,Argentina Open,28/02/15,ATP250,Outdoor,Clay,Quarterfinals,3,Nadal R.,Delbonis F.,4,59,5425,816,6,1,6,1,,,,,,,2,0,Completed,1.08,8,1.08,7.5,1.07,7.5,1.1,9.35,1.1,10.4,1.08,7.81
+17,Buenos Aires,Argentina Open,28/02/15,ATP250,Outdoor,Clay,Semifinals,3,Monaco J.,Almagro N.,60,89,815,575,6,3,6,7,6,4,,,,,2,1,Completed,2.5,1.53,2.5,1.5,2.5,1.53,2.63,1.56,2.72,1.56,2.5,1.52
+17,Buenos Aires,Argentina Open,28/02/15,ATP250,Outdoor,Clay,Semifinals,3,Nadal R.,Berlocq C.,4,74,5425,670,7,6,6,2,,,,,,,2,0,Completed,1.08,8,1.08,7,1.08,8,1.11,8.71,1.11,10.4,1.08,7.78
+17,Buenos Aires,Argentina Open,01/03/15,ATP250,Outdoor,Clay,The Final,3,Nadal R.,Monaco J.,4,60,5425,815,6,4,6,1,,,,,,,2,0,Completed,1.08,8,1.08,7.5,1.08,8,1.14,7.18,1.14,10.5,1.08,7.98
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

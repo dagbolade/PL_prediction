@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+62,Metz,Open de Moselle,05/11/2023,ATP250,Indoor,Hard,1st Round,3,Herbert P.H.,Cazaux A.,344,123,148,508,7,6,6,4,,,,,,,2,0,Completed,2.5,1.53,2.44,1.62,2.6,1.62,2.41,1.56
+62,Metz,Open de Moselle,05/11/2023,ATP250,Indoor,Hard,1st Round,3,Barrere G.,Hanfmann Y.,85,50,698,937,7,6,6,4,,,,,,,2,0,Completed,1.62,2.3,1.55,2.61,1.64,2.61,1.57,2.38
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Shevchenko A.,Bourgue M.,63,271,807,212,6,4,7,5,,,,,,,2,0,Completed,1.36,3.2,1.43,3.03,1.48,3.26,1.4,2.94
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Sonego L.,Giron M.,49,59,955,860,2,6,6,3,7,6,,,,,2,1,Completed,1.8,2,1.92,1.96,1.92,2.07,1.83,1.95
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Lestienne C.,Hemery C.,90,205,689,307,6,3,6,2,,,,,,,2,0,Completed,1.4,3,1.41,3.11,1.45,3.2,1.39,2.95
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Thiem D.,Martineau M.,95,299,643,184,6,4,6,2,,,,,,,2,0,Completed,1.2,4.5,1.25,4.24,1.25,4.5,1.23,4.11
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Mayot H.,Watanuki Y.,176,79,348,722,6,4,1,6,6,4,,,,,2,1,Completed,3,1.4,2.97,1.44,3,1.46,2.78,1.44
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Wawrinka S.,Zapata Miralles B.,53,81,922,715,6,0,6,2,,,,,,,2,0,Completed,1.17,5,1.18,5.5,1.21,5.5,1.17,4.97
+62,Metz,Open de Moselle,06/11/2023,ATP250,Indoor,Hard,1st Round,3,Van Assche L.,Van De Zandschulp B.,70,51,755,930,3,6,6,3,7,6,,,,,2,1,Completed,2.75,1.44,2.91,1.46,2.91,1.49,2.73,1.45
+62,Metz,Open de Moselle,07/11/2023,ATP250,Indoor,Hard,1st Round,3,Fognini F.,Seyboth Wild T.,147,74,409,742,7,6,7,6,,,,,,,2,0,Completed,2.2,1.67,2.18,1.75,2.22,1.77,2.12,1.71
+62,Metz,Open de Moselle,07/11/2023,ATP250,Indoor,Hard,1st Round,3,Valkusz M.,Altmaier D.,232,54,265,911,6,2,6,2,,,,,,,2,0,Completed,3.5,1.3,3.85,1.3,3.85,1.31,3.59,1.28
+62,Metz,Open de Moselle,07/11/2023,ATP250,Indoor,Hard,1st Round,3,Shelbayh A.,Gaston H.,215,83,294,701,7,6,6,2,,,,,,,2,0,Completed,2.75,1.44,2.9,1.46,3,1.46,2.78,1.43
+62,Metz,Open de Moselle,07/11/2023,ATP250,Indoor,Hard,2nd Round,3,Mayot H.,Barrere G.,176,85,348,698,7,6,2,6,7,6,,,,,2,1,Completed,3.2,1.36,3.13,1.42,3.3,1.42,3.08,1.37
+62,Metz,Open de Moselle,07/11/2023,ATP250,Indoor,Hard,2nd Round,3,Humbert U.,Thiem D.,23,95,1540,643,7,6,4,6,6,3,,,,,2,1,Completed,1.4,3,1.45,2.97,1.45,3.1,1.39,2.94
+62,Metz,Open de Moselle,07/11/2023,ATP250,Indoor,Hard,2nd Round,3,Khachanov K.,Lestienne C.,15,90,2475,689,6,4,6,4,,,,,,,2,0,Completed,1.3,3.5,1.31,3.82,1.35,4.05,1.3,3.5
+62,Metz,Open de Moselle,08/11/2023,ATP250,Indoor,Hard,2nd Round,3,Shevchenko A.,Valkusz M.,63,232,807,265,7,5,2,6,6,2,,,,,2,1,Completed,1.29,3.75,1.31,3.83,1.31,4.2,1.28,3.69
+62,Metz,Open de Moselle,08/11/2023,ATP250,Indoor,Hard,2nd Round,3,Herbert P.H.,Brouwer G.,344,163,148,381,7,5,6,4,,,,,,,2,0,Completed,1.91,1.91,,,2,1.91,1.93,1.87
+62,Metz,Open de Moselle,08/11/2023,ATP250,Indoor,Hard,2nd Round,3,Fognini F.,Bublik A.,147,32,409,1369,4,6,7,6,7,6,,,,,2,1,Completed,3.75,1.29,4.01,1.29,4.01,1.35,3.7,1.27
+62,Metz,Open de Moselle,08/11/2023,ATP250,Indoor,Hard,2nd Round,3,Van Assche L.,Wawrinka S.,70,53,755,922,3,6,7,6,,,,,,,1,1,Retired,2.38,1.57,2.67,1.54,2.67,1.65,2.39,1.56
+62,Metz,Open de Moselle,08/11/2023,ATP250,Indoor,Hard,2nd Round,3,Sonego L.,Shelbayh A.,49,215,955,294,6,3,7,5,,,,,,,2,0,Completed,1.3,3.5,1.29,4.06,1.31,4.06,1.28,3.67
+62,Metz,Open de Moselle,09/11/2023,ATP250,Indoor,Hard,Quarterfinals,3,Shevchenko A.,Khachanov K.,63,15,807,2475,6,4,6,4,,,,,,,2,0,Completed,3.5,1.3,4.13,1.28,4.13,1.35,3.62,1.29
+62,Metz,Open de Moselle,09/11/2023,ATP250,Indoor,Hard,Quarterfinals,3,Herbert P.H.,Van Assche L.,344,70,148,755,4,6,6,3,7,5,,,,,2,1,Completed,2.5,1.53,2.61,1.56,2.74,1.61,2.49,1.53
+62,Metz,Open de Moselle,09/11/2023,ATP250,Indoor,Hard,Quarterfinals,3,Humbert U.,Mayot H.,23,176,1540,348,6,3,7,5,,,,,,,2,0,Completed,1.17,5,1.18,5.71,1.2,5.71,1.17,5.06
+62,Metz,Open de Moselle,09/11/2023,ATP250,Indoor,Hard,Quarterfinals,3,Fognini F.,Sonego L.,147,49,409,955,6,1,6,2,,,,,,,2,0,Completed,4,1.25,4.14,1.28,4.25,1.33,3.8,1.26
+62,Metz,Open de Moselle,10/11/2023,ATP250,Indoor,Hard,Semifinals,3,Shevchenko A.,Herbert P.H.,63,344,807,148,6,4,6,4,,,,,,,2,0,Completed,1.44,2.75,1.52,2.73,1.52,3,1.46,2.69
+62,Metz,Open de Moselle,10/11/2023,ATP250,Indoor,Hard,Semifinals,3,Humbert U.,Fognini F.,23,147,1540,409,6,0,6,2,,,,,,,2,0,Completed,1.22,4.33,1.23,4.67,1.24,4.76,1.21,4.31
+62,Metz,Open de Moselle,11/11/2023,ATP250,Indoor,Hard,The Final,3,Humbert U.,Shevchenko A.,23,63,1540,807,6,3,6,3,,,,,,,2,0,Completed,1.36,3.2,1.34,3.56,1.37,3.56,1.35,3.19

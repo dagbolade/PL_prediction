@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+27,Munich,BMW Open,01/05/06,International,Outdoor,Clay,1st Round,3,Hernych J.,Beck A.,80,176,500,224,7,6,4,6,6,4,,,,,2,1,Completed,1.44,2.62,1.48,2.6,1.55,2.35,1.588,2.6,1.44,2.66
+27,Munich,BMW Open,01/05/06,International,Outdoor,Clay,1st Round,3,Monaco J.,Srichaphan P.,110,36,386,845,6,4,6,4, , ,,,,,2,0,Completed,1.33,3,1.4,2.85,1.45,2.6,1.444,3.05,1.47,2.58
+27,Munich,BMW Open,01/05/06,International,Outdoor,Clay,1st Round,3,Vliegen K.,Tipsarevic J.,50,101,753,398,5,7,6,2,6,4,,,,,2,1,Completed,1.36,2.87,1.4,2.85,1.37,2.92,1.435,3.1,1.36,3
+27,Munich,BMW Open,01/05/06,International,Outdoor,Clay,1st Round,3,Vik R.,Schuettler R.,79,76,505,523,7,6,4,6,6,3,,,,,2,1,Completed,2.25,1.57,2.4,1.55,2.3,1.6,2.38,1.676,2.35,1.55
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Ramirez-Hidalgo R.,Summerer T.,93,239,423,154,6,1,6,2, , ,,,,,2,0,Completed,1.39,2.75,1.48,2.6,1.45,2.6,1.538,2.76,,
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Ancic M.,86,19,459,1440,7,6,7,6, , ,,,,,2,0,Completed,2.62,1.44,2.4,1.55,2.45,1.5,2.64,1.575,2.5,1.5
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Nieminen J.,Pavel A.,20,116,1420,365,7,6,7,6, , ,,,,,2,0,Completed,1.25,3.5,1.28,3.55,1.2,4.25,1.284,4.22,1.25,3.75
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Karlovic I.,Haas T.,53,25,736,1250,6,3,7,6, , ,,,,,2,0,Completed,3.25,1.28,3.1,1.35,3.1,1.35,3.5,1.37,3.15,1.33
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Greul S.,Pashanski B.,102,63,397,662,6,3,6,7,7,6,,,,,2,1,Completed,1.83,1.83,1.88,1.88,1.87,1.87,1.855,2.07,1.82,1.93
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Phau B.,Behrend T.,69,139,607,302,3,2, , , , ,,,,,1,0,Retired,1.66,2.1,1.75,2.05,1.67,2.12,1.769,2.2,,
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Waske A.,Mayer F.,91,75,425,528,7,6,6,3, , ,,,,,2,0,Completed,2.25,1.57,2,1.77,2.15,1.65,2.26,1.735,2.15,1.65
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Melzer J.,Youzhny M.,70,40,575,830,6,3,6,4, , ,,,,,2,0,Completed,1.72,2,1.65,2.2,1.75,2.05,1.8,2.15,1.7,2.08
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Peya A.,Kindlmann D.,289,483,116,53,6,3,6,4, , ,,,,,2,0,Completed,1.66,2.1,,,,,1.725,2.28,,
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Gremelmayr D.,Coria G.,132,9,319,1800,3,6,6,2,6,3,,,,,2,1,Completed,4.5,1.16,4.65,1.18,4.67,1.17,5.04,1.225,,
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Soderling R.,Serra F.,57,48,720,782,6,7,7,5,6,4,,,,,2,1,Completed,2.1,1.66,2.05,1.75,1.95,1.8,2.14,1.806,2.25,1.6
+27,Munich,BMW Open,02/05/06,International,Outdoor,Clay,1st Round,3,Rochus O.,Silva J.,30,203,980,188,6,2,6,0, , ,,,,,2,0,Completed,,,,,,,,,,
+27,Munich,BMW Open,03/05/06,International,Outdoor,Clay,2nd Round,3,Vliegen K.,Soderling R.,50,57,753,720,5,7,6,3,6,2,,,,,2,1,Completed,2.2,1.61,2,1.77,2.25,1.6,2.19,1.775,2.08,1.7
+27,Munich,BMW Open,03/05/06,International,Outdoor,Clay,2nd Round,3,Vik R.,Monaco J.,79,110,505,386,7,6,4,6,6,4,,,,,2,1,Completed,2.5,1.5,2.4,1.55,2.65,1.45,2.62,1.581,,
+27,Munich,BMW Open,03/05/06,International,Outdoor,Clay,2nd Round,3,Nieminen J.,Waske A.,20,91,1420,425,7,6,6,3, , ,,,,,2,0,Completed,1.22,4,1.22,4.1,1.17,4.67,1.213,5.3,1.21,4.2
+27,Munich,BMW Open,03/05/06,International,Outdoor,Clay,2nd Round,3,Kohlschreiber P.,Hernych J.,86,80,459,500,3,6,6,0,7,5,,,,,2,1,Completed,1.66,2.1,1.7,2.1,1.73,2.03,1.752,2.23,1.62,2.22
+27,Munich,BMW Open,04/05/06,International,Outdoor,Clay,2nd Round,3,Melzer J.,Greul S.,70,102,575,397,6,3,1,6,6,4,,,,,2,1,Completed,1.5,2.5,1.5,2.55,1.53,2.4,1.617,2.52,1.55,2.35
+27,Munich,BMW Open,04/05/06,International,Outdoor,Clay,2nd Round,3,Karlovic I.,Phau B.,53,69,736,607,4,6,6,3,7,6,,,,,2,1,Completed,1.39,2.75,1.37,3,1.32,3.22,1.407,3.26,1.36,3
+27,Munich,BMW Open,04/05/06,International,Outdoor,Clay,2nd Round,3,Gremelmayr D.,Peya A.,132,289,319,116,6,4,6,4, , ,,,,,2,0,Completed,1.57,2.25,1.62,2.25,1.55,2.35,1.685,2.36,,
+27,Munich,BMW Open,04/05/06,International,Outdoor,Clay,2nd Round,3,Rochus O.,Ramirez-Hidalgo R.,30,93,980,423,6,2,7,6, , ,,,,,2,0,Completed,1.39,2.75,1.42,2.8,1.4,2.85,1.413,3.22,,
+27,Munich,BMW Open,05/05/06,International,Outdoor,Clay,Quarterfinals,3,Nieminen J.,Vik R.,20,79,1420,505,7,5,2,6,6,2,,,,,2,1,Completed,1.22,4,1.22,4.1,1.18,4.45,1.232,4.91,1.21,4.15
+27,Munich,BMW Open,05/05/06,International,Outdoor,Clay,Quarterfinals,3,Vliegen K.,Kohlschreiber P.,50,86,753,459,7,5,6,4, , ,,,,,2,0,Completed,1.57,2.25,1.57,2.35,1.48,2.53,1.617,2.52,1.57,2.32
+27,Munich,BMW Open,05/05/06,International,Outdoor,Clay,Quarterfinals,3,Rochus O.,Gremelmayr D.,30,132,980,319,6,4,7,5, , ,,,,,2,0,Completed,1.25,3.75,1.28,3.55,1.3,3.35,1.29,4.15,1.2,4.25
+27,Munich,BMW Open,05/05/06,International,Outdoor,Clay,Quarterfinals,3,Melzer J.,Karlovic I.,70,53,575,736,7,6,6,1, , ,,,,,2,0,Completed,2,1.72,1.93,1.83,1.76,1.99,1.901,2.01,2,1.76
+27,Munich,BMW Open,06/05/06,International,Outdoor,Clay,Semifinals,3,Vliegen K.,Nieminen J.,50,20,753,1420,6,1,6,2, , ,,,,,2,0,Completed,2.5,1.5,2.4,1.55,2.45,1.5,2.52,1.617,2.35,1.55
+27,Munich,BMW Open,06/05/06,International,Outdoor,Clay,Semifinals,3,Rochus O.,Melzer J.,30,70,980,575,6,4,6,7,6,3,,,,,2,1,Completed,1.61,2.2,1.67,2.15,1.75,2.05,1.763,2.21,1.67,2.12
+27,Munich,BMW Open,07/05/06,International,Outdoor,Clay,The Final,3,Rochus O.,Vliegen K.,30,50,980,753,6,4,6,2,,,,,,,2,0,Completed,1.9,1.8,1.88,1.88,1.9,1.85,2.05,1.87,1.9,1.85

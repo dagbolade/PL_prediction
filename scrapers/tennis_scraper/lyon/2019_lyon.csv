@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+31,Lyon,Lyon Open,19/05/2019,ATP250,Outdoor,Clay,1st Round,3,Millman J.,Andujar P.,55,93,875,608,6,1,6,3,,,,,,,2,0,Completed,2.1,1.66,2.2,1.74,2.34,1.8,2.11,1.72
+31,Lyon,Lyon Open,19/05/2019,ATP250,Outdoor,Clay,1st Round,3,Tsonga J.W.,Lajovic D.,85,33,633,1316,7,6,6,4,,,,,,,2,0,Completed,1.57,2.25,1.66,2.35,1.69,2.35,1.65,2.22
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Humbert U.,Norrie C.,61,41,823,1055,6,1,6,3,,,,,,,2,0,Completed,2.5,1.5,2.63,1.54,2.75,1.54,2.59,1.5
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Johnson S.,Harris L.,59,89,850,617,6,2,7,6,,,,,,,2,0,Completed,,,,,1.62,2.31,1.62,2.31
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Herbert P.H.,Chardy J.,42,40,1053,1065,6,2,7,5,,,,,,,2,0,Completed,2,1.72,2.1,1.81,2.18,1.83,2.08,1.74
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Lamasine T.,Sinner J.,270,229,153,215,6,0,7,6,,,,,,,2,0,Completed,2.37,1.53,2.7,1.5,2.94,1.55,2.53,1.49
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Diez S.,Tomic B.,262,82,165,665,6,4,4,1,,,,,,,1,0,Retired,1.72,2,1.88,2.01,1.88,2.14,1.77,2.03
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Fritz T.,Vesely J.,46,105,1010,543,7,5,7,6,,,,,,,2,0,Completed,1.61,2.2,1.74,2.21,1.74,2.27,1.68,2.17
+31,Lyon,Lyon Open,20/05/2019,ATP250,Outdoor,Clay,1st Round,3,Gasquet R.,Janvier M.,39,199,1105,263,6,7,6,2,7,6,,,,,2,1,Completed,1.33,3.25,1.39,3.23,1.39,3.43,1.34,3.22
+31,Lyon,Lyon Open,21/05/2019,ATP250,Outdoor,Clay,1st Round,3,Moutet C.,Opelka R.,117,58,495,853,6,3,2,6,7,6,,,,,2,1,Completed,2.37,1.53,2.63,1.54,2.75,1.58,2.56,1.5
+31,Lyon,Lyon Open,21/05/2019,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Hurkacz H.,50,43,963,1040,6,4,6,4,,,,,,,2,0,Completed,1.66,2.1,1.83,2.08,1.83,2.27,1.71,2.11
+31,Lyon,Lyon Open,21/05/2019,ATP250,Outdoor,Clay,1st Round,3,Paire B.,Mcdonald M.,51,65,938,796,3,6,7,6,6,1,,,,,2,1,Completed,1.36,3,1.33,3.58,1.39,3.58,1.35,3.19
+31,Lyon,Lyon Open,21/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Johnson S.,Herbert P.H.,59,42,850,1053,7,6,5,7,6,1,,,,,2,1,Completed,2.5,1.5,2.75,1.52,2.8,1.52,2.58,1.5
+31,Lyon,Lyon Open,21/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Auger-Aliassime F.,Millman J.,28,55,1344,875,7,6,7,5,,,,,,,2,0,Completed,1.5,2.5,1.48,2.87,1.55,2.91,1.49,2.61
+31,Lyon,Lyon Open,22/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Paire B.,Cuevas P.,51,50,938,963,6,4,6,3,,,,,,,2,0,Completed,2.62,1.44,2.68,1.53,2.75,1.58,2.6,1.49
+31,Lyon,Lyon Open,22/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Shapovalov D.,Humbert U.,23,61,1425,823,2,6,7,6,6,2,,,,,2,1,Completed,1.44,2.62,1.5,2.82,1.53,2.86,1.48,2.62
+31,Lyon,Lyon Open,22/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Fritz T.,Gasquet R.,46,39,1010,1105,,,,,,,,,,,,,Walkover,1.57,2.25,1.54,2.66,1.63,2.7,1.56,2.41
+31,Lyon,Lyon Open,22/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Moutet C.,21,117,1690,495,4,6,6,4,6,3,,,,,2,1,Completed,1.16,5,1.24,4.55,1.26,5,1.21,4.39
+31,Lyon,Lyon Open,22/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Tsonga J.W.,Diez S.,85,262,633,165,3,6,7,6,6,3,,,,,2,1,Completed,1.18,4.5,1.2,5.3,1.23,5.3,1.2,4.57
+31,Lyon,Lyon Open,22/05/2019,ATP250,Outdoor,Clay,2nd Round,3,Basilashvili N.,Lamasine T.,18,270,1925,153,7,5,7,5,,,,,,,2,0,Completed,1.25,3.75,1.25,4.42,1.29,4.42,1.25,3.89
+31,Lyon,Lyon Open,23/05/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Fritz T.,Bautista Agut R.,46,21,1010,1690,6,7,6,3,6,4,,,,,2,1,Completed,2.37,1.57,2.47,1.63,2.68,1.63,2.42,1.56
+31,Lyon,Lyon Open,23/05/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Paire B.,Shapovalov D.,51,23,938,1425,6,3,4,6,7,6,,,,,2,1,Completed,1.8,2,1.88,2.04,1.88,2.11,1.79,2.03
+31,Lyon,Lyon Open,23/05/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Basilashvili N.,Tsonga J.W.,18,85,1925,633,6,4,6,4,,,,,,,2,0,Completed,2.1,1.72,2.2,1.77,2.3,1.8,2.14,1.71
+31,Lyon,Lyon Open,23/05/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Auger-Aliassime F.,Johnson S.,28,59,1344,850,6,4,2,6,6,4,,,,,2,1,Completed,1.3,3.5,1.38,3.37,1.38,3.5,1.34,3.27
+31,Lyon,Lyon Open,24/05/2019,ATP250,Outdoor,Clay,Semifinals,3,Paire B.,Fritz T.,51,46,938,1010,6,4,6,2,,,,,,,2,0,Completed,2.1,1.72,2.1,1.84,2.25,1.84,2.08,1.75
+31,Lyon,Lyon Open,24/05/2019,ATP250,Outdoor,Clay,Semifinals,3,Auger-Aliassime F.,Basilashvili N.,28,18,1344,1925,2,6,7,6,6,4,,,,,2,1,Completed,1.66,2.2,1.67,2.38,1.76,2.4,1.65,2.24
+31,Lyon,Lyon Open,25/05/2019,ATP250,Outdoor,Clay,The Final,3,Paire B.,Auger-Aliassime F.,51,28,938,1344,6,4,6,3,,,,,,,2,0,Completed,2,1.8,2.1,1.84,2.1,1.91,1.98,1.83

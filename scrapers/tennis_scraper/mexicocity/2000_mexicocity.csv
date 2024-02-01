@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Gaudio G.,Clavet F.,65,42,6,3,6,1,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Puerta M.,Vicente F.,128,45,7,5,6,4,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Stanoytchev O.,di Pasquale A.,107,55,6,1,7,5,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Chela J.I.,Black B.,129,56,6,2,6,3,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Hantschk M.,Marin J.A.,103,71,7,6,3,6,6,0,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Squillari F.,Blanco G.,46,75,3,6,6,4,6,1,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Koubek S.,Portas A.,38,85,6,1,6,3,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Agenor R.,Diaz J.,91,87,6,3,6,4,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Fromberg R.,Sa A.,70,90,4,6,6,2,6,4,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Gumy H.,Dupuis A.,67,95,6,4,6,3,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Canas G.,Massu N.,74,99,4,1,,,,,,,,,0,0,Retired
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Hernandez A.,Tieleman L.,243,101,6,2,6,4,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Kuerten G.,Etlis G.,6,131,6,4,3,6,6,3,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Sargsian S.,Viloca J.A.,57,143,3,6,6,4,6,1,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Lapentti N.,Ulihrach B.,9,158,6,4,6,2,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,1st Round,3,Meligeni F.,Bruguera S.,29,377,7,6,7,6,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Chela J.I.,Kuerten G.,129,6,3,6,7,6,6,4,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Canas G.,Meligeni F.,74,29,6,2,4,6,6,3,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Lapentti N.,Sargsian S.,9,57,6,7,6,4,6,4,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Puerta M.,Gumy H.,128,67,6,4,6,4,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Koubek S.,Fromberg R.,38,70,6,7,6,4,6,4,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Squillari F.,Agenor R.,46,91,7,5,6,2,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Hantschk M.,Stanoytchev O.,103,107,6,3,1,6,6,2,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,2nd Round,3,Gaudio G.,Hernandez A.,65,243,3,6,6,3,6,3,,,,,2,1,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,Quarterfinals,3,Squillari F.,Lapentti N.,46,9,6,4,7,6,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,Quarterfinals,3,Koubek S.,Gaudio G.,38,65,7,6,6,4,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,Quarterfinals,3,Puerta M.,Canas G.,128,74,6,2,6,3,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,Quarterfinals,3,Chela J.I.,Hantschk M.,129,103,6,3,7,6,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,Semifinals,3,Chela J.I.,Koubek S.,129,38,7,6,6,3,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,Semifinals,3,Puerta M.,Squillari F.,128,46,6,4,6,1,,,,,,,2,0,Completed
+13,Mexico City,Mexican Open,21/02/00,International Gold,Outdoor,Clay,The Final,3,Chela J.I.,Puerta M.,129,128,6,4,7,6,,,,,,,2,0,Completed
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

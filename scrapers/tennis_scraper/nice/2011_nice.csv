@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+30,Nice,Open de Nice Côte d’Azur,15/05/11,ATP250,Outdoor,Clay,1st Round,3,Mannarino A.,Devvarman S.,53,66,913,749,6,3,7,6,,,,,,,2,0,Completed,1.83,1.83,1.85,1.9,1.8,1.91,1.91,1.98,1.83,1.83,1.95,1.98,1.86,1.87
+30,Nice,Open de Nice Côte d’Azur,15/05/11,ATP250,Outdoor,Clay,1st Round,3,Dolgopolov O.,Volandri F.,23,74,1405,685,7,5,6,3,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.5,2.5,1.51,2.72,1.5,2.5,1.6,2.72,1.52,2.49
+30,Nice,Open de Nice Côte d’Azur,16/05/11,ATP250,Outdoor,Clay,1st Round,3,Riba P.,Rufin G.,65,255,749,194,6,2,6,2,,,,,,,2,0,Completed,1.38,2.87,1.48,2.55,1.4,2.75,1.51,2.74,1.4,2.75,1.52,2.92,1.43,2.72
+30,Nice,Open de Nice Côte d’Azur,16/05/11,ATP250,Outdoor,Clay,1st Round,3,Hanescu V.,Paire B.,69,106,715,504,6,0,6,1,,,,,,,2,0,Completed,1.4,2.75,1.44,2.7,1.4,2.75,1.53,2.67,1.4,2.75,1.54,2.85,1.44,2.68
+30,Nice,Open de Nice Côte d’Azur,16/05/11,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Dimitrov G.,49,63,946,781,5,0,,,,,,,,,0,0,Retired,1.9,1.8,1.93,1.81,1.8,1.91,1.88,2.01,2,1.73,2,2.05,1.85,1.87
+30,Nice,Open de Nice Côte d’Azur,16/05/11,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Rochus O.,58,73,875,703,6,2,7,6,,,,,,,2,0,Completed,2.37,1.53,2.25,1.6,2.2,1.62,2.46,1.61,2.1,1.67,2.46,1.67,2.28,1.59
+30,Nice,Open de Nice Côte d’Azur,16/05/11,ATP250,Outdoor,Clay,1st Round,3,Seppi A.,Roger-Vasselin E.,51,137,930,428,3,6,6,3,6,2,,,,,2,1,Completed,1.72,2,1.75,2,1.73,2,1.81,2.1,1.73,2,1.83,2.2,1.73,2.04
+30,Nice,Open de Nice Côte d’Azur,17/05/11,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Haider-Maurer A.,68,90,720,577,5,7,6,3,6,0,,,,,2,1,Completed,1.44,2.62,1.55,2.35,1.44,2.63,1.54,2.63,1.5,2.5,1.57,2.75,1.5,2.52
+30,Nice,Open de Nice Côte d’Azur,17/05/11,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Lu Y.H.,59,56,863,900,6,3,6,4,,,,,,,2,0,Completed,,,,,,,,,,,,,,
+30,Nice,Open de Nice Côte d’Azur,17/05/11,ATP250,Outdoor,Clay,1st Round,3,Stakhovsky S.,Gabashvili T.,34,81,1170,631,7,6,6,3,,,,,,,2,0,Completed,1.5,2.5,1.55,2.35,1.44,2.63,1.56,2.56,1.53,2.38,1.59,2.69,1.52,2.46
+30,Nice,Open de Nice Côte d’Azur,17/05/11,ATP250,Outdoor,Clay,1st Round,3,Gulbis E.,Fognini F.,85,48,610,960,3,6,6,3,6,3,,,,,2,1,Completed,1.72,2,1.85,1.9,1.83,1.83,1.78,2.14,1.83,1.83,1.9,2.15,1.78,1.98
+30,Nice,Open de Nice Côte d’Azur,17/05/11,ATP250,Outdoor,Clay,1st Round,3,Benneteau J.,Baghdatis M.,83,29,623,1295,7,6,6,2,,,,,,,2,0,Completed,2.25,1.57,2.25,1.6,2.2,1.62,2.35,1.66,2.1,1.67,2.41,1.71,2.21,1.63
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Dolgopolov O.,Riba P.,23,65,1405,749,7,6,7,6,,,,,,,2,0,Completed,1.5,2.5,1.6,2.25,1.57,2.25,1.68,2.33,1.57,2.25,1.68,2.55,1.56,2.36
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Almagro N.,Berlocq C.,12,68,2225,720,6,7,6,4,6,3,,,,,2,1,Completed,1.14,5,1.18,4.5,1.14,5,1.23,4.69,1.18,4.33,1.23,5.3,1.18,4.62
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Haase R.,Stakhovsky S.,59,34,863,1170,6,2,6,4,,,,,,,2,0,Completed,2,1.72,2,1.75,2,1.73,2,1.91,2.1,1.67,2.1,1.91,1.96,1.77
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Ferrer D.,Seppi A.,7,51,4060,930,6,3,6,2,,,,,,,2,0,Completed,1.07,7.5,1.1,6.5,1.08,7,1.12,7.51,1.1,6,1.12,8,1.09,6.95
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Hanescu V.,Russell M.,69,91,715,573,7,5,6,2,,,,,,,2,0,Completed,1.36,3,,,,,,,,,1.36,3.57,1.32,3.2
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Andujar P.,Benneteau J.,49,83,946,623,6,3,6,4,,,,,,,2,0,Completed,1.83,1.83,2,1.75,1.83,1.83,2.14,1.79,1.8,1.91,2.25,2,1.95,1.8
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Gulbis E.,Istomin D.,85,58,610,875,6,3,4,6,6,3,,,,,2,1,Completed,1.44,2.62,1.5,2.5,1.53,2.38,1.51,2.75,1.57,2.25,1.57,2.9,1.51,2.48
+30,Nice,Open de Nice Côte d’Azur,18/05/11,ATP250,Outdoor,Clay,2nd Round,3,Berdych T.,Mannarino A.,6,53,4215,913,6,1,6,4,,,,,,,2,0,Completed,1.16,4.5,1.18,4.5,1.14,5,1.25,4.46,1.17,4.5,1.25,5,1.2,4.42
+30,Nice,Open de Nice Côte d’Azur,19/05/11,ATP250,Outdoor,Clay,Quarterfinals,3,Hanescu V.,Haase R.,69,59,715,863,6,2,2,0,,,,,,,1,0,Retired,1.72,2,1.85,1.9,1.91,1.8,1.94,1.98,1.83,1.83,2,2.1,1.84,1.89
+30,Nice,Open de Nice Côte d’Azur,19/05/11,ATP250,Outdoor,Clay,Quarterfinals,3,Almagro N.,Andujar P.,12,49,2225,946,6,1,6,4,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.36,3,1.41,3.23,1.33,3,1.45,3.23,1.38,2.95
+30,Nice,Open de Nice Côte d’Azur,19/05/11,ATP250,Outdoor,Clay,Quarterfinals,3,Dolgopolov O.,Ferrer D.,23,7,1405,4060,6,4,1,6,7,5,,,,,2,1,Completed,6,1.11,5.75,1.12,5,1.14,6.54,1.15,5,1.14,6.54,1.16,5.55,1.13
+30,Nice,Open de Nice Côte d’Azur,19/05/11,ATP250,Outdoor,Clay,Quarterfinals,3,Berdych T.,Gulbis E.,6,85,4215,610,6,1,6,4,,,,,,,2,0,Completed,1.25,3.75,1.3,3.3,1.29,3.5,1.4,3.28,1.25,3.5,1.4,3.8,1.29,3.46
+30,Nice,Open de Nice Côte d’Azur,20/05/11,ATP250,Outdoor,Clay,Semifinals,3,Hanescu V.,Dolgopolov O.,69,23,715,1405,6,3,6,3,,,,,,,2,0,Completed,2.87,1.38,2.8,1.4,2.75,1.4,2.91,1.48,2.75,1.44,2.92,1.5,2.7,1.44
+30,Nice,Open de Nice Côte d’Azur,20/05/11,ATP250,Outdoor,Clay,Semifinals,3,Almagro N.,Berdych T.,12,6,2225,4215,6,4,6,4,,,,,,,2,0,Completed,2.2,1.61,2.15,1.65,2.2,1.62,2.3,1.71,2.2,1.67,2.3,1.74,2.15,1.66
+30,Nice,Open de Nice Côte d’Azur,21/05/11,ATP250,Outdoor,Clay,The Final,3,Almagro N.,Hanescu V.,12,69,2225,715,6,7,6,3,6,3,,,,,2,1,Completed,1.22,4.33,1.22,4,1.25,3.75,1.25,4.6,1.22,4,1.28,4.6,1.23,4

@@ -1,0 +1,16 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+64,Turin,Masters Cup,12/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Sinner J.,Tsitsipas S.,4,6,5490,4435,6,4,6,4,,,,,,,2,0,Completed,1.36,3.2,1.39,3.26,1.44,3.33,1.36,3.14
+64,Turin,Masters Cup,12/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Rune H.,1,10,11445,3460,7,6,6,7,6,3,,,,,2,1,Completed,1.2,4.5,1.2,5.16,1.24,5.16,1.19,4.66
+64,Turin,Masters Cup,13/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Zverev A.,Alcaraz C.,8,2,3585,8455,6,7,6,3,6,4,,,,,2,1,Completed,2.75,1.44,2.87,1.48,2.93,1.5,2.76,1.45
+64,Turin,Masters Cup,13/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Medvedev D.,Rublev A.,3,5,7200,5205,6,4,6,2,,,,,,,2,0,Completed,1.5,2.63,1.57,2.58,1.57,2.76,1.51,2.55
+64,Turin,Masters Cup,14/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Rune H.,Tsitsipas S.,10,6,3460,4435,2,1,,,,,,,,,0,0,Retired,1.57,2.38,1.59,2.52,1.62,2.55,1.57,2.42
+64,Turin,Masters Cup,14/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Sinner J.,Djokovic N.,4,1,5490,11445,7,5,6,7,7,6,,,,,2,1,Completed,2.3,1.62,2.29,1.7,2.42,1.7,2.28,1.63
+64,Turin,Masters Cup,15/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Alcaraz C.,Rublev A.,2,5,8455,5205,7,5,6,2,,,,,,,2,0,Completed,1.5,2.63,1.6,2.5,1.6,2.72,1.51,2.57
+64,Turin,Masters Cup,15/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Medvedev D.,Zverev A.,3,8,7200,3585,7,6,6,4,,,,,,,2,0,Completed,1.44,2.75,1.47,2.9,1.47,3.1,1.44,2.81
+64,Turin,Masters Cup,16/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Hurkacz H.,1,11,11445,3245,7,6,4,6,6,1,,,,,2,1,Completed,1.14,5.5,1.23,4.7,1.23,5.55,1.17,5.03
+64,Turin,Masters Cup,16/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Sinner J.,Rune H.,4,10,5490,3460,6,2,5,7,6,4,,,,,2,1,Completed,1.4,3,1.42,3.12,1.45,3.17,1.4,2.96
+64,Turin,Masters Cup,17/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Alcaraz C.,Medvedev D.,2,3,8455,7200,6,4,6,4,,,,,,,2,0,Completed,1.67,2.2,1.78,2.16,1.78,2.3,1.68,2.19
+64,Turin,Masters Cup,17/11/2023,Masters Cup,Indoor,Hard,Round Robin,3,Zverev A.,Rublev A.,8,5,3585,5205,6,4,6,4,,,,,,,2,0,Completed,1.62,2.3,1.74,2.23,1.76,2.35,1.66,2.22
+64,Turin,Masters Cup,18/11/2023,Masters Cup,Indoor,Hard,Semifinals,3,Sinner J.,Medvedev D.,4,3,5490,7200,6,3,6,7,6,1,,,,,2,1,Completed,1.67,2.2,1.69,2.31,1.71,2.36,1.64,2.26
+64,Turin,Masters Cup,18/11/2023,Masters Cup,Indoor,Hard,Semifinals,3,Djokovic N.,Alcaraz C.,1,2,11445,8455,6,3,6,2,,,,,,,2,0,Completed,1.62,2.3,1.67,2.36,1.7,2.43,1.63,2.28
+64,Turin,Masters Cup,19/11/2023,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Sinner J.,1,4,11445,5490,6,3,6,3,,,,,,,2,0,Completed,1.53,2.5,1.62,2.45,1.62,2.68,1.55,2.48

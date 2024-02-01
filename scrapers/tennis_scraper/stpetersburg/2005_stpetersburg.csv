@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,IWW,IWL,PSW,PSL
+65,St. Petersburg,St. Petersburg Open,24/10/05,International,Indoor,Carpet,1st Round,3,Vik R.,Nieminen J.,80,32,496,1029,6,4,6,4, , ,,,,,2,0,Completed,4,1.19,3.85,1.25,3.9,1.25,3.2,1.25,4.79,1.239
+65,St. Petersburg,St. Petersburg Open,24/10/05,International,Indoor,Carpet,1st Round,3,Serra F.,Bjorkman J.,54,64,698,588,6,7,6,3,6,4,,,,,2,1,Completed,3.2,1.3,3.85,1.25,3.46,1.28,2.9,1.3,4.16,1.289
+65,St. Petersburg,St. Petersburg Open,24/10/05,International,Indoor,Carpet,1st Round,3,Pavel A.,Vanek J.,55,100,685,418,6,3,7,6, , ,,,,,2,0,Completed,1.39,2.75,1.48,2.6,1.4,2.85,1.35,2.7,1.469,2.93
+65,St. Petersburg,St. Petersburg Open,24/10/05,International,Indoor,Carpet,1st Round,3,Melzer J.,Davletshin V.,50,620,740,31,6,3,6,4, , ,,,,,2,0,Completed,1.14,5,,,1.15,5.2,1.1,5,1.2,5.5
+65,St. Petersburg,St. Petersburg Open,24/10/05,International,Indoor,Carpet,1st Round,3,Carlsen K.,Mirnyi M.,65,26,560,1110,6,7,7,6,6,4,,,,,2,1,Completed,3.75,1.22,4.1,1.22,3.9,1.25,3.2,1.25,4.54,1.26
+65,St. Petersburg,St. Petersburg Open,24/10/05,International,Indoor,Carpet,1st Round,3,Saulnier C.,Kunitsyn I.,68,129,545,339,6,3,6,2, , ,,,,,2,0,Completed,1.83,1.83,1.88,1.88,2,1.75,1.6,2,2.01,1.901
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Kiefer N.,Garcia-Lopez G.,29,91,1075,460,6,3,3,6,6,4,,,,,2,1,Completed,1.22,3.75,1.2,4.4,1.15,4.92,1.2,3.6,1.241,4.75
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Kim K.,Minar I.,97,71,429,529,6,1,4,6,7,5,,,,,2,1,Completed,2.25,1.57,2.4,1.55,2.35,1.55,2,1.6,2.48,1.633
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Monaco J.,Gabashvili T.,92,144,457,292,6,3,6,3, , ,,,,,2,0,Completed,2.1,1.66,,,2.35,1.55,1.95,1.65,2.45,1.645
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Johansson T.,Kohlschreiber P.,15,93,1525,451,6,3,6,4, , ,,,,,2,0,Completed,1.16,4.33,1.18,4.65,1.17,4.67,1.15,4,1.183,5.96
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Stakhovsky S.,Popp A.,205,241,187,147,6,3,4,6,6,4,,,,,2,1,Completed,2.2,1.61,,,2.12,1.67,1.8,1.8,2.15,1.8
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Youzhny M.,Beck K.,27,45,1090,781,6,3,4,1, , ,,,,,1,0,Retired,1.53,2.37,1.57,2.35,1.5,2.45,1.45,2.35,1.617,2.52
+65,St. Petersburg,St. Petersburg Open,25/10/05,International,Indoor,Carpet,1st Round,3,Verdasco F.,Philippoussis M.,39,178,845,223,7,6,4,6,6,2,,,,,2,1,Completed,1.44,2.62,1.5,2.55,1.48,2.53,1.45,2.35,1.532,2.68
+65,St. Petersburg,St. Petersburg Open,26/10/05,International,Indoor,Carpet,1st Round,3,Goldstein P.,Burgsmuller L.,84,127,489,348,7,6,2,6,6,3,,,,,2,1,Completed,1.44,2.62,1.45,2.7,1.5,2.45,1.45,2.35,1.474,2.91
+65,St. Petersburg,St. Petersburg Open,26/10/05,International,Indoor,Carpet,1st Round,3,Davydenko N.,Dlouhy L.,8,89,2000,468,6,2,6,1, , ,,,,,2,0,Completed,1.07,7,1.1,6.5,1.1,6.75,1.1,5,1.1,9
+65,St. Petersburg,St. Petersburg Open,26/10/05,International,Indoor,Carpet,1st Round,3,Rusedski G.,Tursunov D.,37,74,878,515,6,4,6,4, , ,,,,,2,0,Completed,1.72,2,1.83,1.93,1.87,1.87,1.55,2.1,1.943,1.962
+65,St. Petersburg,St. Petersburg Open,26/10/05,International,Indoor,Carpet,2nd Round,3,Carlsen K.,Stakhovsky S.,65,205,560,187,6,7,7,6,7,6,,,,,2,1,Completed,1.5,2.5,1.6,2.3,1.6,2.3,1.45,2.35,1.633,2.48
+65,St. Petersburg,St. Petersburg Open,26/10/05,International,Indoor,Carpet,2nd Round,3,Kiefer N.,Melzer J.,29,50,1075,740,3,6,6,3,7,5,,,,,2,1,Completed,1.39,2.75,1.4,2.85,1.35,3.1,1.4,2.5,1.455,3
+65,St. Petersburg,St. Petersburg Open,26/10/05,International,Indoor,Carpet,2nd Round,3,Vik R.,Serra F.,80,54,496,698,7,6,2,6,6,3,,,,,2,1,Completed,2,1.72,2,1.77,1.95,1.8,2.1,1.55,1.952,1.952
+65,St. Petersburg,St. Petersburg Open,27/10/05,International,Indoor,Carpet,2nd Round,3,Johansson T.,Pavel A.,15,55,1525,685,6,2,6,2, , ,,,,,2,0,Completed,1.36,3,1.33,3.2,1.3,3.35,1.35,2.7,1.329,3.74
+65,St. Petersburg,St. Petersburg Open,27/10/05,International,Indoor,Carpet,2nd Round,3,Rusedski G.,Kim K.,37,97,878,429,4,6,6,3,6,4,,,,,2,1,Completed,1.25,3.75,1.25,3.85,1.25,3.9,1.2,3.6,1.227,5.01
+65,St. Petersburg,St. Petersburg Open,27/10/05,International,Indoor,Carpet,2nd Round,3,Verdasco F.,Monaco J.,39,92,845,457,7,5,6,3, , ,,,,,2,0,Completed,1.25,3.75,1.28,3.55,1.25,3.6,1.3,2.9,1.38,3.43
+65,St. Petersburg,St. Petersburg Open,27/10/05,International,Indoor,Carpet,2nd Round,3,Youzhny M.,Saulnier C.,27,68,1090,545,6,1,6,1, , ,,,,,2,0,Completed,1.39,2.75,1.5,2.55,1.48,2.53,1.45,2.35,1.532,2.68
+65,St. Petersburg,St. Petersburg Open,27/10/05,International,Indoor,Carpet,2nd Round,3,Davydenko N.,Goldstein P.,8,84,2000,489,6,3,6,4, , ,,,,,2,0,Completed,1.12,5.5,1.14,5.4,1.11,5.84,1.1,5,1.133,7.8
+65,St. Petersburg,St. Petersburg Open,28/10/05,International,Indoor,Carpet,Quarterfinals,3,Verdasco F.,Carlsen K.,39,65,845,560,6,4,6,2, , ,,,,,2,0,Completed,1.36,3,1.37,3,1.4,2.75,1.4,2.5,1.385,3.4
+65,St. Petersburg,St. Petersburg Open,28/10/05,International,Indoor,Carpet,Quarterfinals,3,Johansson T.,Rusedski G.,15,37,1525,878,6,2,7,6, , ,,,,,2,0,Completed,1.44,2.62,1.5,2.55,1.5,2.45,1.45,2.35,1.469,2.93
+65,St. Petersburg,St. Petersburg Open,28/10/05,International,Indoor,Carpet,Quarterfinals,3,Vik R.,Youzhny M.,80,27,496,1090,1,6,6,4,6,2,,,,,2,1,Completed,5,1.14,4.85,1.17,4.25,1.2,3.6,1.2,5.81,1.188
+65,St. Petersburg,St. Petersburg Open,28/10/05,International,Indoor,Carpet,Quarterfinals,3,Kiefer N.,Davydenko N.,29,8,1075,2000,6,1,6,1, , ,,,,,2,0,Completed,2.5,1.5,2.3,1.6,2.3,1.6,2.35,1.45,2.59,1.592
+65,St. Petersburg,St. Petersburg Open,29/10/05,International,Indoor,Carpet,Semifinals,3,Kiefer N.,Vik R.,29,80,1075,496,6,3,6,4, , ,,,,,2,0,Completed,1.16,4.5,1.2,4.55,1.18,4.45,1.2,3.6,1.174,6.25
+65,St. Petersburg,St. Petersburg Open,29/10/05,International,Indoor,Carpet,Semifinals,3,Johansson T.,Verdasco F.,15,39,1525,845,6,3,3,6,6,3,,,,,2,1,Completed,1.5,2.5,1.45,2.75,1.48,2.53,1.5,2.2,1.508,2.77
+65,St. Petersburg,St. Petersburg Open,30/10/05,International,Indoor,Carpet,The Final,3,Johansson T.,Kiefer N.,15,29,1525,1075,6,4,6,2, , ,,,,,2,0,Completed,1.8,1.9,1.81,2,1.8,1.95,1.7,1.9,1.752,2.23

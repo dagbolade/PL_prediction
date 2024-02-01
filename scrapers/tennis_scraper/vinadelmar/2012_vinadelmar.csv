@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+8,Vina del Mar,VTR Open ,30/01/12,ATP250,Outdoor,Clay,1st Round,3,Souza J.,Volandri F.,108,70,539,696,1,6,7,5,7,6,,,,,2,1,Completed,2.37,1.53,2.35,1.55,2.25,1.57,2.58,1.56,2.5,1.53,2.58,1.6,2.38,1.55
+8,Vina del Mar,VTR Open ,30/01/12,ATP250,Outdoor,Clay,1st Round,3,Mayer L.,Giraldo S.,79,54,659,845,7,6,6,1,,,,,,,2,0,Completed,2.62,1.44,2.65,1.45,2.5,1.5,2.47,1.6,2.75,1.4,2.75,1.6,2.52,1.5
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Andreev I.,Capdeville P.,126,130,459,438,3,6,6,3,6,4,,,,,2,1,Completed,1.53,2.37,1.55,2.35,1.57,2.25,1.54,2.64,1.57,2.25,1.67,2.7,1.56,2.36
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Gil F.,Lorenzi P.,99,106,582,544,6,3,5,7,6,1,,,,,2,1,Completed,1.66,2.1,1.75,2,1.73,2,1.71,2.24,1.73,2,1.77,2.33,1.69,2.09
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Gimeno-Traver D.,55,104,836,547,7,5,6,0,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.3,3.4,1.28,3.99,1.29,3.25,1.33,3.99,1.28,3.56
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Dutra Silva R.,Gonzalez M.,124,117,483,496,0,6,7,6,6,3,,,,,2,1,Completed,2.37,1.53,2.35,1.55,2.25,1.57,2.37,1.65,2.38,1.53,2.53,1.65,2.37,1.55
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Zeballos H.,Ungur A.,113,107,516,541,6,0,7,5,,,,,,,2,0,Completed,1.66,2.1,1.65,2.15,1.67,2.1,1.67,2.32,1.73,2,1.75,2.35,1.66,2.15
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Montanes A.,Ramirez-Hidalgo R.,53,66,860,724,6,2,6,4,,,,,,,2,0,Completed,1.5,2.5,1.5,2.5,1.44,2.62,1.56,2.59,1.5,2.5,1.6,2.65,1.51,2.47
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Chardy J.,Prodon E.,82,109,652,534,6,4,6,3,,,,,,,2,0,Completed,1.25,3.75,1.3,3.3,1.3,3.4,1.33,3.62,1.33,3,1.36,3.75,1.29,3.46
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Junqueira D.,Mello R.,125,102,473,561,6,4,6,2,,,,,,,2,0,Completed,2.2,1.61,2.15,1.65,2.2,1.62,2.7,1.52,2,1.73,2.7,1.75,2.18,1.64
+8,Vina del Mar,VTR Open ,31/01/12,ATP250,Outdoor,Clay,1st Round,3,Gonzalez F.,Riba P.,290,92,155,612,6,4,6,4,,,,,,,2,0,Completed,1.53,2.37,1.65,2.15,1.5,2.5,1.59,2.5,1.62,2.2,1.65,2.58,1.59,2.29
+8,Vina del Mar,VTR Open ,01/02/12,ATP250,Outdoor,Clay,1st Round,3,Del Bonis F.,Massu N.,172,503,289,63,6,0,6,3,,,,,,,2,0,Completed,1.2,4.33,1.2,4.25,1.22,4,1.22,4.76,1.25,3.75,1.25,4.95,1.22,4.1
+8,Vina del Mar,VTR Open ,01/02/12,ATP250,Outdoor,Clay,2nd Round,3,Montanes A.,Dutra Silva R.,53,124,860,483,7,5,6,2,,,,,,,2,0,Completed,1.25,3.75,1.3,3.3,1.3,3.4,1.3,3.89,1.29,3.25,1.32,3.89,1.28,3.5
+8,Vina del Mar,VTR Open ,01/02/12,ATP250,Outdoor,Clay,2nd Round,3,Chardy J.,Mayer L.,82,79,652,659,7,5,6,2,,,,,,,2,0,Completed,1.8,1.9,1.85,1.9,1.83,1.83,2.06,1.85,1.83,1.83,2.2,2,1.88,1.85
+8,Vina del Mar,VTR Open ,01/02/12,ATP250,Outdoor,Clay,2nd Round,3,Gil F.,Andujar P.,99,44,582,955,6,2,6,1,,,,,,,2,0,Completed,2.2,1.61,2.35,1.55,2.2,1.62,2.24,1.72,2.2,1.62,2.36,1.74,2.22,1.62
+8,Vina del Mar,VTR Open ,02/02/12,ATP250,Outdoor,Clay,2nd Round,3,Monaco J.,Andreev I.,29,126,1300,459,6,2,6,1,,,,,,,2,0,Completed,1.3,3.4,1.3,3.3,1.44,2.62,1.34,3.59,1.33,3,1.44,3.61,1.31,3.3
+8,Vina del Mar,VTR Open ,02/02/12,ATP250,Outdoor,Clay,2nd Round,3,Del Bonis F.,Bellucci T.,172,37,289,1060,6,2,7,5,,,,,,,2,0,Completed,2.87,1.38,2.65,1.45,3,1.36,2.99,1.45,3,1.33,3.2,1.46,2.87,1.39
+8,Vina del Mar,VTR Open ,02/02/12,ATP250,Outdoor,Clay,2nd Round,3,Berlocq C.,Junqueira D.,55,125,836,473,6,1,6,0,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.26,4.34,1.29,3.25,1.3,4.5,1.25,3.79
+8,Vina del Mar,VTR Open ,02/02/12,ATP250,Outdoor,Clay,2nd Round,3,Souza J.,Gonzalez F.,108,290,539,155,6,3,7,6,,,,,,,2,0,Completed,3,1.36,3.05,1.35,3.25,1.33,3.56,1.34,3,1.33,3.56,1.4,3.12,1.34
+8,Vina del Mar,VTR Open ,02/02/12,ATP250,Outdoor,Clay,2nd Round,3,Chela J.I.,Zeballos H.,25,113,1350,516,6,4,7,6,,,,,,,2,0,Completed,1.38,2.87,1.4,2.8,1.36,3,1.4,3.21,1.33,3,1.44,3.26,1.38,2.93
+8,Vina del Mar,VTR Open ,03/02/12,ATP250,Outdoor,Clay,Quarterfinals,3,Berlocq C.,Del Bonis F.,55,172,836,289,6,3,6,4,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,1.46,2.98,1.36,3,1.46,3.1,1.4,2.85
+8,Vina del Mar,VTR Open ,03/02/12,ATP250,Outdoor,Clay,Quarterfinals,3,Chela J.I.,Souza J.,25,108,1350,539,5,7,7,6,6,1,,,,,2,1,Completed,1.25,3.75,1.25,3.75,1.25,3.75,1.37,3.41,1.22,4,1.4,4.5,1.27,3.62
+8,Vina del Mar,VTR Open ,03/02/12,ATP250,Outdoor,Clay,Quarterfinals,3,Chardy J.,Gil F.,82,99,652,582,6,2,7,6,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.57,2.25,1.61,2.52,1.36,3,1.62,3,1.55,2.37
+8,Vina del Mar,VTR Open ,04/02/12,ATP250,Outdoor,Clay,Quarterfinals,3,Monaco J.,Montanes A.,29,53,1300,860,3,6,6,1,6,1,,,,,2,1,Completed,1.4,2.75,1.5,2.5,1.44,2.62,1.42,3.19,1.67,2.2,1.67,3.19,1.46,2.64
+8,Vina del Mar,VTR Open ,04/02/12,ATP250,Outdoor,Clay,Semifinals,3,Berlocq C.,Chela J.I.,55,25,836,1350,6,3,4,6,6,0,,,,,2,1,Completed,1.44,2.62,1.5,2.5,1.53,2.38,1.52,2.78,1.5,2.63,1.57,2.78,1.51,2.51
+8,Vina del Mar,VTR Open ,05/02/12,ATP250,Outdoor,Clay,Semifinals,3,Monaco J.,Chardy J.,29,82,1300,652,6,1,6,4,,,,,,,2,0,Completed,1.44,2.62,1.4,2.8,1.4,2.75,1.42,3.19,1.44,2.75,1.5,3.19,1.43,2.71
+8,Vina del Mar,VTR Open ,05/02/12,ATP250,Outdoor,Clay,The Final,3,Monaco J.,Berlocq C.,29,55,1300,836,6,3,6,7,6,1,,,,,2,1,Completed,1.44,2.75,1.45,2.65,1.5,2.62,1.56,2.64,1.5,2.63,1.56,2.8,1.47,2.62
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

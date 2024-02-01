@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+47,Kitzbuhel,Generali Open,31/07/17,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Youzhny M.,62,99,785,560,6,7,7,5,6,3,,,,,2,1,Completed,1.4,2.75,1.35,2.95,1.4,3,1.37,3.34,1.42,3.34,1.38,3.01
+47,Kitzbuhel,Generali Open,31/07/17,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Marterer M.,71,120,682,461,7,5,7,6,,,,,,,2,0,Completed,1.61,2.2,1.6,2.2,1.61,2.25,1.74,2.2,1.74,2.35,1.63,2.24
+47,Kitzbuhel,Generali Open,31/07/17,ATP250,Outdoor,Clay,1st Round,3,Zekic M.,Kuznetsov An.,316,66,152,715,7,6,7,6,,,,,,,2,0,Completed,7,1.1,5.9,1.1,5.5,1.14,7.45,1.12,8.27,1.14,7.25,1.09
+47,Kitzbuhel,Generali Open,31/07/17,ATP250,Outdoor,Clay,1st Round,3,Bellucci T.,Dolgopolov O.,80,70,637,691,6,2,5,7,6,4,,,,,2,1,Completed,2.5,1.5,2.55,1.45,2.75,1.44,2.84,1.48,2.92,1.5,2.7,1.45
+47,Kitzbuhel,Generali Open,31/07/17,ATP250,Outdoor,Clay,1st Round,3,Ofner S.,Basilashvili N.,157,63,354,735,7,5,3,0,,,,,,,1,0,Retired,2.25,1.57,2.25,1.57,2.25,1.61,2.36,1.65,2.45,1.73,2.28,1.61
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Zeballos H.,Dutra Silva R.,57,524,848,64,2,6,7,6,7,6,,,,,2,1,Completed,1.57,2.25,1.55,2.3,1.61,2.25,1.78,2.14,1.78,2.53,1.66,2.21
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Giraldo S.,Haase R.,122,52,454,888,7,6,4,6,6,4,,,,,2,1,Completed,3,1.36,2.85,1.37,3,1.4,3.14,1.41,3.27,1.41,3.06,1.36
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Bagnis F.,47,108,930,508,7,5,3,6,6,3,,,,,2,1,Completed,1.66,2.1,1.65,2.1,1.67,2.2,1.81,2.1,1.81,2.33,1.71,2.12
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Hanfmann Y.,48,125,910,445,6,4,6,4,,,,,,,2,0,Completed,1.4,2.75,1.42,2.65,1.44,2.75,1.49,2.8,1.49,2.85,1.44,2.75
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Struff J.L.,Haas T.,53,248,883,205,6,3,7,6,,,,,,,2,0,Completed,1.4,2.75,1.35,2.95,1.4,3,1.38,3.27,1.42,3.27,1.39,2.95
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Olivo R.,Monteiro T.,118,110,462,501,7,5,6,2,,,,,,,2,0,Completed,2.37,1.53,2.4,1.5,2.37,1.57,2.5,1.59,2.55,1.59,2.44,1.55
+47,Kitzbuhel,Generali Open,01/08/17,ATP250,Outdoor,Clay,1st Round,3,Melzer G.,Berlocq C.,150,97,375,561,6,4,5,7,6,3,,,,,2,1,Completed,2.25,1.57,2.25,1.57,2.37,1.57,2.36,1.65,2.4,1.71,2.28,1.62
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Olivo R.,Zeballos H.,118,57,462,848,7,6,6,2,,,,,,,2,0,Completed,2.5,1.5,2.4,1.5,2.37,1.53,2.44,1.63,2.5,1.63,2.39,1.57
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Kohlschreiber P.,Vesely J.,47,48,930,910,6,3,6,3,,,,,,,2,0,Completed,1.9,1.8,1.95,1.75,2,1.8,2.07,1.85,2.13,1.85,2.03,1.77
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Bellucci T.,Struff J.L.,80,53,637,883,6,4,7,6,,,,,,,2,0,Completed,2.2,1.61,2.2,1.6,2.2,1.67,2.37,1.66,2.37,1.69,2.23,1.64
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Simon G.,71,37,682,1120,6,4,6,4,,,,,,,2,0,Completed,2,1.72,1.95,1.75,2,1.8,2.06,1.85,2.06,1.86,2,1.79
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Ofner S.,Cuevas P.,157,27,354,1425,6,3,2,6,7,6,,,,,2,1,Completed,3.75,1.25,3.45,1.27,3.5,1.3,3.91,1.3,3.91,1.3,3.7,1.27
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Fognini F.,Zekic M.,25,316,1475,152,6,4,6,4,,,,,,,2,0,Completed,1.14,5.5,1.16,4.6,1.17,5,1.18,5.57,1.18,5.68,1.16,5.18
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Sousa J.,Lorenzi P.,62,36,785,1123,6,7,6,4,6,1,,,,,2,1,Completed,1.83,1.83,1.9,1.8,2,1.8,2.03,1.88,2.05,1.91,1.96,1.84
+47,Kitzbuhel,Generali Open,02/08/17,ATP250,Outdoor,Clay,2nd Round,3,Melzer G.,Giraldo S.,150,122,375,454,6,3,7,6,,,,,,,2,0,Completed,1.72,2,1.75,1.95,1.8,2,1.81,2.11,1.85,2.11,1.78,2.01
+47,Kitzbuhel,Generali Open,03/08/17,ATP250,Outdoor,Clay,Quarterfinals,3,Kohlschreiber P.,Lajovic D.,47,71,930,682,4,6,6,4,7,6,,,,,2,1,Completed,1.5,2.62,1.45,2.55,1.44,2.75,1.57,2.62,1.59,2.75,1.49,2.59
+47,Kitzbuhel,Generali Open,03/08/17,ATP250,Outdoor,Clay,Quarterfinals,3,Fognini F.,Bellucci T.,25,80,1475,637,6,3,6,1,,,,,,,2,0,Completed,1.4,3,1.4,2.75,1.44,2.75,1.44,3.06,1.45,3.06,1.42,2.85
+47,Kitzbuhel,Generali Open,03/08/17,ATP250,Outdoor,Clay,Quarterfinals,3,Ofner S.,Olivo R.,157,118,354,462,6,3,1,6,6,3,,,,,2,1,Completed,1.9,1.9,1.72,2,1.91,1.91,1.84,2.1,1.94,2.11,1.81,1.99
+47,Kitzbuhel,Generali Open,03/08/17,ATP250,Outdoor,Clay,Quarterfinals,3,Sousa J.,Melzer G.,62,150,785,375,2,6,6,1,6,3,,,,,2,1,Completed,1.53,2.37,1.57,2.25,1.57,2.37,1.67,2.38,1.71,2.45,1.59,2.36
+47,Kitzbuhel,Generali Open,04/08/17,ATP250,Outdoor,Clay,Semifinals,3,Kohlschreiber P.,Fognini F.,47,25,930,1475,7,5,6,3,,,,,,,2,0,Completed,2.2,1.66,2.1,1.65,2.2,1.67,2.23,1.75,2.3,1.75,2.18,1.68
+47,Kitzbuhel,Generali Open,04/08/17,ATP250,Outdoor,Clay,Semifinals,3,Sousa J.,Ofner S.,62,157,785,354,7,6,7,6,,,,,,,2,0,Completed,1.5,2.62,1.45,2.55,1.44,2.75,1.51,2.8,1.53,2.85,1.47,2.69
+47,Kitzbuhel,Generali Open,05/08/17,ATP250,Outdoor,Clay,The Final,3,Kohlschreiber P.,Sousa J.,47,62,930,785,6,3,6,4,,,,,,,2,0,Completed,1.4,3,1.4,2.75,1.4,3,1.47,2.97,1.47,3.05,1.41,2.89

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+38,Bastad,SkiStar Swedish Open,08/07/13,ATP250,Outdoor,Clay,1st Round,3,Dimitrov G.,Ymer E.,29,1032,1330,8,5,7,6,2,6,4,,,,,2,1,Completed,1.02,19,1.01,11.5,1.02,11,1.02,20.52,1.01,15,1.03,24.05,1.02,15.04
+38,Bastad,SkiStar Swedish Open,08/07/13,ATP250,Outdoor,Clay,1st Round,3,Alund M.,Eriksson M.,112,510,512,61,7,5,6,7,7,6,,,,,2,1,Completed,1.14,5.5,1.15,5,1.12,5.5,1.23,4.67,1.17,5,1.24,5.75,1.16,4.98
+38,Bastad,SkiStar Swedish Open,08/07/13,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Zeballos H.,74,54,690,837,6,4,6,3,,,,,,,2,0,Completed,1.4,2.75,1.5,2.5,1.53,2.38,1.49,2.8,1.5,2.5,1.53,2.9,1.48,2.61
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Garcia-Lopez G.,Hajek J.,73,122,691,479,7,6,6,1,,,,,,,2,0,Completed,1.57,2.25,1.6,2.2,1.57,2.25,1.68,2.3,1.62,2.25,1.69,2.4,1.62,2.24
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Struff J.L.,Stakhovsky S.,109,96,523,568,6,3,6,3,,,,,,,2,0,Completed,1.72,2,1.75,2,1.83,1.83,1.94,1.94,1.8,2,1.95,2.17,1.8,1.96
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Volandri F.,Zopp J.,101,202,552,238,6,1,6,2,,,,,,,2,0,Completed,1.4,2.75,1.4,2.8,1.44,2.62,1.42,3.09,1.4,2.88,1.5,3.15,1.43,2.76
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Kavcic B.,Copil M.,133,132,427,435,6,4,6,1,,,,,,,2,0,Completed,2.1,1.66,2.08,1.7,2.1,1.67,1.96,1.93,2.1,1.73,2.2,1.93,2.04,1.75
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Ramos A.,Reister J.,63,106,755,531,6,3,6,3,,,,,,,2,0,Completed,1.53,2.37,1.5,2.5,1.4,2.75,1.68,2.3,1.53,2.5,1.68,2.75,1.56,2.38
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Troicki V.,Souza J.,52,119,845,482,6,4,6,2,,,,,,,2,0,Completed,1.22,4,1.25,3.7,1.29,3.5,1.26,4.25,1.33,3.25,1.33,5.1,1.25,3.84
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Laaksonen H.,Veic A.,216,181,217,265,5,7,6,1,6,1,,,,,2,1,Completed,2,1.72,1.95,1.8,2.38,1.53,2.1,1.81,1.9,1.9,2.38,1.9,1.99,1.78
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,De Bakker T.,Schwartzman D.,104,135,538,419,6,2,6,4,,,,,,,2,0,Completed,2,1.72,2.08,1.7,2,1.73,2.09,1.81,2.1,1.73,2.16,1.83,2.04,1.74
+38,Bastad,SkiStar Swedish Open,09/07/13,ATP250,Outdoor,Clay,1st Round,3,Verdasco F.,Vinciguerra A.,35,572,1095,47,6,4,7,6,,,,,,,2,0,Completed,1.08,8,1.07,7.5,1.06,8,1.08,9.43,1.07,8,1.1,9.43,1.08,7.69
+38,Bastad,SkiStar Swedish Open,10/07/13,ATP250,Outdoor,Clay,2nd Round,3,Berlocq C.,Kavcic B.,74,133,690,427,7,5,6,3,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.29,4.05,1.25,3.75,1.29,4.33,1.24,3.88
+38,Bastad,SkiStar Swedish Open,10/07/13,ATP250,Outdoor,Clay,2nd Round,3,Dimitrov G.,Volandri F.,29,101,1330,552,2,6,6,1,6,4,,,,,2,1,Completed,1.33,3.25,1.35,3,1.33,3.25,1.4,3.22,1.33,3.25,1.4,3.3,1.35,3.09
+38,Bastad,SkiStar Swedish Open,10/07/13,ATP250,Outdoor,Clay,2nd Round,3,Ramos A.,Robredo T.,63,28,755,1365,6,3,6,4,,,,,,,2,0,Completed,2.75,1.4,2.5,1.5,2.75,1.4,2.67,1.54,2.88,1.4,3.23,1.54,2.75,1.43
+38,Bastad,SkiStar Swedish Open,10/07/13,ATP250,Outdoor,Clay,2nd Round,3,Monaco J.,Laaksonen H.,20,216,1740,217,6,4,6,2,,,,,,,2,0,Completed,1.07,9,1.08,7,1.1,6.5,1.09,9.16,1.08,7,1.13,9.16,1.08,7.62
+38,Bastad,SkiStar Swedish Open,11/07/13,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Struff J.L.,35,109,1095,523,6,1,7,5,,,,,,,2,0,Completed,1.16,5,1.2,4.25,1.17,4.5,1.23,4.77,1.2,4.5,1.25,5,1.2,4.44
+38,Bastad,SkiStar Swedish Open,11/07/13,ATP250,Outdoor,Clay,2nd Round,3,Berdych T.,Alund M.,6,112,4865,512,6,3,6,0,,,,,,,2,0,Completed,1.03,15,1.04,9,1.05,8.5,1.05,13,1.04,11,1.07,15,1.04,10.74
+38,Bastad,SkiStar Swedish Open,11/07/13,ATP250,Outdoor,Clay,2nd Round,3,Almagro N.,Garcia-Lopez G.,16,73,2195,691,3,6,6,1,6,1,,,,,2,1,Completed,1.22,4,1.25,3.7,1.22,4,1.25,4.46,1.22,4,1.27,4.46,1.23,3.99
+38,Bastad,SkiStar Swedish Open,11/07/13,ATP250,Outdoor,Clay,2nd Round,3,De Bakker T.,Troicki V.,104,52,538,845,6,4,4,6,7,6,,,,,2,1,Completed,3.5,1.28,3.75,1.25,4,1.22,3.4,1.37,3.75,1.25,4,1.37,3.55,1.28
+38,Bastad,SkiStar Swedish Open,12/07/13,ATP250,Outdoor,Clay,Quarterfinals,3,Dimitrov G.,Monaco J.,29,20,1330,1740,6,3,6,2,,,,,,,2,0,Completed,2.5,1.5,2.6,1.45,2.62,1.44,2.54,1.6,2.75,1.44,2.75,1.6,2.53,1.5
+38,Bastad,SkiStar Swedish Open,12/07/13,ATP250,Outdoor,Clay,Quarterfinals,3,Verdasco F.,Almagro N.,35,16,1095,2195,6,4,4,6,7,5,,,,,2,1,Completed,2.1,1.66,2,1.75,2,1.73,2.28,1.72,2.1,1.73,2.28,1.83,2.07,1.73
+38,Bastad,SkiStar Swedish Open,12/07/13,ATP250,Outdoor,Clay,Quarterfinals,3,Berlocq C.,Ramos A.,74,63,690,755,6,3,3,6,6,0,,,,,2,1,Completed,2,1.72,1.9,1.85,1.91,1.8,2.08,1.85,2,1.8,2.22,1.88,1.95,1.81
+38,Bastad,SkiStar Swedish Open,12/07/13,ATP250,Outdoor,Clay,Quarterfinals,3,De Bakker T.,Berdych T.,104,6,538,4865,7,5,7,5,,,,,,,2,0,Completed,10,1.06,7,1.08,7,1.08,11.5,1.07,7.5,1.08,11.5,1.1,8.55,1.07
+38,Bastad,SkiStar Swedish Open,13/07/13,ATP250,Outdoor,Clay,Semifinals,3,Verdasco F.,Dimitrov G.,35,29,1095,1330,7,6,5,7,7,5,,,,,2,1,Completed,1.72,2.1,1.65,2.15,1.57,2.25,1.83,2.11,1.67,2.2,1.83,2.25,1.69,2.13
+38,Bastad,SkiStar Swedish Open,13/07/13,ATP250,Outdoor,Clay,Semifinals,3,Berlocq C.,De Bakker T.,74,104,690,538,7,5,6,3,,,,,,,2,0,Completed,1.4,3,1.45,2.65,1.4,2.75,1.41,3.24,1.44,2.75,1.46,3.35,1.41,2.84
+38,Bastad,SkiStar Swedish Open,14/07/13,ATP250,Outdoor,Clay,The Final,3,Berlocq C.,Verdasco F.,74,35,690,1095,7,5,6,1,,,,,,,2,0,Completed,3,1.4,2.75,1.4,3,1.4,2.82,1.5,3.5,1.29,3.55,1.5,3,1.37
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

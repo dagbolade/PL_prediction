@@ -1,0 +1,16 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,SJW,SJL,UBW,UBL
+65,London,Masters Cup,22/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Murray A.,Del Potro J.M.,4,5,6630,5985,6,3,3,6,6,2,,,,,2,1,Completed,1.33,3.4,1.35,3.1,1.364,3,1.36,3.2,1.33,3.2
+65,London,Masters Cup,22/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Verdasco F.,1,8,10150,3300,4,6,7,5,6,1,,,,,2,1,Completed,1.16,5,1.2,4.25,1.2,4.333,1.17,5,1.2,4.3
+65,London,Masters Cup,23/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Soderling R.,Nadal R.,9,2,3010,9205,6,4,6,4,,,,,,,2,0,Completed,2.5,1.53,2.2,1.65,2.25,1.57,2.38,1.57,2.18,1.65
+65,London,Masters Cup,23/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Davydenko N.,3,7,7910,3630,3,6,6,4,7,5,,,,,2,1,Completed,1.4,3,1.37,2.92,1.4,2.75,1.4,2.88,1.4,2.85
+65,London,Masters Cup,24/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Del Potro J.M.,Verdasco F.,5,8,5985,3300,6,4,3,6,7,6,,,,,2,1,Completed,1.5,2.62,1.55,2.35,1.533,2.375,1.62,2.25,1.56,2.5
+65,London,Masters Cup,24/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Murray A.,1,4,10150,6630,3,6,6,3,6,1,,,,,2,1,Completed,1.9,1.9,1.87,1.9,1.833,1.833,1.91,1.91,1.9,1.9
+65,London,Masters Cup,25/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Soderling R.,Djokovic N.,9,3,3010,7910,7,6,6,1,,,,,,,2,0,Completed,3,1.4,2.92,1.37,3.25,1.33,3.25,1.33,3,1.38
+65,London,Masters Cup,25/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Davydenko N.,Nadal R.,7,2,3630,9205,6,1,7,6,,,,,,,2,0,Completed,2,1.8,1.9,1.9,2,1.727,1.9,1.9,1.86,1.9
+65,London,Masters Cup,26/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Murray A.,Verdasco F.,4,8,6630,3300,6,4,6,7,7,6,,,,,2,1,Completed,1.2,4.5,1.2,4.25,1.222,4,1.22,4,1.23,4
+65,London,Masters Cup,26/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Del Potro J.M.,Federer R.,5,1,5985,10150,6,2,6,7,6,3,,,,,2,1,Completed,3.5,1.3,3.34,1.31,3.25,1.333,3.25,1.33,3.6,1.27
+65,London,Masters Cup,27/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Nadal R.,3,2,7910,9205,7,6,6,3,,,,,,,2,0,Completed,1.4,2.87,1.4,2.85,1.4,2.75,1.4,2.88,1.4,2.86
+65,London,Masters Cup,27/11/09,Masters Cup,Indoor,Hard,Round Robin,3,Davydenko N.,Soderling R.,7,9,3630,3010,7,6,4,6,6,3,,,,,2,1,Completed,1.72,2.1,1.75,2,1.73,2,1.8,2,1.76,2.04
+65,London,Masters Cup,28/11/09,Masters Cup,Indoor,Hard,Semifinals,3,Davydenko N.,Federer R.,7,1,3630,10150,6,2,4,6,7,5,,,,,2,1,Completed,4.33,1.22,3.75,1.26,4,1.222,3.75,1.25,3.85,1.25
+65,London,Masters Cup,28/11/09,Masters Cup,Indoor,Hard,Semifinals,3,Del Potro J.M.,Soderling R.,5,9,5985,3010,6,7,6,3,7,6,,,,,2,1,Completed,1.53,2.5,1.55,2.35,1.53,2.38,1.53,2.5,1.6,2.3
+65,London,Masters Cup,29/11/09,Masters Cup,Indoor,Hard,The Final,3,Davydenko N.,Del Potro J.M.,7,5,3630,5985,6,3,6,4,,,,,,,2,0,Completed,2.2,1.66,2.15,1.7,2.2,1.615,2.25,1.62,2.15,1.7

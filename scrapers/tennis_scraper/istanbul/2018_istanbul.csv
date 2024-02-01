@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+27,Istanbul,Istanbul Open,30/04/18,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Istomin D.,110,89,500,673,7,6,7,6,,,,,,,2,0,Completed,2.1,1.66,2.02,1.71,,,2.09,1.81,2.3,1.83,2.11,1.73
+27,Istanbul,Istanbul Open,30/04/18,ATP250,Outdoor,Clay,1st Round,3,Troicki V.,Tomic B.,71,210,755,281,3,6,6,0,7,5,,,,,2,1,Completed,1.4,2.75,1.42,2.65,,,1.46,2.91,1.53,3,1.45,2.74
+27,Istanbul,Istanbul Open,30/04/18,ATP250,Outdoor,Clay,1st Round,3,Trungelliti M.,Ymer E.,186,135,306,418,4,6,6,3,6,2,,,,,2,1,Completed,1.83,1.83,1.83,1.87,,,1.93,1.95,1.95,2.08,1.86,1.94
+27,Istanbul,Istanbul Open,30/04/18,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Ilkel C.,76,251,725,215,6,2,6,3,,,,,,,2,0,Completed,1.25,3.75,1.24,3.7,,,1.29,3.98,1.29,4.5,1.24,4.04
+27,Istanbul,Istanbul Open,30/04/18,ATP250,Outdoor,Clay,1st Round,3,Daniel T.,Berrettini M.,114,102,491,594,7,5,6,3,,,,,,,2,0,Completed,2.62,1.44,2.45,1.49,,,2.64,1.54,2.7,1.57,2.56,1.51
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Dutra Silva R.,Albot R.,121,98,452,626,6,4,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.7,,,1.51,2.73,1.51,3.05,1.44,2.78
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Chardy J.,Basilashvili N.,87,75,675,732,7,5,6,3,,,,,,,2,0,Completed,1.44,2.62,1.53,2.35,,,1.5,2.76,1.62,2.76,1.52,2.54
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Monteiro T.,Melzer G.,131,115,434,490,6,2,3,6,6,1,,,,,2,1,Completed,1.57,2.25,1.67,2.07,,,1.81,2.1,1.81,2.3,1.7,2.16
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Gimeno-Traver D.,84,230,688,249,6,3,6,1,,,,,,,2,0,Completed,2.2,1.61,2.1,1.66,,,2.2,1.74,2.25,1.8,2.15,1.7
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Millman J.,92,69,664,786,6,4,6,0,,,,,,,2,0,Completed,1.5,2.5,1.53,2.34,,,1.59,2.5,1.59,2.79,1.54,2.49
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Fabbiano T.,Youzhny M.,100,99,601,620,6,1,6,1,,,,,,,2,0,Completed,1.72,2,1.67,2.08,,,1.71,2.24,1.8,2.3,1.71,2.15
+27,Istanbul,Istanbul Open,01/05/18,ATP250,Outdoor,Clay,1st Round,3,Jaziri M.,Ilhan M.,78,334,718,144,6,1,6,2,,,,,,,2,0,Completed,1.14,5.5,1.15,4.8,,,1.18,5.47,1.28,6.03,1.16,5.27
+27,Istanbul,Istanbul Open,02/05/18,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Seppi A.,110,48,500,1021,6,3,6,7,6,3,,,,,2,1,Completed,4,1.22,3.3,1.29,,,3.7,1.33,4.18,1.34,3.62,1.29
+27,Istanbul,Istanbul Open,02/05/18,ATP250,Outdoor,Clay,2nd Round,3,Daniel T.,Bedene A.,114,63,491,850,6,2,6,2,,,,,,,2,0,Completed,3.5,1.28,3.35,1.28,,,3.74,1.32,3.9,1.36,3.53,1.3
+27,Istanbul,Istanbul Open,02/05/18,ATP250,Outdoor,Clay,2nd Round,3,Dutra Silva R.,Troicki V.,121,71,452,755,6,2,6,3,,,,,,,2,0,Completed,1.44,2.62,1.48,2.49,,,1.54,2.67,1.68,2.7,1.52,2.54
+27,Istanbul,Istanbul Open,02/05/18,ATP250,Outdoor,Clay,2nd Round,3,Lorenzi P.,Trungelliti M.,76,186,725,306,6,2,7,6,,,,,,,2,0,Completed,2.25,1.57,2.22,1.59,2.1,1.73,2.37,1.66,2.5,1.67,2.29,1.63
+27,Istanbul,Istanbul Open,03/05/18,ATP250,Outdoor,Clay,2nd Round,3,Chardy J.,Lajovic D.,87,92,675,664,4,6,7,6,6,2,,,,,2,1,Completed,1.83,1.83,1.85,1.86,1.91,1.91,1.95,1.95,1.95,2,1.89,1.91
+27,Istanbul,Istanbul Open,03/05/18,ATP250,Outdoor,Clay,2nd Round,3,Fabbiano T.,Dzumhur D.,100,32,601,1415,6,2,0,6,6,2,,,,,2,1,Completed,2.37,1.53,2.28,1.56,2.37,1.57,2.55,1.58,2.6,1.67,2.37,1.59
+27,Istanbul,Istanbul Open,03/05/18,ATP250,Outdoor,Clay,2nd Round,3,Jaziri M.,Cilic M.,78,4,718,4985,6,4,6,2,,,,,,,2,0,Completed,3.75,1.25,3.8,1.23,4.33,1.22,4.02,1.29,4.4,1.29,4.02,1.24
+27,Istanbul,Istanbul Open,03/05/18,ATP250,Outdoor,Clay,2nd Round,3,Vesely J.,Monteiro T.,84,131,688,434,6,2,2,6,7,6,,,,,2,1,Completed,1.57,2.25,1.56,2.27,1.61,2.25,1.63,2.44,1.65,2.5,1.6,2.35
+27,Istanbul,Istanbul Open,04/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Daniel T.,Dutra Silva R.,114,121,491,452,1,6,6,1,6,4,,,,,2,1,Completed,2.2,1.66,2.16,1.62,2.25,1.61,2.32,1.7,2.38,1.72,2.26,1.65
+27,Istanbul,Istanbul Open,04/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Chardy J.,Fabbiano T.,87,100,675,601,6,2,6,2,,,,,,,2,0,Completed,1.33,3.4,1.32,3.1,1.36,3.25,1.36,3.5,1.37,3.65,1.34,3.3
+27,Istanbul,Istanbul Open,04/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Jaziri M.,Vesely J.,78,84,718,688,3,6,6,4,6,1,,,,,2,1,Completed,1.72,2.1,1.73,2,1.73,2.1,1.88,2.04,1.88,2.19,1.78,2.05
+27,Istanbul,Istanbul Open,04/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Djere L.,Lorenzi P.,110,76,500,725,6,7,7,5,7,6,,,,,2,1,Completed,2,1.8,1.98,1.74,2,1.8,2.09,1.85,2.15,1.85,2.04,1.79
+27,Istanbul,Istanbul Open,05/05/18,ATP250,Outdoor,Clay,Semifinals,3,Daniel T.,Chardy J.,114,87,491,675,6,3,4,6,6,4,,,,,2,1,Completed,3.25,1.36,3.15,1.31,3,1.4,3.48,1.37,3.65,1.4,3.33,1.34
+27,Istanbul,Istanbul Open,05/05/18,ATP250,Outdoor,Clay,Semifinals,3,Jaziri M.,Djere L.,78,110,718,500,6,3,6,2,,,,,,,2,0,Completed,1.57,2.37,1.57,2.25,1.57,2.37,1.67,2.38,1.67,2.55,1.59,2.38
+27,Istanbul,Istanbul Open,06/05/18,ATP250,Outdoor,Clay,The Final,3,Daniel T.,Jaziri M.,114,78,491,718,7,6,6,4,,,,,,,2,0,Completed,2.37,1.57,2.17,1.62,2.25,1.61,2.3,1.71,2.4,1.71,2.27,1.64

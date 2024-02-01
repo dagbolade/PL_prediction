@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+32,Lyon,Lyon Open,21/05/17,ATP250,Outdoor,Clay,1st Round,3,Basilashvili N.,Coric B.,71,40,731,1011,6,4,5,7,6,4,,,,,2,1,Completed,3.75,1.25,3.85,1.22,4,1.25,4.1,1.27,4.33,1.29,3.93,1.25
+32,Lyon,Lyon Open,21/05/17,ATP250,Outdoor,Clay,1st Round,3,Thompson J.,Paire B.,90,45,590,950,6,7,7,6,6,4,,,,,2,1,Completed,3.25,1.33,3.2,1.3,3.25,1.36,3.5,1.34,3.74,1.36,3.35,1.32
+32,Lyon,Lyon Open,22/05/17,ATP250,Outdoor,Clay,1st Round,3,Seppi A.,Dzumhur D.,83,96,631,565,7,6,6,4,,,,,,,2,0,Completed,2,1.72,1.95,1.75,2,1.8,2.05,1.85,2.1,1.85,2.01,1.78
+32,Lyon,Lyon Open,22/05/17,ATP250,Outdoor,Clay,1st Round,3,Chung H.,Young D.,68,51,749,910,6,2,6,3,,,,,,,2,0,Completed,1.28,3.5,1.27,3.45,1.3,3.5,1.3,3.82,1.33,3.85,1.29,3.57
+32,Lyon,Lyon Open,22/05/17,ATP250,Outdoor,Clay,1st Round,3,Kicker N.,Brown D.,94,75,575,685,6,4,6,4,,,,,,,2,0,Completed,2.1,1.66,2,1.72,2,1.8,2.02,1.87,2.12,1.87,2.04,1.76
+32,Lyon,Lyon Open,22/05/17,ATP250,Outdoor,Clay,1st Round,3,Elias G.,Albot R.,125,86,455,613,2,6,6,4,6,2,,,,,2,1,Completed,1.61,2.2,1.6,2.2,1.57,2.38,1.65,2.37,1.67,2.38,1.61,2.29
+32,Lyon,Lyon Open,22/05/17,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Kokkinakis T.,81,N/A,649,N/A,6,3,6,4,,,,,,,2,0,Completed,1.5,2.5,1.55,2.3,1.53,2.5,1.67,2.33,1.67,2.5,1.58,2.35
+32,Lyon,Lyon Open,22/05/17,ATP250,Outdoor,Clay,1st Round,3,Simon G.,Medvedev D.,32,65,1175,782,7,5,6,7,6,2,,,,,2,1,Completed,1.3,3.4,1.3,3.2,1.33,3.4,1.34,3.57,1.38,3.78,1.31,3.39
+32,Lyon,Lyon Open,23/05/17,ATP250,Outdoor,Clay,1st Round,3,Khachanov K.,Olivo R.,54,91,860,587,6,2,6,4,,,,,,,2,0,Completed,1.22,4,1.21,3.95,1.2,4.5,1.23,4.67,1.23,4.85,1.2,4.42
+32,Lyon,Lyon Open,23/05/17,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Sandgren T.,63,112,799,494,6,2,6,4,,,,,,,2,0,Completed,1.25,3.75,1.23,3.75,1.29,3.75,1.26,4.25,1.3,4.33,1.25,3.9
+32,Lyon,Lyon Open,23/05/17,ATP250,Outdoor,Clay,1st Round,3,Edmund K.,Monteiro T.,50,95,911,570,2,6,6,4,6,1,,,,,2,1,Completed,1.33,3.25,1.35,2.95,1.4,3,1.42,3.09,1.43,3.25,1.37,3.04
+32,Lyon,Lyon Open,23/05/17,ATP250,Outdoor,Clay,1st Round,3,Del Potro J.M.,Halys Q.,30,126,1305,453,7,5,6,4,,,,,,,2,0,Completed,1.08,8,1.08,6.5,1.1,7,1.11,7.74,1.11,10,1.08,7.76
+32,Lyon,Lyon Open,23/05/17,ATP250,Outdoor,Clay,2nd Round,3,Basilashvili N.,Seppi A.,71,83,731,631,6,4,6,4,,,,,,,2,0,Completed,2,1.72,1.95,1.75,2,1.8,2.16,1.78,2.16,1.83,2.01,1.78
+32,Lyon,Lyon Open,23/05/17,ATP250,Outdoor,Clay,2nd Round,3,Kicker N.,Kyrgios N.,94,19,575,2155,2,6,6,4,6,2,,,,,2,1,Completed,5,1.16,4.75,1.15,5,1.17,5.39,1.19,5.5,1.21,4.89,1.17
+32,Lyon,Lyon Open,24/05/17,ATP250,Outdoor,Clay,2nd Round,3,Raonic M.,Istomin D.,6,81,4360,649,6,4,6,3,,,,,,,2,0,Completed,1.11,6.5,1.1,5.9,1.13,6,1.16,6.1,1.16,7,1.12,6.13
+32,Lyon,Lyon Open,24/05/17,ATP250,Outdoor,Clay,2nd Round,3,Elias G.,Del Potro J.M.,125,30,455,1305,7,6,6,4,,,,,,,2,0,Completed,6,1.12,5.2,1.13,6,1.13,6.02,1.17,6.02,1.19,5.46,1.15
+32,Lyon,Lyon Open,24/05/17,ATP250,Outdoor,Clay,2nd Round,3,Khachanov K.,Thompson J.,54,90,860,590,6,2,7,6,,,,,,,2,0,Completed,1.33,3.25,1.32,3.1,1.36,3.25,1.36,3.45,1.36,3.61,1.33,3.29
+32,Lyon,Lyon Open,24/05/17,ATP250,Outdoor,Clay,2nd Round,3,Tsonga J.W.,Berlocq C.,13,63,2870,799,6,7,6,2,6,3,,,,,2,1,Completed,1.44,2.62,1.45,2.55,1.53,2.5,1.52,2.73,1.56,2.79,1.47,2.64
+32,Lyon,Lyon Open,24/05/17,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Edmund K.,32,50,1175,911,3,6,7,5,6,4,,,,,2,1,Completed,1.9,1.8,1.85,1.85,1.91,1.91,2.02,1.88,2.05,1.93,1.92,1.87
+32,Lyon,Lyon Open,24/05/17,ATP250,Outdoor,Clay,2nd Round,3,Berdych T.,Chung H.,14,68,2780,749,6,3,7,5,,,,,,,2,0,Completed,1.61,2.2,1.62,2.15,1.62,2.25,1.72,2.25,1.75,2.38,1.66,2.21
+32,Lyon,Lyon Open,25/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Basilashvili N.,Kicker N.,71,94,731,575,6,3,6,1,,,,,,,2,0,Completed,1.57,2.37,1.55,2.3,1.67,2.2,1.65,2.41,1.83,2.41,1.6,2.3
+32,Lyon,Lyon Open,25/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Tsonga J.W.,Khachanov K.,13,54,2870,860,6,0,6,4,,,,,,,2,0,Completed,1.53,2.5,1.5,2.4,1.53,2.5,1.58,2.58,1.59,2.75,1.51,2.53
+32,Lyon,Lyon Open,25/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Raonic M.,Elias G.,6,125,4360,455,6,4,6,3,,,,,,,2,0,Completed,1.12,6,1.12,5.4,1.14,5.5,1.16,6.46,1.16,6.46,1.13,5.8
+32,Lyon,Lyon Open,25/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Berdych T.,Simon G.,14,32,2780,1175,6,4,6,0,,,,,,,2,0,Completed,1.44,2.75,1.45,2.55,1.57,2.38,1.47,2.97,1.56,2.97,1.48,2.66
+32,Lyon,Lyon Open,26/05/17,ATP250,Outdoor,Clay,Semifinals,3,Tsonga J.W.,Basilashvili N.,13,71,2870,731,6,2,3,6,6,1,,,,,2,1,Completed,1.25,4,1.21,3.95,1.29,3.75,1.24,4.65,1.29,4.65,1.24,4.06
+32,Lyon,Lyon Open,26/05/17,ATP250,Outdoor,Clay,Semifinals,3,Berdych T.,Raonic M.,14,6,2780,4360,7,6,7,6,,,,,,,2,0,Completed,2.5,1.53,2.5,1.47,2.38,1.57,2.71,1.54,2.71,1.61,2.49,1.53
+32,Lyon,Lyon Open,27/05/17,ATP250,Outdoor,Clay,The Final,3,Tsonga J.W.,Berdych T.,13,14,2870,2780,7,6,7,5,,,,,,,2,0,Completed,2,1.8,1.95,1.75,2,1.8,2.04,1.88,2.04,1.88,1.98,1.82

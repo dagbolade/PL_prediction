@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+27,Istanbul,Istanbul Open,01/05/17,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Granollers M.,59,70,828,711,7,5,2,6,6,4,,,,,2,1,Completed,1.53,2.37,1.47,2.5,,,1.5,2.76,1.54,2.78,1.49,2.59
+27,Istanbul,Istanbul Open,01/05/17,ATP250,Outdoor,Clay,1st Round,3,Thompson J.,Menendez-Maceiras A.,91,175,588,313,6,7,6,0,6,0,,,,,2,1,Completed,1.8,1.9,1.75,1.95,,,1.87,2.02,1.92,2.12,1.79,2
+27,Istanbul,Istanbul Open,01/05/17,ATP250,Outdoor,Clay,1st Round,3,Darcis S.,Sela D.,49,99,901,537,7,5,6,4,,,,,,,2,0,Completed,1.16,5,1.17,4.4,,,1.18,5.47,1.22,5.6,1.18,4.83
+27,Istanbul,Istanbul Open,01/05/17,ATP250,Outdoor,Clay,1st Round,3,Dutra Silva R.,Bellotti R.,401,204,106,261,3,6,7,6,6,0,,,,,2,1,Completed,1.28,3.5,1.25,3.6,,,1.24,4.46,1.3,4.55,1.25,3.91
+27,Istanbul,Istanbul Open,01/05/17,ATP250,Outdoor,Clay,1st Round,3,Youzhny M.,Ilkel C.,88,323,620,146,3,6,6,3,6,3,,,,,2,1,Completed,1.16,5,1.16,4.6,,,1.25,4.36,1.25,5,1.19,4.6
+27,Istanbul,Istanbul Open,01/05/17,ATP250,Outdoor,Clay,1st Round,3,Tomic B.,Safwat M.,40,216,980,243,5,7,7,5,6,3,,,,,2,1,Completed,1.36,3,1.37,2.85,,,1.46,2.91,1.46,3.1,1.41,2.89
+27,Istanbul,Istanbul Open,02/05/17,ATP250,Outdoor,Clay,1st Round,3,Dzumhur D.,Tsitsipas S.,92,207,580,259,6,4,7,5,,,,,,,2,0,Completed,1.4,2.75,1.38,2.8,,,1.41,3.1,1.48,3.1,1.4,2.9
+27,Istanbul,Istanbul Open,02/05/17,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Brands D.,153,205,379,260,6,3,6,4,,,,,,,2,0,Completed,1.5,2.5,1.47,2.5,,,1.54,2.64,1.54,2.75,1.5,2.57
+27,Istanbul,Istanbul Open,02/05/17,ATP250,Outdoor,Clay,1st Round,3,Bedene A.,Fucsovics M.,58,149,863,387,7,6,4,6,6,4,,,,,2,1,Completed,1.33,3.25,1.32,3.1,,,1.36,3.37,1.36,3.4,1.34,3.25
+27,Istanbul,Istanbul Open,02/05/17,ATP250,Outdoor,Clay,1st Round,3,Khachanov K.,Basilashvili N.,42,61,937,821,6,3,6,7,6,1,,,,,2,1,Completed,1.53,2.37,1.6,2.2,,,1.68,2.3,1.68,2.38,1.62,2.27
+27,Istanbul,Istanbul Open,02/05/17,ATP250,Outdoor,Clay,1st Round,3,Troicki V.,Baghdatis M.,38,60,1055,825,7,5,6,4,,,,,,,2,0,Completed,1.3,3.4,1.3,3.2,,,1.36,3.4,1.37,3.45,1.33,3.28
+27,Istanbul,Istanbul Open,02/05/17,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Coric B.,84,54,635,870,6,3,6,7,7,5,,,,,2,1,Completed,3,1.36,2.95,1.35,,,3.09,1.42,3.29,1.42,2.98,1.38
+27,Istanbul,Istanbul Open,03/05/17,ATP250,Outdoor,Clay,2nd Round,3,Tomic B.,Dutra Silva R.,40,401,980,106,7,5,6,3,,,,,,,2,0,Completed,2.5,1.5,2.4,1.5,,,2.5,1.6,2.75,1.6,2.55,1.5
+27,Istanbul,Istanbul Open,03/05/17,ATP250,Outdoor,Clay,2nd Round,3,Cilic M.,Dzumhur D.,8,92,3565,580,6,3,6,2,,,,,,,2,0,Completed,1.28,3.5,1.3,3.2,,,1.36,3.44,1.37,3.7,1.31,3.4
+27,Istanbul,Istanbul Open,03/05/17,ATP250,Outdoor,Clay,2nd Round,3,Darcis S.,Vesely J.,49,59,901,828,6,2,6,1,,,,,,,2,0,Completed,2.37,1.53,2.35,1.53,,,2.44,1.63,2.5,1.63,2.37,1.57
+27,Istanbul,Istanbul Open,03/05/17,ATP250,Outdoor,Clay,2nd Round,3,Raonic M.,Bedene A.,6,58,4165,863,6,7,6,3,7,6,,,,,2,1,Completed,1.36,3,1.37,2.85,,,1.43,3.05,1.43,3.08,1.39,2.93
+27,Istanbul,Istanbul Open,04/05/17,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Thompson J.,46,91,912,588,6,1,6,3,,,,,,,2,0,Completed,1.2,4.33,1.18,4.3,,,1.2,5.24,1.23,5.3,1.2,4.52
+27,Istanbul,Istanbul Open,04/05/17,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Youzhny M.,84,88,635,620,3,6,6,0,6,3,,,,,2,1,Completed,1.4,2.75,1.35,2.95,,,1.38,3.35,1.45,3.35,1.39,2.97
+27,Istanbul,Istanbul Open,04/05/17,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Lorenzi P.,153,35,379,1120,6,4,6,3,,,,,,,2,0,Completed,2.37,1.53,2.3,1.55,,,2.32,1.68,2.4,1.71,2.28,1.62
+27,Istanbul,Istanbul Open,04/05/17,ATP250,Outdoor,Clay,2nd Round,3,Troicki V.,Khachanov K.,38,42,1055,937,6,4,7,6,,,,,,,2,0,Completed,2.25,1.57,2.2,1.6,,,2.27,1.71,2.4,1.74,2.23,1.65
+27,Istanbul,Istanbul Open,05/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Schwartzman D.,Lajovic D.,46,84,912,635,7,5,6,2,,,,,,,2,0,Completed,1.28,3.75,1.27,3.45,,,1.32,3.84,1.36,3.85,1.29,3.59
+27,Istanbul,Istanbul Open,05/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Cilic M.,Darcis S.,8,49,3565,901,6,1,6,1,,,,,,,2,0,Completed,1.25,4,1.25,3.6,,,1.31,3.91,1.31,4,1.27,3.76
+27,Istanbul,Istanbul Open,05/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Raonic M.,Tomic B.,6,40,4165,980,7,6,7,6,,,,,,,2,0,Completed,1.14,5.5,1.14,5,,,1.19,5.53,1.19,5.8,1.16,5.26
+27,Istanbul,Istanbul Open,05/05/17,ATP250,Outdoor,Clay,Quarterfinals,3,Troicki V.,Djere L.,38,153,1055,379,6,2,2,3,,,,,,,1,0,Retired,1.61,2.3,1.6,2.2,,,1.69,2.34,1.73,2.35,1.64,2.25
+27,Istanbul,Istanbul Open,06/05/17,ATP250,Outdoor,Clay,Semifinals,3,Cilic M.,Schwartzman D.,8,46,3565,912,6,1,7,6,,,,,,,2,0,Completed,1.61,2.3,1.57,2.25,,,1.68,2.35,1.68,2.4,1.62,2.29
+27,Istanbul,Istanbul Open,06/05/17,ATP250,Outdoor,Clay,Semifinals,3,Raonic M.,Troicki V.,6,38,4165,1055,6,2,6,3,,,,,,,2,0,Completed,1.28,3.75,1.27,3.45,,,1.32,3.79,1.35,3.85,1.29,3.59
+27,Istanbul,Istanbul Open,07/05/17,ATP250,Outdoor,Clay,The Final,3,Cilic M.,Raonic M.,8,6,3565,4165,7,6,6,3,,,,,,,2,0,Completed,2,1.8,1.9,1.8,,,2,1.93,2.06,1.93,1.96,1.85

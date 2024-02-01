@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+52,San Diego,San Diego Open,27/09/2021,ATP250,Outdoor,Hard,1st Round,3,Karatsev A.,Delbonis F.,24,44,2072,1420,6,1,7,5,,,,,,,2,0,Completed,1.25,4,1.31,3.73,1.31,4.33,1.24,3.93
+52,San Diego,San Diego Open,28/09/2021,ATP250,Outdoor,Hard,1st Round,3,Nakashima B.,Fognini F.,83,31,885,1744,6,7,6,1,7,5,,,,,2,1,Completed,1.53,2.5,1.56,2.59,1.64,2.66,1.54,2.45
+52,San Diego,San Diego Open,28/09/2021,ATP250,Outdoor,Hard,1st Round,3,Fritz T.,Caruso S.,39,128,1495,616,6,4,7,6,,,,,,,2,0,Completed,1.14,5.5,1.17,5.76,1.19,6.25,1.16,5.1
+52,San Diego,San Diego Open,28/09/2021,ATP250,Outdoor,Hard,1st Round,3,Sonego L.,Basilashvili N.,23,34,2097,1578,6,3,6,4,,,,,,,2,0,Completed,1.8,2,1.74,2.21,1.82,2.25,1.74,2.07
+52,San Diego,San Diego Open,28/09/2021,ATP250,Outdoor,Hard,1st Round,3,Korda S.,Paul T.,42,60,1459,1033,6,3,5,7,6,1,,,,,2,1,Completed,1.53,2.5,1.48,2.84,1.55,2.84,1.48,2.63
+52,San Diego,San Diego Open,28/09/2021,ATP250,Outdoor,Hard,1st Round,3,Norrie C.,Koepfer D.,28,66,1930,1015,6,2,7,5,,,,,,,2,0,Completed,1.53,2.5,1.51,2.73,1.55,2.81,1.51,2.54
+52,San Diego,San Diego Open,28/09/2021,ATP250,Outdoor,Hard,1st Round,3,Dimitrov G.,Fucsovics M.,29,41,1801,1459,6,3,1,6,7,5,,,,,2,1,Completed,2,1.8,2.05,1.85,2.15,1.85,2.01,1.78
+52,San Diego,San Diego Open,29/09/2021,ATP250,Outdoor,Hard,1st Round,3,Harris L.,Eubanks C.,32,195,1677,349,3,6,6,1,6,4,,,,,2,1,Completed,1.22,4.33,1.26,4.31,1.26,4.5,1.23,4.08
+52,San Diego,San Diego Open,29/09/2021,ATP250,Outdoor,Hard,1st Round,3,Murray A.,Kudla D.,109,94,731,807,6,3,6,2,,,,,,,2,0,Completed,1.36,3.2,1.41,3.05,1.5,3.21,1.4,2.91
+52,San Diego,San Diego Open,29/09/2021,ATP250,Outdoor,Hard,1st Round,3,Schwartzman D.,Gaio F.,15,154,2800,461,6,2,6,3,,,,,,,2,0,Completed,1.16,5,1.24,4.51,1.24,5.75,1.18,4.77
+52,San Diego,San Diego Open,29/09/2021,ATP250,Outdoor,Hard,1st Round,3,Evans D.,Anderson K.,22,69,2164,983,7,6,7,5,,,,,,,2,0,Completed,1.9,1.9,2.12,1.8,2.25,1.94,2.01,1.79
+52,San Diego,San Diego Open,29/09/2021,ATP250,Outdoor,Hard,1st Round,3,Hurkacz H.,Bolt A.,12,144,3333,530,7,6,6,1,,,,,,,2,0,Completed,1.22,4.33,1.19,5.22,1.27,5.22,1.2,4.4
+52,San Diego,San Diego Open,30/09/2021,ATP250,Outdoor,Hard,2nd Round,3,Rublev A.,Nakashima B.,5,83,6130,885,6,2,6,1,,,,,,,2,0,Completed,1.3,3.5,1.33,3.64,1.35,4.05,1.31,3.38
+52,San Diego,San Diego Open,30/09/2021,ATP250,Outdoor,Hard,2nd Round,3,Schwartzman D.,Harris L.,15,32,2800,1677,4,6,6,3,6,2,,,,,2,1,Completed,1.9,1.9,1.89,2.02,1.96,2.15,1.87,1.92
+52,San Diego,San Diego Open,30/09/2021,ATP250,Outdoor,Hard,2nd Round,3,Norrie C.,Evans D.,28,22,1930,2164,7,6,6,3,,,,,,,2,0,Completed,1.57,2.37,1.56,2.6,1.64,2.62,1.55,2.42
+52,San Diego,San Diego Open,30/09/2021,ATP250,Outdoor,Hard,2nd Round,3,Karatsev A.,Hurkacz H.,24,12,2072,3333,5,7,6,4,6,2,,,,,2,1,Completed,2.75,1.44,2.98,1.45,2.98,1.53,2.69,1.46
+52,San Diego,San Diego Open,30/09/2021,ATP250,Outdoor,Hard,2nd Round,3,Shapovalov D.,Fritz T.,13,39,3265,1495,7,6,6,2,,,,,,,2,0,Completed,1.61,2.3,1.71,2.28,1.74,2.38,1.63,2.26
+52,San Diego,San Diego Open,30/09/2021,ATP250,Outdoor,Hard,2nd Round,3,Sonego L.,Korda S.,23,42,2097,1459,6,4,6,3,,,,,,,2,0,Completed,2.3,1.61,2.19,1.76,2.35,1.8,2.15,1.69
+52,San Diego,San Diego Open,01/10/2021,ATP250,Outdoor,Hard,2nd Round,3,Ruud C.,Murray A.,10,109,3440,731,7,5,6,4,,,,,,,2,0,Completed,1.72,2.1,1.71,2.26,1.78,2.35,1.69,2.14
+52,San Diego,San Diego Open,01/10/2021,ATP250,Outdoor,Hard,2nd Round,3,Dimitrov G.,Holmgren A.,29,901,1801,16,6,1,6,1,,,,,,,2,0,Completed,1.1,7,1.06,12.01,1.11,12.01,1.07,8.92
+52,San Diego,San Diego Open,01/10/2021,ATP250,Outdoor,Hard,Quarterfinals,3,Norrie C.,Shapovalov D.,28,13,1930,3265,6,3,6,1,,,,,,,2,0,Completed,2,1.8,2.29,1.7,2.29,1.9,2.06,1.76
+52,San Diego,San Diego Open,01/10/2021,ATP250,Outdoor,Hard,Quarterfinals,3,Rublev A.,Schwartzman D.,5,15,6130,2800,6,1,7,5,,,,,,,2,0,Completed,1.3,3.5,1.33,3.69,1.34,4.03,1.3,3.52
+52,San Diego,San Diego Open,02/10/2021,ATP250,Outdoor,Hard,Quarterfinals,3,Ruud C.,Sonego L.,10,23,3440,2097,6,1,6,4,,,,,,,2,0,Completed,1.53,2.5,1.51,2.75,1.55,2.92,1.5,2.6
+52,San Diego,San Diego Open,02/10/2021,ATP250,Outdoor,Hard,Quarterfinals,3,Dimitrov G.,Karatsev A.,29,24,1801,2072,6,1,1,6,6,2,,,,,2,1,Completed,2.2,1.66,2.22,1.74,2.3,1.74,2.16,1.69
+52,San Diego,San Diego Open,02/10/2021,ATP250,Outdoor,Hard,Semifinals,3,Norrie C.,Rublev A.,28,5,1930,6130,3,6,6,3,6,4,,,,,2,1,Completed,3.4,1.33,3.5,1.35,3.66,1.35,3.33,1.32
+52,San Diego,San Diego Open,03/10/2021,ATP250,Outdoor,Hard,Semifinals,3,Ruud C.,Dimitrov G.,10,29,3440,1801,6,4,4,6,6,4,,,,,2,1,Completed,1.44,2.75,1.45,2.97,1.53,3.1,1.43,2.82
+52,San Diego,San Diego Open,04/10/2021,ATP250,Outdoor,Hard,The Final,3,Ruud C.,Norrie C.,10,28,3440,1930,6,0,6,2,,,,,,,2,0,Completed,1.9,1.9,1.99,1.97,2.04,2,1.91,1.88

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Balcells J.,Zabaleta M.,62,77,6,4,7,6,,,,,,,2,0,Completed,2.05,1.67,2.05,1.6,1.9,1.6,2.1,1.667
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Blanco G.,Haas T.,70,22,6,3,7,6,,,,,,,2,0,Completed,2.5,1.45,2.4,1.42,2.3,1.4,2.75,1.4
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Bruguera S.,Cermak F.,72,251,4,3,,,,,,,,,0,0,Retired,,,,,,,,
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Calleri A.,Clavet F.,78,33,6,2,7,6,,,,,,,2,0,Completed,2.1,1.65,1.95,1.65,1.75,1.75,2,1.727
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Coria G.,Wassen R.,30,260,6,4,6,2,,,,,,,2,0,Completed,,,1.2,3.5,,,,
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Dosedel S.,Puentes G.,110,103,7,5,7,5,,,,,,,2,0,Completed,1.62,2.15,1.65,1.95,1.65,1.85,1.727,2
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Kiefer N.,Kucera K.,37,89,6,4,6,2,,,,,,,2,0,Completed,2.5,1.45,2.15,1.52,2.2,1.45,2.375,1.533
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Knippschild J.,Lopez F.,96,208,6,7,7,5,6,4,,,,,2,1,Completed,1.8,1.9,1.75,1.85,1.7,1.8,1.667,2.1
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Kratochvil M.,Calatrava A.,66,47,6,4,6,7,6,2,,,,,2,1,Completed,1.75,1.95,1.67,1.9,1.6,1.9,1.615,2.2
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Llodra M.,Youzhny M.,121,76,6,2,4,6,6,3,,,,,2,1,Completed,3,1.33,2.45,1.4,2.3,1.4,2.875,1.364
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Mantilla F.,Pavel A.,79,21,6,4,6,7,7,5,,,,,2,1,Completed,1.45,2.5,1.5,2.2,1.55,2,1.533,2.375
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Marin J.A.,Portas A.,140,41,6,1,6,2,,,,,,,2,0,Completed,2.3,1.53,2.35,1.45,2.3,1.4,2.625,1.444
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Martin A.,Massu N.,55,67,4,6,6,3,7,6,,,,,2,1,Completed,1.5,2.4,1.55,2.1,1.6,1.9,1.571,2.25
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Moya C.,Puerta M.,24,56,6,3,1,0,,,,,,,1,0,Retired,1.3,3.2,1.25,3.15,1.25,3,1.3,3.2
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Robredo T.,Montanes A.,83,127,6,0,6,2,,,,,,,2,0,Completed,1.45,2.5,1.35,2.6,1.45,2.2,1.4,2.75
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,1st Round,3,Vicente F.,Levy H.,42,50,6,3,4,6,6,2,,,,,2,1,Completed,1.45,2.5,1.4,2.45,1.4,2.3,1.533,2.375
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Balcells J.,Mantilla F.,62,79,6,4,6,2,,,,,,,2,0,Completed,2.7,1.4,2.4,1.42,2.3,1.4,2.625,1.444
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Calleri A.,Llodra M.,78,121,6,3,6,1,,,,,,,2,0,Completed,1.42,2.6,1.4,2.45,1.35,2.5,1.4,2.75
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Coria G.,Robredo T.,30,83,6,0,7,5,,,,,,,2,0,Completed,1.67,2.05,1.65,1.95,1.75,1.75,1.8,1.909
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Dosedel S.,Vicente F.,110,42,6,3,0,6,6,1,,,,,2,1,Completed,1.9,1.8,1.95,1.65,1.85,1.65,2,1.727
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Kiefer N.,Kratochvil M.,37,66,6,1,6,4,,,,,,,2,0,Completed,1.8,1.9,1.75,1.8,1.75,1.75,1.909,1.8
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Marin J.A.,Knippschild J.,140,96,6,4,1,6,6,4,,,,,2,1,Completed,1.65,2.1,1.7,1.85,1.6,1.9,1.727,2
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Martin A.,Blanco G.,55,70,6,0,4,6,6,2,,,,,2,1,Completed,1.85,1.85,1.6,2,1.8,1.7,1.833,1.833
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,2nd Round,3,Moya C.,Bruguera S.,24,72,6,4,4,6,6,3,,,,,2,1,Completed,1.35,2.9,1.32,2.75,1.3,2.7,1.3,3.2
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,Quarterfinals,3,Balcells J.,Calleri A.,62,78,7,6,6,4,,,,,,,2,0,Completed,2.1,1.67,1.9,1.65,1.9,1.6,2,1.727
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,Quarterfinals,3,Coria G.,Marin J.A.,30,140,3,6,7,6,6,1,,,,,2,1,Completed,1.28,3.3,1.3,2.8,1.25,3,1.25,3.5
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,Quarterfinals,3,Martin A.,Dosedel S.,55,110,6,2,6,4,,,,,,,2,0,Completed,1.65,2.1,1.6,2,1.5,2.1,1.615,2.2
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,Quarterfinals,3,Moya C.,Kiefer N.,24,37,6,4,6,2,,,,,,,2,0,Completed,1.5,2.4,1.45,2.3,1.5,2.1,1.444,2.625
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,Semifinals,3,Coria G.,Balcells J.,30,62,6,4,3,6,7,5,,,,,2,1,Completed,1.55,2.3,1.55,2,1.5,2.1,1.571,2.25
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,Semifinals,3,Martin A.,Moya C.,55,24,6,3,6,3,,,,,,,2,0,Completed,3.25,1.3,2.85,1.3,2.7,1.3,3,1.333
+28,Mallorca,Mallorca Open,30/04/01,International,Outdoor,Clay,The Final,3,Martin A.,Coria G.,55,30,6,3,3,6,6,2,,,,,2,1,Completed,2.35,1.53,2.25,1.5,2,1.55,2.375,1.533

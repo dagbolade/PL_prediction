@@ -1,0 +1,31 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+32,Halle,Gerry Weber Open,12/06/06,International,Outdoor,Grass,1st Round,3,Vliegen K.,Wawrinka S.,42,66,822,598,6,2,6,3,,,,,,,2,0,Completed,1.66,2.1,1.67,2.15,1.65,2.15,1.658,2.42,1.72,2.05
+32,Halle,Gerry Weber Open,12/06/06,International,Outdoor,Grass,1st Round,3,Novak J.,Pashanski B.,111,68,385,582,7,5,6,2,,,,,,,2,0,Completed,,,1.35,3.1,,,1.403,3.28,,
+32,Halle,Gerry Weber Open,12/06/06,International,Outdoor,Grass,1st Round,3,Nieminen J.,Kohlschreiber P.,18,87,1390,459,7,6,6,4,,,,,,,2,0,Completed,1.61,2.2,1.67,2.15,1.75,2,1.82,2.12,1.7,2.1
+32,Halle,Gerry Weber Open,12/06/06,International,Outdoor,Grass,1st Round,3,Seppi A.,Sanguinetti D.,72,64,555,610,7,6,7,5,,,,,,,2,0,Completed,2.5,1.5,2.7,1.45,2.45,1.5,2.68,1.562,2.85,1.4
+32,Halle,Gerry Weber Open,12/06/06,International,Outdoor,Grass,1st Round,3,Pavel A.,Baghdatis M.,80,17,494,1429,7,6,6,3,,,,,,,2,0,Completed,2.62,1.44,2.3,1.6,2.35,1.55,2.78,1.524,2.5,1.5
+32,Halle,Gerry Weber Open,12/06/06,International,Outdoor,Grass,1st Round,3,Soderling R.,Schuettler R.,50,77,748,518,6,3,7,6,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,,,1.476,2.9,,
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Gasquet R.,Bastl G.,51,152,745,280,6,2,6,3,,,,,,,2,0,Completed,1.25,3.5,1.28,3.55,1.2,4.25,1.262,4.51,1.28,3.5
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Santoro F.,Youzhny M.,49,38,777,830,7,6,6,2,,,,,,,2,0,Completed,2.1,1.66,2,1.77,2.1,1.7,2.09,1.84,1.96,1.8
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Chiudinelli M.,Rochus C.,450,67,59,585,6,3,6,4,,,,,,,2,0,Completed,1.57,2.25,1.65,2.2,1.6,2.25,1.69,2.35,1.61,2.25
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Safin M.,Serra F.,90,44,445,806,7,6,6,3,,,,,,,2,0,Completed,1.33,3,1.35,3.1,1.34,3.12,1.333,3.7,1.33,3.15
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Mayer F.,Phau B.,69,61,578,629,7,5,1,6,7,6,,,,,2,1,Completed,1.44,2.62,1.55,2.4,1.415,2.75,1.571,2.65,1.5,2.5
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Haas T.,Simon G.,26,47,1175,791,6,4,7,5,,,,,,,2,0,Completed,1.16,4.5,1.2,4.4,1.2,4.25,1.214,5.28,1.2,4.3
+32,Halle,Gerry Weber Open,13/06/06,International,Outdoor,Grass,1st Round,3,Berdych T.,Becker B.,15,173,1505,242,6,4,6,3,,,,,,,2,0,Completed,1.22,3.75,1.3,3.4,1.28,3.46,1.27,4.41,1.25,3.75
+32,Halle,Gerry Weber Open,14/06/06,International,Outdoor,Grass,1st Round,3,Clement A.,Pless K.,59,140,650,311,7,5,6,3,,,,,,,2,0,Completed,1.33,3,1.4,2.85,,,1.431,3.12,1.33,3.18
+32,Halle,Gerry Weber Open,14/06/06,International,Outdoor,Grass,1st Round,3,Federer R.,Bopanna R.,1,267,7035,134,7,6,6,2,,,,,,,2,0,Completed,1,17,1.01,14,1.01,12.5,1.013,56,1.01,40
+32,Halle,Gerry Weber Open,14/06/06,International,Outdoor,Grass,2nd Round,3,Vliegen K.,Chiudinelli M.,42,450,822,59,7,6,6,0,,,,,,,2,0,Completed,1.36,3,1.4,2.85,1.35,3.1,1.435,3.1,1.43,2.72
+32,Halle,Gerry Weber Open,14/06/06,International,Outdoor,Grass,2nd Round,3,Mayer F.,Nieminen J.,69,18,578,1390,6,4,3,6,6,4,,,,,2,1,Completed,2.25,1.57,2.4,1.55,2.25,1.6,2.6,1.588,2.27,1.6
+32,Halle,Gerry Weber Open,15/06/06,International,Outdoor,Grass,2nd Round,3,Santoro F.,Clement A.,49,59,777,650,6,4,7,6,,,,,,,2,0,Completed,1.61,2.2,1.77,2,1.7,2.1,1.813,2.13,1.8,1.96
+32,Halle,Gerry Weber Open,15/06/06,International,Outdoor,Grass,2nd Round,3,Soderling R.,Pavel A.,50,80,748,494,4,6,6,3,6,0,,,,,2,1,Completed,1.36,3,1.4,2.85,1.45,2.6,1.433,3.11,1.45,2.66
+32,Halle,Gerry Weber Open,15/06/06,International,Outdoor,Grass,2nd Round,3,Berdych T.,Novak J.,15,111,1505,385,6,3,6,7,7,5,,,,,2,1,Completed,1.28,3.5,1.28,3.55,1.21,4.06,1.312,3.91,1.35,3.08
+32,Halle,Gerry Weber Open,15/06/06,International,Outdoor,Grass,2nd Round,3,Federer R.,Gasquet R.,1,51,7035,745,7,6,6,7,6,4,,,,,2,1,Completed,1.05,8.5,1.03,11,1.07,7.19,1.059,14.25,1.07,7.5
+32,Halle,Gerry Weber Open,15/06/06,International,Outdoor,Grass,2nd Round,3,Rochus O.,Safin M.,29,90,1120,445,4,6,6,4,6,1,,,,,2,1,Completed,2.2,1.61,2.05,1.75,2.25,1.6,2.25,1.741,2.1,1.7
+32,Halle,Gerry Weber Open,15/06/06,International,Outdoor,Grass,2nd Round,3,Haas T.,Seppi A.,26,72,1175,555,6,1,6,2,,,,,,,2,0,Completed,1.22,4,1.22,4.1,1.28,3.46,1.287,4.18,1.25,3.75
+32,Halle,Gerry Weber Open,16/06/06,International,Outdoor,Grass,Quarterfinals,3,Berdych T.,Santoro F.,15,49,1505,777,7,5,7,6,,,,,,,2,0,Completed,1.44,2.62,1.53,2.45,1.48,2.53,1.495,2.82,1.55,2.38
+32,Halle,Gerry Weber Open,16/06/06,International,Outdoor,Grass,Quarterfinals,3,Federer R.,Rochus O.,1,29,7035,1120,6,7,7,6,7,6,,,,,2,1,Completed,1.03,10,1.04,10,1.04,9.25,1.056,14,1.06,8.7
+32,Halle,Gerry Weber Open,16/06/06,International,Outdoor,Grass,Quarterfinals,3,Haas T.,Soderling R.,26,50,1175,748,7,5,6,4,,,,,,,2,0,Completed,1.5,2.5,1.65,2.2,1.55,2.35,1.568,2.66,1.62,2.24
+32,Halle,Gerry Weber Open,16/06/06,International,Outdoor,Grass,Quarterfinals,3,Vliegen K.,Mayer F.,42,69,822,578,6,3,6,7,6,4,,,,,2,1,Completed,1.72,2,1.77,2,1.75,2.05,1.662,2.41,1.83,1.92
+32,Halle,Gerry Weber Open,17/06/06,International,Outdoor,Grass,Semifinals,3,Federer R.,Haas T.,1,26,7035,1175,6,4,6,7,6,3,,,,,2,1,Completed,1.1,6.5,1.11,6.25,1.16,4.79,1.172,6.32,1.1,6.4
+32,Halle,Gerry Weber Open,17/06/06,International,Outdoor,Grass,Semifinals,3,Berdych T.,Vliegen K.,15,42,1505,822,6,3,6,2,,,,,,,2,0,Completed,1.39,2.75,1.42,2.8,1.4,2.85,1.4,3.3,1.42,2.75
+32,Halle,Gerry Weber Open,18/06/06,International,Outdoor,Grass,The Final,3,Federer R.,Berdych T.,1,15,7035,1505,6,0,6,7,6,2,,,,,2,1,Completed,1.08,7,1.1,6.5,1.1,6.75,1.111,8.75,1.12,6.25

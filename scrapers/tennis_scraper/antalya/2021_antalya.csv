@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+1,Antalya,Antalya Open,07/01/2021,ATP250,Indoor,Hard,1st Round,3,Basilashvili N.,Arnaboldi A.,40,267,1395,206,4,6,7,5,6,1,,,,,2,1,Completed,1.5,2.5,1.61,2.44,1.67,2.56,1.56,2.42
+1,Antalya,Antalya Open,07/01/2021,ATP250,Indoor,Hard,1st Round,3,Celikbilek A.,Zuk K.,309,262,150,209,7,6,7,5,,,,,,,2,0,Completed,2.5,1.5,2.63,1.54,2.7,1.55,2.57,1.5
+1,Antalya,Antalya Open,07/01/2021,ATP250,Indoor,Hard,1st Round,3,Ruusuvuori E.,Vesely J.,87,67,806,928,6,3,7,6,,,,,,,2,0,Completed,1.5,2.5,1.56,2.58,1.63,3.03,1.52,2.53
+1,Antalya,Antalya Open,07/01/2021,ATP250,Indoor,Hard,1st Round,3,Bublik A.,Caruso S.,49,76,1090,858,6,3,6,3,,,,,,,2,0,Completed,1.61,2.2,1.81,2.09,1.87,2.3,1.72,2.11
+1,Antalya,Antalya Open,07/01/2021,ATP250,Indoor,Hard,1st Round,3,Goffin D.,Herbert P.H.,16,83,2555,822,3,6,7,5,6,0,,,,,2,1,Completed,1.4,2.75,1.46,2.92,1.5,3,1.44,2.78
+1,Antalya,Antalya Open,07/01/2021,ATP250,Indoor,Hard,1st Round,3,Travaglia S.,Kecmanovic M.,75,42,869,1328,1,6,6,4,6,0,,,,,2,1,Completed,2.62,1.44,2.8,1.49,2.85,1.5,2.71,1.45
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Struff J.L.,Kotov P.,37,269,1450,205,6,4,6,3,,,,,,,2,0,Completed,1.22,4,1.24,4.44,1.27,4.6,1.22,4.16
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Lamasine T.,Gerasimov E.,271,78,204,840,7,6,6,2,,,,,,,2,0,Completed,5,1.16,5.74,1.17,5.74,1.22,5.12,1.16
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Andreev A.,Ilhan M.,564,571,52,51,6,4,6,3,,,,,,,2,0,Completed,1.2,4.33,1.24,4.53,1.25,4.65,1.22,4.24
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Grenier H.,Molcan A.,250,313,220,145,7,5,6,4,,,,,,,2,0,Completed,1.8,1.9,2,1.89,2.05,2,1.87,1.92
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Berrettini M.,Kirkin E.,10,446,3085,83,6,0,6,4,,,,,,,2,0,Completed,1.03,15,1.03,16.3,1.04,24.25,1.02,13.94
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Chardy J.,Albot R.,72,85,880,817,6,3,6,4,,,,,,,2,0,Completed,2,1.72,2.18,1.75,2.2,1.8,2.11,1.71
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,De Minaur A.,Jaziri M.,23,249,1860,220,6,2,6,1,,,,,,,2,0,Completed,1.04,13,1.04,14.8,1.05,18.7,1.03,12.68
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Kuhn N.,Bachinger M.,253,279,219,189,3,6,6,3,4,1,,,,,1,1,Retired,2.25,1.57,2.48,1.6,2.7,1.63,2.42,1.56
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Fognini F.,Vrbensky M.,17,311,2400,148,6,4,7,6,,,,,,,2,0,Completed,1.4,2.75,1.49,2.81,1.49,3,1.43,2.8
+1,Antalya,Antalya Open,08/01/2021,ATP250,Indoor,Hard,1st Round,3,Kuzmanov D.,Djere L.,298,55,166,1068,6,1,3,2,,,,,,,1,0,Retired,2.62,1.44,2.7,1.52,2.73,1.57,2.6,1.49
+1,Antalya,Antalya Open,09/01/2021,ATP250,Indoor,Hard,2nd Round,3,De Minaur A.,Andreev A.,23,564,1860,52,6,3,6,1,,,,,,,2,0,Completed,1.08,8,1.08,10.12,1.09,11,1.07,8.57
+1,Antalya,Antalya Open,09/01/2021,ATP250,Indoor,Hard,2nd Round,3,Basilashvili N.,Celikbilek A.,40,309,1395,150,7,6,6,4,,,,,,,2,0,Completed,1.4,2.75,1.45,3,1.45,3.12,1.41,2.87
+1,Antalya,Antalya Open,09/01/2021,ATP250,Indoor,Hard,2nd Round,3,Travaglia S.,Ruusuvuori E.,75,87,869,806,7,6,6,3,,,,,,,2,0,Completed,2.62,1.44,2.76,1.51,2.76,1.54,2.61,1.49
+1,Antalya,Antalya Open,09/01/2021,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Kuhn N.,16,253,2555,219,6,0,6,2,,,,,,,2,0,Completed,1.11,6.5,1.11,7.84,1.13,7.84,1.1,6.82
+1,Antalya,Antalya Open,10/01/2021,ATP250,Indoor,Hard,2nd Round,3,Chardy J.,Fognini F.,72,17,880,2400,7,6,6,7,7,6,,,,,2,1,Completed,2.2,1.61,2.31,1.69,2.31,1.82,2.2,1.66
+1,Antalya,Antalya Open,10/01/2021,ATP250,Indoor,Hard,2nd Round,3,Bublik A.,Lamasine T.,49,271,1090,204,6,2,6,4,,,,,,,2,0,Completed,1.18,4.5,1.22,4.81,1.24,4.81,1.21,4.35
+1,Antalya,Antalya Open,10/01/2021,ATP250,Indoor,Hard,2nd Round,3,Struff J.L.,Grenier H.,37,250,1450,220,,,,,,,,,,,,,Walkover,1.18,4.5,1.21,5.02,1.22,5.02,1.2,4.54
+1,Antalya,Antalya Open,10/01/2021,ATP250,Indoor,Hard,2nd Round,3,Berrettini M.,Kuzmanov D.,10,298,3085,166,6,2,6,3,,,,,,,2,0,Completed,1.07,9,1.09,9.04,1.09,11,1.07,8.72
+1,Antalya,Antalya Open,11/01/2021,ATP250,Indoor,Hard,Quarterfinals,3,Goffin D.,Travaglia S.,16,75,2555,869,6,3,6,2,,,,,,,2,0,Completed,1.33,3.4,1.36,3.43,1.38,3.47,1.34,3.25
+1,Antalya,Antalya Open,11/01/2021,ATP250,Indoor,Hard,Quarterfinals,3,Chardy J.,Struff J.L.,72,37,880,1450,4,6,6,2,7,6,,,,,2,1,Completed,2.62,1.5,2.86,1.48,2.86,1.53,2.65,1.48
+1,Antalya,Antalya Open,11/01/2021,ATP250,Indoor,Hard,Quarterfinals,3,Bublik A.,Berrettini M.,49,10,1090,3085,7,6,6,4,,,,,,,2,0,Completed,4,1.25,4.05,1.29,4.05,1.37,3.49,1.3
+1,Antalya,Antalya Open,11/01/2021,ATP250,Indoor,Hard,Quarterfinals,3,De Minaur A.,Basilashvili N.,23,40,1860,1395,6,2,6,4,,,,,,,2,0,Completed,1.11,6.5,1.12,7.56,1.13,7.7,1.11,6.76
+1,Antalya,Antalya Open,12/01/2021,ATP250,Indoor,Hard,Semifinals,3,De Minaur A.,Goffin D.,23,16,1860,2555,6,4,3,6,6,2,,,,,2,1,Completed,1.53,2.5,1.6,2.51,1.62,2.55,1.57,2.41
+1,Antalya,Antalya Open,12/01/2021,ATP250,Indoor,Hard,Semifinals,3,Bublik A.,Chardy J.,49,72,1090,880,6,4,6,7,6,3,,,,,2,1,Completed,1.4,3,1.5,2.8,1.54,3,1.44,2.8
+1,Antalya,Antalya Open,13/01/2021,ATP250,Indoor,Hard,The Final,3,De Minaur A.,Bublik A.,23,49,1860,1090,,2,,,,,,,,,0,,Retired,1.2,4.5,1.22,4.87,1.23,5.3,1.21,4.43

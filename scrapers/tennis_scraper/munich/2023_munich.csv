@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+26,Munich,BMW Open,17/04/2023,ATP250,Outdoor,Clay,1st Round,3,Giron M.,Carballes Baena R.,68,53,756,867,6,1,5,7,6,2,,,,,2,1,Completed,2.75,1.44,2.79,1.49,2.9,1.49,2.71,1.45
+26,Munich,BMW Open,17/04/2023,ATP250,Outdoor,Clay,1st Round,3,Cobolli F.,Thompson J.,208,91,277,655,7,5,6,1,,,,,,,2,0,Completed,1.62,2.3,1.73,2.22,1.73,2.4,1.62,2.25
+26,Munich,BMW Open,17/04/2023,ATP250,Outdoor,Clay,1st Round,3,Hanfmann Y.,Monteiro T.,112,89,534,665,6,7,7,6,6,2,,,,,2,1,Completed,1.53,2.5,1.58,2.53,1.58,2.63,1.54,2.45
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Otte O.,Baez S.,94,30,631,1190,6,3,7,5,,,,,,,2,0,Completed,2.75,1.44,2.97,1.44,3.01,1.46,2.83,1.42
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Fucsovics M.,Rehberg M.,75,412,722,112,4,6,7,6,6,3,,,,,2,1,Completed,1.07,9,1.09,9.47,1.09,9.5,1.07,8.36
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Huesler M.A.,Edmund K.,63,509,780,72,7,6,4,6,6,3,,,,,2,1,Completed,1.36,3.2,1.4,3.17,1.42,3.27,1.36,3.1
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,O Connell C.,Humbert U.,82,72,700,738,6,4,6,4,,,,,,,2,0,Completed,1.91,1.91,1.93,1.96,2.1,1.96,1.91,1.88
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Ritschard A.,Struff J.L.,209,64,274,779,7,5,7,5,,,,,,,2,0,Completed,6,1.13,6.97,1.13,7.09,1.13,6.3,1.12
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Sonego L.,Halys Q.,45,65,915,771,3,6,7,6,7,5,,,,,2,1,Completed,1.73,2.1,1.78,2.14,1.8,2.14,1.75,2.06
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Thiem D.,Lestienne C.,101,60,580,798,6,3,,,,,,,,,1,0,Retired,1.22,4.33,1.22,4.71,1.25,5.1,1.21,4.34
+26,Munich,BMW Open,18/04/2023,ATP250,Outdoor,Clay,1st Round,3,Garin C.,Topo M.,86,478,678,82,6,4,6,2,,,,,,,2,0,Completed,1.13,6,1.14,6.77,1.15,6.77,1.13,5.89
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,1st Round,3,Karatsev A.,Altmaier D.,129,93,465,640,4,6,7,6,6,2,,,,,2,1,Completed,2,1.8,2.17,1.76,2.24,1.85,2.09,1.73
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Cobolli F.,Otte O.,208,94,277,631,6,0,3,6,6,3,,,,,2,1,Completed,2.75,1.44,2.56,1.58,2.78,1.58,2.56,1.5
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Giron M.,Ritschard A.,68,209,756,274,4,6,6,3,6,3,,,,,2,1,Completed,1.44,2.75,1.53,2.68,1.55,2.78,1.48,2.63
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Rune H.,Hanfmann Y.,7,112,3865,534,6,3,6,4,,,,,,,2,0,Completed,1.29,3.75,1.32,3.76,1.32,4.33,1.27,3.65
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Garin C.,Sonego L.,86,45,678,915,6,3,7,6,,,,,,,2,0,Completed,1.8,2,1.85,2.07,1.85,2.15,1.77,2.03
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,O Connell C.,Zverev A.,82,16,700,2140,7,6,6,4,,,,,,,2,0,Completed,5.5,1.14,5.57,1.18,5.75,1.18,5.22,1.15
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Van De Zandschulp B.,Karatsev A.,29,129,1250,465,6,2,6,0,,,,,,,2,0,Completed,1.44,2.75,1.48,2.84,1.5,2.85,1.46,2.68
+26,Munich,BMW Open,20/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Fritz T.,Fucsovics M.,10,75,3245,722,4,6,6,3,6,3,,,,,2,1,Completed,1.3,3.5,1.36,3.49,1.36,3.5,1.32,3.34
+26,Munich,BMW Open,21/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Huesler M.A.,101,63,580,780,5,7,6,4,6,4,,,,,2,1,Completed,1.33,3.4,1.39,3.3,1.39,3.4,1.35,3.2
+26,Munich,BMW Open,21/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,O Connell C.,Cobolli F.,82,208,700,277,7,6,4,6,6,3,,,,,2,1,Completed,1.44,2.75,1.52,2.73,1.52,2.85,1.47,2.65
+26,Munich,BMW Open,21/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Rune H.,Garin C.,7,86,3865,678,6,2,6,4,,,,,,,2,0,Completed,1.25,4,1.29,4.05,1.32,4.05,1.26,3.83
+26,Munich,BMW Open,21/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Fritz T.,Thiem D.,10,101,3245,580,6,3,6,4,,,,,,,2,0,Completed,1.53,2.5,1.45,2.96,1.54,3.03,1.45,2.72
+26,Munich,BMW Open,21/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Van De Zandschulp B.,Giron M.,29,68,1250,756,7,6,6,3,,,,,,,2,0,Completed,1.4,3,1.42,3.11,1.45,3.15,1.38,2.98
+26,Munich,BMW Open,22/04/2023,ATP250,Outdoor,Clay,Semifinals,3,Rune H.,O Connell C.,7,82,3865,700,6,3,6,2,,,,,,,2,0,Completed,1.2,4.5,1.18,5.62,1.21,5.62,1.17,4.9
+26,Munich,BMW Open,22/04/2023,ATP250,Outdoor,Clay,Semifinals,3,Van De Zandschulp B.,Fritz T.,29,10,1250,3245,6,4,7,6,,,,,,,2,0,Completed,2.75,1.44,2.79,1.5,2.8,1.73,2.68,1.46
+26,Munich,BMW Open,23/04/2023,ATP250,Outdoor,Clay,The Final,3,Rune H.,Van De Zandschulp B.,7,29,3865,1250,6,4,1,6,7,6,,,,,2,1,Completed,1.25,4,1.26,4.48,1.29,4.48,1.24,4.03

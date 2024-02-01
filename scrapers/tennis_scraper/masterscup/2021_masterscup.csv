@@ -1,0 +1,16 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+61,Turin,Masters Cup,14/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Medvedev D.,Hurkacz H.,2,9,7640,3706,6,7,6,3,6,4,,,,,2,1,Completed,1.2,4.5,1.25,4.44,1.26,5.45,1.21,4.35
+61,Turin,Masters Cup,14/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Berrettini M.,Zverev A.,7,3,4568,6540,6,7,0,1,,,,,,,0,1,Retired,3.2,1.36,3.18,1.41,3.5,1.42,3.13,1.35
+61,Turin,Masters Cup,15/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Ruud C.,1,8,10940,3760,7,6,6,2,,,,,,,2,0,Completed,1.11,6.5,1.13,7.08,1.15,7.5,1.11,6.48
+61,Turin,Masters Cup,15/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Rublev A.,Tsitsipas S.,5,4,4950,6540,6,4,6,4,,,,,,,2,0,Completed,2.1,1.72,2.16,1.78,2.23,1.8,2.1,1.73
+61,Turin,Masters Cup,16/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Medvedev D.,Zverev A.,2,3,7640,6540,6,3,6,7,7,6,,,,,2,1,Completed,1.53,2.5,1.6,2.51,1.6,2.78,1.53,2.49
+61,Turin,Masters Cup,16/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Sinner J.,Hurkacz H.,11,9,3150,3706,6,2,6,2,,,,,,,2,0,Completed,1.8,2,1.74,2.2,1.85,2.2,1.77,2.04
+61,Turin,Masters Cup,17/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Rublev A.,1,5,10940,4950,6,3,6,2,,,,,,,2,0,Completed,1.22,4.33,1.22,4.95,1.24,5.1,1.21,4.37
+61,Turin,Masters Cup,17/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Ruud C.,Norrie C.,8,12,3760,2945,1,6,6,3,6,4,,,,,2,1,Completed,1.57,2.37,1.67,2.36,1.68,2.59,1.59,2.36
+61,Turin,Masters Cup,18/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Zverev A.,Hurkacz H.,3,9,6540,3706,6,2,6,4,,,,,,,2,0,Completed,1.22,4,1.25,4.4,1.25,4.85,1.21,4.32
+61,Turin,Masters Cup,18/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Medvedev D.,Sinner J.,2,11,7640,3150,6,0,6,7,7,6,,,,,2,1,Completed,1.4,2.75,1.45,2.97,1.47,3.25,1.39,2.98
+61,Turin,Masters Cup,19/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Ruud C.,Rublev A.,8,5,3760,4950,2,6,7,5,7,6,,,,,2,1,Completed,2.5,1.5,2.43,1.63,2.65,1.63,2.49,1.53
+61,Turin,Masters Cup,19/11/2021,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Norrie C.,1,12,10940,2945,6,2,6,1,,,,,,,2,0,Completed,1.14,5.5,1.12,7.71,1.16,7.71,1.12,6.27
+61,Turin,Masters Cup,20/11/2021,Masters Cup,Indoor,Hard,Semifinals,3,Medvedev D.,Ruud C.,2,8,7640,3760,6,4,6,2,,,,,,,2,0,Completed,1.14,5.5,1.14,6.74,1.18,7.4,1.13,5.83
+61,Turin,Masters Cup,20/11/2021,Masters Cup,Indoor,Hard,Semifinals,3,Zverev A.,Djokovic N.,3,1,6540,10940,7,6,4,6,6,3,,,,,2,1,Completed,3,1.4,3.09,1.43,3.32,1.45,2.99,1.39
+61,Turin,Masters Cup,21/11/2021,Masters Cup,Indoor,Hard,The Final,3,Zverev A.,Medvedev D.,3,2,6540,7640,6,4,6,4,,,,,,,2,0,Completed,2.5,1.53,2.44,1.62,2.65,1.63,2.44,1.56

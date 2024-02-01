@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Youzhny M.,Santoro F.,133,36,6,4,6,2,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Voltchkov V.,Vicente F.,62,44,7,5,4,6,6,3,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Gustafsson M.,Clavet F.,64,46,6,4,6,4,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Pozzi G.,Koubek S.,47,48,3,6,6,1,6,3,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Johansson T.,Portas A.,60,51,6,3,4,6,6,4,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Safin M.,Schuettler R.,2,55,6,4,6,4,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Burgsmuller L.,Damm M.,256,67,2,6,0,1,,,,,,,0,1,Retired
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Novak J.,Ivanisevic G.,45,124,3,6,6,3,6,4,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Bjorkman J.,Ketola T.,54,145,6,2,7,5,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Levy H.,Ruud C.,61,157,6,4,6,1,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Martin A.,Kroslak J.,87,163,6,7,6,3,6,4,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Rosset M.,Cherkasov A.,35,214,6,2,6,4,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Ilie A.,Phau B.,52,216,6,1,6,2,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Mirnyi M.,Pless K.,38,219,7,6,6,1,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Prinosil D.,Nestor D.,56,222,6,7,6,3,6,3,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,1st Round,3,Kafelnikov Y.,Golovanov D.,7,223,7,6,6,4,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Bjorkman J.,Mirnyi M.,54,38,6,3,3,6,6,1,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Burgsmuller L.,Novak J.,256,45,5,7,6,1,6,3,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Safin M.,Pozzi G.,2,47,6,1,7,5,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Voltchkov V.,Ilie A.,62,52,7,5,4,6,6,4,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Youzhny M.,Johansson T.,133,60,4,6,6,2,7,6,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Prinosil D.,Levy H.,56,61,6,3,6,0,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Rosset M.,Gustafsson M.,35,64,6,3,6,4,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,2nd Round,3,Kafelnikov Y.,Martin A.,7,87,6,3,6,1,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,Quarterfinals,3,Prinosil D.,Bjorkman J.,56,54,7,6,5,7,7,6,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,Quarterfinals,3,Safin M.,Voltchkov V.,2,62,7,6,6,1,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,Quarterfinals,3,Rosset M.,Youzhny M.,35,133,6,7,6,4,7,6,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,Quarterfinals,3,Kafelnikov Y.,Burgsmuller L.,7,256,6,3,6,2,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,Semifinals,3,Prinosil D.,Safin M.,56,2,6,7,6,3,6,3,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,Semifinals,3,Kafelnikov Y.,Rosset M.,7,35,4,6,6,2,7,5,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,23/10/00,International,Indoor,Carpet,The Final,3,Kafelnikov Y.,Prinosil D.,7,56,6,2,7,5,,,,,,,2,0,Completed
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

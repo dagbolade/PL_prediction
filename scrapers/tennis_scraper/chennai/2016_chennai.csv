@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+2,Chennai,Chennai Open,04/01/16,ATP250,Outdoor,Hard,1st Round,3,Millman J.,Donskoy E.,92,91,611,615,6,7,6,4,7,6,,,,,2,1,Completed,1.5,2.5,1.55,2.4,1.62,2.25,1.6,2.47,1.62,2.53,1.56,2.38
+2,Chennai,Chennai Open,04/01/16,ATP250,Outdoor,Hard,1st Round,3,Pavic A.,Almagro N.,449,73,90,694,3,6,7,5,7,6,,,,,2,1,Completed,3,1.36,2.9,1.4,3,1.4,3.05,1.43,3.2,1.45,2.88,1.4
+2,Chennai,Chennai Open,04/01/16,ATP250,Outdoor,Hard,1st Round,3,Coric B.,Granollers M.,44,84,941,645,7,6,2,6,6,4,,,,,2,1,Completed,1.44,2.62,1.42,2.8,1.4,3,1.45,2.96,1.45,3,1.42,2.8
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Garcia-Lopez G.,Daniel T.,27,96,1430,603,4,6,7,5,6,2,,,,,2,1,Completed,1.5,2.5,1.52,2.45,1.5,2.62,1.56,2.56,1.57,2.7,1.5,2.53
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Rublev A.,Devvarman S.,185,177,270,284,6,3,3,6,6,3,,,,,2,1,Completed,1.66,2.1,1.72,2.05,1.73,2.1,1.7,2.27,2.2,2.3,1.71,2.12
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Krajicek A.,Ram R.,104,89,559,623,6,7,6,4,6,4,,,,,2,1,Completed,2.1,1.66,2,1.8,2.1,1.73,2.03,1.86,2.2,1.86,2.03,1.76
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Rosol L.,Giraldo S.,55,70,797,716,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.5,2.62,1.45,2.93,1.52,3,1.46,2.68
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Ramanathan R.,Gimeno-Traver D.,248,98,209,590,6,2,6,0,,,,,,,2,0,Completed,1.9,1.8,2,1.75,2,1.8,2.04,1.85,2.06,1.85,1.98,1.8
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Vanni L.,Struff J.L.,106,107,552,547,6,4,7,6,,,,,,,2,0,Completed,2.2,1.61,2.1,1.7,2,1.8,2.1,1.81,2.2,1.81,2.09,1.71
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Muller G.,Khachanov K.,38,152,1105,379,6,7,7,6,6,2,,,,,2,1,Completed,1.33,3.25,1.33,3.2,1.4,3,1.34,3.55,1.4,3.55,1.34,3.18
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Fabbiano T.,Kovalik J.,157,259,362,203,1,6,6,3,6,4,,,,,2,1,Completed,1.5,2.5,1.48,2.6,1.57,2.38,1.53,2.65,1.57,2.75,1.53,2.47
+2,Chennai,Chennai Open,05/01/16,ATP250,Outdoor,Hard,1st Round,3,Bedene A.,Pospisil V.,45,39,939,1075,7,5,7,6,,,,,,,2,0,Completed,2.37,1.53,2.45,1.52,2.5,1.53,2.5,1.59,2.7,1.59,2.5,1.52
+2,Chennai,Chennai Open,06/01/16,ATP250,Outdoor,Hard,2nd Round,3,Coric B.,Krajicek A.,44,104,941,559,6,2,7,5,,,,,,,2,0,Completed,1.28,3.5,1.28,3.5,1.29,3.75,1.32,3.74,1.33,3.75,1.29,3.5
+2,Chennai,Chennai Open,06/01/16,ATP250,Outdoor,Hard,2nd Round,3,Garcia-Lopez G.,Pavic A.,27,449,1430,90,7,6,6,1,,,,,,,2,0,Completed,1.36,3,1.38,3,1.36,3.25,1.4,3.2,1.44,3.25,1.37,3.02
+2,Chennai,Chennai Open,06/01/16,ATP250,Outdoor,Hard,2nd Round,3,Wawrinka S.,Rublev A.,4,185,6865,270,6,3,6,2,,,,,,,2,0,Completed,1.08,8,1.12,5.75,1.1,7,1.15,6.55,1.15,8.15,1.1,6.61
+2,Chennai,Chennai Open,06/01/16,ATP250,Outdoor,Hard,2nd Round,3,Bautista R.,Millman J.,25,92,1480,611,6,4,6,1,,,,,,,2,0,Completed,1.28,3.5,1.3,3.4,1.3,3.5,1.38,3.31,1.38,3.8,1.3,3.42
+2,Chennai,Chennai Open,07/01/16,ATP250,Outdoor,Hard,2nd Round,3,Fabbiano T.,Muller G.,157,38,362,1105,6,4,7,5,,,,,,,2,0,Completed,4.5,1.18,4.25,1.2,5,1.17,5.42,1.19,5.42,1.22,4.7,1.18
+2,Chennai,Chennai Open,07/01/16,ATP250,Outdoor,Hard,2nd Round,3,Paire B.,Rosol L.,19,55,1633,797,7,5,7,5,,,,,,,2,0,Completed,1.5,2.5,1.52,2.45,1.57,2.38,1.59,2.52,1.59,2.62,1.53,2.48
+2,Chennai,Chennai Open,07/01/16,ATP250,Outdoor,Hard,2nd Round,3,Bedene A.,Vanni L.,45,106,939,552,5,7,6,3,6,4,,,,,2,1,Completed,1.36,3,1.4,2.9,1.4,3,1.37,3.37,1.44,3.4,1.37,3.03
+2,Chennai,Chennai Open,07/01/16,ATP250,Outdoor,Hard,2nd Round,3,Ramanathan R.,Kudryavtsev A.,248,164,209,321,3,6,6,4,6,4,,,,,2,1,Completed,1.8,1.9,1.8,2,1.8,2,2.02,1.88,2.02,2.1,1.85,1.93
+2,Chennai,Chennai Open,08/01/16,ATP250,Outdoor,Hard,Quarterfinals,3,Paire B.,Fabbiano T.,19,157,1633,362,6,4,7,5,,,,,,,2,0,Completed,1.2,4.5,1.16,4.75,1.2,4.5,1.24,4.76,1.25,4.76,1.2,4.45
+2,Chennai,Chennai Open,08/01/16,ATP250,Outdoor,Hard,Quarterfinals,3,Wawrinka S.,Garcia-Lopez G.,4,27,6865,1430,6,4,6,4,,,,,,,2,0,Completed,1.16,5,1.2,4.3,1.2,4.5,1.19,5.5,1.2,5.5,1.18,4.8
+2,Chennai,Chennai Open,08/01/16,ATP250,Outdoor,Hard,Quarterfinals,3,Bedene A.,Ramanathan R.,45,248,939,209,6,7,6,4,6,3,,,,,2,1,Completed,1.16,5,1.18,4.3,1.2,4.5,1.21,5.25,1.22,5.4,1.18,4.81
+2,Chennai,Chennai Open,08/01/16,ATP250,Outdoor,Hard,Quarterfinals,3,Coric B.,Bautista R.,44,25,941,1480,3,6,6,4,7,6,,,,,2,1,Completed,3,1.36,2.85,1.4,3,1.4,3.17,1.42,3.25,1.44,2.95,1.39
+2,Chennai,Chennai Open,09/01/16,ATP250,Outdoor,Hard,Semifinals,3,Wawrinka S.,Paire B.,4,19,6865,1633,6,3,6,4,,,,,,,2,0,Completed,1.2,4.5,1.18,4.5,1.22,4.33,1.2,5.45,1.22,5.45,1.2,4.46
+2,Chennai,Chennai Open,09/01/16,ATP250,Outdoor,Hard,Semifinals,3,Coric B.,Bedene A.,44,45,941,939,7,6,6,7,6,3,,,,,2,1,Completed,1.53,2.5,1.48,2.5,1.53,2.5,1.56,2.63,1.58,2.75,1.52,2.51
+2,Chennai,Chennai Open,10/01/16,ATP250,Outdoor,Hard,The Final,3,Wawrinka S.,Coric B.,4,44,6865,941,6,3,7,5,,,,,,,2,0,Completed,1.12,6,1.16,5,1.12,6,1.13,7.23,1.16,7.23,1.13,5.95

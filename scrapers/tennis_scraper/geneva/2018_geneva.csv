@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+31,Geneva,Geneva Open,20/05/18,ATP250,Outdoor,Clay,1st Round,3,Seppi A.,Cecchinato M.,51,72,1020,806,7,5,6,4,,,,,,,2,0,Completed,1.83,1.83,1.81,1.9,1.8,2,1.87,2.02,2,2.05,1.86,1.94
+31,Geneva,Geneva Open,20/05/18,ATP250,Outdoor,Clay,1st Round,3,Basic M.,Zverev M.,82,52,697,1012,5,7,6,3,6,4,,,,,2,1,Completed,2.62,1.44,2.5,1.47,2.37,1.57,2.64,1.54,2.74,1.6,2.56,1.51
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Donaldson J.,Istomin D.,57,98,910,622,5,7,6,4,6,0,,,,,2,1,Completed,1.5,2.5,1.54,2.32,1.57,2.37,1.61,2.45,1.66,2.61,1.58,2.39
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Pella G.,Koepfer D.,81,249,700,225,6,3,6,4,,,,,,,2,0,Completed,1.22,4,1.2,4.1,1.25,4,1.27,4.1,1.29,4.6,1.23,4.13
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Sandgren T.,Haider-Maurer A.,55,412,923,96,1,6,6,1,6,0,,,,,2,1,Completed,1.28,3.5,1.29,3.25,1.3,3.5,1.33,3.57,1.34,3.75,1.31,3.44
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Zapata Miralles B.,Mayer F.,281,90,189,671,6,3,6,2,,,,,,,2,0,Completed,2.75,1.4,2.65,1.43,2.62,1.5,2.62,1.54,2.85,1.57,2.65,1.48
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Gojowczyk P.,Karlovic I.,49,93,1045,665,7,6,4,6,7,6,,,,,2,1,Completed,1.72,2,1.66,2.1,1.67,2.2,1.76,2.16,1.8,2.35,1.69,2.17
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Tiafoe F.,Harrison R.,61,56,883,920,3,6,7,6,6,4,,,,,2,1,Completed,1.44,2.62,1.48,2.48,1.5,2.62,1.55,2.61,1.6,2.78,1.5,2.57
+31,Geneva,Geneva Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Rubin N.,Baghdatis M.,204,83,295,689,7,6,6,4,,,,,,,2,0,Completed,1.83,1.83,1.81,1.89,1.8,2,1.85,2.04,1.9,2.1,1.83,1.97
+31,Geneva,Geneva Open,22/05/18,ATP250,Outdoor,Clay,1st Round,3,Fucsovics M.,Ramos-Vinolas A.,60,36,884,1260,6,1,6,2,,,,,,,2,0,Completed,2.37,1.53,2.27,1.56,2.25,1.61,2.37,1.65,2.6,1.65,2.36,1.59
+31,Geneva,Geneva Open,22/05/18,ATP250,Outdoor,Clay,1st Round,3,Johnson S.,Copil M.,47,95,1065,662,7,6,6,3,,,,,,,2,0,Completed,1.4,2.75,1.4,2.75,1.44,2.75,1.47,2.88,1.48,3.04,1.43,2.8
+31,Geneva,Geneva Open,22/05/18,ATP250,Outdoor,Clay,1st Round,3,Rosol L.,Vesely J.,286,79,178,720,2,6,7,6,7,6,,,,,2,1,Completed,2.75,1.4,2.47,1.48,2.62,1.5,2.75,1.5,2.8,1.55,2.61,1.5
+31,Geneva,Geneva Open,22/05/18,ATP250,Outdoor,Clay,2nd Round,3,Gojowczyk P.,Ferrer D.,49,42,1045,1190,6,2,6,4,,,,,,,2,0,Completed,2.5,1.5,2.42,1.5,2.37,1.57,2.46,1.62,2.59,1.65,2.45,1.55
+31,Geneva,Geneva Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Seppi A.,Zapata Miralles B.,51,281,1020,189,7,5,6,3,,,,,,,2,0,Completed,1.22,4,1.23,3.8,1.28,3.75,1.27,4.25,1.3,4.33,1.25,3.92
+31,Geneva,Geneva Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Sandgren T.,Basic M.,55,82,923,697,6,3,6,2,,,,,,,2,0,Completed,1.72,2,1.74,1.98,1.8,2,1.85,2.07,1.87,2.1,1.8,2.01
+31,Geneva,Geneva Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Fucsovics M.,Tiafoe F.,60,61,884,883,7,6,6,4,,,,,,,2,0,Completed,2.1,1.66,2.06,1.68,2.1,1.73,2.11,1.81,2.21,1.83,2.08,1.75
+31,Geneva,Geneva Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Fognini F.,Rubin N.,19,204,1895,295,6,7,6,2,6,2,,,,,2,1,Completed,1.25,3.75,1.27,3.4,1.3,3.5,1.29,4.05,1.33,4.15,1.28,3.7
+31,Geneva,Geneva Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Wawrinka S.,Donaldson J.,25,57,1605,910,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.4,2.75,1.44,2.75,1.49,2.84,1.5,2.98,1.45,2.76
+31,Geneva,Geneva Open,24/05/18,ATP250,Outdoor,Clay,2nd Round,3,Pella G.,Querrey S.,81,13,700,2140,7,5,6,7,7,6,,,,,2,1,Completed,1.8,1.9,1.8,1.9,1.91,1.91,1.92,1.99,1.98,2.04,1.84,1.96
+31,Geneva,Geneva Open,24/05/18,ATP250,Outdoor,Clay,2nd Round,3,Johnson S.,Rosol L.,47,286,1065,178,6,4,4,6,6,3,,,,,2,1,Completed,1.3,3.4,1.31,3.15,1.33,3.4,1.36,3.46,1.37,3.7,1.33,3.33
+31,Geneva,Geneva Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Gojowczyk P.,Seppi A.,49,51,1045,1020,6,3,6,7,6,3,,,,,2,1,Completed,1.9,1.9,1.87,1.83,1.91,1.91,2.07,1.86,2.07,2.02,1.91,1.9
+31,Geneva,Geneva Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Fognini F.,Sandgren T.,19,55,1895,923,7,6,7,6,,,,,,,2,0,Completed,1.36,3.25,1.31,3.15,1.36,3,1.36,3.54,1.42,3.58,1.34,3.3
+31,Geneva,Geneva Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Johnson S.,Pella G.,47,81,1065,700,6,3,6,4,,,,,,,2,0,Completed,1.9,1.9,1.82,1.89,1.91,1.91,1.91,2.02,1.92,2.1,1.87,1.94
+31,Geneva,Geneva Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Fucsovics M.,Wawrinka S.,60,25,884,1605,6,4,6,0,,,,,,,2,0,Completed,2.75,1.44,2.65,1.43,2.75,1.44,2.76,1.52,2.93,1.52,2.72,1.46
+31,Geneva,Geneva Open,25/05/18,ATP250,Outdoor,Clay,Semifinals,3,Gojowczyk P.,Fognini F.,49,19,1045,1895,6,4,6,4,,,,,,,2,0,Completed,2.75,1.44,2.75,1.39,2.75,1.44,3.05,1.45,3.05,1.5,2.82,1.44
+31,Geneva,Geneva Open,25/05/18,ATP250,Outdoor,Clay,Semifinals,3,Fucsovics M.,Johnson S.,60,47,884,1065,2,6,6,4,6,1,,,,,2,1,Completed,1.9,1.9,1.84,1.86,1.91,1.91,1.97,1.95,2,2,1.9,1.91
+31,Geneva,Geneva Open,26/05/18,ATP250,Outdoor,Clay,The Final,3,Fucsovics M.,Gojowczyk P.,60,49,884,1045,6,2,6,2,,,,,,,2,0,Completed,1.9,1.9,1.82,1.89,1.8,2,1.93,2,1.94,2.01,1.87,1.94

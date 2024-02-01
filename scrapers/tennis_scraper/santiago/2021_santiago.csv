@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+13,Santiago,Chile Open,08/03/2021,ATP250,Indoor,Clay,1st Round,3,Sousa P.,Mayer L.,110,146,704,504,6,2,6,4,,,,,,,2,0,Completed,1.9,1.9,1.91,1.98,2.1,2.05,1.92,1.87
+13,Santiago,Chile Open,08/03/2021,ATP250,Indoor,Clay,1st Round,3,Bagnis F.,Cecchinato M.,118,89,633,838,6,7,6,2,6,3,,,,,2,1,Completed,2.2,1.66,2.19,1.75,2.3,1.76,2.15,1.7
+13,Santiago,Chile Open,08/03/2021,ATP250,Indoor,Clay,1st Round,3,Galan D.E.,Altmaier D.,121,143,619,516,7,6,3,6,7,5,,,,,2,1,Completed,2,1.8,2.18,1.75,2.25,1.84,2.09,1.73
+13,Santiago,Chile Open,08/03/2021,ATP250,Indoor,Clay,1st Round,3,Carballes Baena R.,Caruso S.,97,79,786,898,6,4,7,6,,,,,,,2,0,Completed,1.9,1.9,1.88,2.01,2.02,2.01,1.89,1.89
+13,Santiago,Chile Open,08/03/2021,ATP250,Indoor,Clay,1st Round,3,Tiafoe F.,Jarry N.,64,746,1040,27,7,6,6,7,7,6,,,,,2,1,Completed,1.57,2.37,1.5,2.75,1.58,2.9,1.49,2.59
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Coria F.,Mager G.,85,101,870,780,4,6,7,6,7,6,,,,,2,1,Completed,2.1,1.72,2.14,1.78,2.25,1.81,2.1,1.73
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Delbonis F.,Munar J.,86,102,851,773,6,4,6,7,6,4,,,,,2,1,Completed,2.37,1.57,2.58,1.56,2.6,1.59,2.43,1.55
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Tabilo A.,Kovalik J.,168,129,419,583,6,1,0,6,6,4,,,,,2,1,Completed,1.72,2.1,1.75,2.18,1.84,2.29,1.74,2.08
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Varillas J. P.,Sousa J.,171,100,414,782,6,4,6,1,,,,,,,2,0,Completed,1.3,3.5,1.41,3.13,1.41,3.5,1.33,3.26
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Rune H.,Baez S.,410,257,102,229,6,3,6,2,,,,,,,2,0,Completed,3.2,1.36,3.17,1.4,3.3,1.41,3.07,1.37
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Martin A.,Cerundolo F.,104,112,753,686,6,1,6,2,,,,,,,2,0,Completed,2,1.8,2.4,1.63,2.4,1.8,2.11,1.72
+13,Santiago,Chile Open,09/03/2021,ATP250,Indoor,Clay,1st Round,3,Cerundolo J.M.,Lama G.,182,657,392,37,7,5,6,2,,,,,,,2,0,Completed,1.22,4.33,1.23,4.59,1.26,4.6,1.22,4.21
+13,Santiago,Chile Open,10/03/2021,ATP250,Indoor,Clay,2nd Round,3,Djere L.,Sousa P.,57,110,1093,704,5,7,7,5,6,3,,,,,2,1,Completed,1.36,3.2,1.43,3.07,1.44,3.22,1.38,3.01
+13,Santiago,Chile Open,10/03/2021,ATP250,Indoor,Clay,2nd Round,3,Bagnis F.,Tiafoe F.,118,64,633,1040,7,6,7,6,,,,,,,2,0,Completed,2.62,1.5,2.71,1.53,2.75,1.55,2.59,1.49
+13,Santiago,Chile Open,10/03/2021,ATP250,Indoor,Clay,2nd Round,3,Delbonis F.,Martin A.,86,104,851,753,6,0,6,3,,,,,,,2,0,Completed,1.57,2.37,1.57,2.58,1.68,2.6,1.56,2.4
+13,Santiago,Chile Open,10/03/2021,ATP250,Indoor,Clay,2nd Round,3,Rune H.,Paire B.,410,29,102,1738,6,2,6,3,,,,,,,2,0,Completed,1.57,2.37,1.56,2.59,1.63,2.59,1.57,2.4
+13,Santiago,Chile Open,11/03/2021,ATP250,Indoor,Clay,2nd Round,3,Galan D.E.,Andujar P.,121,55,619,1104,6,1,7,6,,,,,,,2,0,Completed,2.37,1.57,2.45,1.62,2.59,1.67,2.36,1.58
+13,Santiago,Chile Open,11/03/2021,ATP250,Indoor,Clay,2nd Round,3,Carballes Baena R.,Cerundolo J.M.,97,182,786,392,6,2,6,0,,,,,,,2,0,Completed,1.72,2.1,1.7,2.29,1.81,2.35,1.69,2.16
+13,Santiago,Chile Open,11/03/2021,ATP250,Indoor,Clay,2nd Round,3,Varillas J. P.,Coria F.,171,85,414,870,6,4,7,6,,,,,,,2,0,Completed,2.2,1.66,2.31,1.69,2.35,1.72,2.24,1.64
+13,Santiago,Chile Open,11/03/2021,ATP250,Indoor,Clay,2nd Round,3,Garin C.,Tabilo A.,22,168,2180,419,6,2,6,2,,,,,,,2,0,Completed,1.5,2.62,1.55,2.63,1.57,2.7,1.5,2.56
+13,Santiago,Chile Open,12/03/2021,ATP250,Indoor,Clay,Quarterfinals,3,Bagnis F.,Djere L.,118,57,633,1093,4,6,6,3,6,3,,,,,2,1,Completed,2.2,1.66,2.25,1.72,2.31,1.74,2.19,1.67
+13,Santiago,Chile Open,12/03/2021,ATP250,Indoor,Clay,Quarterfinals,3,Delbonis F.,Rune H.,86,410,851,102,6,3,6,3,,,,,,,2,0,Completed,1.53,2.5,1.53,2.69,1.59,2.69,1.51,2.54
+13,Santiago,Chile Open,12/03/2021,ATP250,Indoor,Clay,Quarterfinals,3,Garin C.,Varillas J. P.,22,171,2180,414,6,4,6,4,,,,,,,2,0,Completed,1.36,3.2,1.35,3.5,1.39,3.75,1.33,3.3
+13,Santiago,Chile Open,12/03/2021,ATP250,Indoor,Clay,Quarterfinals,3,Galan D.E.,Carballes Baena R.,121,97,619,786,7,6,6,3,,,,,,,2,0,Completed,2.1,1.72,2.05,1.86,2.25,1.86,2.09,1.74
+13,Santiago,Chile Open,13/03/2021,ATP250,Indoor,Clay,Semifinals,3,Bagnis F.,Delbonis F.,118,86,633,851,7,5,6,3,,,,,,,2,0,Completed,2.1,1.72,2.35,1.67,2.4,1.72,2.24,1.65
+13,Santiago,Chile Open,13/03/2021,ATP250,Indoor,Clay,Semifinals,3,Garin C.,Galan D.E.,22,121,2180,619,6,4,6,3,,,,,,,2,0,Completed,1.53,2.5,1.49,2.85,1.58,2.97,1.47,2.68
+13,Santiago,Chile Open,14/03/2021,ATP250,Indoor,Clay,The Final,3,Garin C.,Bagnis F.,22,118,2180,633,6,4,6,7,7,5,,,,,2,1,Completed,1.5,2.62,1.55,2.65,1.55,3,1.49,2.62

@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+34,s-Hertogenbosch,Ricoh Open,12/06/17,ATP250,Outdoor,Grass,1st Round,3,Bedene A.,Istomin D.,59,74,853,704,3,6,6,2,6,1,,,,,2,1,Completed,2,1.72,2.1,1.65,2.25,1.61,2.2,1.74,2.28,1.82,2.16,1.68
+34,'s-Hertogenbosch,Ricoh Open,12/06/17,ATP250,Outdoor,Grass,1st Round,3,Seppi A.,Ito T.,76,174,686,299,6,3,3,6,6,3,,,,,2,1,Completed,1.4,2.75,1.42,2.65,1.44,2.75,1.47,2.85,1.5,2.95,1.46,2.67
+34,'s-Hertogenbosch,Ricoh Open,12/06/17,ATP250,Outdoor,Grass,1st Round,3,Mahut N.,Novikov D.,82,172,650,301,6,3,6,4,,,,,,,2,0,Completed,1.2,4.33,1.19,4.2,1.2,4.5,1.21,5,1.25,5.2,1.2,4.46
+34,'s-Hertogenbosch,Ricoh Open,12/06/17,ATP250,Outdoor,Grass,1st Round,3,Pospisil V.,Griekspoor T.,83,282,634,174,7,5,6,1,,,,,,,2,0,Completed,1.11,6.5,1.1,5.9,1.11,6.5,1.12,7.14,1.12,8,1.1,6.77
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Dolgopolov O.,Darcis S.,81,56,656,866,6,2,7,6,,,,,,,2,0,Completed,1.53,2.37,1.55,2.3,1.57,2.37,1.68,2.3,1.69,2.37,1.61,2.29
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Escobedo E.,Jung J.,77,163,683,344,6,4,6,2,,,,,,,2,0,Completed,1.4,2.75,,,,,,,1.4,2.75,1.4,2.75
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Mannarino A.,Thompson J.,62,88,811,593,6,4,6,1,,,,,,,2,0,Completed,1.57,2.25,1.6,2.2,1.67,2.2,1.68,2.3,1.7,2.31,1.64,2.23
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Kokkinakis T.,Youzhny M.,993,86,10,595,6,4,7,5,,,,,,,2,0,Completed,2.37,1.53,2.3,1.55,2.37,1.57,2.37,1.65,2.44,1.65,2.33,1.59
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Medvedev D.,Haase R.,65,43,760,983,7,6,3,6,6,3,,,,,2,1,Completed,2.1,1.66,2,1.72,2.1,1.73,1.99,1.9,2.19,1.9,2.05,1.75
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Benneteau J.,Donskoy E.,94,95,554,554,3,6,6,4,7,6,,,,,2,1,Completed,1.53,2.37,1.47,2.5,1.53,2.5,1.53,2.67,1.57,2.74,1.5,2.57
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Kozlov S.,Brown D.,150,90,367,585,6,3,3,6,6,3,,,,,2,1,Completed,2.75,1.4,2.95,1.35,3,1.4,3.27,1.38,3.3,1.44,2.99,1.38
+34,'s-Hertogenbosch,Ricoh Open,13/06/17,ATP250,Outdoor,Grass,1st Round,3,Tipsarevic J.,Sugita Y.,61,64,830,780,7,6,3,6,6,0,,,,,2,1,Completed,2,1.72,2,1.72,2,1.8,2.24,1.71,2.24,1.81,2.04,1.75
+34,'s-Hertogenbosch,Ricoh Open,14/06/17,ATP250,Outdoor,Grass,2nd Round,3,Bedene A.,Escobedo E.,59,77,853,683,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.75,1.44,2.75,1.44,3.03,1.45,3.03,1.41,2.84
+34,'s-Hertogenbosch,Ricoh Open,14/06/17,ATP250,Outdoor,Grass,2nd Round,3,Muller G.,Seppi A.,28,76,1425,686,7,6,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.75,1.44,2.75,1.46,2.95,1.51,2.95,1.44,2.75
+34,'s-Hertogenbosch,Ricoh Open,14/06/17,ATP250,Outdoor,Grass,2nd Round,3,Zverev A.,Mannarino A.,10,62,3070,811,6,2,6,3,,,,,,,2,0,Completed,1.28,3.5,1.27,3.45,1.28,3.75,1.3,3.91,1.31,4.03,1.28,3.64
+34,'s-Hertogenbosch,Ricoh Open,14/06/17,ATP250,Outdoor,Grass,2nd Round,3,Benneteau J.,Mahut N.,94,82,554,650,3,6,6,2,6,2,,,,,2,1,Completed,4.5,1.2,4.4,1.17,4.33,1.22,5.13,1.21,5.55,1.25,4.6,1.19
+34,'s-Hertogenbosch,Ricoh Open,15/06/17,ATP250,Outdoor,Grass,2nd Round,3,Karlovic I.,Kozlov S.,24,150,1730,367,6,4,6,1,,,,,,,2,0,Completed,1.22,4,1.22,3.85,1.25,4,1.26,4.3,1.28,4.3,1.24,3.92
+34,'s-Hertogenbosch,Ricoh Open,15/06/17,ATP250,Outdoor,Grass,2nd Round,3,Cilic M.,Tipsarevic J.,7,61,4115,830,6,7,6,2,6,4,,,,,2,1,Completed,1.16,5,1.15,4.75,1.17,5,1.18,5.55,1.2,5.55,1.17,5
+34,'s-Hertogenbosch,Ricoh Open,15/06/17,ATP250,Outdoor,Grass,2nd Round,3,Medvedev D.,Kokkinakis T.,65,993,760,10,6,3,7,6,,,,,,,2,0,Completed,1.66,2.1,1.6,2.2,1.67,2.2,1.62,2.45,1.73,2.45,1.63,2.24
+34,'s-Hertogenbosch,Ricoh Open,15/06/17,ATP250,Outdoor,Grass,2nd Round,3,Pospisil V.,Dolgopolov O.,83,81,634,656,7,6,4,2,,,,,,,1,0,Retired,1.72,2,1.75,1.95,1.8,2,1.81,2.11,2.2,2.11,1.83,1.96
+34,'s-Hertogenbosch,Ricoh Open,16/06/17,ATP250,Outdoor,Grass,Quarterfinals,3,Muller G.,Bedene A.,28,59,1425,853,6,3,3,6,6,4,,,,,2,1,Completed,1.4,3,1.38,2.8,1.4,3,1.43,3.13,1.44,3.2,1.39,2.97
+34,'s-Hertogenbosch,Ricoh Open,16/06/17,ATP250,Outdoor,Grass,Quarterfinals,3,Karlovic I.,Medvedev D.,24,65,1730,760,6,4,6,4,,,,,,,2,0,Completed,1.4,3,1.4,2.75,1.4,3,1.48,2.92,1.48,3,1.42,2.85
+34,'s-Hertogenbosch,Ricoh Open,16/06/17,ATP250,Outdoor,Grass,Quarterfinals,3,Zverev A.,Benneteau J.,10,94,3070,554,6,0,6,4,,,,,,,2,0,Completed,1.14,5.5,1.12,5.4,1.14,5.5,1.12,8.01,1.17,8.01,1.12,6.18
+34,'s-Hertogenbosch,Ricoh Open,16/06/17,ATP250,Outdoor,Grass,Quarterfinals,3,Cilic M.,Pospisil V.,7,83,4115,634,6,3,7,5,,,,,,,2,0,Completed,1.22,4.33,1.21,3.95,1.25,4,1.24,4.72,1.28,4.72,1.23,4.19
+34,'s-Hertogenbosch,Ricoh Open,17/06/17,ATP250,Outdoor,Grass,Semifinals,3,Muller G.,Zverev A.,28,10,1425,3070,7,6,6,2,,,,,,,2,0,Completed,3.75,1.28,3.45,1.27,3.75,1.28,3.5,1.36,4,1.36,3.57,1.29
+34,'s-Hertogenbosch,Ricoh Open,17/06/17,ATP250,Outdoor,Grass,Semifinals,3,Karlovic I.,Cilic M.,24,7,1730,4115,7,6,5,7,7,6,,,,,2,1,Completed,2.62,1.5,2.65,1.42,2.62,1.5,2.92,1.48,2.92,1.56,2.67,1.47
+34,'s-Hertogenbosch,Ricoh Open,18/06/17,ATP250,Outdoor,Grass,The Final,3,Muller G.,Karlovic I.,28,24,1425,1730,7,6,7,6,,,,,,,2,0,Completed,1.72,2.1,1.72,2,1.8,2,1.8,2.15,1.85,2.17,1.75,2.07

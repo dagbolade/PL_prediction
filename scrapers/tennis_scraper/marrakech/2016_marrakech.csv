@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+22,Marrakech,Grand Prix Hassan II,04/04/16,ATP250,Outdoor,Clay,1st Round,3,Gonzalez M.,Munoz De La Nava D.,147,75,395,707,6,1,6,4,,,,,,,2,0,Completed,2.1,1.66,2,1.7,2.1,1.73,2.15,1.78,2.2,1.8,2.1,1.71
+22,Marrakech,Grand Prix Hassan II,04/04/16,ATP250,Outdoor,Clay,1st Round,3,Montanes A.,Skugor F.,123,151,478,380,6,4,6,4,,,,,,,2,0,Completed,1.83,1.83,1.82,1.82,2,1.8,2.16,1.77,2.17,1.91,1.97,1.8
+22,Marrakech,Grand Prix Hassan II,04/04/16,ATP250,Outdoor,Clay,1st Round,3,Bagnis F.,Ouahab L.,95,320,597,150,7,6,6,2,,,,,,,2,0,Completed,1.5,2.5,1.48,2.45,1.53,2.5,1.56,2.57,1.61,2.75,1.51,2.53
+22,Marrakech,Grand Prix Hassan II,04/04/16,ATP250,Outdoor,Clay,1st Round,3,Mektic N.,El Amrani R.,312,N/A,154,N/A,7,5,6,3,,,,,,,2,0,Completed,1.11,6.5,1.12,5,1.14,5.5,1.18,5.47,1.18,6.5,1.14,5.36
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Giustino L.,72,257,717,204,7,6,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.75,1.44,2.75,1.53,2.67,1.53,2.8,1.45,2.69
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Gabashvili T.,102,51,569,903,6,3,6,4,,,,,,,2,0,Completed,1.9,1.8,1.85,1.8,2.1,1.73,1.99,1.9,2.1,1.91,1.95,1.85
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,Vesely J.,Cervantes I.,55,56,840,837,6,1,6,3,,,,,,,2,0,Completed,1.8,1.9,1.8,1.85,1.91,1.91,1.85,2.05,2,2.05,1.85,1.94
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,Bolelli S.,Daniel T.,84,91,667,619,7,5,6,4,,,,,,,2,0,Completed,1.72,2,1.8,1.85,1.73,2.1,1.93,1.96,1.93,2.1,1.83,1.94
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,Mathieu P.H.,Ramos-Vinolas A.,63,50,774,903,7,5,6,3,,,,,,,2,0,Completed,2.62,1.44,2.25,1.55,2.38,1.57,2.8,1.49,2.85,1.67,2.51,1.53
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,Almagro N.,Albot R.,62,156,774,370,6,4,6,3,,,,,,,2,0,Completed,1.2,4.33,1.18,4,1.22,4.33,1.19,5.32,1.25,5.32,1.21,4.27
+22,Marrakech,Grand Prix Hassan II,05/04/16,ATP250,Outdoor,Clay,1st Round,3,De Bakker T.,Ahouda A.,105,834,550,23,7,5,7,6,,,,,,,2,0,Completed,1.02,19,1,12,1.02,15,1.02,20.52,1.03,24,1.01,15.33
+22,Marrakech,Grand Prix Hassan II,06/04/16,ATP250,Outdoor,Clay,1st Round,3,Carreno Busta P.,Donskoy E.,52,67,879,748,6,2,6,3,,,,,,,2,0,Completed,1.25,3.75,1.25,3.5,1.3,3.5,1.28,4.06,1.33,4.1,1.27,3.67
+22,Marrakech,Grand Prix Hassan II,06/04/16,ATP250,Outdoor,Clay,2nd Round,3,Montanes A.,Gimeno-Traver D.,123,102,478,569,6,4,6,4,,,,,,,2,0,Completed,2.2,1.61,2.2,1.6,2.2,1.62,2.57,1.57,2.57,1.65,2.31,1.59
+22,Marrakech,Grand Prix Hassan II,06/04/16,ATP250,Outdoor,Clay,2nd Round,3,Bagnis F.,Sousa J.,95,36,597,1181,6,2,6,4,,,,,,,2,0,Completed,2.2,1.61,2.2,1.6,2.38,1.57,2.3,1.69,2.38,1.7,2.25,1.62
+22,Marrakech,Grand Prix Hassan II,06/04/16,ATP250,Outdoor,Clay,2nd Round,3,Mathieu P.H.,Gonzalez M.,63,147,774,395,7,6,6,0,,,,,,,2,0,Completed,1.5,2.5,1.5,2.4,1.44,2.75,1.58,2.54,1.59,2.75,1.52,2.5
+22,Marrakech,Grand Prix Hassan II,06/04/16,ATP250,Outdoor,Clay,2nd Round,3,Coric B.,Bolelli S.,48,84,910,667,,,,,,,,,,,,,Walkover,1.44,2.62,1.42,2.65,1.5,2.62,1.55,2.64,1.55,2.9,1.48,2.6
+22,Marrakech,Grand Prix Hassan II,07/04/16,ATP250,Outdoor,Clay,2nd Round,3,Vesely J.,Mektic N.,55,312,840,154,6,7,6,3,7,6,,,,,2,1,Completed,1.16,5,1.17,4.25,1.17,5,1.17,6.02,1.2,6.02,1.15,5.12
+22,Marrakech,Grand Prix Hassan II,07/04/16,ATP250,Outdoor,Clay,2nd Round,3,Carreno Busta P.,Istomin D.,52,72,879,717,6,3,7,6,,,,,,,2,0,Completed,1.28,3.5,1.3,3,1.3,3.5,1.31,3.8,1.33,3.8,1.3,3.44
+22,Marrakech,Grand Prix Hassan II,07/04/16,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Almagro N.,38,62,1115,774,1,6,6,3,6,4,,,,,2,1,Completed,2.37,1.53,2.4,1.5,2.5,1.5,2.73,1.52,2.73,1.59,2.49,1.52
+22,Marrakech,Grand Prix Hassan II,07/04/16,ATP250,Outdoor,Clay,2nd Round,3,Delbonis F.,De Bakker T.,47,105,920,550,6,4,6,4,,,,,,,2,0,Completed,1.2,4.33,1.2,4,1.25,4,1.26,4.34,1.27,4.4,1.23,4.05
+22,Marrakech,Grand Prix Hassan II,08/04/16,ATP250,Outdoor,Clay,Quarterfinals,3,Montanes A.,Bagnis F.,123,95,478,597,6,1,7,5,,,,,,,2,0,Completed,3.5,1.28,2.8,1.38,3.25,1.36,3.66,1.34,3.66,1.4,3.25,1.34
+22,Marrakech,Grand Prix Hassan II,08/04/16,ATP250,Outdoor,Clay,Quarterfinals,3,Coric B.,Mathieu P.H.,48,63,910,774,6,7,6,3,6,4,,,,,2,1,Completed,1.66,2.1,1.65,2.1,1.73,2.1,1.79,2.17,1.83,2.2,1.73,2.09
+22,Marrakech,Grand Prix Hassan II,08/04/16,ATP250,Outdoor,Clay,Quarterfinals,3,Delbonis F.,Carreno Busta P.,47,52,920,879,7,5,6,2,,,,,,,2,0,Completed,1.72,2,1.82,1.85,1.8,2,1.75,2.24,1.83,2.24,1.77,2.02
+22,Marrakech,Grand Prix Hassan II,08/04/16,ATP250,Outdoor,Clay,Quarterfinals,3,Vesely J.,Garcia-Lopez G.,55,38,840,1115,6,4,7,6,,,,,,,2,0,Completed,2.37,1.53,2.4,1.48,2.62,1.5,2.32,1.7,2.75,1.7,2.45,1.55
+22,Marrakech,Grand Prix Hassan II,09/04/16,ATP250,Outdoor,Clay,Semifinals,3,Delbonis F.,Montanes A.,47,123,920,478,6,4,6,3,,,,,,,2,0,Completed,1.25,4,1.22,3.5,1.25,4,1.29,4.1,1.3,4.2,1.25,3.88
+22,Marrakech,Grand Prix Hassan II,09/04/16,ATP250,Outdoor,Clay,Semifinals,3,Coric B.,Vesely J.,48,55,910,840,7,6,7,6,,,,,,,2,0,Completed,1.72,2.1,1.72,2,1.62,2.2,1.88,2.04,1.88,2.2,1.75,2.05
+22,Marrakech,Grand Prix Hassan II,10/04/16,ATP250,Outdoor,Clay,The Final,3,Delbonis F.,Coric B.,47,48,920,910,6,2,6,4,,,,,,,2,0,Completed,1.53,2.5,1.5,2.4,1.57,2.38,1.58,2.57,1.6,2.6,1.55,2.43

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL
+2,Chennai,Chennai Open,04/01/10,ATP250,Outdoor,Hard,1st Round,3,Cilic M.,Kunitsyn I.,14,104,2430,525,6,2,6,4,,,,,,,2,0,Completed,1.12,5.5,1.13,5.5,1.14,5,1.151,6.63,1.125,5.5
+2,Chennai,Chennai Open,04/01/10,ATP250,Outdoor,Hard,1st Round,3,Hajek J.,Greul S.,103,59,526,739,3,6,6,2,6,4,,,,,2,1,Completed,2.62,1.44,2.45,1.5,2.5,1.5,2.75,1.524,2.5,1.5
+2,Chennai,Chennai Open,04/01/10,ATP250,Outdoor,Hard,1st Round,3,Giraldo S.,Phau B.,107,111,516,496,6,4,6,7,6,3,,,,,2,1,Completed,2,1.72,1.95,1.8,1.909,1.8,2.14,1.813,1.909,1.8
+2,Chennai,Chennai Open,04/01/10,ATP250,Outdoor,Hard,1st Round,3,Tipsarevic J.,Moya C.,38,446,1015,75,6,3,7,6,,,,,,,2,0,Completed,1.4,2.75,1.4,2.85,1.444,2.625,1.433,3.11,1.4,2.75
+2,Chennai,Chennai Open,04/01/10,ATP250,Outdoor,Hard,1st Round,3,De Bakker T.,Ram R.,96,79,541,590,6,1,6,1,,,,,,,2,0,Completed,1.9,1.8,1.95,1.8,1.833,1.833,2.11,1.833,1.833,1.833
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Granollers M.,Ward J.,91,272,553,162,5,7,6,2,6,2,,,,,2,1,Completed,1.36,3,1.4,2.85,1.4,2.75,1.465,2.97,1.4,2.75
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Russell M.,Amritraj P.,83,212,579,222,6,3,6,1,,,,,,,2,0,Completed,1.5,2.5,1.48,2.53,1.5,2.5,1.562,2.64,1.57,2.25
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Ginepri R.,Soderling R.,100,8,529,3410,6,4,7,5,,,,,,,2,0,Completed,7,1.08,5.58,1.11,6,1.11,7.9,1.12,6.5,1.083
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Lacko L.,Lu Y.H.,82,98,580,537,6,4,6,3,,,,,,,2,0,Completed,1.9,1.8,1.95,1.8,1.833,1.833,1.926,2,1.833,1.833
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Haase R.,Yang T.H.,447,341,75,119,6,4,6,3,,,,,,,2,0,Completed,1.33,3.25,1.3,3.35,1.33,3.25,1.385,3.36,1.33,3
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Devvarman S.,Schuettler R.,126,85,441,575,7,5,6,2,,,,,,,2,0,Completed,1.61,2.2,1.65,2.15,1.667,2.1,1.725,2.27,1.615,2.2
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Berrer M.,Ventura S.,74,109,608,506,6,3,6,2,,,,,,,2,0,Completed,1.28,3.5,1.3,3.35,1.333,3.25,1.316,3.85,1.286,3.25
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Sela D.,Istomin D.,43,102,936,527,6,1,6,2,,,,,,,2,0,Completed,1.8,1.9,1.85,1.9,1.727,2,2.03,1.901,1.727,2
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Robert S.,Sorensen L.,108,293,508,144,6,2,6,1,,,,,,,2,0,Completed,1.5,2.5,1.5,2.45,1.44,2.62,1.585,2.57,1.5,2.5
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Kim K.,Brands D.,117,92,482,550,6,2,6,2,,,,,,,2,0,Completed,2.1,1.66,1.9,1.85,1.909,1.8,2.11,1.833,1.833,1.833
+2,Chennai,Chennai Open,05/01/10,ATP250,Outdoor,Hard,1st Round,3,Wawrinka S.,Bopanna R.,21,391,1635,95,6,1,6,4,,,,,,,2,0,Completed,1.12,5.5,1.13,5.5,1.083,7,1.165,6.19,1.071,7
+2,Chennai,Chennai Open,06/01/10,ATP250,Outdoor,Hard,2nd Round,3,De Bakker T.,Haase R.,96,447,541,75,6,3,6,4,,,,,,,2,0,Completed,2.2,1.61,2.1,1.7,2.375,1.533,2.2,1.769,2.2,1.615
+2,Chennai,Chennai Open,06/01/10,ATP250,Outdoor,Hard,2nd Round,3,Giraldo S.,Hajek J.,107,103,516,526,6,4,6,2,,,,,,,2,0,Completed,1.57,2.25,1.65,2.2,1.667,2.1,1.662,2.39,1.667,2.1
+2,Chennai,Chennai Open,06/01/10,ATP250,Outdoor,Hard,2nd Round,3,Cilic M.,Granollers M.,14,91,2430,553,6,7,6,3,6,4,,,,,2,1,Completed,1.1,6.5,1.09,6.75,1.12,5.5,1.111,8.36,1.125,5.5
+2,Chennai,Chennai Open,06/01/10,ATP250,Outdoor,Hard,2nd Round,3,Tipsarevic J.,Devvarman S.,38,126,1015,441,6,2,6,1,,,,,,,2,0,Completed,1.36,3,1.35,3.1,1.4,2.75,1.4,3.28,1.333,3
+2,Chennai,Chennai Open,07/01/10,ATP250,Outdoor,Hard,2nd Round,3,Sela D.,Kim K.,43,117,936,482,7,6,6,2,,,,,,,2,0,Completed,1.5,2.5,1.5,2.45,1.533,2.375,1.625,2.47,1.571,2.25
+2,Chennai,Chennai Open,07/01/10,ATP250,Outdoor,Hard,2nd Round,3,Lacko L.,Ginepri R.,82,100,580,529,7,6,6,4,,,,,,,2,0,Completed,2.62,1.44,2.6,1.45,2.625,1.444,2.56,1.588,2.625,1.444
+2,Chennai,Chennai Open,07/01/10,ATP250,Outdoor,Hard,2nd Round,3,Berrer M.,Robert S.,74,108,608,508,7,6,6,3,,,,,,,2,0,Completed,1.4,2.75,1.45,2.55,1.444,2.625,1.488,2.88,1.444,2.625
+2,Chennai,Chennai Open,07/01/10,ATP250,Outdoor,Hard,2nd Round,3,Wawrinka S.,Russell M.,21,83,1635,579,6,3,6,4,,,,,,,2,0,Completed,1.2,4.33,1.2,4.25,1.167,4.5,1.285,4.14,1.2,4
+2,Chennai,Chennai Open,08/01/10,ATP250,Outdoor,Hard,Quarterfinals,3,Wawrinka S.,Berrer M.,21,74,1635,608,7,6,6,4,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.274,4.26,1.286,3.25
+2,Chennai,Chennai Open,08/01/10,ATP250,Outdoor,Hard,Quarterfinals,3,Tipsarevic J.,De Bakker T.,38,96,1015,541,7,5,7,5,,,,,,,2,0,Completed,1.28,3.5,1.33,3.15,1.333,3.25,1.308,3.92,1.333,3
+2,Chennai,Chennai Open,08/01/10,ATP250,Outdoor,Hard,Quarterfinals,3,Sela D.,Lacko L.,43,82,936,580,7,6,7,5,,,,,,,2,0,Completed,1.66,2.1,1.65,2.2,1.667,2.1,1.826,2.12,1.667,2.1
+2,Chennai,Chennai Open,08/01/10,ATP250,Outdoor,Hard,Quarterfinals,3,Cilic M.,Giraldo S.,14,107,2430,516,7,6,6,1,,,,,,,2,0,Completed,1.07,7.5,1.09,6.75,1.08,7,1.12,7.89,1.1,6
+2,Chennai,Chennai Open,09/01/10,ATP250,Outdoor,Hard,Semifinals,3,Cilic M.,Tipsarevic J.,14,38,2430,1015,6,1,6,3,,,,,,,2,0,Completed,1.36,3,1.49,2.5,1.4,2.75,1.469,2.95,1.4,2.75
+2,Chennai,Chennai Open,09/01/10,ATP250,Outdoor,Hard,Semifinals,3,Wawrinka S.,Sela D.,21,43,1635,936,6,4,2,6,7,5,,,,,2,1,Completed,1.28,3.5,1.25,3.75,1.25,3.75,1.312,3.89,1.25,3.5
+2,Chennai,Chennai Open,10/01/10,ATP250,Outdoor,Hard,The Final,3,Cilic M.,Wawrinka S.,14,21,2430,1635,7,6,7,6,,,,,,,2,0,Completed,1.44,2.75,1.53,2.4,1.5,2.5,1.578,2.59,1.5,2.625

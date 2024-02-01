@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+61,Gijon,Gijon Open,10/10/2022,ATP250,Indoor,Hard,1st Round,3,Monteiro T.,Bonzi B.,65,67,793,781,6,4,7,5,,,,,,,2,0,Completed,3.2,1.36,3.53,1.34,3.85,1.36,3.36,1.31
+61,Gijon,Gijon Open,10/10/2022,ATP250,Indoor,Hard,1st Round,3,Lestienne C.,Baez S.,63,35,805,1205,7,6,4,4,,,,,,,1,0,Retired,1.53,2.5,1.63,2.42,1.73,2.65,1.54,2.46
+61,Gijon,Gijon Open,10/10/2022,ATP250,Indoor,Hard,1st Round,3,Rinderknech A.,Taberner C.,56,130,852,432,6,3,6,3,,,,,,,2,0,Completed,1.25,4,1.28,4.05,1.29,4.25,1.25,3.84
+61,Gijon,Gijon Open,10/10/2022,ATP250,Indoor,Hard,1st Round,3,Thiem D.,Sousa J.,165,64,336,801,6,2,6,0,,,,,,,2,0,Completed,1.25,4,1.27,4.15,1.28,4.25,1.25,3.93
+61,Gijon,Gijon Open,10/10/2022,ATP250,Indoor,Hard,1st Round,3,Paul T.,Landaluce M.,30,N/A,1375,N/A,6,3,6,0,,,,,,,2,0,Completed,1.05,11,1.06,12.01,1.08,12.01,1.05,9.68
+61,Gijon,Gijon Open,11/10/2022,ATP250,Indoor,Hard,1st Round,3,Guinard M.,Fognini F.,153,59,369,817,4,6,6,0,2,0,,,,,1,1,Retired,2.75,1.44,2.87,1.47,2.95,1.5,2.76,1.44
+61,Gijon,Gijon Open,11/10/2022,ATP250,Indoor,Hard,1st Round,3,Alvarez Varona N.,Trungelliti M.,231,241,230,212,1,6,6,3,6,0,,,,,2,1,Completed,2.3,1.61,2.3,1.68,2.43,1.68,2.28,1.61
+61,Gijon,Gijon Open,11/10/2022,ATP250,Indoor,Hard,1st Round,3,Giron M.,Ramos-Vinolas A.,62,40,806,1085,4,6,6,4,6,2,,,,,2,1,Completed,1.53,2.5,1.58,2.52,1.58,2.7,1.53,2.48
+61,Gijon,Gijon Open,11/10/2022,ATP250,Indoor,Hard,1st Round,3,Murray A.,Davidovich Fokina A.,48,31,975,1370,7,5,6,2,,,,,,,2,0,Completed,1.72,2.1,1.73,2.22,1.81,2.22,1.73,2.09
+61,Gijon,Gijon Open,11/10/2022,ATP250,Indoor,Hard,1st Round,3,Ivashka I.,Lopez F.,70,415,730,103,6,3,6,7,6,4,,,,,2,1,Completed,1.11,6.5,1.12,7.69,1.12,7.69,1.11,6.47
+61,Gijon,Gijon Open,12/10/2022,ATP250,Indoor,Hard,1st Round,3,Cachin P.,Vatutin A.,61,279,813,182,7,6,6,0,,,,,,,2,0,Completed,1.53,2.5,1.7,2.26,1.71,2.5,1.6,2.32
+61,Gijon,Gijon Open,12/10/2022,ATP250,Indoor,Hard,1st Round,3,Korda S.,Munar J.,47,57,985,839,6,4,6,1,,,,,,,2,0,Completed,1.44,2.75,1.42,3.06,1.46,3.06,1.42,2.84
+61,Gijon,Gijon Open,12/10/2022,ATP250,Indoor,Hard,2nd Round,3,Rinderknech A.,Lestienne C.,56,63,852,805,6,4,6,2,,,,,,,2,0,Completed,1.8,2,1.97,1.93,2,2.02,1.88,1.91
+61,Gijon,Gijon Open,12/10/2022,ATP250,Indoor,Hard,2nd Round,3,Paul T.,Alvarez Varona N.,30,231,1375,230,6,3,7,6,,,,,,,2,0,Completed,1.08,8,1.1,8.89,1.1,9.5,1.07,8.01
+61,Gijon,Gijon Open,12/10/2022,ATP250,Indoor,Hard,2nd Round,3,Carreno Busta P.,Monteiro T.,15,65,2360,793,6,4,7,6,,,,,,,2,0,Completed,1.12,6,1.19,5.18,1.21,6,1.16,5.2
+61,Gijon,Gijon Open,12/10/2022,ATP250,Indoor,Hard,2nd Round,3,Thiem D.,Giron M.,165,62,336,806,3,6,6,4,6,0,,,,,2,1,Completed,1.4,3,1.53,2.7,1.53,3,1.45,2.74
+61,Gijon,Gijon Open,13/10/2022,ATP250,Indoor,Hard,2nd Round,3,Cerundolo F.,Guinard M.,29,153,1394,369,7,6,6,2,,,,,,,2,0,Completed,1.44,2.75,1.48,2.87,1.5,3.2,1.44,2.77
+61,Gijon,Gijon Open,13/10/2022,ATP250,Indoor,Hard,2nd Round,3,Murray A.,Cachin P.,48,61,975,813,2,6,7,5,7,6,,,,,2,1,Completed,1.22,4.33,1.23,4.78,1.24,5.2,1.2,4.49
+61,Gijon,Gijon Open,13/10/2022,ATP250,Indoor,Hard,2nd Round,3,Rublev A.,Ivashka I.,9,70,3480,730,6,3,5,7,6,4,,,,,2,1,Completed,1.3,3.5,1.33,3.65,1.36,3.65,1.31,3.36
+61,Gijon,Gijon Open,13/10/2022,ATP250,Indoor,Hard,2nd Round,3,Korda S.,Bautista Agut R.,47,22,985,1840,5,7,6,4,6,4,,,,,2,1,Completed,2,1.8,2.02,1.9,2.05,1.91,1.96,1.83
+61,Gijon,Gijon Open,14/10/2022,ATP250,Indoor,Hard,Quarterfinals,3,Thiem D.,Cerundolo F.,165,29,336,1394,6,4,6,3,,,,,,,2,0,Completed,1.4,3,1.41,3.18,1.44,3.21,1.39,2.97
+61,Gijon,Gijon Open,14/10/2022,ATP250,Indoor,Hard,Quarterfinals,3,Rublev A.,Paul T.,9,30,3480,1375,7,5,6,3,,,,,,,2,0,Completed,1.44,2.75,1.42,3.11,1.5,3.57,1.43,2.83
+61,Gijon,Gijon Open,14/10/2022,ATP250,Indoor,Hard,Quarterfinals,3,Rinderknech A.,Carreno Busta P.,56,15,852,2360,4,6,6,3,7,6,,,,,2,1,Completed,3.4,1.33,3.48,1.36,3.6,1.36,3.31,1.33
+61,Gijon,Gijon Open,14/10/2022,ATP250,Indoor,Hard,Quarterfinals,3,Korda S.,Murray A.,47,48,985,975,6,4,1,6,6,1,,,,,2,1,Completed,1.53,2.5,1.55,2.63,1.57,2.73,1.52,2.54
+61,Gijon,Gijon Open,15/10/2022,ATP250,Indoor,Hard,Semifinals,3,Rublev A.,Thiem D.,9,165,3480,336,6,4,6,4,,,,,,,2,0,Completed,1.3,3.5,1.32,3.73,1.4,3.73,1.31,3.42
+61,Gijon,Gijon Open,15/10/2022,ATP250,Indoor,Hard,Semifinals,3,Korda S.,Rinderknech A.,47,56,985,852,7,6,6,3,,,,,,,2,0,Completed,1.4,3,1.45,2.98,1.47,3.08,1.41,2.89
+61,Gijon,Gijon Open,16/10/2022,ATP250,Indoor,Hard,The Final,3,Rublev A.,Korda S.,9,47,3480,985,6,2,6,3,,,,,,,2,0,Completed,1.4,3,1.46,2.94,1.48,3.15,1.42,2.84

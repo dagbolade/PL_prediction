@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,SJW,SJL,UBW,UBL
+12,San Jose,SAP Open,09/02/09,ATP250,Indoor,Hard,1st Round,3,Serra F.,Nieminen J.,57,60,1279,1210,7,5,6,7,6,4,,,,,2,1,Completed,3,1.36,2.65,1.48,2.625,1.444,2.625,1.444,2.76,1.42
+12,San Jose,SAP Open,09/02/09,ATP250,Indoor,Hard,1st Round,3,Rochus C.,Kunitsyn I.,76,43,1096,1530,6,2,7,6,,,,,,,2,0,Completed,3.25,1.33,3.3,1.35,3,1.364,3,1.333,3.3,1.31
+12,San Jose,SAP Open,09/02/09,ATP250,Indoor,Hard,1st Round,3,Stepanek R.,Meffert D.,21,266,2440,272,5,7,6,3,6,1,,,,,2,1,Completed,1.1,6.5,,,1.1,6.5,1.071,7,1.12,6
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Dent T.,Reynolds B.,662,63,58,1146,6,3,6,4,,,,,,,2,0,Completed,1.8,1.9,1.8,2.05,1.833,1.833,1.833,1.833,1.8,1.97
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Haas T.,Poerschke L.,65,586,1140,80,6,1,7,6,,,,,,,2,0,Completed,1.02,12,1.05,10.5,1.02,11,1.013,11,1.02,15
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Nishikori K.,Muller G.,56,79,1281,1062,7,5,6,2,,,,,,,2,0,Completed,1.8,1.9,1.85,1.95,1.667,2.1,1.727,2,1.84,1.92
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Gremelmayr D.,Karanusic R.,97,89,922,953,3,6,7,6,6,2,,,,,2,1,Completed,1.66,2.1,1.7,2.15,,,1.667,2.1,1.75,2.03
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Guccione C.,Canas G.,132,71,693,1131,7,6,7,5,,,,,,,2,0,Completed,1.66,2.1,1.65,2.3,1.667,2.1,1.727,2,1.64,2.2
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Gulbis E.,Mello R.,45,174,1473,474,7,6,6,4,,,,,,,2,0,Completed,1.14,5,,,,,,,,
+12,San Jose,SAP Open,10/02/09,ATP250,Indoor,Hard,1st Round,3,Widom T.,Ginepri R.,270,44,269,1490,3,6,7,6,6,4,,,,,2,1,Completed,5,1.14,5.01,1.18,4.333,1.2,4.5,1.167,4.6,1.18
+12,San Jose,SAP Open,11/02/09,ATP250,Indoor,Hard,1st Round,3,Roddick A.,Ryderstedt M.,6,368,4510,180,6,0,7,6,,,,,,,2,0,Completed,1.01,13,1.02,13.5,1.02,11,1.02,11,1.02,15
+12,San Jose,SAP Open,11/02/09,ATP250,Indoor,Hard,1st Round,3,Fish M.,Hewitt L.,24,107,2270,855,7,6,6,3,,,,,,,2,0,Completed,2.1,1.66,2.05,1.75,2.1,1.667,2.1,1.667,2.04,1.74
+12,San Jose,SAP Open,11/02/09,ATP250,Indoor,Hard,1st Round,3,Isner J.,Delgado R.,139,277,635,264,7,6,6,4,,,,,,,2,0,Completed,,,,,,,,,,
+12,San Jose,SAP Open,11/02/09,ATP250,Indoor,Hard,1st Round,3,Querrey S.,Baghdatis M.,34,82,1720,1025,6,3,5,7,7,6,,,,,2,1,Completed,2,1.72,2.05,1.8,2.1,1.667,2.1,1.667,1.92,1.85
+12,San Jose,SAP Open,12/02/09,ATP250,Indoor,Hard,1st Round,3,Del Potro J.M.,Stoppini A.,7,209,4350,381,7,6,7,6,,,,,,,2,0,Completed,1.03,11,1.05,9.5,1.063,8,1.05,8,1.05,9
+12,San Jose,SAP Open,12/02/09,ATP250,Indoor,Hard,1st Round,3,Blake J.,Spadea V.,11,108,3230,849,6,3,6,4,,,,,,,2,0,Completed,1.14,5,1.21,4.6,1.167,4.5,1.125,5.5,1.16,5
+12,San Jose,SAP Open,11/02/09,ATP250,Indoor,Hard,2nd Round,3,Stepanek R.,Guccione C.,21,132,2440,693,6,2,7,6,,,,,,,2,0,Completed,1.33,3.25,1.4,3.05,1.333,3.25,1.286,3.25,1.35,3.1
+12,San Jose,SAP Open,11/02/09,ATP250,Indoor,Hard,2nd Round,3,Haas T.,Rochus C.,65,76,1140,1096,6,2,7,5,,,,,,,2,0,Completed,1.11,6,1.15,5.6,1.125,5.5,1.125,5.5,1.12,6
+12,San Jose,SAP Open,12/02/09,ATP250,Indoor,Hard,2nd Round,3,Widom T.,Dent T.,270,662,269,58,6,7,6,3,6,2,,,,,2,1,Completed,3.25,1.33,3.4,1.32,2.75,1.4,2.75,1.4,3.1,1.35
+12,San Jose,SAP Open,12/02/09,ATP250,Indoor,Hard,2nd Round,3,Fish M.,Isner J.,24,139,2270,635,6,2,6,7,7,5,,,,,2,1,Completed,1.4,2.75,1.42,2.89,1.444,2.625,1.333,3,1.37,3
+12,San Jose,SAP Open,13/02/09,ATP250,Indoor,Hard,2nd Round,3,Querrey S.,Gremelmayr D.,34,97,1720,922,6,3,6,2,,,,,,,2,0,Completed,1.25,3.75,1.32,3.4,1.286,3.5,1.3,3.2,1.28,3.55
+12,San Jose,SAP Open,13/02/09,ATP250,Indoor,Hard,2nd Round,3,Blake J.,Serra F.,11,57,3230,1279,6,4,6,3,,,,,,,2,0,Completed,1.16,4.5,1.2,4.55,1.167,4.5,1.2,4.3,1.2,4.3
+12,San Jose,SAP Open,13/02/09,ATP250,Indoor,Hard,2nd Round,3,Del Potro J.M.,Nishikori K.,7,56,4350,1281,6,2,6,2,,,,,,,2,0,Completed,1.16,4.5,1.2,4.55,1.167,4.5,1.222,4,1.21,4.2
+12,San Jose,SAP Open,13/02/09,ATP250,Indoor,Hard,2nd Round,3,Roddick A.,Gulbis E.,6,45,4510,1473,6,3,7,6,,,,,,,2,0,Completed,1.25,3.75,1.29,3.66,1.222,4,1.222,3.75,1.27,3.65
+12,San Jose,SAP Open,13/02/09,ATP250,Indoor,Hard,Quarterfinals,3,Fish M.,Del Potro J.M.,24,7,2270,4350,6,3,6,4,,,,,,,2,0,Completed,3.75,1.25,3.55,1.3,3.75,1.25,3.25,1.333,3.25,1.32
+12,San Jose,SAP Open,14/02/09,ATP250,Indoor,Hard,Quarterfinals,3,Blake J.,Querrey S.,11,34,3230,1720,7,6,6,3,,,,,,,2,0,Completed,1.4,2.75,1.45,2.7,1.4,2.75,1.444,2.75,1.44,2.7
+12,San Jose,SAP Open,14/02/09,ATP250,Indoor,Hard,Quarterfinals,3,Roddick A.,Haas T.,6,65,4510,1140,7,5,6,4,,,,,,,2,0,Completed,1.28,3.5,1.32,3.4,1.3,3.4,1.286,3.5,1.3,3.4
+12,San Jose,SAP Open,14/02/09,ATP250,Indoor,Hard,Quarterfinals,3,Stepanek R.,Widom T.,21,270,2440,269,5,7,6,0,6,0,,,,,2,1,Completed,1.12,5.5,1.2,4.55,1.167,4.5,1.143,5,1.18,4.6
+12,San Jose,SAP Open,15/02/09,ATP250,Indoor,Hard,Semifinals,3,Stepanek R.,Roddick A.,21,6,2440,4510,3,6,7,6,6,4,,,,,2,1,Completed,4.5,1.16,4.14,1.24,4,1.222,4,1.222,3.9,1.24
+12,San Jose,SAP Open,15/02/09,ATP250,Indoor,Hard,Semifinals,3,Fish M.,Blake J.,24,11,2270,3230,6,3,6,2,,,,,,,2,0,Completed,2.25,1.57,2.21,1.67,2.25,1.571,2.25,1.615,2.22,1.64
+12,San Jose,SAP Open,16/02/09,ATP250,Indoor,Hard,The Final,3,Stepanek R.,Fish M.,21,24,2440,2270,3,6,6,4,6,2,,,,,2,1,Completed,1.72,2.1,1.75,2.1,1.72,2,1.727,2.1,1.66,2.16

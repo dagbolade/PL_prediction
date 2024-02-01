@@ -1,0 +1,56 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,PSW,PSL,UBW,UBL
+48,Montreal,Rogers Masters,05/08/07,Masters,Outdoor,Hard,1st Round,3,Stepanek R.,Bjorkman J.,60,56,590,615,6,4,6,1,,,,,,,2,0,Completed,1.28,3.5,1.3,3.4,1.3,3.35,1.328,3.75,,
+48,Montreal,Rogers Masters,05/08/07,Masters,Outdoor,Hard,1st Round,3,Kiefer N.,Tursunov D.,254,24,150,1120,1,6,6,4,6,3,,,,,2,1,Completed,2.5,1.5,2.45,1.53,2.53,1.48,2.67,1.565,,
+48,Montreal,Rogers Masters,05/08/07,Masters,Outdoor,Hard,1st Round,3,Clement A.,Bester P.,47,660,715,26,7,6,6,2,,,,,,,2,0,Completed,1.07,7.5,1.08,7.25,1.1,6.25,1.111,8.75,,
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Haase R.,Berdych T.,103,10,409,1975,6,4,7,5,,,,,,,2,0,Completed,4.5,1.16,4.65,1.18,4.25,1.2,5.2,1.217,4.3,1.2
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Ferrer D.,Gulbis E.,16,97,1535,442,6,2,6,1,,,,,,,2,0,Completed,1.25,3.75,1.28,3.55,1.25,3.75,1.326,3.77,1.27,3.6
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Wawrinka S.,Lee H.T.,53,36,665,806,6,3,3,6,6,1,,,,,2,1,Completed,2.1,1.66,2.25,1.62,2.15,1.65,2.35,1.69,2.1,1.7
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Russell M.,Almagro N.,67,30,561,890,2,6,7,6,6,3,,,,,2,1,Completed,1.61,2.2,1.65,2.2,1.65,2.15,1.676,2.38,1.64,2.2
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Hewitt L.,Ferrero J.C.,21,17,1180,1525,7,6,6,4,,,,,,,2,0,Completed,1.39,2.75,1.37,3,1.45,2.6,1.42,3.18,1.44,2.7
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Nalbandian D.,Falla A.,26,122,1115,340,6,4,6,3,,,,,,,2,0,Completed,1.4,2.75,1.48,2.6,1.42,2.75,1.488,2.85,1.47,2.6
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Hrbaty D.,Kohlschreiber P.,32,37,875,805,7,6,6,4,,,,,,,2,0,Completed,3.5,1.28,3.2,1.33,3.35,1.3,3.55,1.364,3.2,1.33
+48,Montreal,Rogers Masters,06/08/07,Masters,Outdoor,Hard,1st Round,3,Fognini F.,Polansky P.,139,326,304,107,6,3,7,6,,,,,,,2,0,Completed,1.5,2.5,,,,,1.595,2.58,1.55,2.38
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Odesnik W.,Ljubicic I.,182,11,226,1940,6,3,4,6,7,6,,,,,2,1,Completed,4.5,1.16,4.1,1.22,4.25,1.2,4.85,1.235,4.3,1.2
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Mathieu P.H.,Canas G.,23,15,1125,1675,4,6,7,5,6,0,,,,,2,1,Completed,2.1,1.66,2.1,1.7,2.1,1.7,2.15,1.8,2.1,1.7
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Youzhny M.,Grosjean S.,13,73,1840,528,6,2,6,4,,,,,,,2,0,Completed,1.44,2.62,1.53,2.45,1.55,2.35,1.513,2.8,1.52,2.45
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Dancevic F.,Del Potro J.M.,91,75,452,524,6,4,3,6,6,3,,,,,2,1,Completed,1.83,1.83,1.93,1.83,2.05,1.75,1.909,2,1.88,1.88
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Blake J.,Melzer J.,9,33,1995,875,7,5,7,6,,,,,,,2,0,Completed,1.12,5.5,1.16,5,1.17,4.67,1.19,5.76,1.18,4.6
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Nieminen J.,Benneteau J.,27,59,1090,610,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.53,2.45,1.55,2.4,1.513,2.8,1.5,2.5
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Haas T.,Calleri A.,12,41,1910,760,6,3,7,6,,,,,,,2,0,Completed,1.16,4.5,1.2,4.4,1.2,4.25,1.216,5.23,1.18,4.6
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Karlovic I.,Mirnyi M.,34,96,847,443,4,6,6,3,7,6,,,,,2,1,Completed,1.36,3,1.42,2.8,1.4,2.85,1.417,3.2,1.37,3
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Murray A.,Ginepri R.,14,58,1730,610,6,4,6,3,,,,,,,2,0,Completed,1.44,2.62,1.55,2.4,1.55,2.35,1.556,2.7,1.55,2.38
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Safin M.,Soderling R.,22,28,1125,1035,1,2,,,,,,,,,0,0,Retired,1.83,1.83,1.83,1.93,1.75,2.05,1.806,2.14,1.88,1.88
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,1st Round,3,Verdasco F.,Chela J.I.,35,20,820,1270,3,6,6,1,6,3,,,,,2,1,Completed,1.72,2,1.83,1.93,1.87,1.87,1.926,1.98,1.84,1.92
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,1st Round,3,Baghdatis M.,Moya C.,19,18,1370,1395,7,6,6,1,,,,,,,2,0,Completed,1.53,2.37,1.57,2.35,1.65,2.15,1.617,2.52,1.6,2.28
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,1st Round,3,Ancic M.,Niemeyer F.,38,202,765,201,6,4,6,2,,,,,,,2,0,Completed,1.8,1.9,1.75,2.05,1.7,2.1,1.847,2.08,1.8,1.96
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,2nd Round,3,Stepanek R.,Gonzalez F.,60,6,590,2695,6,7,7,6,6,4,,,,,2,1,Completed,1.72,2,1.67,2.15,1.75,2,1.763,2.21,1.77,2
+48,Montreal,Rogers Masters,07/08/07,Masters,Outdoor,Hard,2nd Round,3,Djokovic N.,Kiefer N.,4,254,3200,150,6,3,6,3,,,,,,,2,0,Completed,1.25,3.75,1.33,3.2,1.28,3.46,1.331,3.72,1.27,3.6
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Verdasco F.,Gasquet R.,35,8,820,2085,3,6,7,6,6,4,,,,,2,1,Completed,3,1.36,3.1,1.35,3,1.35,3.8,1.323,3.25,1.32
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Fognini F.,Murray A.,139,14,304,1730,6,2,6,2,,,,,,,2,0,Completed,8,1.06,7.25,1.08,6.25,1.1,9.1,1.099,7.5,1.08
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Hrbaty D.,Robredo T.,32,7,875,2200,6,2,6,4,,,,,,,2,0,Completed,3.5,1.28,3.1,1.35,3.1,1.35,3.7,1.333,3.1,1.35
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Youzhny M.,Wawrinka S.,13,53,1840,665,6,4,6,4,,,,,,,2,0,Completed,1.33,3.25,1.4,2.85,1.4,2.85,1.391,3.36,1.35,3.1
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Hewitt L.,Blake J.,21,9,1180,1995,,,,,,,,,,,,,Walkover,1.66,2.1,1.67,2.15,1.65,2.15,1.641,2.46,1.68,2.14
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Nalbandian D.,Ferrer D.,26,16,1115,1535,7,6,6,1,,,,,,,2,0,Completed,2.2,1.61,2.35,1.57,2.35,1.55,2.49,1.629,2.28,1.6
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Davydenko N.,Nieminen J.,5,27,3075,1090,6,3,7,6,,,,,,,2,0,Completed,1.66,2.1,1.83,1.93,1.75,2.05,1.794,2.16,1.74,2.04
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Roddick A.,Clement A.,3,47,3290,715,6,1,7,6,,,,,,,2,0,Completed,1.11,6,1.12,6,1.13,5.5,1.138,7.55,1.14,5.3
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Dancevic F.,Odesnik W.,91,182,452,226,6,3,4,6,7,5,,,,,2,1,Completed,1.36,3,1.45,2.7,1.4,2.75,1.429,3.13,1.45,2.68
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Haas T.,Russell M.,12,67,1910,561,6,3,3,0,,,,,,,1,0,Retired,1.11,6,1.16,5,1.17,4.67,1.146,7.25,1.13,5.6
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Federer R.,Karlovic I.,1,34,7290,847,7,6,7,6,,,,,,,2,0,Completed,1.05,8.5,1.05,9,1.07,7.19,1.056,15,1.05,10
+48,Montreal,Rogers Masters,08/08/07,Masters,Outdoor,Hard,2nd Round,3,Mathieu P.H.,Ancic M.,23,38,1125,765,6,3,6,2,,,,,,,2,0,Completed,1.5,2.5,1.53,2.45,1.4,2.85,1.51,2.81,1.5,2.5
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,2nd Round,3,Baghdatis M.,Haase R.,19,103,1370,409,6,2,3,6,6,1,,,,,2,1,Completed,1.22,4,1.25,3.85,1.25,3.9,1.25,4.6,1.28,3.55
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,2nd Round,3,Nadal R.,Safin M.,2,22,5455,1125,7,6,6,0,,,,,,,2,0,Completed,1.14,5,1.14,5.5,1.18,4.45,1.174,6.25,1.15,5.15
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Stepanek R.,Haas T.,60,12,590,1910,6,3,2,6,6,2,,,,,2,1,Completed,2.62,1.44,2.35,1.57,2.28,1.58,2.76,1.538,2.34,1.57
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Davydenko N.,Youzhny M.,5,13,3075,1840,7,6,6,3,,,,,,,2,0,Completed,1.83,1.83,1.93,1.83,1.95,1.8,1.98,1.926,1.9,1.86
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Djokovic N.,Nalbandian D.,4,26,3200,1115,6,2,6,3,,,,,,,2,0,Completed,1.36,3,1.4,2.85,1.4,2.85,1.408,3.25,1.42,2.78
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Federer R.,Fognini F.,1,139,7290,304,6,1,6,1,,,,,,,2,0,Completed,1,17,1.01,16,1.01,13.5,1.017,38.5,1.01,30
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Hewitt L.,Hrbaty D.,21,32,1180,875,6,7,7,6,7,5,,,,,2,1,Completed,1.1,6.5,2,1.78,1.17,4.67,1.161,6.6,1.15,5.15
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Nadal R.,Mathieu P.H.,2,23,5455,1125,3,6,6,3,6,2,,,,,2,1,Completed,1.14,5,1.16,5,1.17,4.67,1.221,5.12,1.18,4.6
+48,Montreal,Rogers Masters,09/08/07,Masters,Outdoor,Hard,3rd Round,3,Dancevic F.,Verdasco F.,91,35,452,820,4,6,6,4,6,3,,,,,2,1,Completed,2.62,1.44,2.4,1.55,2.35,1.55,2.83,1.493,2.45,1.53
+48,Montreal,Rogers Masters,10/08/07,Masters,Outdoor,Hard,3rd Round,3,Roddick A.,Baghdatis M.,3,19,3290,1370,6,2,6,3,,,,,,,2,0,Completed,1.53,2.37,1.5,2.5,1.5,2.45,1.606,2.55,1.5,2.5
+48,Montreal,Rogers Masters,10/08/07,Masters,Outdoor,Hard,Quarterfinals,3,Stepanek R.,Davydenko N.,60,5,590,3075,6,4,7,5,,,,,,,2,0,Completed,2.5,1.53,2.35,1.57,2.35,1.55,2.64,1.575,2.4,1.55
+48,Montreal,Rogers Masters,10/08/07,Masters,Outdoor,Hard,Quarterfinals,3,Federer R.,Hewitt L.,1,21,7290,1180,6,3,6,4,,,,,,,2,0,Completed,1.04,11,1.04,10,1.05,8.5,1.056,15,1.06,9
+48,Montreal,Rogers Masters,10/08/07,Masters,Outdoor,Hard,Quarterfinals,3,Djokovic N.,Roddick A.,4,3,3200,3290,7,6,6,4,,,,,,,2,0,Completed,1.66,2.2,1.65,2.2,1.7,2.1,1.704,2.32,1.6,2.3
+48,Montreal,Rogers Masters,11/08/07,Masters,Outdoor,Hard,Quarterfinals,3,Nadal R.,Dancevic F.,2,91,5455,452,4,6,6,2,6,3,,,,,2,1,Completed,1.05,10,1.04,10,1.07,7.19,1.083,11,1.06,9
+48,Montreal,Rogers Masters,11/08/07,Masters,Outdoor,Hard,Semifinals,3,Federer R.,Stepanek R.,1,60,7290,590,7,6,6,2,,,,,,,2,0,Completed,1.03,12,1.03,11,1.03,10.5,1.061,14,1.04,10
+48,Montreal,Rogers Masters,12/08/07,Masters,Outdoor,Hard,Semifinals,3,Djokovic N.,Nadal R.,4,2,3200,5455,7,5,6,3,,,,,,,2,0,Completed,2.2,1.66,2.05,1.75,2.1,1.7,2.21,1.763,2,1.8
+48,Montreal,Rogers Masters,13/08/07,Masters,Outdoor,Hard,The Final,3,Djokovic N.,Federer R.,4,1,3200,7290,7,6,2,6,7,6,,,,,2,1,Completed,4.33,1.22,4.25,1.22,4.25,1.2,4.5,1.263,4.2,1.22

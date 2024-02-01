@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+11,Memphis,Memphis Open,08/02/16,ATP250,Indoor,Hard,1st Round,3,Kudla D.,Ram R.,59,88,772,622,6,4,6,2,,,,,,,2,0,Completed,1.72,2,1.72,2.05,1.73,2.1,1.69,2.28,1.85,2.28,1.72,2.09
+11,Memphis,Memphis Open,08/02/16,ATP250,Indoor,Hard,1st Round,3,Kukushkin M.,Vanni L.,93,103,612,560,6,4,7,6,,,,,,,2,0,Completed,1.61,2.2,1.62,2.25,1.57,2.38,1.68,2.31,1.68,2.38,1.63,2.25
+11,Memphis,Memphis Open,08/02/16,ATP250,Indoor,Hard,1st Round,3,Nishioka Y.,Donaldson J.,130,159,471,366,6,3,6,4,,,,,,,2,0,Completed,1.9,1.8,1.88,1.88,1.91,1.91,2.01,1.88,2.01,1.95,1.9,1.87
+11,Memphis,Memphis Open,08/02/16,ATP250,Indoor,Hard,1st Round,3,Marchenko I.,Groth S.,82,77,658,702,7,6,7,6,,,,,,,2,0,Completed,1.53,2.37,1.58,2.35,1.57,2.38,1.67,2.33,1.67,2.42,1.59,2.32
+11,Memphis,Memphis Open,09/02/16,ATP250,Indoor,Hard,1st Round,3,Harrison R.,Tiafoe F.,124,176,483,309,6,7,7,6,6,4,,,,,2,1,Completed,2,1.72,2.05,1.72,2,1.8,2.07,1.83,2.11,1.91,2.03,1.77
+11,Memphis,Memphis Open,09/02/16,ATP250,Indoor,Hard,1st Round,3,Granollers M.,Jaziri M.,98,120,588,486,6,1,6,3,,,,,,,2,0,Completed,1.61,2.2,1.65,2.2,1.57,2.38,1.74,2.2,1.75,2.38,1.66,2.2
+11,Memphis,Memphis Open,09/02/16,ATP250,Indoor,Hard,1st Round,3,Millman J.,Krajicek A.,66,95,746,608,6,3,6,7,7,5,,,,,2,1,Completed,1.4,2.75,1.42,2.8,1.44,2.75,1.49,2.81,1.49,2.85,1.44,2.73
+11,Memphis,Memphis Open,09/02/16,ATP250,Indoor,Hard,1st Round,3,Laaksonen H.,Ebden M.,188,105,279,542,6,1,3,0,,,,,,,1,0,Retired,1.66,2.1,1.65,2.2,1.67,2.2,1.74,2.2,1.74,2.38,1.64,2.23
+11,Memphis,Memphis Open,09/02/16,ATP250,Indoor,Hard,1st Round,3,Berankis R.,Sela D.,102,91,581,613,6,7,6,2,7,5,,,,,2,1,Completed,1.83,1.83,1.8,1.9,1.91,1.91,1.94,1.94,1.94,2,1.87,1.91
+11,Memphis,Memphis Open,09/02/16,ATP250,Indoor,Hard,1st Round,3,Fritz T.,Mmoh M.,145,387,414,113,6,3,6,4,,,,,,,2,0,Completed,1.16,5,1.18,4.3,1.2,4.5,1.19,5.37,1.21,5.37,1.18,4.67
+11,Memphis,Memphis Open,10/02/16,ATP250,Indoor,Hard,1st Round,3,Dzumhur D.,Smyczek T.,78,128,698,478,6,3,4,6,6,3,,,,,2,1,Completed,2.37,1.53,2.4,1.55,2.38,1.57,2.29,1.69,2.4,1.69,2.3,1.6
+11,Memphis,Memphis Open,10/02/16,ATP250,Indoor,Hard,1st Round,3,Becker B.,Paul T.,107,251,525,215,6,4,3,6,6,3,,,,,2,1,Completed,1.36,3,1.38,3,1.4,3,1.4,3.15,1.42,3.15,1.38,2.93
+11,Memphis,Memphis Open,10/02/16,ATP250,Indoor,Hard,2nd Round,3,Kukushkin M.,Kudla D.,93,59,612,772,6,1,7,5,,,,,,,2,0,Completed,1.83,1.83,1.88,1.88,1.91,1.91,1.84,2.08,1.91,2.1,1.83,1.95
+11,Memphis,Memphis Open,10/02/16,ATP250,Indoor,Hard,2nd Round,3,Nishioka Y.,Marchenko I.,130,82,471,658,6,1,6,3,,,,,,,2,0,Completed,2.62,1.44,2.7,1.45,2.62,1.5,2.81,1.5,2.81,1.5,2.64,1.46
+11,Memphis,Memphis Open,10/02/16,ATP250,Indoor,Hard,2nd Round,3,Querrey S.,Laaksonen H.,58,188,785,279,6,3,6,4,,,,,,,2,0,Completed,1.18,4.5,1.22,3.9,1.2,4.5,1.26,4.38,1.26,4.7,1.22,4.19
+11,Memphis,Memphis Open,11/02/16,ATP250,Indoor,Hard,2nd Round,3,Nishikori K.,Harrison R.,7,124,4235,483,6,2,7,5,,,,,,,2,0,Completed,1.04,13,1.03,11,1.05,10,1.05,13.95,1.05,13.95,1.04,11.32
+11,Memphis,Memphis Open,11/02/16,ATP250,Indoor,Hard,2nd Round,3,Berankis R.,Dzumhur D.,102,78,581,698,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,1.53,2.5,1.45,2.99,1.57,2.99,1.47,2.66
+11,Memphis,Memphis Open,11/02/16,ATP250,Indoor,Hard,2nd Round,3,Young D.,Granollers M.,48,98,847,588,6,1,7,6,,,,,,,2,0,Completed,1.57,2.25,1.6,2.3,1.67,2.2,1.66,2.37,1.68,2.37,1.63,2.23
+11,Memphis,Memphis Open,11/02/16,ATP250,Indoor,Hard,2nd Round,3,Becker B.,Millman J.,107,66,525,746,6,2,7,6,,,,,,,2,0,Completed,2.62,1.44,2.5,1.5,2.5,1.53,2.66,1.54,2.78,1.54,2.57,1.49
+11,Memphis,Memphis Open,12/02/16,ATP250,Indoor,Hard,2nd Round,3,Fritz T.,Johnson S.,145,29,414,1240,7,6,7,6,,,,,,,2,0,Completed,2.62,1.44,2.5,1.5,2.62,1.5,2.69,1.53,2.78,1.53,2.59,1.49
+11,Memphis,Memphis Open,12/02/16,ATP250,Indoor,Hard,Quarterfinals,3,Fritz T.,Becker B.,145,107,414,525,6,4,5,7,7,6,,,,,2,1,Completed,1.5,2.5,1.55,2.4,1.57,2.38,1.57,2.6,1.6,2.6,1.55,2.42
+11,Memphis,Memphis Open,12/02/16,ATP250,Indoor,Hard,Quarterfinals,3,Berankis R.,Young D.,102,48,581,847,7,6,6,1,,,,,,,2,0,Completed,2.25,1.57,2.2,1.65,2.25,1.62,2.32,1.7,2.35,1.72,2.21,1.65
+11,Memphis,Memphis Open,12/02/16,ATP250,Indoor,Hard,Quarterfinals,3,Querrey S.,Nishioka Y.,58,130,785,471,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.9,1.44,2.75,1.49,2.88,1.5,3.01,1.43,2.75
+11,Memphis,Memphis Open,13/02/16,ATP250,Indoor,Hard,Quarterfinals,3,Nishikori K.,Kukushkin M.,7,93,4235,612,6,2,6,4,,,,,,,2,0,Completed,1.06,10,1.08,7.5,1.08,8,1.1,9.05,1.1,10.5,1.07,8.54
+11,Memphis,Memphis Open,13/02/16,ATP250,Indoor,Hard,Semifinals,3,Fritz T.,Berankis R.,145,102,414,581,2,6,6,3,6,4,,,,,2,1,Completed,1.72,2.1,1.72,2.05,1.67,2.2,1.83,2.12,1.83,2.2,1.73,2.08
+11,Memphis,Memphis Open,14/02/16,ATP250,Indoor,Hard,Semifinals,3,Nishikori K.,Querrey S.,7,58,4235,785,3,6,6,3,6,3,,,,,2,1,Completed,1.16,5,1.18,4.4,1.17,5,1.21,5.14,1.22,5.14,1.18,4.7
+11,Memphis,Memphis Open,14/02/16,ATP250,Indoor,Hard,The Final,3,Nishikori K.,Fritz T.,7,145,4235,414,6,4,6,4,,,,,,,2,0,Completed,1.12,6,1.14,5.25,1.12,6,1.14,7.14,1.15,7.14,1.13,6.02

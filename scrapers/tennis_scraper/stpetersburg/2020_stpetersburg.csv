@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+25,St. Petersburg,St. Petersburg Open,12/10/2020,ATP250,Indoor,Hard,1st Round,3,Karatsev A.,Sandgren T.,117,48,534,1078,7,5,3,6,7,5,,,,,2,1,Completed,2.37,1.53,2.34,1.66,2.45,1.67,2.28,1.61
+25,St. Petersburg,St. Petersburg Open,12/10/2020,ATP250,Indoor,Hard,1st Round,3,Norrie C.,Fritz T.,75,28,807,1670,6,4,4,6,6,3,,,,,2,1,Completed,3,1.36,3.13,1.41,3.25,1.41,3.03,1.38
+25,St. Petersburg,St. Petersburg Open,12/10/2020,ATP250,Indoor,Hard,1st Round,3,Bublik A.,Mcdonald M.,52,221,1045,252,2,6,7,6,6,4,,,,,2,1,Completed,1.4,2.75,1.47,2.85,1.51,2.93,1.45,2.72
+25,St. Petersburg,St. Petersburg Open,12/10/2020,ATP250,Indoor,Hard,1st Round,3,Donskoy E.,Gerasimov E.,121,85,505,755,6,4,7,6,,,,,,,2,0,Completed,3.25,1.33,3.35,1.37,3.64,1.37,3.25,1.34
+25,St. Petersburg,St. Petersburg Open,12/10/2020,ATP250,Indoor,Hard,1st Round,3,Wawrinka S.,Evans D.,18,34,2185,1384,3,6,7,6,7,5,,,,,2,1,Completed,1.53,2.37,1.47,2.85,1.6,2.85,1.52,2.52
+25,St. Petersburg,St. Petersburg Open,13/10/2020,ATP250,Indoor,Hard,1st Round,3,Coric B.,Lopez F.,27,60,1670,953,6,3,7,6,,,,,,,2,0,Completed,1.4,2.75,1.41,3.14,1.45,3.38,1.38,3.03
+25,St. Petersburg,St. Petersburg Open,13/10/2020,ATP250,Indoor,Hard,1st Round,3,Ivashka I.,Mannarino A.,141,39,425,1271,6,3,7,6,,,,,,,2,0,Completed,2,1.75,2.16,1.76,2.2,1.8,2.09,1.73
+25,St. Petersburg,St. Petersburg Open,13/10/2020,ATP250,Indoor,Hard,1st Round,3,Raonic M.,Wolf J.J.,21,123,2040,492,7,6,6,1,,,,,,,2,0,Completed,1.3,3.4,1.3,3.82,1.33,4,1.29,3.6
+25,St. Petersburg,St. Petersburg Open,13/10/2020,ATP250,Indoor,Hard,1st Round,3,Kecmanovic M.,Kukushkin M.,41,88,1258,751,6,3,7,6,,,,,,,2,0,Completed,1.57,2.25,1.59,2.5,1.67,2.55,1.58,2.37
+25,St. Petersburg,St. Petersburg Open,13/10/2020,ATP250,Indoor,Hard,1st Round,3,Khachanov K.,Duckworth J.,17,93,2200,701,6,4,6,4,,,,,,,2,0,Completed,1.08,8,1.1,8.16,1.13,8.16,1.1,7.13
+25,St. Petersburg,St. Petersburg Open,13/10/2020,ATP250,Indoor,Hard,1st Round,3,Rublev A.,Pospisil V.,10,79,2974,787,6,2,6,4,,,,,,,2,0,Completed,1.4,2.75,1.38,3.27,1.5,3.27,1.4,2.92
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,1st Round,3,Opelka R.,Serdarusic N.,36,308,1312,142,3,6,7,6,6,2,,,,,2,1,Completed,1.16,5,1.23,4.69,1.24,5.08,1.2,4.5
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,1st Round,3,Shapovalov D.,Troicki V.,12,197,2695,298,6,2,6,3,,,,,,,2,0,Completed,1.11,6.5,1.13,7.04,1.13,7.7,1.11,6.55
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,1st Round,3,Safiullin R.,Gomez E.,199,151,298,392,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.57,2.55,1.59,2.63,1.54,2.46
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,1st Round,3,Humbert U.,Kotov P.,38,286,1286,166,4,6,6,2,6,3,,,,,2,1,Completed,1.2,4.33,1.19,5.3,1.24,5.3,1.2,4.49
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,1st Round,3,Medvedev D.,Gasquet R.,6,53,5890,1030,3,6,6,3,6,0,,,,,2,1,Completed,1.12,6,1.13,7.13,1.15,7.13,1.12,6.12
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,2nd Round,3,Norrie C.,Kecmanovic M.,75,41,807,1258,7,5,6,7,6,3,,,,,2,1,Completed,2.37,1.53,2.37,1.66,2.45,1.67,2.33,1.6
+25,St. Petersburg,St. Petersburg Open,14/10/2020,ATP250,Indoor,Hard,2nd Round,3,Wawrinka S.,Donskoy E.,18,121,2185,505,6,1,3,6,6,3,,,,,2,1,Completed,1.2,4.33,1.2,5.26,1.25,5.26,1.19,4.66
+25,St. Petersburg,St. Petersburg Open,15/10/2020,ATP250,Indoor,Hard,2nd Round,3,Shapovalov D.,Ivashka I.,12,141,2695,425,6,1,6,4,,,,,,,2,0,Completed,1.18,4.5,1.16,6.16,1.21,6.16,1.18,4.74
+25,St. Petersburg,St. Petersburg Open,15/10/2020,ATP250,Indoor,Hard,2nd Round,3,Coric B.,Safiullin R.,27,199,1670,298,6,3,7,5,,,,,,,2,0,Completed,1.16,5,1.22,4.83,1.23,5.8,1.2,4.59
+25,St. Petersburg,St. Petersburg Open,15/10/2020,ATP250,Indoor,Hard,2nd Round,3,Rublev A.,Humbert U.,10,38,2974,1286,4,6,6,4,7,5,,,,,2,1,Completed,1.18,4.5,1.16,6.06,1.2,6.06,1.16,5.18
+25,St. Petersburg,St. Petersburg Open,15/10/2020,ATP250,Indoor,Hard,2nd Round,3,Opelka R.,Medvedev D.,36,6,1312,5890,2,6,7,5,6,4,,,,,2,1,Completed,4.33,1.2,5.71,1.18,5.71,1.24,4.78,1.19
+25,St. Petersburg,St. Petersburg Open,15/10/2020,ATP250,Indoor,Hard,2nd Round,3,Khachanov K.,Karatsev A.,17,117,2200,534,4,6,7,5,6,3,,,,,2,1,Completed,1.25,3.75,1.23,4.73,1.28,4.73,1.23,4.09
+25,St. Petersburg,St. Petersburg Open,15/10/2020,ATP250,Indoor,Hard,2nd Round,3,Raonic M.,Bublik A.,21,52,2040,1045,6,3,6,2,,,,,,,2,0,Completed,1.4,2.75,1.43,3.06,1.45,3.25,1.39,2.98
+25,St. Petersburg,St. Petersburg Open,16/10/2020,ATP250,Indoor,Hard,Quarterfinals,3,Rublev A.,Norrie C.,10,75,2974,807,6,2,6,1,,,,,,,2,0,Completed,1.05,11,1.13,7.13,1.14,11,1.11,6.61
+25,St. Petersburg,St. Petersburg Open,16/10/2020,ATP250,Indoor,Hard,Quarterfinals,3,Shapovalov D.,Wawrinka S.,12,18,2695,2185,6,4,7,5,,,,,,,2,0,Completed,1.44,2.62,1.51,2.77,1.58,2.8,1.48,2.66
+25,St. Petersburg,St. Petersburg Open,16/10/2020,ATP250,Indoor,Hard,Quarterfinals,3,Coric B.,Opelka R.,27,36,1670,1312,7,6,6,3,,,,,,,2,0,Completed,1.95,1.8,1.91,2,1.95,2.05,1.88,1.93
+25,St. Petersburg,St. Petersburg Open,16/10/2020,ATP250,Indoor,Hard,Quarterfinals,3,Raonic M.,Khachanov K.,21,17,2040,2200,6,1,7,6,,,,,,,2,0,Completed,1.5,2.5,1.48,2.87,1.53,2.92,1.47,2.68
+25,St. Petersburg,St. Petersburg Open,17/10/2020,ATP250,Indoor,Hard,Semifinals,3,Rublev A.,Shapovalov D.,10,12,2974,2695,4,6,6,3,6,4,,,,,2,1,Completed,1.66,2.1,1.65,2.39,1.72,2.39,1.63,2.27
+25,St. Petersburg,St. Petersburg Open,17/10/2020,ATP250,Indoor,Hard,Semifinals,3,Coric B.,Raonic M.,27,21,1670,2040,1,6,6,1,6,4,,,,,2,1,Completed,3,1.36,3.24,1.4,3.82,1.4,3.23,1.35
+25,St. Petersburg,St. Petersburg Open,18/10/2020,ATP250,Indoor,Hard,The Final,3,Rublev A.,Coric B.,10,27,2974,1670,7,6,7,5,,,,,,,2,0,Completed,1.22,4,1.29,4.12,1.3,4.33,1.25,3.93

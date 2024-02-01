@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+26,Estoril,Millennium Estoril Open,25/04/2022,ATP250,Outdoor,Clay,1st Round,3,Kwon S.W.,Paire B.,71,60,858,899,6,4,7,5,,,,,,,2,0,Completed,1.53,2.5,1.6,2.47,1.68,2.64,1.56,2.4
+26,Estoril,Millennium Estoril Open,25/04/2022,ATP250,Outdoor,Clay,1st Round,3,Borges N.,Andujar P.,131,82,493,781,6,4,3,0,,,,,,,1,0,Retired,2,1.8,2.13,1.79,2.13,1.91,2.03,1.77
+26,Estoril,Millennium Estoril Open,25/04/2022,ATP250,Outdoor,Clay,1st Round,3,Tiafoe F.,Lajovic D.,29,78,1513,801,2,6,7,5,6,0,,,,,2,1,Completed,1.53,2.5,1.55,2.61,1.58,2.64,1.54,2.46
+26,Estoril,Millennium Estoril Open,25/04/2022,ATP250,Outdoor,Clay,1st Round,3,Zapata Miralles B.,Coria F.,123,52,538,981,6,4,6,3,,,,,,,2,0,Completed,2.2,1.66,2.09,1.81,2.35,1.81,2.16,1.68
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Carballes Baena R.,107,100,619,683,6,3,3,6,7,6,,,,,2,1,Completed,2,1.8,2.06,1.83,2.06,1.86,2,1.81
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Taberner C.,Harris L.,92,39,729,1210,6,3,6,4,,,,,,,2,0,Completed,1.57,2.37,1.6,2.48,1.62,2.49,1.58,2.37
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Gasquet R.,Paul T.,80,34,786,1243,7,5,6,2,,,,,,,2,0,Completed,2.75,1.44,2.72,1.51,3.5,1.53,2.69,1.46
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Dellien H.,Vesely J.,85,74,758,847,6,3,6,3,,,,,,,2,0,Completed,1.53,2.5,1.49,2.81,1.55,2.81,1.5,2.58
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Baez S.,Sousa J.,59,83,921,765,6,1,6,3,,,,,,,2,0,Completed,1.33,3.4,1.29,3.94,1.38,3.94,1.33,3.32
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Thompson J.,31,87,1266,748,6,4,3,6,6,4,,,,,2,1,Completed,1.22,4.33,1.23,4.57,1.25,4.57,1.22,4.16
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Bonzi B.,Thiem D.,58,93,921,725,6,3,7,6,,,,,,,2,0,Completed,2.75,1.44,2.7,1.52,3.03,1.55,2.74,1.45
+26,Estoril,Millennium Estoril Open,26/04/2022,ATP250,Outdoor,Clay,1st Round,3,Korda S.,Herbert P.H.,37,157,1215,387,6,2,6,4,,,,,,,2,0,Completed,1.25,4,1.25,4.34,1.29,4.5,1.24,4.02
+26,Estoril,Millennium Estoril Open,27/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Zapata Miralles B.,28,123,1515,538,6,3,7,6,,,,,,,2,0,Completed,1.36,3.2,1.44,3.04,1.44,3.25,1.38,3.01
+26,Estoril,Millennium Estoril Open,27/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Tiafoe F.,Borges N.,29,131,1513,493,7,6,4,6,6,0,,,,,2,1,Completed,1.61,2.3,1.68,2.34,1.68,2.54,1.59,2.35
+26,Estoril,Millennium Estoril Open,27/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Cuevas P.,118,107,554,619,6,2,6,3,,,,,,,2,0,Completed,2.1,1.72,2.33,1.68,2.34,1.75,2.19,1.68
+26,Estoril,Millennium Estoril Open,27/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Kwon S.W.,31,71,1266,858,5,7,6,1,6,2,,,,,2,1,Completed,1.44,2.75,1.44,3.02,1.46,3.57,1.41,2.89
+26,Estoril,Millennium Estoril Open,28/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Gasquet R.,Dellien H.,80,85,786,758,7,6,6,2,,,,,,,2,0,Completed,2.2,1.66,2.26,1.72,2.4,1.76,2.18,1.68
+26,Estoril,Millennium Estoril Open,28/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Baez S.,Cilic M.,59,23,921,1740,1,6,6,1,6,4,,,,,2,1,Completed,1.72,2.1,1.83,2.09,1.83,2.36,1.7,2.14
+26,Estoril,Millennium Estoril Open,28/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Auger-Aliassime F.,Taberner C.,10,92,3625,729,1,6,6,2,6,2,,,,,2,1,Completed,1.33,3.4,1.38,3.35,1.39,3.45,1.34,3.24
+26,Estoril,Millennium Estoril Open,28/04/2022,ATP250,Outdoor,Clay,2nd Round,3,Korda S.,Bonzi B.,37,58,1215,921,6,3,6,3,,,,,,,2,0,Completed,1.36,3.2,1.37,3.4,1.39,3.4,1.35,3.15
+26,Estoril,Millennium Estoril Open,29/04/2022,ATP250,Outdoor,Clay,Quarterfinals,3,Ramos-Vinolas A.,Verdasco F.,31,118,1266,554,6,2,6,2,,,,,,,2,0,Completed,1.36,3.2,1.41,3.15,1.41,3.58,1.36,3.1
+26,Estoril,Millennium Estoril Open,29/04/2022,ATP250,Outdoor,Clay,Quarterfinals,3,Baez S.,Gasquet R.,59,80,921,786,3,6,6,1,6,4,,,,,2,1,Completed,1.4,3,1.41,3.15,1.45,3.15,1.41,2.89
+26,Estoril,Millennium Estoril Open,29/04/2022,ATP250,Outdoor,Clay,Quarterfinals,3,Tiafoe F.,Davidovich Fokina A.,29,28,1513,1515,7,6,5,7,7,5,,,,,2,1,Completed,2.75,1.44,2.81,1.5,2.92,1.5,2.72,1.46
+26,Estoril,Millennium Estoril Open,29/04/2022,ATP250,Outdoor,Clay,Quarterfinals,3,Korda S.,Auger-Aliassime F.,37,10,1215,3625,6,2,6,2,,,,,,,2,0,Completed,2,1.8,2.12,1.81,2.19,1.83,2.01,1.79
+26,Estoril,Millennium Estoril Open,30/04/2022,ATP250,Outdoor,Clay,Semifinals,3,Baez S.,Ramos-Vinolas A.,59,31,921,1266,6,3,6,7,6,0,,,,,2,1,Completed,1.61,2.3,1.66,2.37,1.75,2.37,1.65,2.23
+26,Estoril,Millennium Estoril Open,30/04/2022,ATP250,Outdoor,Clay,Semifinals,3,Tiafoe F.,Korda S.,29,37,1513,1215,4,6,7,6,6,4,,,,,2,1,Completed,3.2,1.36,3.17,1.41,3.49,1.42,3.12,1.36
+26,Estoril,Millennium Estoril Open,01/05/2022,ATP250,Outdoor,Clay,The Final,3,Baez S.,Tiafoe F.,59,29,921,1513,6,3,6,2,,,,,,,1,0,Completed,1.57,2.37,1.6,2.5,1.65,2.52,1.58,2.38

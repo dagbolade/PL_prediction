@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+52,Bangkok,Thailand Open,27/09/10,ATP250,Indoor,Hard,1st Round,3,Serra F.,Gabashvili T.,70,99,700,565,6,7,6,4,6,4,,,,,2,1,Completed,1.72,2,1.8,1.95,1.83,1.83,1.85,2.09,1.83,1.83,1.9,2.1,1.78,1.96
+52,Bangkok,Thailand Open,27/09/10,ATP250,Indoor,Hard,1st Round,3,Brands D.,Marchenko I.,81,74,641,686,6,3,6,4,,,,,,,2,0,Completed,2.5,1.5,2.35,1.55,2.25,1.57,2.52,1.61,2.38,1.53,2.52,1.61,2.4,1.54
+52,Bangkok,Thailand Open,27/09/10,ATP250,Indoor,Hard,1st Round,3,De Bakker T.,Lopez M.,47,729,973,20,7,5,6,0,,,,,,,2,0,Completed,1.06,8,1.1,6.5,1.08,7,1.08,11,1.08,6.5,1.1,11,1.07,7.72
+52,Bangkok,Thailand Open,27/09/10,ATP250,Indoor,Hard,1st Round,3,Troicki V.,Chiudinelli M.,48,68,945,717,6,3,6,1,,,,,,,2,0,Completed,1.28,3.5,1.3,3.3,1.25,3.75,1.35,3.57,1.25,3.5,1.35,3.8,1.28,3.48
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Kukushkin M.,Deheart R.,83,270,628,168,6,3,6,7,6,4,,,,,2,1,Completed,1.33,3.25,1.35,3,1.36,3,1.39,3.34,1.36,2.88,1.39,3.34,1.36,3.04
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Sela D.,Kravchuk K.,85,134,623,416,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.4,2.8,1.4,2.75,1.57,2.61,1.4,2.75,1.57,2.95,1.46,2.62
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Schuettler R.,Mello R.,90,80,605,645,6,4,6,2,,,,,,,2,0,Completed,1.66,2.1,1.72,2.05,1.67,2.1,1.8,2.14,1.67,2.1,1.81,2.17,1.73,2.04
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Bemelmans R.,Nielsen F.,195,279,258,161,6,2,6,3,,,,,,,2,0,Completed,1.57,2.25,1.55,2.35,1.57,2.25,1.63,2.46,1.5,2.5,1.69,2.5,1.6,2.28
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Nieminen J.,Udomchoke D.,60,686,820,26,6,3,6,2,,,,,,,2,0,Completed,1.2,4.33,1.25,3.7,1.29,3.5,1.26,4.44,1.29,3.25,1.32,4.9,1.24,3.92
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Garcia-Lopez G.,Berrer M.,53,51,900,917,6,4,7,6,,,,,,,2,0,Completed,1.83,1.83,1.9,1.85,1.83,1.83,2.02,1.91,1.73,2,2.02,2,1.83,1.9
+52,Bangkok,Thailand Open,28/09/10,ATP250,Indoor,Hard,1st Round,3,Rochus O.,Del Potro J.M.,78,36,665,1170,7,6,6,4,,,,,,,2,0,Completed,2.75,1.4,2.8,1.4,2.5,1.5,2.84,1.5,2.63,1.44,2.9,1.55,2.61,1.47
+52,Bangkok,Thailand Open,29/09/10,ATP250,Indoor,Hard,1st Round,3,Becker B.,Zverev M.,65,115,737,477,6,1,6,4,,,,,,,2,0,Completed,1.57,2.25,1.55,2.35,1.53,2.38,1.69,2.33,1.5,2.5,1.75,2.6,1.58,2.31
+52,Bangkok,Thailand Open,29/09/10,ATP250,Indoor,Hard,2nd Round,3,Garcia-Lopez G.,Serra F.,53,70,900,700,7,5,6,7,7,5,,,,,2,1,Completed,1.66,2.1,1.75,2,1.62,2.2,1.71,2.29,1.62,2.2,1.8,2.29,1.7,2.09
+52,Bangkok,Thailand Open,29/09/10,ATP250,Indoor,Hard,2nd Round,3,Melzer J.,Sela D.,13,85,2605,623,6,3,6,4,,,,,,,2,0,Completed,1.2,4.33,1.25,3.75,1.2,4.33,1.28,4.23,1.2,4,1.28,4.55,1.22,4.01
+52,Bangkok,Thailand Open,29/09/10,ATP250,Indoor,Hard,2nd Round,3,Gulbis E.,Schuettler R.,25,90,1515,605,7,6,6,7,6,4,,,,,2,1,Completed,1.25,3.75,1.3,3.3,1.29,3.5,1.31,3.92,1.29,3.25,1.32,3.92,1.29,3.45
+52,Bangkok,Thailand Open,29/09/10,ATP250,Indoor,Hard,2nd Round,3,Brands D.,De Bakker T.,81,47,641,973,7,6,1,6,7,6,,,,,2,1,Completed,3.25,1.33,3.3,1.3,3.25,1.33,3.34,1.39,3.25,1.29,3.5,1.4,3.18,1.33
+52,Bangkok,Thailand Open,30/09/10,ATP250,Indoor,Hard,2nd Round,3,Nieminen J.,Troicki V.,60,48,820,945,7,6,6,2,,,,,,,2,0,Completed,3.25,1.33,3,1.35,3,1.36,3.21,1.41,3,1.33,3.4,1.41,3.02,1.36
+52,Bangkok,Thailand Open,30/09/10,ATP250,Indoor,Hard,2nd Round,3,Becker B.,Verdasco F.,65,8,737,3330,6,4,6,4,,,,,,,2,0,Completed,3.75,1.25,3.75,1.25,4,1.22,3.6,1.35,4,1.2,4.33,1.35,3.67,1.27
+52,Bangkok,Thailand Open,30/09/10,ATP250,Indoor,Hard,2nd Round,3,Nadal R.,Bemelmans R.,1,195,12025,258,6,1,6,4,,,,,,,2,0,Completed,1.005,21,1.01,15,1.01,17,1.02,31,1.02,13,1.02,51,1.01,18.42
+52,Bangkok,Thailand Open,30/09/10,ATP250,Indoor,Hard,2nd Round,3,Kukushkin M.,Rochus O.,83,78,628,665,6,4,5,7,6,3,,,,,2,1,Completed,2.2,1.61,2.25,1.6,2.1,1.67,2.36,1.68,2.1,1.67,2.4,1.8,2.14,1.68
+52,Bangkok,Thailand Open,01/10/10,ATP250,Indoor,Hard,Quarterfinals,3,Nieminen J.,Melzer J.,60,13,820,2605,6,3,7,6,,,,,,,2,0,Completed,3.5,1.28,3,1.35,3,1.36,3.71,1.33,3.25,1.33,3.8,1.36,3.23,1.32
+52,Bangkok,Thailand Open,01/10/10,ATP250,Indoor,Hard,Quarterfinals,3,Becker B.,Brands D.,65,81,737,641,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.5,2.45,1.5,2.5,1.5,2.83,1.57,2.38,1.58,2.86,1.49,2.53
+52,Bangkok,Thailand Open,01/10/10,ATP250,Indoor,Hard,Quarterfinals,3,Nadal R.,Kukushkin M.,1,83,12025,628,6,2,6,3,,,,,,,2,0,Completed,1.01,13,1.01,15,1.02,11,1.03,19,1.04,9,1.04,27,1.02,13.74
+52,Bangkok,Thailand Open,01/10/10,ATP250,Indoor,Hard,Quarterfinals,3,Garcia-Lopez G.,Gulbis E.,53,25,900,1515,7,6,4,6,6,3,,,,,2,1,Completed,3.5,1.28,3.25,1.3,3.25,1.33,3.65,1.34,3.5,1.29,4.1,1.37,3.34,1.31
+52,Bangkok,Thailand Open,02/10/10,ATP250,Indoor,Hard,Semifinals,3,Nieminen J.,Becker B.,60,65,820,737,6,3,6,2,,,,,,,2,0,Completed,1.72,2,1.8,1.95,1.73,2,1.79,2.16,1.8,2,1.83,2.16,1.77,2
+52,Bangkok,Thailand Open,02/10/10,ATP250,Indoor,Hard,Semifinals,3,Garcia-Lopez G.,Nadal R.,53,1,900,12025,2,6,7,6,6,3,,,,,2,1,Completed,12,1.02,10,1.03,9,1.04,18.5,1.03,13,1.02,18.5,1.05,12.21,1.03
+52,Bangkok,Thailand Open,03/10/10,ATP250,Indoor,Hard,The Final,3,Garcia-Lopez G.,Nieminen J.,53,60,900,820,6,4,3,6,6,4,,,,,2,1,Completed,2.2,1.66,2,1.75,2,1.73,2.35,1.68,2.1,1.73,2.36,2.14,1.8,1.68

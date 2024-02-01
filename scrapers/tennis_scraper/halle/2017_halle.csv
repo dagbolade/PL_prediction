@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+36,Halle,Gerry Weber Open,19/06/17,ATP500,Outdoor,Grass,1st Round,3,Kohlschreiber P.,Sousa J.,56,57,840,830,3,6,6,4,6,4,,,,,2,1,Completed,1.18,4.5,1.17,4.4,1.2,4.5,1.21,4.9,1.21,5,1.19,4.53
+36,Halle,Gerry Weber Open,19/06/17,ATP500,Outdoor,Grass,1st Round,3,Rublev A.,Ramos-Vinolas A.,106,22,503,1885,6,7,7,5,6,4,,,,,2,1,Completed,2.25,1.57,2.2,1.6,2.25,1.61,2.33,1.67,2.38,1.73,2.27,1.62
+36,Halle,Gerry Weber Open,19/06/17,ATP500,Outdoor,Grass,1st Round,3,Brown D.,Pospisil V.,95,76,560,671,6,1,6,7,7,6,,,,,2,1,Completed,2.37,1.53,2.5,1.47,2.62,1.5,2.73,1.51,2.75,1.54,2.59,1.49
+36,Halle,Gerry Weber Open,19/06/17,ATP500,Outdoor,Grass,1st Round,3,Gasquet R.,Monfils G.,30,16,1335,2545,3,6,6,4,6,3,,,,,2,1,Completed,2.1,1.66,2,1.72,2,1.8,2.16,1.76,2.25,1.8,2.13,1.7
+36,Halle,Gerry Weber Open,19/06/17,ATP500,Outdoor,Grass,1st Round,3,Thiem D.,Marterer M.,8,122,3895,449,7,5,6,3,,,,,,,2,0,Completed,1.16,5,1.14,5,1.17,5,1.13,6.81,1.18,6.81,1.16,5.16
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Bautista Agut R.,Berlocq C.,19,79,2110,668,6,0,4,6,6,2,,,,,2,1,Completed,1.07,9,1.06,7.25,1.08,7.5,1.09,8.95,1.1,9.03,1.08,7.77
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Zverev M.,Lacko L.,29,103,1371,511,6,4,6,4,,,,,,,2,0,Completed,1.33,3.25,1.35,2.95,1.36,3.25,1.44,3,1.44,3.25,1.37,3.03
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Nishikori K.,Verdasco F.,9,34,3785,1175,6,7,6,3,6,4,,,,,2,1,Completed,1.36,3,1.4,2.75,1.4,3,1.47,2.85,1.47,3,1.42,2.82
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Haase R.,Ferrer D.,42,37,983,1005,3,6,7,5,6,3,,,,,2,1,Completed,1.66,2.1,1.72,2,1.73,2.1,1.76,2.16,1.8,2.16,1.73,2.09
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Khachanov K.,Simon G.,38,35,1005,1095,6,2,6,7,6,3,,,,,2,1,Completed,2.1,1.66,2,1.72,2,1.8,2.1,1.81,2.1,1.83,2.03,1.76
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Tomic B.,Haas T.,61,252,785,205,6,4,6,4,,,,,,,2,0,Completed,1.83,1.83,1.85,1.85,1.91,1.91,1.93,1.96,1.93,2,1.87,1.9
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Mayer F.,Paire B.,134,44,410,960,6,0,6,4,,,,,,,2,0,Completed,1.8,1.9,1.85,1.85,1.91,1.91,2.02,1.87,2.02,2.05,1.91,1.87
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Zverev A.,Lorenzi P.,12,33,2860,1188,6,3,6,2,,,,,,,2,0,Completed,1.05,11,1.04,8.5,1.06,9,1.06,11.82,1.06,13,1.05,10.34
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Pouille L.,Struff J.L.,15,49,2570,883,1,6,6,3,6,4,,,,,2,1,Completed,1.57,2.25,1.57,2.25,1.61,2.25,1.67,2.32,1.67,2.5,1.62,2.28
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Federer R.,Sugita Y.,5,66,4765,723,6,3,6,1,,,,,,,2,0,Completed,1.06,10,1.05,7.75,1.07,8,1.03,16.01,1.07,16.89,1.05,10.78
+36,Halle,Gerry Weber Open,20/06/17,ATP500,Outdoor,Grass,1st Round,3,Youzhny M.,Karlovic I.,88,24,595,1835,6,3,7,6,,,,,,,2,0,Completed,3.4,1.3,3.2,1.3,3.25,1.36,3.5,1.34,3.5,1.36,3.33,1.32
+36,Halle,Gerry Weber Open,21/06/17,ATP500,Outdoor,Grass,2nd Round,3,Gasquet R.,Tomic B.,30,61,1335,785,6,3,6,3,,,,,,,2,0,Completed,1.5,2.5,1.5,2.4,1.53,2.5,1.55,2.64,1.55,2.64,1.52,2.51
+36,Halle,Gerry Weber Open,21/06/17,ATP500,Outdoor,Grass,2nd Round,3,Bautista Agut R.,Brown D.,19,95,2110,560,6,4,1,6,7,6,,,,,2,1,Completed,1.36,3,1.33,3.05,1.36,3.25,1.38,3.33,1.44,3.33,1.36,3.1
+36,Halle,Gerry Weber Open,21/06/17,ATP500,Outdoor,Grass,2nd Round,3,Zverev A.,Kohlschreiber P.,12,56,2860,840,6,3,6,4,,,,,,,2,0,Completed,1.36,3,1.35,2.95,1.4,3,1.41,3.17,1.41,3.36,1.36,3.08
+36,Halle,Gerry Weber Open,21/06/17,ATP500,Outdoor,Grass,2nd Round,3,Haase R.,Thiem D.,42,8,983,3895,6,3,7,6,,,,,,,2,0,Completed,5,1.16,4.4,1.17,5,1.17,4.69,1.23,5.5,1.23,4.6,1.19
+36,Halle,Gerry Weber Open,22/06/17,ATP500,Outdoor,Grass,2nd Round,3,Khachanov K.,Nishikori K.,38,9,1005,3785,3,2,,,,,,,,,0,0,Retired,3.5,1.28,3.35,1.28,3.5,1.3,3.88,1.3,3.88,1.32,3.54,1.3
+36,Halle,Gerry Weber Open,22/06/17,ATP500,Outdoor,Grass,2nd Round,3,Rublev A.,Youzhny M.,106,88,503,595,6,0,3,6,6,3,,,,,2,1,Completed,2.25,1.57,2.2,1.6,2.25,1.61,2.33,1.67,2.38,1.73,2.26,1.62
+36,Halle,Gerry Weber Open,22/06/17,ATP500,Outdoor,Grass,2nd Round,3,Mayer F.,Pouille L.,134,15,410,2570,6,7,6,4,6,3,,,,,2,1,Completed,2.37,1.53,2.35,1.53,2.37,1.57,2.56,1.58,2.56,1.69,2.36,1.58
+36,Halle,Gerry Weber Open,22/06/17,ATP500,Outdoor,Grass,2nd Round,3,Federer R.,Zverev M.,5,29,4765,1371,7,6,6,4,,,,,,,2,0,Completed,1.12,6,1.11,5.6,1.14,5.5,1.14,6.9,1.16,6.9,1.13,5.91
+36,Halle,Gerry Weber Open,23/06/17,ATP500,Outdoor,Grass,Quarterfinals,3,Khachanov K.,Rublev A.,38,106,1005,503,7,6,4,6,6,3,,,,,2,1,Completed,1.44,2.75,1.42,2.65,1.44,2.75,1.51,2.8,1.51,2.85,1.46,2.68
+36,Halle,Gerry Weber Open,23/06/17,ATP500,Outdoor,Grass,Quarterfinals,3,Gasquet R.,Haase R.,30,42,1335,983,6,1,3,6,6,1,,,,,2,1,Completed,1.4,3,1.35,2.95,1.36,3.25,1.38,3.41,1.42,3.41,1.36,3.14
+36,Halle,Gerry Weber Open,23/06/17,ATP500,Outdoor,Grass,Quarterfinals,3,Federer R.,Mayer F.,5,134,4765,410,6,3,6,4,,,,,,,2,0,Completed,1.08,8,1.07,7,1.08,7.5,1.09,9.81,1.11,10.85,1.08,8.25
+36,Halle,Gerry Weber Open,23/06/17,ATP500,Outdoor,Grass,Quarterfinals,3,Zverev A.,Bautista Agut R.,12,19,2860,2110,6,7,7,6,6,1,,,,,2,1,Completed,1.28,3.75,1.27,3.45,1.3,3.5,1.29,4.14,1.32,4.14,1.28,3.67
+36,Halle,Gerry Weber Open,24/06/17,ATP500,Outdoor,Grass,Semifinals,3,Federer R.,Khachanov K.,5,38,4765,1005,6,4,7,6,,,,,,,2,0,Completed,1.07,9,1.06,7.25,1.08,7.5,1.09,10.2,1.1,10.2,1.08,8.23
+36,Halle,Gerry Weber Open,24/06/17,ATP500,Outdoor,Grass,Semifinals,3,Zverev A.,Gasquet R.,12,30,2860,1335,4,6,6,4,6,3,,,,,2,1,Completed,1.36,3.25,1.35,2.95,1.4,3,1.38,3.39,1.4,3.4,1.36,3.11
+36,Halle,Gerry Weber Open,25/06/17,ATP500,Outdoor,Grass,The Final,3,Federer R.,Zverev A.,5,12,4765,2860,6,1,6,3,,,,,,,2,0,Completed,1.44,2.75,1.42,2.65,1.44,2.75,1.47,2.95,1.47,3,1.43,2.83

@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,IWW,IWL,SBW,SBL,B&WW,B&WL
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Luczak P.,Ram A.,143,588,6,1,3,6,6,4,,,,,2,1,Completed,1.444,2.625,1.42,2.7,1.45,2.2,,,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Ram R.,Levine I.,485,854,6,1,6,3,,,,,,,2,0,Completed,,,,,,,,,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Guccione C.,Mamiit C.,528,145,6,1,6,3,,,,,,,2,0,Completed,2.625,1.444,2.65,1.45,2.1,1.5,,,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Saulnier C.,Behrmann M.,101,1358,6,0,6,3,,,,,,,2,0,Completed,1.05,8.5,1.12,5.75,1.05,5,,,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Miranda I.,Benneteau J.,106,191,6,1,6,0,,,,,,,2,0,Completed,1.727,2,1.65,2.15,1.75,1.75,,,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Draper S.,Reynolds B.,108,602,7,5,6,3,,,,,,,2,0,Completed,1.286,3.25,1.28,3.5,1.2,3.3,,,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Enqvist T.,Vacek J.,112,131,7,6,3,6,6,3,,,,,2,1,Completed,1.5,2.5,1.45,2.65,1.4,2.3,1.4,2.75,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Moodie W.,Delgado R.,117,178,6,4,2,6,6,4,,,,,2,1,Completed,1.615,2.2,1.62,2.2,1.6,1.9,1.667,2.1,,
+42,Indianapolis,RCA Championships,21/07/03,International,Outdoor,Hard,1st Round,3,Delic A.,Mello R.,582,111,6,7,6,4,7,5,,,,,2,1,Completed,2.75,1.4,3.15,1.33,2.7,1.3,,,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Thomann N.,Ayala D.,169,1223,6,4,6,4,,,,,,,2,0,Completed,,,1.25,3.7,,,,,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Amritraj P.,Roitman S.,396,140,6,3,3,6,7,5,,,,,2,1,Completed,3.25,1.286,3,1.36,3,1.25,,,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Taino E.,Chang M.,147,173,3,6,6,3,7,5,,,,,2,1,Completed,1.667,2.1,1.63,2.2,1.5,2.1,1.571,2.25,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Heuberger I.,Levy H.,132,165,6,1,6,1,,,,,,,2,0,Completed,2.2,1.615,2.4,1.53,2,1.55,2.2,1.615,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Carraz G.,Okun N.,102,172,4,6,6,3,6,4,,,,,2,1,Completed,1.533,2.375,1.57,2.3,1.55,2,1.57,2.25,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Bogomolov A.,Kim A.,125,154,6,3,1,6,6,4,,,,,2,1,Completed,2.1,1.667,2,1.75,1.9,1.6,1.833,1.833,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,1st Round,3,Tipsarevic J.,Zimonjic N.,149,479,7,6,6,4,,,,,,,2,0,Completed,,,1.72,2.05,1.6,1.9,,
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,2nd Round,3,Moodie W.,Vahaly B.,117,79,6,3,4,6,7,6,,,,,2,1,Completed,2.375,1.533,2.4,1.53,1.9,1.6,2.62,1.44
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,2nd Round,3,Schalken S.,Miranda I.,12,106,6,3,6,1,,,,,,,2,0,Completed,1.167,4.5,1.2,4.25,1.15,3.8,1.143,5
+42,Indianapolis,RCA Championships,22/07/03,International,Outdoor,Hard,2nd Round,3,Kiefer N.,Amritraj P.,76,396,6,3,6,1,,,,,,,2,0,Completed,1.16,4.5,1.25,3.7,1.15,3.8,1.2,4
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Gambill J.M.,Enqvist T.,39,112,6,2,6,2,,,,,,,2,0,Completed,1.615,2.2,1.7,2.1,1.65,1.85,1.727,2
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Roddick A.,Saulnier C.,6,101,6,7,6,3,7,6,,,,,2,1,Completed,1.1,6.5,1.1,6.25,1.1,4.5,1.125,5.5
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Fish M.,Guccione C.,40,528,7,5,6,7,6,4,,,,,2,1,Completed,1.2,4.333,1.22,4,1.2,3.3,1.16,4.5
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Kafelnikov Y.,Tipsarevic J.,24,149,7,5,6,3,,,,,,,2,0,Completed,,,1.25,3.7,,,,
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Heuberger I.,Ancic M.,132,73,6,3,2,6,7,5,,,,,2,1,Completed,2.75,1.4,2.45,1.5,2.3,1.4,2.5,1.5
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Burgsmuller L.,Taino E.,84,147,6,3,6,4,,,,,,,2,0,Completed,1.533,2.375,1.58,2.3,1.45,2.2,1.533,2.375
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Thomann N.,Lee H.T.,169,62,6,4,7,5,,,,,,,2,0,Completed,2.75,1.4,2.7,1.42,2.3,1.4,3.25,1.286
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Ginepri R.,Luczak P.,46,143,6,3,6,3,,,,,,,2,0,Completed,1.222,4,1.28,3.5,1.25,3,1.25,3.75
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Bogomolov A.,Gimelstob J.,125,82,6,2,6,4,,,,,,,2,0,Completed,2.75,1.4,2.55,1.48,2.3,1.4,2.375,1.533
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Draper S.,Rusedski G.,108,70,3,6,7,6,7,6,,,,,2,1,Completed,4.5,1.167,4.5,1.18,3.3,1.2,4.5,1.167
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Carraz G.,Carlsen K.,102,77,6,4,3,6,7,6,,,,,2,1,Completed,1.833,1.833,1.84,1.87,1.8,1.7,,
+42,Indianapolis,RCA Championships,23/07/03,International,Outdoor,Hard,2nd Round,3,Malisse X.,Ram R.,68,485,6,2,6,4,,,,,,,2,0,Completed,1.167,4.5,1.14,5.25,1.1,4.5,1.125,5.5
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,2nd Round,3,Srichaphan P.,Delic A.,11,582,6,7,7,6,6,1,,,,,2,1,Completed,1.125,5.5,1.12,5.5,1.1,4.5,1.12,5.5
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,3rd Round,3,Malisse X.,Gambill J.M.,68,39,6,4,6,2,,,,,,,2,0,Completed,2.375,1.533,2.3,1.57,2,1.55,2.5,1.5
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,3rd Round,3,Ginepri R.,Heuberger I.,46,132,6,1,6,3,,,,,,,2,0,Completed,1.167,4.5,1.25,3.7,1.2,3.3,1.2,4
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,3rd Round,3,Kiefer N.,Kafelnikov Y.,76,24,6,3,6,4,,,,,,,2,0,Completed,2.5,1.5,2.4,1.53,2.2,1.45,2.2,1.615
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,3rd Round,3,Schalken S.,Burgsmuller L.,12,84,6,4,6,2,,,,,,,2,0,Completed,1.286,3.5,1.3,3.35,1.25,3,1.286,3.25
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,3rd Round,3,Thomann N.,Moodie W.,169,117,6,3,6,4,,,,,,,2,0,Completed,2.1,1.667,2.25,1.6,1.75,1.75,2,1.727
+42,Indianapolis,RCA Championships,24/07/03,International,Outdoor,Hard,3rd Round,3,Srichaphan P.,Bogomolov A.,11,125,6,4,6,3,,,,,,,2,0,Completed,1.286,3.5,1.3,3.35,1.3,2.7,1.286,3.25
+42,Indianapolis,RCA Championships,25/07/03,International,Outdoor,Hard,3rd Round,3,Roddick A.,Carraz G.,6,102,6,2,6,4,,,,,,,2,0,Completed,1.071,7.5,1.12,5.7,1.1,4.5,,
+42,Indianapolis,RCA Championships,25/07/03,International,Outdoor,Hard,3rd Round,3,Draper S.,Fish M.,108,40,3,6,7,6,6,3,,,,,2,1,Completed,2.75,1.4,3.15,1.33,2.3,1.4,,
+42,Indianapolis,RCA Championships,25/07/03,International,Outdoor,Hard,Quarterfinals,3,Thomann N.,Kiefer N.,169,76,7,6,7,5,,,,,,,2,0,Completed,3.25,1.333,2.9,1.38,3,1.25,2.75,1.4
+42,Indianapolis,RCA Championships,25/07/03,International,Outdoor,Hard,Quarterfinals,3,Schalken S.,Ginepri R.,12,46,1,6,6,1,6,2,,,,,2,1,Completed,1.5,2.5,1.48,2.55,1.45,2.2,1.571,2.25
+42,Indianapolis,RCA Championships,25/07/03,International,Outdoor,Hard,Quarterfinals,3,Roddick A.,Malisse X.,6,68,6,4,6,1,,,,,,,2,0,Completed,1.2,4.333,1.28,3.5,1.25,3,1.286,3.25
+42,Indianapolis,RCA Championships,26/07/03,International,Outdoor,Hard,Quarterfinals,3,Srichaphan P.,Draper S.,11,108,6,4,6,2,,,,,,,2,0,Completed,1.364,3,1.35,3.05,1.35,2.5,1.333,3
+42,Indianapolis,RCA Championships,26/07/03,International,Outdoor,Hard,Semifinals,3,Roddick A.,Schalken S.,6,12,6,3,6,2,,,,,,,2,0,Completed,1.364,3,1.3,3.3,1.3,2.7,1.286,3.25
+42,Indianapolis,RCA Championships,26/07/03,International,Outdoor,Hard,Semifinals,3,Srichaphan P.,Thomann N.,11,169,4,6,7,6,6,3,,,,,2,1,Completed,1.222,4,1.28,3.5,1.25,3,1.25,3.5
+42,Indianapolis,RCA Championships,27/07/03,International,Outdoor,Hard,The Final,3,Roddick A.,Srichaphan P.,6,11,7,6,6,4,,,,,,,2,0,Completed,1.25,3.75,1.22,3.95,1.2,3.3,1.25,3.75

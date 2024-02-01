@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+60,Stockholm,Stockholm Open,15/10/12,ATP250,Indoor,Hard,1st Round,3,Youzhny M.,Baker B.,27,56,1335,762,6,3,6,1,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.25,3.75,1.32,3.7,1.29,3.25,1.35,5.1,1.26,3.76
+60,Stockholm,Stockholm Open,15/10/12,ATP250,Indoor,Hard,1st Round,3,Nieminen J.,Kamke T.,39,68,1012,675,6,3,6,4,,,,,,,2,0,Completed,1.36,3,1.35,3,1.36,3,1.43,3.04,1.33,3,1.43,3.2,1.38,2.92
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Falla A.,Hajek J.,54,108,780,517,6,3,3,6,7,6,,,,,2,1,Completed,1.28,3.5,1.25,3.75,1.25,3.75,1.33,3.61,1.2,4,1.33,4.1,1.26,3.68
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Zopp J.,Andujar P.,87,42,586,950,6,4,6,4,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.53,2.38,1.61,2.44,1.57,2.25,1.67,2.48,1.59,2.3
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Stakhovsky S.,Mertens Y.,92,208,563,237,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.45,2.65,1.4,2.75,1.44,2.97,1.36,2.88,1.52,2.97,1.43,2.72
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Lopez F.,Mathieu P.H.,34,100,1085,538,7,6,6,7,6,2,,,,,2,1,Completed,1.5,2.5,1.5,2.5,1.53,2.38,1.52,2.68,1.44,2.63,1.57,2.72,1.52,2.46
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Berankis R.,Ramos A.,95,48,560,830,4,6,6,4,6,1,,,,,2,1,Completed,1.5,2.5,1.5,2.5,1.5,2.5,1.59,2.5,1.4,2.75,1.59,2.75,1.51,2.49
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Soeda G.,Teixeira M.,57,224,761,215,6,3,3,6,6,3,,,,,2,1,Completed,1.53,2.37,1.5,2.5,1.5,2.5,1.58,2.52,1.5,2.5,1.59,2.78,1.52,2.47
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Baghdatis M.,Goffin D.,33,45,1105,853,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.5,2.5,1.44,2.62,1.55,2.6,1.4,2.75,1.55,3,1.48,2.61
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Copil M.,Delbonis F.,178,134,281,417,6,1,7,5,,,,,,,2,0,Completed,1.5,2.5,1.5,2.5,1.53,2.38,1.54,2.62,1.4,2.75,1.56,2.75,1.5,2.53
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Hewitt L.,Anderson K.,102,38,535,1020,6,4,4,6,6,4,,,,,2,1,Completed,3,1.36,2.8,1.4,2.62,1.44,3.26,1.38,2.75,1.4,3.5,1.45,2.87,1.4
+60,Stockholm,Stockholm Open,16/10/12,ATP250,Indoor,Hard,1st Round,3,Rosenholm P.,Monfils G.,436,47,82,830,6,3,1,6,6,3,,,,,2,1,Completed,17,1.02,10,1.03,9,1.04,15.57,1.03,9,1.04,18.5,1.05,12.23,1.03
+60,Stockholm,Stockholm Open,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Berankis R.,Mayer F.,95,28,560,1295,4,6,6,4,6,2,,,,,2,1,Completed,2.62,1.44,2.5,1.5,2.5,1.5,2.66,1.54,2.75,1.4,2.75,1.58,2.55,1.49
+60,Stockholm,Stockholm Open,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Almagro N.,Copil M.,12,178,2435,281,6,4,7,6,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.28,4.1,1.25,3.5,1.3,4.33,1.25,3.77
+60,Stockholm,Stockholm Open,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Hewitt L.,Nieminen J.,102,39,535,1012,7,6,2,6,6,4,,,,,2,1,Completed,2.25,1.57,2.25,1.6,2.2,1.62,2.39,1.65,2.25,1.57,2.4,1.71,2.25,1.61
+60,Stockholm,Stockholm Open,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Youzhny M.,Rosenholm P.,27,436,1335,82,6,0,6,2,,,,,,,2,0,Completed,1.05,11,1.06,8,1.06,8,1.07,11.25,1.05,8,1.08,13.5,1.05,9.76
+60,Stockholm,Stockholm Open,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Baghdatis M.,Falla A.,33,54,1105,780,6,0,3,0,,,,,,,1,0,Retired,1.14,5.5,1.16,4.75,1.1,6.5,1.17,5.81,1.17,4.5,1.2,6.5,1.16,5.05
+60,Stockholm,Stockholm Open,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Stakhovsky S.,Lopez F.,92,34,563,1085,7,6,7,5,,,,,,,2,0,Completed,3,1.36,3,1.35,3,1.36,3.17,1.41,2.75,1.4,3.55,1.47,2.9,1.39
+60,Stockholm,Stockholm Open,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Berdych T.,Zopp J.,6,87,4840,586,6,1,6,4,,,,,,,2,0,Completed,1.04,13,1.04,9,1.02,13,1.04,15,1.04,9,1.07,16,1.04,10.83
+60,Stockholm,Stockholm Open,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Tsonga J.W.,Soeda G.,7,57,4810,761,6,2,7,6,,,,,,,2,0,Completed,1.04,13,1.04,9,1.02,13,1.05,13,1.04,9,1.07,13,1.04,10.5
+60,Stockholm,Stockholm Open,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Baghdatis M.,Berankis R.,33,95,1105,560,6,3,7,6,,,,,,,2,0,Completed,1.18,4.5,1.25,3.75,1.2,4.33,1.25,4.51,1.22,4,1.25,5.3,1.22,4.1
+60,Stockholm,Stockholm Open,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Almagro N.,Hewitt L.,12,102,2435,535,6,1,6,4,,,,,,,2,0,Completed,1.33,3.25,1.4,2.75,1.44,2.62,1.43,3.1,1.4,2.88,1.45,3.25,1.39,2.91
+60,Stockholm,Stockholm Open,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Tsonga J.W.,Stakhovsky S.,7,92,4810,563,6,3,6,4,,,,,,,2,0,Completed,1.14,5.5,1.15,5,1.14,5,1.17,5.99,1.13,6,1.19,6,1.14,5.33
+60,Stockholm,Stockholm Open,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Berdych T.,Youzhny M.,6,27,4840,1335,6,3,7,6,,,,,,,2,0,Completed,1.22,4,1.25,3.7,1.25,3.75,1.3,3.97,1.22,4,1.3,5.3,1.26,3.79
+60,Stockholm,Stockholm Open,20/10/12,ATP250,Indoor,Hard,Semifinals,3,Tsonga J.W.,Baghdatis M.,7,33,4810,1105,6,4,4,6,5,2,,,,,1,1,Retired,1.28,3.75,1.25,3.65,1.29,3.5,1.33,3.71,1.22,4,1.33,4.55,1.27,3.68
+60,Stockholm,Stockholm Open,20/10/12,ATP250,Indoor,Hard,Semifinals,3,Berdych T.,Almagro N.,6,12,4840,2435,6,3,6,2,,,,,,,2,0,Completed,1.25,4,1.22,4,1.25,4,1.26,4.4,1.25,3.75,1.29,4.55,1.25,3.9
+60,Stockholm,Stockholm Open,21/10/12,ATP250,Indoor,Hard,The Final,3,Berdych T.,Tsonga J.W.,6,7,4840,4810,4,6,6,4,6,4,,,,,2,1,Completed,1.57,2.37,1.6,2.25,1.62,2.25,1.66,2.4,1.57,2.38,1.67,2.56,1.58,2.34

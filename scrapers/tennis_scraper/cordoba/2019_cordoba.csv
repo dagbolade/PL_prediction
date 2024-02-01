@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+7,Cordoba,Cordoba Open,04/02/2019,ATP250,Outdoor,Clay,1st Round,3,Sonego L.,Andujar P.,113,82,495,668,6,3,6,2,,,,,,,2,0,Completed,2.1,1.66,2.16,1.76,2.41,1.77,2.13,1.7
+7,Cordoba,Cordoba Open,04/02/2019,ATP250,Outdoor,Clay,1st Round,3,Bedene A.,Marterer M.,65,76,760,699,6,3,6,4,,,,,,,2,0,Completed,1.9,1.8,1.98,1.9,2.15,1.95,1.95,1.84
+7,Cordoba,Cordoba Open,04/02/2019,ATP250,Outdoor,Clay,1st Round,3,Cachin P.,Norrie C.,280,64,152,762,6,4,6,4,,,,,,,2,0,Completed,2.5,1.5,2.45,1.61,2.55,1.62,2.41,1.56
+7,Cordoba,Cordoba Open,04/02/2019,ATP250,Outdoor,Clay,1st Round,3,Pella G.,Lorenzi P.,59,114,790,493,6,1,6,3,,,,,,,2,0,Completed,1.25,3.75,1.27,4.19,1.3,4.27,1.27,3.74
+7,Cordoba,Cordoba Open,05/02/2019,ATP250,Outdoor,Clay,1st Round,3,Jaziri M.,Berlocq C.,43,135,1007,411,6,3,4,6,7,6,,,,,2,1,Completed,3,1.36,3.08,1.42,3.08,1.48,2.9,1.4
+7,Cordoba,Cordoba Open,05/02/2019,ATP250,Outdoor,Clay,1st Round,3,Giannessi A.,Seyboth Wild T.,168,451,324,19,6,7,7,5,7,6,,,,,2,1,Completed,1.44,2.62,1.51,2.72,1.61,2.8,1.49,2.61
+7,Cordoba,Cordoba Open,05/02/2019,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Martin A.,74,181,709,284,6,3,6,2,,,,,,,2,0,Completed,1.5,2.5,1.52,2.7,1.65,2.75,1.51,2.54
+7,Cordoba,Cordoba Open,05/02/2019,ATP250,Outdoor,Clay,1st Round,3,Londero J.I.,Jarry N.,112,41,498,1015,6,2,7,6,,,,,,,2,0,Completed,2.5,1.5,2.32,1.67,2.56,1.76,2.38,1.57
+7,Cordoba,Cordoba Open,05/02/2019,ATP250,Outdoor,Clay,1st Round,3,Cuevas P.,Bagnis F.,92,149,616,382,6,4,6,4,,,,,,,2,0,Completed,1.53,2.37,1.7,2.27,1.7,2.45,1.61,2.3
+7,Cordoba,Cordoba Open,05/02/2019,ATP250,Outdoor,Clay,1st Round,3,Munar J.,Andreozzi G.,81,70,668,711,6,1,6,4,,,,,,,2,0,Completed,1.5,2.5,1.59,2.5,1.6,2.6,1.55,2.44
+7,Cordoba,Cordoba Open,06/02/2019,ATP250,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Dellien H.,71,116,710,481,7,6,4,6,6,3,,,,,2,1,Completed,,,,,1.61,2.75,1.52,2.47
+7,Cordoba,Cordoba Open,06/02/2019,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Mayer L.,77,49,696,920,6,4,6,7,6,3,,,,,2,1,Completed,1.83,1.83,1.88,2.01,1.91,2.05,1.85,1.94
+7,Cordoba,Cordoba Open,06/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Londero J.I.,Sonego L.,112,113,498,495,7,5,6,3,,,,,,,2,0,Completed,2.25,1.57,2.24,1.73,2.33,1.77,2.18,1.68
+7,Cordoba,Cordoba Open,06/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Cachin P.,Carreno Busta P.,280,23,152,1705,6,7,1,0,,,,,,,0,1,Retired,3.75,1.25,3.82,1.31,4,1.32,3.7,1.28
+7,Cordoba,Cordoba Open,07/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Munar J.,Cecchinato M.,81,19,668,1870,6,3,3,6,6,1,,,,,2,1,Completed,2,1.72,2.03,1.88,2.21,2.05,1.98,1.83
+7,Cordoba,Cordoba Open,07/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Delbonis F.,Carballes Baena R.,77,74,696,709,6,7,6,2,6,2,,,,,2,1,Completed,1.4,2.75,1.47,2.89,1.54,2.89,1.46,2.73
+7,Cordoba,Cordoba Open,07/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Cuevas P.,Jaziri M.,92,43,616,1007,7,6,6,2,,,,,,,2,0,Completed,1.2,4.33,1.25,4.49,1.25,4.6,1.22,4.25
+7,Cordoba,Cordoba Open,07/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Bedene A.,Fognini F.,65,15,760,2225,6,1,6,4,,,,,,,2,0,Completed,2.5,1.5,2.75,1.51,2.8,1.55,2.63,1.49
+7,Cordoba,Cordoba Open,07/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Schwartzman D.,Giannessi A.,20,168,1835,324,6,7,6,3,6,0,,,,,2,1,Completed,1.08,8,1.08,9.95,1.12,11,1.08,7.99
+7,Cordoba,Cordoba Open,08/02/2019,ATP250,Outdoor,Clay,2nd Round,3,Pella G.,Ramos-Vinolas A.,59,71,790,710,6,4,7,6,,,,,,,2,0,Completed,1.36,3,1.37,3.41,1.41,3.41,1.38,3.04
+7,Cordoba,Cordoba Open,08/02/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Delbonis F.,Munar J.,77,81,696,668,7,5,6,4,,,,,,,2,0,Completed,1.72,2.1,1.72,2.27,1.76,2.3,1.69,2.17
+7,Cordoba,Cordoba Open,08/02/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Londero J.I.,Cachin P.,112,280,498,152,6,4,7,6,,,,,,,2,0,Completed,1.72,2.1,1.8,2.15,1.8,2.25,1.72,2.13
+7,Cordoba,Cordoba Open,08/02/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Pella G.,Schwartzman D.,59,20,790,1835,7,5,6,2,,,,,,,2,0,Completed,2.75,1.44,2.84,1.5,2.88,1.51,2.69,1.48
+7,Cordoba,Cordoba Open,09/02/2019,ATP250,Outdoor,Clay,Quarterfinals,3,Cuevas P.,Bedene A.,92,65,616,760,7,6,6,1,,,,,,,2,0,Completed,1.72,2.1,1.85,2.08,1.85,2.25,1.72,2.09
+7,Cordoba,Cordoba Open,09/02/2019,ATP250,Outdoor,Clay,Semifinals,3,Londero J.I.,Delbonis F.,112,77,498,696,6,1,6,0,,,,,,,2,0,Completed,3.2,1.36,3.14,1.43,4,1.43,3.52,1.31
+7,Cordoba,Cordoba Open,10/02/2019,ATP250,Outdoor,Clay,Semifinals,3,Pella G.,Cuevas P.,59,92,790,616,6,1,3,6,6,3,,,,,2,1,Completed,1.72,2.1,1.84,2.1,1.84,2.2,1.75,2.1
+7,Cordoba,Cordoba Open,10/02/2019,ATP250,Outdoor,Clay,The Final,3,Londero J.I.,Pella G.,112,59,498,790,3,6,7,5,6,1,,,,,2,1,Completed,2.75,1.44,3.08,1.44,3.2,1.45,2.96,1.4

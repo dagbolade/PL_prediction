@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+7,Montpellier,Open Sud de France,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Humbert U.,Gombos N.,32,93,1706,797,6,3,7,6,,,,,,,2,0,Completed,1.18,4.5,1.21,4.9,1.22,5.45,1.19,4.7
+7,Montpellier,Open Sud de France,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Sonego L.,Gaston H.,36,162,1623,425,6,3,6,7,6,1,,,,,2,1,Completed,1.4,2.75,1.46,2.91,1.47,3,1.42,2.83
+7,Montpellier,Open Sud de France,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Korda S.,Tsonga J.W.,92,66,810,1015,6,4,6,2,,,,,,,2,0,Completed,1.4,2.75,1.41,3.13,1.48,3.44,1.39,2.97
+7,Montpellier,Open Sud de France,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Griekspoor T.,Giron M.,160,78,440,889,6,2,6,7,6,3,,,,,2,1,Completed,2.5,1.5,2.38,1.64,2.6,1.64,2.39,1.57
+7,Montpellier,Open Sud de France,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Gojowczyk P.,Struff J.L.,144,37,491,1495,6,3,6,4,,,,,,,2,0,Completed,3,1.36,3.28,1.38,3.35,1.42,3.14,1.35
+7,Montpellier,Open Sud de France,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Bonzi B.,Pouille L.,125,79,573,887,7,6,6,2,,,,,,,2,0,Completed,1.57,2.25,1.67,2.32,1.71,2.45,1.63,2.27
+7,Montpellier,Open Sud de France,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Vesely J.,Ymer M.,69,91,988,820,6,1,6,1,,,,,,,2,0,Completed,1.83,1.83,1.88,2.01,2,2.01,1.89,1.9
+7,Montpellier,Open Sud de France,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Novak D.,Simon G.,102,68,752,990,7,6,1,6,6,3,,,,,2,1,Completed,2.25,1.57,2.33,1.67,2.38,1.74,2.22,1.65
+7,Montpellier,Open Sud de France,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Gerasimov E.,Murray A.,83,121,854,595,7,6,6,1,,,,,,,2,0,Completed,2.62,1.44,2.75,1.5,2.75,1.57,2.53,1.51
+7,Montpellier,Open Sud de France,24/02/2021,ATP250,Indoor,Hard,1st Round,3,Davidovich Fokina A.,Zapata Miralles B.,56,146,1078,484,7,6,5,7,6,2,,,,,2,1,Completed,1.57,2.25,1.66,2.35,1.69,2.59,1.63,2.27
+7,Montpellier,Open Sud de France,24/02/2021,ATP250,Indoor,Hard,1st Round,3,Bedene A.,Sinner J.,60,34,1065,1694,3,6,6,2,7,6,,,,,2,1,Completed,4.5,1.18,5.2,1.19,5.2,1.25,4.53,1.2
+7,Montpellier,Open Sud de France,24/02/2021,ATP250,Indoor,Hard,1st Round,3,Barrere G.,Basilashvili N.,113,40,655,1405,6,4,6,4,,,,,,,2,0,Completed,1.53,2.37,1.64,2.39,1.71,2.9,1.56,2.43
+7,Montpellier,Open Sud de France,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Sonego L.,Korda S.,36,92,1623,810,6,3,6,2,,,,,,,2,0,Completed,2.37,1.53,2.41,1.64,2.6,1.64,2.39,1.57
+7,Montpellier,Open Sud de France,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Humbert U.,Griekspoor T.,32,160,1706,440,6,7,7,6,7,6,,,,,2,1,Completed,1.22,4,1.2,5.09,1.25,5.09,1.22,4.25
+7,Montpellier,Open Sud de France,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Goffin D.,Bonzi B.,15,125,2600,573,4,6,6,4,7,5,,,,,2,1,Completed,1.53,2.37,1.65,2.4,1.65,2.5,1.59,2.35
+7,Montpellier,Open Sud de France,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Gerasimov E.,Bedene A.,83,60,854,1065,6,4,7,6,,,,,,,2,0,Completed,2,1.72,2.14,1.79,2.2,1.83,2.06,1.75
+7,Montpellier,Open Sud de France,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Gojowczyk P.,Vesely J.,144,69,491,988,6,7,7,6,6,3,,,,,2,1,Completed,2.62,1.44,2.53,1.59,2.71,1.61,2.5,1.52
+7,Montpellier,Open Sud de France,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Davidovich Fokina A.,Hurkacz H.,56,30,1078,1735,7,5,6,2,,,,,,,2,0,Completed,2.2,1.61,2.32,1.68,2.32,1.74,2.22,1.65
+7,Montpellier,Open Sud de France,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Novak D.,Lajovic D.,102,27,752,1875,7,6,7,5,,,,,,,2,0,Completed,1.83,1.83,2.1,1.82,2.5,1.95,1.99,1.82
+7,Montpellier,Open Sud de France,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Bautista Agut R.,Barrere G.,13,113,2710,655,6,0,6,3,,,,,,,2,0,Completed,1.28,3.5,1.38,3.34,1.38,3.85,1.32,3.35
+7,Montpellier,Open Sud de France,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Goffin D.,Sonego L.,15,36,2600,1623,6,4,6,4,,,,,,,2,0,Completed,2.1,1.72,1.96,1.94,2.25,1.94,2.05,1.77
+7,Montpellier,Open Sud de France,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Gerasimov E.,Davidovich Fokina A.,83,56,854,1078,4,6,6,4,7,5,,,,,2,1,Completed,2,1.8,2.13,1.8,2.2,1.95,2.04,1.77
+7,Montpellier,Open Sud de France,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Gojowczyk P.,Novak D.,144,102,491,752,6,4,6,1,,,,,,,2,0,Completed,2,1.8,2.05,1.86,2.2,1.89,1.98,1.82
+7,Montpellier,Open Sud de France,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Bautista Agut R.,Humbert U.,13,32,2710,1706,6,3,6,3,,,,,,,2,0,Completed,1.8,2,1.88,2.02,1.88,2.17,1.79,2.01
+7,Montpellier,Open Sud de France,27/02/2021,ATP250,Indoor,Hard,Semifinals,3,Goffin D.,Gerasimov E.,15,83,2600,854,6,4,2,6,6,4,,,,,2,1,Completed,1.5,2.62,1.54,2.66,1.56,2.7,1.51,2.58
+7,Montpellier,Open Sud de France,27/02/2021,ATP250,Indoor,Hard,Semifinals,3,Bautista Agut R.,Gojowczyk P.,13,144,2710,491,7,5,6,1,,,,,,,2,0,Completed,1.2,4.5,1.19,5.4,1.2,5.75,1.16,5.17
+7,Montpellier,Open Sud de France,28/02/2021,ATP250,Indoor,Hard,The Final,3,Goffin D.,Bautista Agut R.,15,13,2600,2710,5,7,6,4,6,2,,,,,2,1,Completed,3,1.4,2.95,1.46,3.15,1.46,2.9,1.41

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+3,Doha,Qatar Exxon Mobil Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Garcia-Lopez G.,Kukushkin M.,33,59,1275,819,6,1,7,6,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.67,2.1,1.61,2.44,1.62,2.2,1.7,2.5,1.61,2.25
+3,Doha,Qatar Exxon Mobil Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Tsonga J.W.,Ramirez-Hidalgo R.,13,77,2345,638,6,2,6,0,,,,,,,2,0,Completed,1.04,10,1.07,7,1.08,7,1.06,11.28,1.07,7,1.08,14.5,1.06,8.73
+3,Doha,Qatar Exxon Mobil Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Davydenko N.,Fognini F.,22,55,1655,855,6,1,6,4,,,,,,,2,0,Completed,1.14,5,1.25,3.75,1.2,4.33,1.21,4.96,1.22,4,1.25,5.05,1.2,4.38
+3,Doha,Qatar Exxon Mobil Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Marchenko I.,Zverev M.,81,82,613,611,7,6,6,4,,,,,,,2,0,Completed,1.61,2.2,1.7,2.05,1.73,2,1.79,2.13,1.73,2,1.81,2.2,1.72,2.04
+3,Doha,Qatar Exxon Mobil Open,03/01/11,ATP250,Outdoor,Hard,1st Round,3,Bubka S.,Gimeno-Traver D.,321,56,137,844,6,0,6,3,,,,,,,2,0,Completed,3.75,1.25,3.3,1.3,3.25,1.33,4.55,1.24,3.25,1.29,4.75,1.33,3.63,1.27
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Chiudinelli M.,El Amrani R.,117,217,485,227,3,6,7,6,6,3,,,,,2,1,Completed,1.2,4.33,1.3,3.3,1.3,3.4,1.23,4.63,1.22,3.75,1.3,4.63,1.25,3.78
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Gulbis E.,Hanescu V.,24,51,1505,915,6,3,7,6,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,1.44,2.99,1.4,2.75,1.45,3.1,1.41,2.81
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Gabashvili T.,Schuettler R.,80,84,615,597,6,4,7,6,,,,,,,2,0,Completed,2.37,1.53,2.3,1.6,2.1,1.67,2.55,1.57,2.1,1.67,2.55,1.7,2.26,1.61
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Veic A.,Sabry S.,191,586,277,39,3,6,7,5,6,0,,,,,2,1,Completed,1.16,4.5,1.25,3.75,1.25,3.75,1.24,4.52,,,1.31,4.52,1.24,3.89
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Federer R.,Schoorel T.,2,168,9145,319,7,6,6,3,,,,,,,2,0,Completed,,21,1.01,15,1.01,17,1.01,41,1.01,17,1.02,61,1.01,21.91
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Nieminen J.,Przysiezny M.,39,86,1062,590,6,2,3,6,6,3,,,,,2,1,Completed,1.25,3.75,1.3,3.3,1.33,3.25,1.29,3.95,1.33,3,1.33,4,1.29,3.44
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Lacko L.,Riba P.,89,72,578,672,5,7,7,6,7,6,,,,,2,1,Completed,1.28,3.5,1.3,3.3,1.29,3.5,1.34,3.54,1.33,3,1.36,3.75,1.3,3.36
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Kohlschreiber P.,Seppi A.,34,52,1215,900,6,2,6,4,,,,,,,2,0,Completed,1.4,2.75,1.45,2.6,1.44,2.63,1.5,2.76,1.4,2.75,1.5,2.8,1.44,2.67
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Nadal R.,Beck K.,1,103,12450,549,6,3,6,0,,,,,,,2,0,Completed,1.005,21,1.01,15,1.01,17,1.01,31,1.01,15,1.02,32.25,1.01,18.21
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Troicki V.,Stakhovsky S.,28,46,1430,945,6,4,7,5,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,1.42,3.09,1.4,2.75,1.45,3.3,1.39,2.9
+3,Doha,Qatar Exxon Mobil Open,04/01/11,ATP250,Outdoor,Hard,1st Round,3,Karlovic I.,Rosol L.,73,164,670,328,7,6,7,6,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.67,2.1,1.54,2.63,1.44,2.63,1.72,2.8,1.58,2.32
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Tsonga J.W.,Bubka S.,13,321,2345,137,6,2,6,4,,,,,,,2,0,Completed,1.04,10,1.06,8,1.06,8,1.06,12.25,1.07,7,1.07,15.85,1.05,9.3
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Troicki V.,Gabashvili T.,28,80,1430,615,6,3,6,1,,,,,,,2,0,Completed,1.16,4.5,1.2,4.25,1.25,3.75,1.22,4.89,1.2,4,1.25,5,1.21,4.21
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Karlovic I.,Kohlschreiber P.,73,34,670,1215,7,6,6,7,7,6,,,,,2,1,Completed,2.75,1.4,3,1.35,2.63,1.44,2.99,1.45,2.88,1.36,3.05,1.54,2.78,1.42
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Garcia-Lopez G.,Marchenko I.,33,81,1275,613,6,1,6,4,,,,,,,2,0,Completed,1.38,2.87,1.4,2.8,1.44,2.63,1.42,3.11,1.44,2.63,1.5,3.15,1.41,2.81
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Gulbis E.,Veic A.,24,191,1505,277,6,3,6,1,,,,,,,2,0,Completed,1.11,6,1.1,6.5,1.14,5,1.13,7.24,1.14,5,1.17,11,1.1,6.7
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Federer R.,Chiudinelli M.,2,117,9145,485,7,6,7,5,,,,,,,2,0,Completed,1.01,13,1.02,12,1.02,11,1.03,20,1.03,10,1.04,26.81,1.02,14.51
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Nadal R.,Lacko L.,1,89,12450,578,7,6,0,6,6,3,,,,,2,1,Completed,1.01,15,1.02,12,1.01,17,1.02,19.52,1.04,10,1.04,36.87,1.01,16.74
+3,Doha,Qatar Exxon Mobil Open,05/01/11,ATP250,Outdoor,Hard,2nd Round,3,Davydenko N.,Nieminen J.,22,39,1655,1062,6,4,7,5,,,,,,,2,0,Completed,1.28,3.5,1.3,3.35,1.33,3.25,1.34,3.56,1.25,3.5,1.37,3.56,1.31,3.32
+3,Doha,Qatar Exxon Mobil Open,06/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Tsonga J.W.,Garcia-Lopez G.,13,33,2345,1275,7,6,7,6,,,,,,,2,0,Completed,1.38,2.87,1.4,2.8,1.4,2.75,1.38,3.41,1.4,2.88,1.42,3.52,1.37,2.99
+3,Doha,Qatar Exxon Mobil Open,06/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Federer R.,Troicki V.,2,28,9145,1430,6,2,6,2,,,,,,,2,0,Completed,1.14,5,1.18,4.5,1.14,5,1.21,5.17,1.13,6,1.22,6,1.17,4.74
+3,Doha,Qatar Exxon Mobil Open,06/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Nadal R.,Gulbis E.,1,24,12450,1505,7,6,6,3,,,,,,,2,0,Completed,1.28,3.5,1.35,3,1.29,3.5,1.39,3.36,1.25,3.75,1.39,4.02,1.31,3.31
+3,Doha,Qatar Exxon Mobil Open,06/01/11,ATP250,Outdoor,Hard,Quarterfinals,3,Davydenko N.,Karlovic I.,22,73,1655,670,6,3,7,5,,,,,,,2,0,Completed,1.28,3.5,1.28,3.5,1.3,3.4,1.3,4.01,1.29,3.5,1.35,4.09,1.3,3.44
+3,Doha,Qatar Exxon Mobil Open,07/01/11,ATP250,Outdoor,Hard,Semifinals,3,Federer R.,Tsonga J.W.,2,13,9145,2345,6,3,7,6,,,,,,,2,0,Completed,1.1,6.5,1.14,5,1.14,5,1.15,6.68,1.17,5,1.17,7,1.13,5.65
+3,Doha,Qatar Exxon Mobil Open,07/01/11,ATP250,Outdoor,Hard,Semifinals,3,Davydenko N.,Nadal R.,22,1,1655,12450,6,3,6,2,,,,,,,2,0,Completed,3.4,1.3,2.8,1.4,2.75,1.4,3.48,1.37,3,1.36,3.5,1.41,3.14,1.35
+3,Doha,Qatar Exxon Mobil Open,08/01/11,ATP250,Outdoor,Hard,The Final,3,Federer R.,Davydenko N.,2,22,9145,1655,6,3,6,4,,,,,,,2,0,Completed,1.22,4.33,1.25,3.75,1.25,3.75,1.26,4.39,1.25,3.75,1.3,4.7,1.24,3.94

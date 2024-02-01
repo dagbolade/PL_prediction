@@ -1,0 +1,16 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+66,London,Masters Cup,15/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Nishikori K.,1,8,15285,4035,6,1,6,1,,,,,,,2,0,Completed,1.05,11,1.05,9,1.05,10,1.07,10.98,1.08,11.23,1.06,9.6
+66,London,Masters Cup,15/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Berdych T.,3,6,7340,4620,6,4,6,2,,,,,,,2,0,Completed,1.22,4.33,1.22,3.75,1.22,4.33,1.27,4.26,1.28,4.35,1.23,4.07
+66,London,Masters Cup,16/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Murray A.,Ferrer D.,2,7,8470,4305,6,4,6,4,,,,,,,2,0,Completed,1.25,4,1.25,3.75,1.25,4,1.26,4.34,1.3,4.7,1.25,3.98
+66,London,Masters Cup,16/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Nadal R.,Wawrinka S.,5,4,4630,6500,6,3,6,2,,,,,,,2,0,Completed,1.61,2.3,1.65,2.15,1.67,2.2,1.72,2.25,1.76,2.31,1.67,2.2
+66,London,Masters Cup,17/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Nishikori K.,Berdych T.,8,6,4035,4620,7,5,3,6,6,3,,,,,2,1,Completed,2.37,1.57,2.35,1.58,2.5,1.53,2.46,1.62,2.6,1.64,2.39,1.57
+66,London,Masters Cup,17/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Djokovic N.,3,1,7340,15285,7,5,6,2,,,,,,,2,0,Completed,3.5,1.3,3.2,1.3,4,1.25,3.7,1.33,4,1.34,3.6,1.29
+66,London,Masters Cup,18/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Nadal R.,Murray A.,5,2,4630,8470,6,4,6,1,,,,,,,2,0,Completed,2.5,1.53,2.4,1.55,2.5,1.53,2.62,1.56,2.7,1.6,2.5,1.54
+66,London,Masters Cup,18/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Wawrinka S.,Ferrer D.,4,7,6500,4305,7,5,6,2,,,,,,,2,0,Completed,1.61,2.25,1.6,2.3,1.57,2.38,1.71,2.27,1.71,2.41,1.64,2.26
+66,London,Masters Cup,19/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Federer R.,Nishikori K.,3,8,7340,4035,7,5,4,6,6,4,,,,,2,1,Completed,1.14,5.5,1.18,4.3,1.17,5,1.18,5.63,1.2,6,1.17,5.11
+66,London,Masters Cup,19/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Djokovic N.,Berdych T.,1,6,15285,4620,6,3,7,5,,,,,,,2,0,Completed,1.06,10,1.07,8,1.06,9,1.08,10.01,1.09,10.4,1.07,8.91
+66,London,Masters Cup,20/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Nadal R.,Ferrer D.,5,7,4630,4305,6,7,6,3,6,4,,,,,2,1,Completed,1.2,4.5,1.2,4.3,1.22,4.33,1.24,4.57,1.25,4.95,1.22,4.36
+66,London,Masters Cup,20/11/15,Masters Cup,Indoor,Hard,Round Robin,3,Wawrinka S.,Murray A.,4,2,6500,8470,7,6,6,4,,,,,,,2,0,Completed,2.3,1.61,2.2,1.65,2.2,1.67,2.34,1.68,2.4,1.73,2.27,1.64
+66,London,Masters Cup,21/11/15,Masters Cup,Indoor,Hard,Semifinals,3,Djokovic N.,Nadal R.,1,5,15285,4630,6,3,6,3,,,,,,,2,0,Completed,1.2,4.5,1.18,4.3,1.2,4.5,1.22,4.92,1.3,5.18,1.2,4.54
+66,London,Masters Cup,21/11/15,Masters Cup,Indoor,Hard,Semifinals,3,Federer R.,Wawrinka S.,3,4,7340,6500,7,5,6,3,,,,,,,2,0,Completed,1.3,3.5,1.33,3.2,1.3,3.5,1.3,4.01,1.36,4.13,1.29,3.61
+66,London,Masters Cup,22/11/15,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Federer R.,1,3,15285,7340,6,3,6,4,,,,,,,2,0,Completed,1.44,2.75,1.42,2.8,1.4,3,1.4,3.27,1.47,3.27,1.42,2.87

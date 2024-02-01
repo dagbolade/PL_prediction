@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+55,Chengdu,Chengdu Open,26/09/16,ATP250,Outdoor,Hard,1st Round,3,Schwartzman D.,Ram R.,70,111,746,532,6,4,7,5,,,,,,,2,0,Completed,1.66,2.1,1.72,1.88,1.65,2.15,1.71,2.25,1.75,2.25,1.69,2.13
+55,Chengdu,Chengdu Open,26/09/16,ATP250,Outdoor,Hard,1st Round,3,Monaco J.,Moriya H.,93,178,630,326,6,1,6,2,,,,,,,2,0,Completed,1.36,3,1.3,2.85,1.4,3,1.41,3.13,1.41,3.2,1.38,2.97
+55,Chengdu,Chengdu Open,27/09/16,ATP250,Outdoor,Hard,1st Round,3,Lajovic D.,Delbonis F.,73,41,719,1050,1,6,6,3,6,4,,,,,2,1,Completed,2.2,1.61,1.9,1.7,1.8,1.91,2.24,1.71,2.25,1.91,2.09,1.72
+55,Chengdu,Chengdu Open,27/09/16,ATP250,Outdoor,Hard,1st Round,3,Lu Y.H.,Stepanek R.,63,105,773,566,6,3,6,4,,,,,,,2,0,Completed,1.8,1.9,1.82,1.82,1.8,1.91,1.98,1.91,1.98,1.94,1.88,1.88
+55,Chengdu,Chengdu Open,27/09/16,ATP250,Outdoor,Hard,1st Round,3,Khachanov K.,Sousa J.,101,34,599,1190,7,6,6,3,,,,,,,2,0,Completed,2.25,1.57,2.1,1.55,2.2,1.67,2.13,1.79,2.3,1.79,2.15,1.68
+55,Chengdu,Chengdu Open,27/09/16,ATP250,Outdoor,Hard,1st Round,3,Mannarino A.,Kudla D.,62,131,791,464,6,4,6,7,6,4,,,,,2,1,Completed,1.44,2.62,1.4,2.5,1.5,2.62,1.5,2.76,1.51,2.8,1.48,2.6
+55,Chengdu,Chengdu Open,27/09/16,ATP250,Outdoor,Hard,1st Round,3,Anderson K.,Thompson J.,45,98,1005,613,6,2,6,4,,,,,,,2,0,Completed,1.22,4,1.25,3.3,1.29,3.75,1.29,3.9,1.29,4.1,1.26,3.78
+55,Chengdu,Chengdu Open,27/09/16,ATP250,Outdoor,Hard,1st Round,3,Lorenzi P.,Millman J.,35,66,1190,760,6,4,3,6,6,1,,,,,2,1,Completed,2.25,1.57,2.1,1.55,2.25,1.62,2.44,1.61,2.44,1.67,2.29,1.6
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Berrer M.,31,150,1340,382,6,4,5,7,6,3,,,,,2,1,Completed,1.33,3.25,1.3,2.85,1.4,3,1.4,3.2,1.4,3.25,1.36,3.06
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,1st Round,3,Troicki V.,Ruud C.,32,258,1295,195,6,3,7,6,,,,,,,2,0,Completed,1.16,5,1.14,4.4,1.17,5,1.18,5.47,1.19,5.6,1.16,4.93
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,1st Round,3,Wu D.,Kravchuk K.,193,96,290,622,6,3,6,2,,,,,,,2,0,Completed,3.4,1.3,2.85,1.33,3.25,1.36,3.42,1.36,3.43,1.36,3.19,1.33
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,1st Round,3,Baghdatis M.,Carreno Busta P.,36,39,1185,1145,6,7,7,6,7,6,,,,,2,1,Completed,2,1.72,1.88,1.72,1.91,1.91,1.96,1.93,2,1.93,1.94,1.83
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,2nd Round,3,Khachanov K.,Mannarino A.,101,62,599,791,3,6,6,3,6,1,,,,,2,1,Completed,1.72,2,1.65,2,1.73,2.1,1.85,2.06,1.87,2.2,1.77,2.02
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,2nd Round,3,Dimitrov G.,Lajovic D.,21,73,1690,719,7,6,6,4,,,,,,,2,0,Completed,1.16,5,1.15,4.3,1.17,5,1.2,5.24,1.21,5.24,1.17,4.81
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,2nd Round,3,Lopez F.,Monaco J.,27,93,1525,630,6,3,7,5,,,,,,,2,0,Completed,1.53,2.37,1.55,2.1,1.57,2.25,1.63,2.44,1.65,2.44,1.59,2.32
+55,Chengdu,Chengdu Open,28/09/16,ATP250,Outdoor,Hard,2nd Round,3,Schwartzman D.,Lorenzi P.,70,35,746,1190,6,0,6,4,,,,,,,2,0,Completed,2.25,1.57,2.05,1.62,2.2,1.67,2.35,1.67,2.4,1.69,2.23,1.63
+55,Chengdu,Chengdu Open,29/09/16,ATP250,Outdoor,Hard,2nd Round,3,Troicki V.,Baghdatis M.,32,36,1295,1185,6,3,4,6,6,2,,,,,2,1,Completed,2.2,1.61,2.1,1.6,2.2,1.62,2.21,1.75,2.25,1.75,2.16,1.67
+55,Chengdu,Chengdu Open,29/09/16,ATP250,Outdoor,Hard,2nd Round,3,Anderson K.,Kyrgios N.,45,15,1005,2140,3,6,7,6,6,2,,,,,2,1,Completed,2.37,1.53,2.4,1.42,2.5,1.53,2.8,1.5,2.8,1.56,2.5,1.5
+55,Chengdu,Chengdu Open,29/09/16,ATP250,Outdoor,Hard,2nd Round,3,Ramos-Vinolas A.,Lu Y.H.,31,63,1340,773,7,6,3,6,6,4,,,,,2,1,Completed,2.37,1.53,2.25,1.52,2.25,1.57,2.66,1.54,2.66,1.57,2.46,1.53
+55,Chengdu,Chengdu Open,29/09/16,ATP250,Outdoor,Hard,2nd Round,3,Thiem D.,Wu D.,10,193,3295,290,6,4,6,4,,,,,,,2,0,Completed,1.1,7,1.08,5.6,1.08,8,1.1,8.67,1.11,8.67,1.08,7.46
+55,Chengdu,Chengdu Open,30/09/16,ATP250,Outdoor,Hard,Quarterfinals,3,Khachanov K.,Lopez F.,101,27,599,1525,6,3,6,4,,,,,,,2,0,Completed,2.5,1.5,2.35,1.45,2.5,1.53,2.53,1.6,2.56,1.62,2.43,1.54
+55,Chengdu,Chengdu Open,30/09/16,ATP250,Outdoor,Hard,Quarterfinals,3,Troicki V.,Anderson K.,32,45,1295,1005,6,3,7,6,,,,,,,2,0,Completed,2.5,1.5,2.45,1.42,2.38,1.53,2.59,1.58,2.65,1.6,2.45,1.53
+55,Chengdu,Chengdu Open,30/09/16,ATP250,Outdoor,Hard,Quarterfinals,3,Dimitrov G.,Schwartzman D.,21,70,1690,746,4,6,6,4,6,3,,,,,2,1,Completed,1.18,4.5,1.18,3.75,1.2,4.33,1.23,4.8,1.25,4.8,1.21,4.31
+55,Chengdu,Chengdu Open,30/09/16,ATP250,Outdoor,Hard,Quarterfinals,3,Ramos-Vinolas A.,Thiem D.,31,10,1340,3295,6,1,6,4,,,,,,,2,0,Completed,4.5,1.18,3.75,1.18,4,1.25,4.57,1.25,4.66,1.25,4.31,1.21
+55,Chengdu,Chengdu Open,01/10/16,ATP250,Outdoor,Hard,Semifinals,3,Khachanov K.,Troicki V.,101,32,599,1295,6,3,7,5,,,,,,,2,0,Completed,2.5,1.53,2.3,1.48,2.25,1.57,2.58,1.58,2.62,1.6,2.43,1.54
+55,Chengdu,Chengdu Open,01/10/16,ATP250,Outdoor,Hard,Semifinals,3,Ramos-Vinolas A.,Dimitrov G.,31,21,1340,1690,7,6,1,6,7,6,,,,,2,1,Completed,3.5,1.3,3.1,1.25,3.5,1.3,3.56,1.35,3.6,1.36,3.4,1.31
+55,Chengdu,Chengdu Open,02/10/16,ATP250,Outdoor,Hard,The Final,3,Khachanov K.,Ramos-Vinolas A.,101,31,599,1340,6,7,7,6,6,3,,,,,2,1,Completed,1.8,2,1.75,1.85,1.73,2.1,1.99,1.93,1.99,2.1,1.83,1.95

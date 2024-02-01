@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+2,Chennai,Chennai Open,31/12/12,ATP250,Outdoor,Hard,1st Round,3,Soeda G.,Donskoy E.,60,81,758,637,6,1,6,2,,,,,,,2,0,Completed,1.9,1.8,1.87,1.87,1.8,1.91,1.99,1.9,2,1.73,2,2.05,1.88,1.86
+2,Chennai,Chennai Open,31/12/12,ATP250,Outdoor,Hard,1st Round,3,Bedene A.,Sousa J.,86,101,583,546,6,3,6,2,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,1.43,3.03,1.4,2.75,1.43,3.5,1.38,2.91
+2,Chennai,Chennai Open,31/12/12,ATP250,Outdoor,Hard,1st Round,3,Haase R.,Bhambri Y.,56,217,780,220,7,5,6,3,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.28,4.08,1.29,3.25,1.29,5.1,1.25,3.81
+2,Chennai,Chennai Open,31/12/12,ATP250,Outdoor,Hard,1st Round,3,Roger-Vasselin E.,Kuznetsov An.,102,78,545,660,6,3,6,4,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.62,2.2,1.63,2.4,1.62,2.2,1.65,2.5,1.6,2.27
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Bachinger M.,Lu Y.H.,123,59,462,759,6,4,3,6,6,4,,,,,2,1,Completed,3,1.36,2.8,1.4,3,1.36,3.01,1.43,2.75,1.4,4.1,1.44,2.93,1.38
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Stebe C-M.,Sijsling I.,177,68,295,712,6,4,6,4,,,,,,,2,0,Completed,2.5,1.5,2.5,1.5,2.62,1.44,2.55,1.57,2.63,1.44,2.92,1.57,2.51,1.5
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Amritraj P.,Rufin G.,549,92,51,574,6,7,6,2,6,3,,,,,2,1,Completed,2.75,1.4,2.65,1.45,2.75,1.4,2.94,1.45,2.63,1.44,3.15,1.49,2.76,1.42
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Bautista R.,Kavcic B.,80,94,648,569,7,6,6,2,,,,,,,2,0,Completed,1.44,2.62,1.55,2.35,1.5,2.5,1.53,2.67,1.53,2.38,1.57,2.7,1.51,2.49
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Paire B.,Cipolla F.,47,95,867,568,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.45,2.65,1.44,2.62,1.56,2.57,1.44,2.63,1.56,2.77,1.47,2.6
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Devvarman S.,Hajek J.,663,106,32,527,6,3,6,3,,,,,,,2,0,Completed,1.44,2.62,1.4,2.8,1.44,2.62,1.54,2.62,1.73,2,1.73,3.15,1.48,2.57
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Sela D.,Ram R.,109,132,512,427,6,4,6,1,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.53,2.38,1.63,2.43,1.57,2.25,1.67,2.56,1.59,2.3
+2,Chennai,Chennai Open,01/01/13,ATP250,Outdoor,Hard,1st Round,3,Stakhovsky S.,Bemelmans R.,103,111,538,509,7,6,7,6,,,,,,,2,0,Completed,2,1.72,2,1.75,2,1.73,2.05,1.85,1.91,1.8,2.1,1.94,2,1.76
+2,Chennai,Chennai Open,02/01/13,ATP250,Outdoor,Hard,2nd Round,3,Bedene A.,Haase R.,86,56,583,780,7,5,6,3,,,,,,,2,0,Completed,2.2,1.61,2.15,1.65,2.25,1.57,2.22,1.74,2.2,1.67,2.35,1.75,2.17,1.65
+2,Chennai,Chennai Open,02/01/13,ATP250,Outdoor,Hard,2nd Round,3,Soeda G.,Amritraj P.,60,549,758,51,7,6,3,6,6,4,,,,,2,1,Completed,1.28,3.5,1.3,3.3,1.33,3.25,1.36,3.48,1.33,3.25,1.36,3.95,1.31,3.31
+2,Chennai,Chennai Open,02/01/13,ATP250,Outdoor,Hard,2nd Round,3,Tipsarevic J.,Roger-Vasselin E.,9,102,2990,545,6,2,6,3,,,,,,,2,0,Completed,1.14,5.5,1.15,5,1.2,4.33,1.2,5.16,1.17,5,1.2,6.7,1.16,5.09
+2,Chennai,Chennai Open,02/01/13,ATP250,Outdoor,Hard,2nd Round,3,Wawrinka S.,Stebe C-M.,17,177,1900,295,6,4,6,3,,,,,,,2,0,Completed,1.2,4.33,1.22,4,1.2,4.33,1.26,4.38,1.17,5,1.27,5.2,1.22,4.16
+2,Chennai,Chennai Open,03/01/13,ATP250,Outdoor,Hard,2nd Round,3,Paire B.,Sela D.,47,109,867,512,6,1,6,0,,,,,,,2,0,Completed,1.53,2.37,1.65,2.15,1.67,2.1,1.69,2.3,1.67,2.2,1.69,2.37,1.62,2.24
+2,Chennai,Chennai Open,03/01/13,ATP250,Outdoor,Hard,2nd Round,3,Cilic M.,Stakhovsky S.,15,103,2210,538,4,6,6,2,6,3,,,,,2,1,Completed,1.18,4.5,1.2,4.25,1.2,4.33,1.23,4.77,1.2,4.5,1.25,4.9,1.21,4.25
+2,Chennai,Chennai Open,03/01/13,ATP250,Outdoor,Hard,2nd Round,3,Bautista R.,Bachinger M.,80,123,648,462,7,6,6,3,,,,,,,2,0,Completed,1.8,1.9,1.8,1.95,1.91,1.8,1.91,2.01,1.9,1.9,1.91,2.15,1.84,1.9
+2,Chennai,Chennai Open,03/01/13,ATP250,Outdoor,Hard,2nd Round,3,Berdych T.,Devvarman S.,6,663,4680,32,6,3,6,1,,,,,,,2,0,Completed,1.07,9,1.06,8,1.05,8.5,1.08,9.85,1.04,11,1.08,13,1.06,9.19
+2,Chennai,Chennai Open,04/01/13,ATP250,Outdoor,Hard,Quarterfinals,3,Paire B.,Cilic M.,47,15,867,2210,6,4,1,6,7,5,,,,,2,1,Completed,3.5,1.28,3.3,1.3,,,3.49,1.36,3.5,1.29,4,1.36,3.38,1.31
+2,Chennai,Chennai Open,04/01/13,ATP250,Outdoor,Hard,Quarterfinals,3,Bedene A.,Wawrinka S.,86,17,583,1900,6,2,7,6,,,,,,,2,0,Completed,5.5,1.14,5.5,1.13,5.5,1.12,5.92,1.18,6,1.13,6.5,1.18,5.49,1.14
+2,Chennai,Chennai Open,04/01/13,ATP250,Outdoor,Hard,Quarterfinals,3,Tipsarevic J.,Soeda G.,9,60,2990,758,6,2,6,4,,,,,,,2,0,Completed,1.1,7,1.11,6,1.14,5,1.13,7.65,1.1,7,1.14,8.3,1.11,6.31
+2,Chennai,Chennai Open,04/01/13,ATP250,Outdoor,Hard,Quarterfinals,3,Bautista R.,Berdych T.,80,6,648,4680,7,5,2,6,6,3,,,,,2,1,Completed,10,1.06,7,1.08,,,11.25,1.07,8,1.07,15,1.08,8.53,1.07
+2,Chennai,Chennai Open,05/01/13,ATP250,Outdoor,Hard,Semifinals,3,Tipsarevic J.,Bedene A.,9,86,2990,583,4,6,6,2,6,2,,,,,2,1,Completed,1.12,6,1.16,4.75,1.14,5,1.17,6.16,1.13,6,6.7,1.17,5.44,1.14
+2,Chennai,Chennai Open,05/01/13,ATP250,Outdoor,Hard,Semifinals,3,Bautista R.,Paire B.,80,47,648,867,3,6,6,1,6,4,,,,,2,1,Completed,2.25,1.57,2.15,1.65,2.2,1.62,2.36,1.68,2.2,1.67,2.4,1.72,2.21,1.64
+2,Chennai,Chennai Open,06/01/13,ATP250,Outdoor,Hard,The Final,3,Tipsarevic J.,Bautista R.,9,80,2990,648,3,6,6,1,6,3,,,,,2,1,Completed,1.16,5,1.18,4.5,1.17,5,1.24,4.68,1.2,4.5,1.32,5.1,1.19,4.59

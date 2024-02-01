@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,SJW,SJL,UBW,UBL
+30,Kitzbuhel,Austrian Open,17/05/09,ATP250,Outdoor,Clay,1st Round,3,Garcia-Lopez G.,Phau B.,74,71,922,942,6,3,6,2,,,,,,,2,0,Completed,1.61,2.2,1.65,2.2,1.533,2.375,1.62,2.2,,
+30,Kitzbuhel,Austrian Open,17/05/09,ATP250,Outdoor,Clay,1st Round,3,Vassallo-Arguello M.,Rochus C.,51,65,1181,998,6,2,6,4,,,,,,,2,0,Completed,1.83,1.83,,,1.909,1.8,,,,
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Youzhny M.,Gimeno-Traver D.,46,58,1230,1055,6,2,7,6,,,,,,,2,0,Completed,1.22,4,1.27,3.75,1.25,3.75,1.25,3.5,1.3,3.4
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Massu N.,Vik R.,122,378,662,154,6,4,6,2,,,,,,,2,0,Completed,2.2,1.61,2.17,1.69,2.1,1.667,,,2.1,1.7
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Granollers M.,Gabashvili T.,95,70,805,951,7,6,6,3,,,,,,,2,0,Completed,1.57,2.25,1.65,2.25,1.615,2.2,1.67,2.1,1.57,2.34
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Beck A.,Hernych J.,61,73,1032,931,5,7,6,3,7,5,,,,,2,1,Completed,1.36,3,1.35,3.25,1.364,3,1.364,2.875,1.37,3
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Hanescu V.,Lapentti N.,32,108,1536,758,6,7,6,3,7,5,,,,,2,1,Completed,2,1.72,2.2,1.68,2,1.72,2.2,1.62,2.16,1.66
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Koellerer D.,Bellucci T.,81,120,866,681,6,4,6,4,,,,,,,2,0,Completed,1.9,1.8,1.87,1.92,2,1.72,1.83,1.83,2,1.77
+30,Kitzbuhel,Austrian Open,18/05/09,ATP250,Outdoor,Clay,1st Round,3,Calleri A.,Lu Y.H.,89,66,825,991,3,6,7,5,0,1,,,,,1,1,Retired,1.4,2.75,1.45,2.8,1.4,2.75,1.364,2.875,1.38,2.95
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Melzer J.,Gil F.,26,67,1770,991,6,3,6,0,,,,,,,2,0,Completed,1.44,2.62,1.44,2.74,1.444,2.625,1.53,2.5,1.52,2.45
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Benneteau J.,Sela D.,45,55,1235,1112,7,5,6,1,,,,,,,2,0,Completed,1.44,2.62,1.45,2.7,1.444,2.625,1.4,2.75,1.45,2.67
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Ramirez-Hidalgo R.,Ancic M.,131,38,604,1435,6,4,6,3,,,,,,,2,0,Completed,,,,,,,,,,
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Koubek S.,Petzschner P.,213,68,343,990,7,6,6,4,,,,,,,2,0,Completed,1.61,2.2,1.7,2.1,1.615,2.2,1.667,2.1,1.7,2.1
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Junqueira D.,Capdeville P.,79,76,875,919,6,3,6,2,,,,,,,2,0,Completed,2.25,1.57,2.3,1.65,2.25,1.571,2.2,1.62,2.32,1.58
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Chela J.I.,Gicquel M.,205,44,350,1265,5,7,6,3,6,0,,,,,2,1,Completed,1.53,2.37,1.55,2.45,1.533,2.375,1.533,2.375,1.54,2.42
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,1st Round,3,Hernandez O.,Santoro F.,64,42,1014,1295,6,2,6,3,,,,,,,2,0,Completed,1.44,2.62,1.5,2.55,1.5,2.5,1.533,2.375,1.51,2.48
+30,Kitzbuhel,Austrian Open,19/05/09,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Vassallo-Arguello M.,74,51,922,1181,4,6,6,4,6,3,,,,,2,1,Completed,2.1,1.66,2,1.85,2.1,1.667,2.1,1.667,2.08,1.72
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Hernandez O.,Beck A.,64,61,1014,1032,7,5,6,4,,,,,,,2,0,Completed,1.9,1.8,2.15,1.72,2,1.72,1.91,1.8,1.97,1.8
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Melzer J.,Calleri A.,26,89,1770,825,6,4,7,5,,,,,,,2,0,Completed,1.16,4.5,1.2,4.55,1.222,4,1.2,4,1.2,4.3
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Chela J.I.,Ramirez-Hidalgo R.,205,131,350,604,6,3,6,2,,,,,,,2,0,Completed,1.33,3.25,1.35,3.3,1.364,3,1.36,2.88,1.33,3.2
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Youzhny M.,Koubek S.,46,213,1230,343,6,2,6,4,,,,,,,2,0,Completed,1.4,2.75,1.46,2.75,1.364,3,1.33,3,1.42,2.8
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Hanescu V.,Granollers M.,32,95,1536,805,6,1,7,6,,,,,,,2,0,Completed,1.53,2.37,1.55,2.5,1.571,2.25,1.62,2.2,1.57,2.34
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Koellerer D.,Junqueira D.,81,79,866,875,6,1,6,2,,,,,,,2,0,Completed,1.4,2.75,1.4,2.9,1.444,2.625,1.44,2.63,1.4,2.85
+30,Kitzbuhel,Austrian Open,20/05/09,ATP250,Outdoor,Clay,2nd Round,3,Benneteau J.,Massu N.,45,122,1235,662,6,1,6,7,7,6,,,,,2,1,Completed,1.61,2.2,1.6,2.35,1.72,2,1.73,2,1.66,2.18
+30,Kitzbuhel,Austrian Open,21/05/09,ATP250,Outdoor,Clay,Quarterfinals,3,Youzhny M.,Melzer J.,46,26,1230,1770,6,4,6,4,,,,,,,2,0,Completed,1.9,1.8,2.12,1.75,2,1.72,2.1,1.67,2.12,1.7
+30,Kitzbuhel,Austrian Open,21/05/09,ATP250,Outdoor,Clay,Quarterfinals,3,Benneteau J.,Koellerer D.,45,81,1235,866,6,2,6,7,6,0,,,,,2,1,Completed,2.62,1.44,2.6,1.5,2.375,1.533,,,2.38,1.55
+30,Kitzbuhel,Austrian Open,21/05/09,ATP250,Outdoor,Clay,Quarterfinals,3,Garcia-Lopez G.,Hanescu V.,74,32,922,1536,6,2,6,2,,,,,,,2,0,Completed,3.25,1.33,3.3,1.35,3,1.364,2.75,1.4,3,1.37
+30,Kitzbuhel,Austrian Open,21/05/09,ATP250,Outdoor,Clay,Quarterfinals,3,Hernandez O.,Chela J.I.,64,205,1014,350,6,4,6,4,,,,,,,2,0,Completed,2.37,1.53,2.3,1.6,2.1,1.667,2.25,1.571,2.22,1.63
+30,Kitzbuhel,Austrian Open,22/05/09,ATP250,Outdoor,Clay,Semifinals,3,Garcia-Lopez G.,Youzhny M.,74,46,922,1230,6,3,1,6,7,6,,,,,2,1,Completed,3.25,1.33,3.3,1.35,3.25,1.333,2.88,1.36,3,1.37
+30,Kitzbuhel,Austrian Open,22/05/09,ATP250,Outdoor,Clay,Semifinals,3,Benneteau J.,Hernandez O.,45,64,1235,1014,6,3,6,4,,,,,,,2,0,Completed,2.25,1.57,2.42,1.59,2.25,1.571,2.5,1.5,2.28,1.6
+30,Kitzbuhel,Austrian Open,23/05/09,ATP250,Outdoor,Clay,The Final,3,Garcia-Lopez G.,Benneteau J.,74,45,922,1235,3,6,7,6,6,3,,,,,2,1,Completed,2.1,1.72,2.27,1.64,2.1,1.667,2.25,1.571,2.14,1.68

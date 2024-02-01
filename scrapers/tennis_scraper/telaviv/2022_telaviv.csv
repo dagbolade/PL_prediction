@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+57,Tel Aviv,Tel Aviv Open,26/09/2022,ATP250,Indoor,Hard,1st Round,3,Safiullin R.,Grenier H.,104,97,506,554,3,6,6,4,6,2,,,,,2,1,Completed,2,1.8,1.89,2,2.05,2,1.92,1.86
+57,Tel Aviv,Tel Aviv Open,26/09/2022,ATP250,Indoor,Hard,1st Round,3,Thiem D.,Djere L.,173,72,316,702,5,7,7,6,6,4,,,,,2,1,Completed,1.44,2.75,1.49,2.78,1.51,2.85,1.46,2.68
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Broady L.,Medjedovic H.,174,255,314,195,7,5,6,3,,,,,,,2,0,Completed,1.33,3.4,1.35,3.49,1.35,3.5,1.32,3.34
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Van De Zandschulp B.,Sousa J.,35,61,1233,801,6,2,6,3,,,,,,,2,0,Completed,1.3,3.5,1.29,3.98,1.31,4,1.28,3.59
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Etcheverry T.,Karatsev A.,87,39,601,1130,6,2,6,7,6,4,,,,,2,1,Completed,3.5,1.3,3.73,1.31,3.85,1.31,3.56,1.29
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Rinderknech A.,Copil M.,58,350,817,131,6,7,6,4,6,3,,,,,2,1,Completed,1.33,3.4,1.41,3.12,1.42,3.4,1.38,3.01
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Ruusuvuori E.,Wolf J.J.,54,75,896,683,6,3,6,2,,,,,,,2,0,Completed,1.5,2.62,1.52,2.71,1.52,2.88,1.48,2.6
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Korda S.,Ilkel C.,44,382,985,116,6,4,6,4,,,,,,,2,0,Completed,1.14,5.5,1.11,8.18,1.14,8.18,1.11,6.5
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Pospisil V.,Griekspoor T.,149,52,363,955,4,6,7,6,7,5,,,,,2,1,Completed,2.75,1.44,2.72,1.51,3,1.51,2.69,1.46
+57,Tel Aviv,Tel Aviv Open,27/09/2022,ATP250,Indoor,Hard,1st Round,3,Leshem E.,Oliel Y.,446,383,87,116,6,3,6,2,,,,,,,2,0,Completed,1.72,2.1,1.74,2.2,1.83,2.2,1.75,2.06
+57,Tel Aviv,Tel Aviv Open,28/09/2022,ATP250,Indoor,Hard,1st Round,3,Andujar P.,Monteiro T.,115,62,468,793,7,6,6,1,,,,,,,2,0,Completed,2.75,1.44,2.76,1.5,3,1.5,2.74,1.44
+57,Tel Aviv,Tel Aviv Open,28/09/2022,ATP250,Indoor,Hard,1st Round,3,Lestienne C.,Mannarino A.,68,51,722,956,7,6,6,4,,,,,,,2,0,Completed,2.37,1.57,2.53,1.57,2.53,1.62,2.4,1.56
+57,Tel Aviv,Tel Aviv Open,28/09/2022,ATP250,Indoor,Hard,2nd Round,3,Safiullin R.,Etcheverry T.,104,87,506,601,6,1,6,4,,,,,,,2,0,Completed,1.33,3.4,1.34,3.56,1.36,3.56,1.33,3.28
+57,Tel Aviv,Tel Aviv Open,28/09/2022,ATP250,Indoor,Hard,2nd Round,3,Cressy M.,Korda S.,34,44,1253,985,6,4,6,4,,,,,,,2,0,Completed,2.5,1.53,2.71,1.53,2.71,1.54,2.54,1.51
+57,Tel Aviv,Tel Aviv Open,28/09/2022,ATP250,Indoor,Hard,2nd Round,3,Cilic M.,Thiem D.,16,173,2345,316,6,7,6,2,6,4,,,,,2,1,Completed,1.53,2.5,1.6,2.51,1.6,2.61,1.54,2.45
+57,Tel Aviv,Tel Aviv Open,29/09/2022,ATP250,Indoor,Hard,2nd Round,3,Lestienne C.,Ruusuvuori E.,68,54,722,896,6,4,6,2,,,,,,,2,0,Completed,3,1.4,3.02,1.44,3.13,1.44,2.96,1.39
+57,Tel Aviv,Tel Aviv Open,29/09/2022,ATP250,Indoor,Hard,2nd Round,3,Broady L.,Van De Zandschulp B.,174,35,314,1233,6,4,4,6,6,3,,,,,2,1,Completed,4.33,1.22,4.95,1.22,4.95,1.23,4.36,1.21
+57,Tel Aviv,Tel Aviv Open,29/09/2022,ATP250,Indoor,Hard,2nd Round,3,Rinderknech A.,Schwartzman D.,58,17,817,2110,6,3,2,6,7,6,,,,,2,1,Completed,2.1,1.72,2.14,1.79,2.15,1.8,2.09,1.74
+57,Tel Aviv,Tel Aviv Open,29/09/2022,ATP250,Indoor,Hard,2nd Round,3,Pospisil V.,Leshem E.,149,446,363,87,6,3,6,2,,,,,,,2,0,Completed,1.33,3.4,1.38,3.35,1.38,3.5,1.33,3.35
+57,Tel Aviv,Tel Aviv Open,29/09/2022,ATP250,Indoor,Hard,2nd Round,3,Djokovic N.,Andujar P.,7,115,3570,468,6,0,6,3,,,,,,,2,0,Completed,1.03,15,1.04,18.79,1.04,18.79,1.03,12.64
+57,Tel Aviv,Tel Aviv Open,30/09/2022,ATP250,Indoor,Hard,Quarterfinals,3,Cilic M.,Broady L.,16,174,2345,314,,,,,,,,,,,,,Walkover,1.16,5,1.2,5.28,1.22,5.3,1.18,4.76
+57,Tel Aviv,Tel Aviv Open,30/09/2022,ATP250,Indoor,Hard,Quarterfinals,3,Lestienne C.,Cressy M.,68,34,722,1253,6,7,6,3,7,6,,,,,2,1,Completed,2.5,1.53,2.54,1.58,2.6,1.69,2.42,1.55
+57,Tel Aviv,Tel Aviv Open,30/09/2022,ATP250,Indoor,Hard,Quarterfinals,3,Safiullin R.,Rinderknech A.,104,58,506,817,6,4,6,1,,,,,,,2,0,Completed,1.9,1.9,1.94,1.96,2.03,1.96,1.94,1.85
+57,Tel Aviv,Tel Aviv Open,30/09/2022,ATP250,Indoor,Hard,Quarterfinals,3,Djokovic N.,Pospisil V.,7,149,3570,363,7,6,6,3,,,,,,,2,0,Completed,1.06,10,1.06,12.74,1.06,13,1.05,10.23
+57,Tel Aviv,Tel Aviv Open,01/10/2022,ATP250,Indoor,Hard,Semifinals,3,Djokovic N.,Safiullin R.,7,104,3570,506,6,1,7,6,,,,,,,2,0,Completed,1.06,10,1.08,10.13,1.1,10.13,1.07,8.45
+57,Tel Aviv,Tel Aviv Open,01/10/2022,ATP250,Indoor,Hard,Semifinals,3,Cilic M.,Lestienne C.,16,68,2345,722,7,5,6,3,,,,,,,2,0,Completed,1.28,3.75,1.29,3.96,1.32,3.96,1.29,3.56
+57,Tel Aviv,Tel Aviv Open,02/10/2022,ATP250,Indoor,Hard,The Final,3,Djokovic N.,Cilic M.,7,16,3570,2345,6,3,6,4,,,,,,,2,0,Completed,1.25,4,1.2,5.23,1.27,5.23,1.22,4.22

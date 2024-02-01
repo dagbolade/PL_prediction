@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+28,Munich,BMW Open,30/04/12,ATP250,Outdoor,Clay,1st Round,3,Tomic B.,Rochus O.,33,66,1165,741,6,4,6,3,,,,,,,2,0,Completed,1.44,2.62,1.55,2.35,1.44,2.62,1.59,2.5,1.4,2.75,1.59,2.75,1.5,2.53
+28,Munich,BMW Open,30/04/12,ATP250,Outdoor,Clay,1st Round,3,Giraldo S.,Darcis S.,53,67,853,735,6,4,6,3,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,1.43,3.04,1.4,2.75,1.44,3.13,1.4,2.86
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Gulbis E.,Malisse X.,84,64,615,750,6,4,6,2,,,,,,,2,0,Completed,2.25,1.57,2.15,1.65,2.1,1.67,2.11,1.8,2.25,1.57,2.4,1.8,2.19,1.64
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Baghdatis M.,Kamke T.,39,81,1025,628,6,1,3,6,6,3,,,,,2,1,Completed,1.25,3.75,1.3,3.3,1.29,3.5,1.32,3.7,1.29,3.25,1.35,4,1.28,3.58
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Stakhovsky S.,Stebe C.M.,68,91,700,600,7,6,6,3,,,,,,,2,0,Completed,1.9,1.8,1.9,1.85,1.91,1.8,2.01,1.88,1.83,1.83,2.08,1.95,1.89,1.85
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Starace P.,Goffin D.,77,108,638,496,6,3,7,6,,,,,,,2,0,Completed,1.66,2.1,1.6,2.25,1.62,2.2,1.85,2.04,1.57,2.25,1.85,2.4,1.66,2.16
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Brands D.,159,105,331,513,6,4,6,3,,,,,,,2,0,Completed,2.5,1.5,2.65,1.45,2.62,1.44,2.94,1.45,2.5,1.5,2.94,1.56,2.59,1.48
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Bachinger M.,Falla A.,103,55,532,818,7,6,6,2,,,,,,,2,0,Completed,2.1,1.66,2.08,1.7,2,1.73,2.16,1.76,2.1,1.67,2.18,1.85,2.06,1.72
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Farah R.,Davydenko N.,210,56,238,815,6,3,6,2,,,,,,,2,0,Completed,2.75,1.4,2.65,1.45,2.75,1.4,2.86,1.47,2.75,1.4,3,1.5,2.76,1.42
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Matosevic M.,Kukushkin M.,122,54,447,842,7,5,6,1,,,,,,,2,0,Completed,3.25,1.33,3,1.35,3.25,1.33,3.22,1.39,3.25,1.29,3.5,1.41,3.21,1.33
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Haas T.,Berrer M.,134,112,403,487,6,0,6,2,,,,,,,2,0,Completed,1.66,2.1,1.7,2.08,1.73,2,1.78,2.14,1.4,2.88,1.8,2.88,1.71,2.08
+28,Munich,BMW Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Youzhny M.,Petzschner P.,36,93,1140,582,7,5,7,5,,,,,,,2,0,Completed,1.33,3.25,1.35,3.05,1.4,2.75,1.35,3.46,1.14,5.5,1.45,5.5,1.36,3.09
+28,Munich,BMW Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Cilic M.,Bachinger M.,24,103,1400,532,6,3,6,2,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.3,3.4,1.3,3.9,1.33,3.25,1.34,4.14,1.28,3.54
+28,Munich,BMW Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Baghdatis M.,Brown D.,39,159,1025,331,1,6,6,4,6,4,,,,,2,1,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.29,3.97,1.25,3.75,1.35,4.2,1.27,3.62
+28,Munich,BMW Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Haas T.,Tsonga J.W.,134,5,403,4830,6,1,6,4,,,,,,,2,0,Completed,4.5,1.18,4.75,1.16,5,1.14,4.7,1.23,4,1.22,5.31,1.23,4.56,1.18
+28,Munich,BMW Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Youzhny M.,Giraldo S.,36,53,1140,853,6,7,6,4,6,4,,,,,2,1,Completed,2,1.72,1.95,1.8,1.83,1.83,2.12,1.81,1.83,1.83,2.13,1.91,1.95,1.8
+28,Munich,BMW Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Matosevic M.,Farah R.,122,210,447,238,6,1,6,7,6,2,,,,,2,1,Completed,2.62,1.44,2.5,1.5,2.62,1.44,2.54,1.58,2.88,1.4,2.88,1.61,2.5,1.5
+28,Munich,BMW Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Tomic B.,Starace P.,33,77,1165,638,6,1,6,7,6,3,,,,,2,1,Completed,1.66,2.1,1.65,2.15,1.62,2.2,1.62,2.45,1.62,2.2,1.83,2.7,1.63,2.23
+28,Munich,BMW Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Kohlschreiber P.,Gulbis E.,34,84,1155,615,7,5,6,3,,,,,,,2,0,Completed,1.36,3,1.35,3,1.4,2.75,1.4,3.2,1.36,3,1.41,3.5,1.37,3.01
+28,Munich,BMW Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Lopez F.,Stakhovsky S.,16,68,1795,700,6,4,7,6,,,,,,,2,0,Completed,1.28,3.5,1.3,3.3,1.29,3.5,1.35,3.53,1.25,3.5,1.35,4,1.3,3.39
+28,Munich,BMW Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Cilic M.,Youzhny M.,24,36,1400,1140,6,3,6,7,6,3,,,,,2,1,Completed,1.57,2.25,1.6,2.25,1.67,2.1,1.79,2.17,1.67,2.2,1.79,2.3,1.67,2.15
+28,Munich,BMW Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Haas T.,Baghdatis M.,134,39,403,1025,6,1,7,6,,,,,,,2,0,Completed,1.53,2.37,1.5,2.5,1.53,2.38,1.58,2.58,1.53,2.5,1.64,2.65,1.55,2.4
+28,Munich,BMW Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Kohlschreiber P.,Matosevic M.,34,122,1155,447,6,0,7,6,,,,,,,2,0,Completed,1.16,5,1.2,4.25,1.17,4.5,,,1.06,8.5,1.22,8.5,1.18,4.64
+28,Munich,BMW Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Lopez F.,Tomic B.,16,33,1795,1165,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.6,2.25,1.53,2.38,1.59,2.56,1.8,2,1.8,2.62,1.56,2.39
+28,Munich,BMW Open,05/05/12,ATP250,Outdoor,Clay,Semifinals,3,Cilic M.,Haas T.,24,134,1400,403,6,3,6,4,,,,,,,2,0,Completed,1.61,2.2,1.6,2.2,1.62,2.25,1.63,2.47,1.53,2.5,1.7,2.61,1.61,2.27
+28,Munich,BMW Open,05/05/12,ATP250,Outdoor,Clay,Semifinals,3,Kohlschreiber P.,Lopez F.,34,16,1155,1795,6,2,6,7,6,4,,,,,2,1,Completed,2.2,1.61,2.08,1.7,2.2,1.67,2.2,1.77,1.91,1.83,2.3,1.83,2.11,1.69
+28,Munich,BMW Open,06/05/12,ATP250,Outdoor,Clay,The Final,3,Kohlschreiber P.,Cilic M.,34,24,1155,1400,7,6,6,3,,,,,,,2,0,Completed,2.5,1.53,2.35,1.55,2.25,1.57,2.56,1.59,2.63,1.5,2.66,1.6,2.41,1.55

@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Sanguinetti D.,Gaudio G.,120,50,6,2,6,4,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Portas A.,Canas G.,78,69,6,1,6,4,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Rodriguez M.,Marin J.A.,129,74,6,2,7,6,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Mantilla F.,Blanco G.,22,77,7,5,6,2,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Stanoytchev O.,Agenor R.,102,90,6,4,6,7,6,1,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,di Pasquale A.,Diaz J.,56,91,6,4,6,7,6,4,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Gumy H.,Massu N.,68,97,6,4,6,1,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Vicente F.,Tieleman L.,45,101,6,3,6,1,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Chela J.I.,Lopez-Moron A.,73,118,4,6,6,2,6,3,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Zib T.,Ulihrach B.,108,138,6,1,7,5,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,El Aynaoui Y.,Lisnard J.,19,145,6,4,6,2,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Prieto S.,Balcells J.,184,157,7,6,6,7,7,6,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Kuerten G.,Bruguera S.,5,349,6,4,6,1,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Puerta M.,Cortes J.,72,NR,6,1,6,2,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Hantschk M.,Hadad M.,105,NR,4,6,6,0,6,4,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,1st Round,3,Etlis G.,Gonzalez P.,137,NR,6,2,7,6,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,Hantschk M.,Gumy H.,105,68,6,3,2,6,7,6,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,Mantilla F.,Chela J.I.,22,73,6,4,7,5,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,Portas A.,Stanoytchev O.,78,102,6,3,4,6,6,4,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,di Pasquale A.,Zib T.,56,108,6,4,6,3,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,Puerta M.,Sanguinetti D.,72,120,6,4,6,3,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,Vicente F.,Rodriguez M.,45,129,7,5,7,5,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,El Aynaoui Y.,Etlis G.,19,137,6,4,4,6,7,6,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,2nd Round,3,Kuerten G.,Prieto S.,5,184,6,3,7,5,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,Quarterfinals,3,Puerta M.,Mantilla F.,72,22,7,6,6,3,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,Quarterfinals,3,Vicente F.,di Pasquale A.,45,56,6,2,6,1,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,Quarterfinals,3,El Aynaoui Y.,Portas A.,19,78,6,4,6,1,,,,,,,2,0,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,Quarterfinals,3,Kuerten G.,Hantschk M.,5,105,6,2,0,6,7,6,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,Semifinals,3,Puerta M.,Kuerten G.,72,5,3,6,6,1,7,6,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,Semifinals,3,El Aynaoui Y.,Vicente F.,19,45,1,6,7,6,7,6,,,,,2,1,Completed
+17,Bogota,Colombia Open,06/03/00,International,Outdoor,Clay,The Final,3,Puerta M.,El Aynaoui Y.,72,19,6,4,7,6,,,,,,,2,0,Completed
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

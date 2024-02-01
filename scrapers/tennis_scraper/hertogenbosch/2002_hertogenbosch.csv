@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Allegro Y.,Calatrava A.,362,129,6,4,6,2,,,,,,,2,0,Completed,,,,,,,1.65,1.85,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Canas G.,Knowle J.,17,92,6,2,7,5,,,,,,,2,0,Completed,,,1.22,4,1.25,3.25,1.2,3.3,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Carlsen K.,Garcia M.,83,NR,4,6,6,2,6,4,,,,,2,1,Completed,,,1.16,4.75,1.14,4.5,1.15,3.8,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Clement A.,Gross O.,42,124,6,0,6,2,,,,,,,2,0,Completed,,,1.22,3.75,1.3,3,1.15,3.8,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Dupuis A.,Boutter J.,91,49,6,4,6,4,,,,,,,2,0,Completed,,,2.55,1.45,2.25,1.5,2,1.55,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Escude N.,Saretta F.,33,72,7,6,7,6,,,,,,,2,0,Completed,,,1.14,5,1.12,4.75,1.1,4.5,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Federer R.,Krajicek R.,9,NR,6,2,7,5,,,,,,,2,0,Completed,,,1.28,3.25,1.2,3.65,1.25,3,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Heuberger I.,Muller G.,127,410,6,2,3,6,7,6,,,,,2,1,Completed,,,1.45,2.6,1.38,2.65,1.4,2.3,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Hewitt L.,Chang M.,1,97,7,6,7,6,,,,,,,2,0,Completed,,,1.12,5.5,1.1,5,1.05,5,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Kohlmann M.,Ivanov-Smolensky K.,118,636,6,4,6,0,,,,,,,2,0,Completed,,,1.4,2.75,1.31,2.95,1.35,2.5,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Pioline C.,Godwin N.,98,111,4,5,,,,,,,,,0,0,Retired,,,1.7,2.05,1.66,2,1.55,2,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Robredo T.,Lee M.,30,94,7,6,3,6,6,2,,,,,2,1,Completed,,,1.48,2.5,1.35,2.7,1.4,2.3,,
+35,s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Rochus C.,Cadart R.,86,378,1,6,6,2,6,4,,,,,2,1,Completed,,,,,,,,,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Russell M.,Sluiter R.,166,71,7,6,6,2,,,,,,,2,0,Completed,,,3,1.33,2.8,1.33,2.5,1.35,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Schalken S.,Golmard J.,31,65,6,4,6,4,,,,,,,2,0,Completed,,,1.28,3.4,1.22,3.55,1.2,3.3,,
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,1st Round,3,Youzhny M.,Calleri A.,61,55,6,3,6,0,,,,,,,2,0,Completed,,,1.28,3.25,1.3,3,1.25,3
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Allegro Y.,Dupuis A.,362,91,7,6,6,7,6,3,,,,,2,1,Completed,,,2.6,1.45,2.28,1.5,2.2,1.45
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Canas G.,Carlsen K.,17,83,6,4,6,4,,,,,,,2,0,Completed,,,1.6,2.2,1.65,2,1.65,1.85
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Clement A.,Russell M.,42,166,7,5,6,0,,,,,,,2,0,Completed,,,1.45,2.55,1.4,2.5,1.45,2.2
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Federer R.,Heuberger I.,9,127,6,4,,,,,,,,,1,0,Retired,,,1.1,6,1.12,4.7,1.1,4.5
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Hewitt L.,Youzhny M.,1,61,6,4,5,7,7,6,,,,,2,1,Completed,,,1.25,3.6,1.17,3.9,1.15,3.8
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Pioline C.,Escude N.,98,33,4,6,3,1,,,,,,,0,1,Retired,,,2.85,1.38,2.5,1.42,2.3,1.4
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Robredo T.,Kohlmann M.,30,118,6,7,6,2,6,1,,,,,2,1,Completed,,,1.38,2.85,1.38,2.65,1.4,2.3
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,2nd Round,3,Schalken S.,Rochus C.,31,86,4,6,7,6,6,3,,,,,2,1,Completed,,,1.22,3.9,1.21,3.65,1.15,3.8
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,Quarterfinals,3,Canas G.,Pioline C.,17,98,7,6,6,3,,,,,,,2,0,Completed,,,1.4,2.75,1.38,2.65,1.4,2.3
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,Quarterfinals,3,Clement A.,Hewitt L.,42,1,,,,,,,,,,,0,0,Walkover,,,3.25,1.3,3.35,1.21,2.7,1.3
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,Quarterfinals,3,Robredo T.,Allegro Y.,30,362,6,4,6,2,,,,,,,2,0,Completed,,,1.35,3,1.3,3,1.3,2.7
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,Quarterfinals,3,Schalken S.,Federer R.,31,9,3,6,7,5,6,3,,,,,2,1,Completed,,,3,1.35,3,1.3,2.7,1.3
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,Semifinals,3,Clement A.,Canas G.,42,17,7,6,6,2,,,,,,,2,0,Completed,,,2.3,1.55,2.12,1.58,1.9,1.6
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,Semifinals,3,Schalken S.,Robredo T.,31,30,6,3,6,3,,,,,,,2,0,Completed,,,1.65,2.15,1.62,2.05,1.55,2
+35,'s-Hertogenbosch,Ordina Open,17/06/02,International,Outdoor,Grass,The Final,3,Schalken S.,Clement A.,31,42,3,6,6,3,6,2,,,,,2,1,Completed,,,1.58,2.25,1.55,2.2,1.5,2.1

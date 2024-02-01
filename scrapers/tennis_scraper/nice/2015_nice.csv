@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+32,Nice,Open de Nice Côte d’Azur,17/05/15,ATP250,Outdoor,Clay,1st Round,3,Carreno-Busta P.,Hamou M.,61,225,815,213,6,2,6,2,,,,,,,2,0,Completed,1.18,4.5,1.22,4,1.25,3.75,1.19,5.22,1.26,5.22,1.21,4.29
+32,Nice,Open de Nice Côte d’Azur,17/05/15,ATP250,Outdoor,Clay,1st Round,3,Monaco J.,Paire B.,34,71,1170,698,6,4,6,2,,,,,,,2,0,Completed,1.33,3.25,1.35,3.1,1.29,3.5,1.4,3.18,1.4,3.5,1.34,3.16
+32,Nice,Open de Nice Côte d’Azur,18/05/15,ATP250,Outdoor,Clay,1st Round,3,Johnson S.,Venus M.,55,516,850,65,7,5,6,3,,,,,,,2,0,Completed,1.11,6.5,1.12,5.75,1.12,5.5,1.13,7.14,1.14,7.14,1.11,6.17
+32,Nice,Open de Nice Côte d’Azur,18/05/15,ATP250,Outdoor,Clay,1st Round,3,Querrey S.,Bemelmans R.,38,95,1115,542,6,2,6,3,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.28,4.01,1.3,4.5,1.26,3.75
+32,Nice,Open de Nice Côte d’Azur,18/05/15,ATP250,Outdoor,Clay,1st Round,3,Coric B.,Groth S.,53,73,890,688,7,5,6,3,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.75,1.49,2.8,1.5,3.1,1.42,2.78
+32,Nice,Open de Nice Côte d’Azur,18/05/15,ATP250,Outdoor,Clay,1st Round,3,Thiem D.,Estrella Burgos V.,42,46,995,945,7,6,6,2,,,,,,,2,0,Completed,1.57,2.25,1.5,2.5,1.57,2.25,1.54,2.62,1.62,2.69,1.53,2.44
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,1st Round,3,Duckworth J.,Tiafoe F.,88,291,589,162,6,7,7,5,6,2,,,,,2,1,Completed,1.57,2.25,1.52,2.45,1.57,2.25,1.56,2.58,1.57,2.7,1.53,2.46
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,1st Round,3,Mina G.,Tomic B.,269,28,184,1320,6,2,,,,,,,,,1,0,Retired,5.5,1.14,5.25,1.14,5,1.14,5.75,1.17,5.85,1.17,5.31,1.14
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,1st Round,3,Kyrgios N.,Kukushkin M.,30,57,1230,842,7,6,6,2,,,,,,,2,0,Completed,1.36,3,1.42,2.8,1.4,2.75,1.42,3.08,1.47,3.2,1.4,2.88
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Sock J.,75,36,685,1137,5,7,7,5,6,1,,,,,2,1,Completed,2.75,1.4,2.8,1.42,2.62,1.44,3.08,1.42,3.15,1.45,2.82,1.41
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,1st Round,3,Pouille L.,Smyczek T.,91,72,573,688,6,3,6,0,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.75,1.43,3.04,1.44,3.1,1.41,2.82
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,1st Round,3,Dolgopolov O.,Stakhovsky S.,68,52,705,894,3,6,7,5,6,2,,,,,2,1,Completed,1.28,3.5,1.28,3.5,1.3,3.4,1.31,3.77,1.31,3.9,1.29,3.51
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,2nd Round,3,Isner J.,Johnson S.,17,55,1935,850,7,6,4,6,6,3,,,,,2,1,Completed,1.25,3.75,1.25,3.6,1.25,3.75,1.33,3.68,1.33,4,1.27,3.65
+32,Nice,Open de Nice Côte d’Azur,19/05/15,ATP250,Outdoor,Clay,2nd Round,3,Monaco J.,Querrey S.,34,38,1170,1115,6,3,6,1,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.75,1.5,2.8,1.5,2.9,1.43,2.74
+32,Nice,Open de Nice Côte d’Azur,20/05/15,ATP250,Outdoor,Clay,2nd Round,3,Mayer L.,Pouille L.,24,91,1487,573,6,4,6,0,,,,,,,2,0,Completed,1.33,3.25,1.35,3.1,1.36,3,1.44,3.05,1.45,3.3,1.37,3.01
+32,Nice,Open de Nice Côte d’Azur,20/05/15,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Carreno-Busta P.,75,61,685,815,6,3,4,6,7,5,,,,,2,1,Completed,2.1,1.66,1.9,1.82,2,1.73,1.99,1.92,2.1,1.93,1.97,1.8
+32,Nice,Open de Nice Côte d’Azur,20/05/15,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Kyrgios N.,42,30,995,1230,4,3,,,,,,,,,0,0,Retired,2.1,1.66,2.05,1.72,2,1.73,2.16,1.78,2.16,1.8,2.07,1.73
+32,Nice,Open de Nice Côte d’Azur,20/05/15,ATP250,Outdoor,Clay,2nd Round,3,Gulbis E.,Dolgopolov O.,25,68,1480,705,7,5,4,6,6,1,,,,,2,1,Completed,2.62,1.44,2.7,1.45,2.5,1.5,2.8,1.5,2.9,1.5,2.66,1.46
+32,Nice,Open de Nice Côte d’Azur,20/05/15,ATP250,Outdoor,Clay,2nd Round,3,Coric B.,Mina G.,53,269,890,184,7,6,6,3,,,,,,,2,0,Completed,1.16,5,1.16,5,1.14,5,1.19,5.5,1.19,6,1.15,5.18
+32,Nice,Open de Nice Côte d’Azur,20/05/15,ATP250,Outdoor,Clay,2nd Round,3,Duckworth J.,Halys Q.,88,304,589,153,7,6,7,6,,,,,,,2,0,Completed,1.36,3,1.35,3,1.36,3,1.47,2.92,1.47,3.1,1.4,2.89
+32,Nice,Open de Nice Côte d’Azur,21/05/15,ATP250,Outdoor,Clay,Quarterfinals,3,Isner J.,Lajovic D.,17,75,1935,685,7,6,6,4,,,,,,,2,0,Completed,1.33,3.25,1.3,3.4,1.3,3.4,1.41,3.22,1.41,3.65,1.32,3.32
+32,Nice,Open de Nice Côte d’Azur,21/05/15,ATP250,Outdoor,Clay,Quarterfinals,3,Thiem D.,Gulbis E.,42,25,995,1480,6,2,6,4,,,,,,,2,0,Completed,1.57,2.25,1.6,2.3,1.57,2.25,1.73,2.26,1.74,2.4,1.62,2.26
+32,Nice,Open de Nice Côte d’Azur,21/05/15,ATP250,Outdoor,Clay,Quarterfinals,3,Mayer L.,Monaco J.,24,34,1487,1170,6,3,6,4,,,,,,,2,0,Completed,2.62,1.44,2.5,1.5,2.38,1.53,2.67,1.55,2.7,1.57,2.52,1.51
+32,Nice,Open de Nice Côte d’Azur,21/05/15,ATP250,Outdoor,Clay,Quarterfinals,3,Coric B.,Duckworth J.,53,88,890,589,6,3,7,6,,,,,,,2,0,Completed,1.3,3.4,1.3,3.2,1.33,3.25,1.35,3.58,1.37,3.58,1.32,3.28
+32,Nice,Open de Nice Côte d’Azur,22/05/15,ATP250,Outdoor,Clay,Semifinals,3,Thiem D.,Isner J.,42,17,995,1935,7,6,6,3,,,,,,,2,0,Completed,2.37,1.57,2.45,1.52,2.38,1.53,2.46,1.63,2.65,1.63,2.4,1.55
+32,Nice,Open de Nice Côte d’Azur,22/05/15,ATP250,Outdoor,Clay,Semifinals,3,Mayer L.,Coric B.,24,53,1487,890,6,4,6,3,,,,,,,2,0,Completed,1.44,2.75,1.45,2.7,1.44,2.62,1.44,3.08,1.5,3.08,1.44,2.73
+32,Nice,Open de Nice Côte d’Azur,23/05/15,ATP250,Outdoor,Clay,The Final,3,Thiem D.,Mayer L.,42,24,995,1487,6,7,7,5,7,6,,,,,2,1,Completed,1.72,2.1,1.72,2.05,1.8,2,1.79,2.16,1.8,2.19,1.74,2.07

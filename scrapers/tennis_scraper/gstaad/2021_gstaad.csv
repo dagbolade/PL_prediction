@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+40,Gstaad,Suisse Open Gstaad,19/07/2021,ATP250,Outdoor,Clay,1st Round,3,Polmans M.,Ehrat S.,147,408,522,101,7,5,6,3,,,,,,,2,0,Completed,1.8,2,1.89,2,1.89,2.2,1.76,2.04
+40,Gstaad,Suisse Open Gstaad,19/07/2021,ATP250,Outdoor,Clay,1st Round,3,Kopriva V.,Nikles J.,249,409,262,101,6,2,6,1,,,,,,,2,0,Completed,1.36,3.2,1.44,2.99,1.44,3.21,1.39,2.95
+40,Gstaad,Suisse Open Gstaad,19/07/2021,ATP250,Outdoor,Clay,1st Round,3,Bergs Z.,Otte O.,212,141,331,539,7,6,6,1,,,,,,,2,0,Completed,2.75,1.44,2.86,1.47,3.22,1.57,2.68,1.47
+40,Gstaad,Suisse Open Gstaad,19/07/2021,ATP250,Outdoor,Clay,1st Round,3,Paire B.,Kovalik J.,49,130,1364,633,6,3,7,6,,,,,,,2,0,Completed,1.57,2.37,1.71,2.25,1.71,2.58,1.63,2.26
+40,Gstaad,Suisse Open Gstaad,19/07/2021,ATP250,Outdoor,Clay,1st Round,3,Ymer M.,Couacaud E.,96,180,817,397,4,6,6,3,6,3,,,,,2,1,Completed,1.4,3,1.43,3,1.43,3.25,1.37,3.01
+40,Gstaad,Suisse Open Gstaad,19/07/2021,ATP250,Outdoor,Clay,1st Round,3,Lopez F.,Huesler M.A.,89,162,843,467,6,4,4,6,6,5,,,,,1,1,Retired,2,1.8,1.91,1.98,2.07,2,1.89,1.9
+40,Gstaad,Suisse Open Gstaad,20/07/2021,ATP250,Outdoor,Clay,1st Round,3,Novak D.,Zuk K.,124,170,652,428,6,4,6,4,,,,,,,2,0,Completed,2.1,1.72,2.33,1.67,2.33,1.83,2.16,1.69
+40,Gstaad,Suisse Open Gstaad,20/07/2021,ATP250,Outdoor,Clay,1st Round,3,Djere L.,Seyboth Wild T.,52,118,1278,695,6,4,6,3,,,,,,,2,0,Completed,1.25,4,1.35,3.44,1.35,4.25,1.26,3.75
+40,Gstaad,Suisse Open Gstaad,20/07/2021,ATP250,Outdoor,Clay,1st Round,3,Delbonis F.,Riedi L.,46,748,1435,28,6,3,6,3,,,,,,,2,0,Completed,1.06,10,1.08,10.06,1.08,15,1.05,10.22
+40,Gstaad,Suisse Open Gstaad,20/07/2021,ATP250,Outdoor,Clay,1st Round,3,Gaston H.,Cerundolo J.M.,155,144,489,527,6,4,6,2,,,,,,,2,0,Completed,1.72,2.1,1.67,2.32,1.86,2.32,1.71,2.11
+40,Gstaad,Suisse Open Gstaad,20/07/2021,ATP250,Outdoor,Clay,1st Round,3,Griekspoor T.,Londero J.I.,105,140,772,548,7,5,4,6,7,6,,,,,2,1,Completed,1.72,2.1,1.68,2.31,1.88,2.4,1.71,2.11
+40,Gstaad,Suisse Open Gstaad,20/07/2021,ATP250,Outdoor,Clay,1st Round,3,Rinderknech A.,Stricker D.,100,281,805,200,6,4,6,4,,,,,,,2,0,Completed,1.8,2,1.8,2.11,1.82,2.25,1.73,2.09
+40,Gstaad,Suisse Open Gstaad,21/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Djere L.,Bergs Z.,52,212,1278,331,6,2,4,6,6,2,,,,,2,1,Completed,1.25,4,1.29,4.04,1.3,4.15,1.25,3.87
+40,Gstaad,Suisse Open Gstaad,21/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Gaston H.,Delbonis F.,155,46,489,1435,6,0,6,7,7,6,,,,,2,1,Completed,3.75,1.28,4.54,1.24,4.65,1.3,3.92,1.25
+40,Gstaad,Suisse Open Gstaad,21/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Rinderknech A.,Bautista Agut R.,100,16,805,2720,6,2,6,4,,,,,,,2,0,Completed,2.75,1.44,2.92,1.47,3.14,1.49,2.78,1.43
+40,Gstaad,Suisse Open Gstaad,21/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Garin C.,Polmans M.,19,147,2520,522,6,3,6,0,,,,,,,2,0,Completed,1.16,5,1.17,5.84,1.18,6.5,1.15,5.38
+40,Gstaad,Suisse Open Gstaad,22/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Ruud C.,Novak D.,14,124,2840,652,6,4,7,6,,,,,,,2,0,Completed,1.08,8,1.09,9.36,1.11,11.89,1.08,7.76
+40,Gstaad,Suisse Open Gstaad,22/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Ymer M.,Lopez F.,96,89,817,843,6,7,7,6,6,4,,,,,2,1,Completed,1.61,2.3,1.58,2.54,1.66,2.54,1.59,2.35
+40,Gstaad,Suisse Open Gstaad,22/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Paire B.,Griekspoor T.,49,105,1364,772,6,4,,,,,,,,,1,0,Retired,1.9,1.9,1.96,1.94,1.99,2.03,1.87,1.91
+40,Gstaad,Suisse Open Gstaad,22/07/2021,ATP250,Outdoor,Clay,2nd Round,3,Kopriva V.,Shapovalov D.,249,10,262,3625,2,6,6,3,6,2,,,,,2,1,Completed,5,1.16,6.03,1.16,6.25,1.24,5.21,1.16
+40,Gstaad,Suisse Open Gstaad,23/07/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Gaston H.,Garin C.,155,19,489,2520,6,4,1,6,7,6,,,,,2,1,Completed,3.75,1.28,4.46,1.25,4.6,1.29,4.04,1.24
+40,Gstaad,Suisse Open Gstaad,23/07/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Djere L.,Rinderknech A.,52,100,1278,805,6,4,6,7,6,4,,,,,2,1,Completed,1.66,2.2,1.63,2.43,1.8,2.44,1.64,2.24
+40,Gstaad,Suisse Open Gstaad,23/07/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Kopriva V.,Ymer M.,249,96,262,817,6,1,6,0,,,,,,,2,0,Completed,2.37,1.57,2.45,1.63,2.51,1.66,2.34,1.59
+40,Gstaad,Suisse Open Gstaad,23/07/2021,ATP250,Outdoor,Clay,Quarterfinals,3,Ruud C.,Paire B.,14,49,2840,1364,6,2,5,7,6,3,,,,,2,1,Completed,1.2,4.5,1.2,5.31,1.22,6.25,1.17,5.01
+40,Gstaad,Suisse Open Gstaad,24/07/2021,ATP250,Outdoor,Clay,Semifinals,3,Gaston H.,Djere L.,155,52,489,1278,3,6,6,3,6,3,,,,,2,1,Completed,3,1.4,3.08,1.43,3.2,1.45,2.93,1.4
+40,Gstaad,Suisse Open Gstaad,24/07/2021,ATP250,Outdoor,Clay,Semifinals,3,Ruud C.,Kopriva V.,14,249,2840,262,6,3,6,0,,,,,,,2,0,Completed,1.11,6.5,1.1,8.77,1.15,8.77,1.1,6.97
+40,Gstaad,Suisse Open Gstaad,25/07/2021,ATP250,Outdoor,Clay,The Final,3,Ruud C.,Gaston H.,14,155,2840,489,6,3,6,2,,,,,,,2,0,Completed,1.14,5.5,1.16,6.04,1.23,7,1.14,5.71

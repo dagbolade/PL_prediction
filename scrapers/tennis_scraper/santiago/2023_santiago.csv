@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+17,Santiago,Chile Open,27/02/2023,ATP250,Indoor,Clay,1st Round,3,Hanfmann Y.,Martinez P.,153,117,386,476,6,2,6,0,,,,,,,2,0,Completed,1.73,2.1,1.63,2.41,1.73,2.41,1.64,2.24
+17,Santiago,Chile Open,27/02/2023,ATP250,Indoor,Clay,1st Round,3,Cerundolo J.M.,Cachin P.,108,61,515,797,6,4,3,6,6,3,,,,,2,1,Completed,1.5,2.63,1.56,2.39,1.56,2.65,1.51,2.5
+17,Santiago,Chile Open,27/02/2023,ATP250,Indoor,Clay,1st Round,3,Bonadio R.,Galan D.E.,182,83,323,639,6,3,7,6,,,,,,,2,0,Completed,2.75,1.44,2.5,1.59,2.78,1.59,2.51,1.51
+17,Santiago,Chile Open,27/02/2023,ATP250,Indoor,Clay,1st Round,3,Munar J.,Tabilo A.,66,186,777,314,6,0,6,7,7,6,,,,,2,1,Completed,2.3,1.62,2.26,1.7,2.38,1.71,2.2,1.65
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Etcheverry T.,Fognini F.,76,82,684,643,6,1,7,6,,,,,,,2,0,Completed,1.62,2.3,1.7,2.26,1.7,2.43,1.64,2.22
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Monteiro T.,Ramos-Vinolas A.,84,50,631,890,7,5,4,6,7,5,,,,,2,1,Completed,2.2,1.67,2.25,1.71,2.25,1.74,2.18,1.66
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Lajovic D.,Ugo Carabelli C.,75,122,693,456,6,1,6,3,,,,,,,2,0,Completed,1.36,3.2,1.36,3.37,1.4,3.45,1.35,3.13
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Carballes Baena R.,Taberner C.,74,181,695,324,6,1,,,,,,,,,1,0,Retired,1.36,3.2,1.41,3.12,1.42,3.25,1.38,2.97
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Djere L.,Sousa J.,55,147,835,401,6,3,6,2,,,,,,,2,0,Completed,1.22,4.33,1.23,4.57,1.25,4.57,1.22,4.15
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Cecchinato M.,Bagnis F.,91,94,592,570,6,2,3,6,7,6,,,,,2,1,Completed,2.2,1.67,2.24,1.71,2.27,1.73,2.17,1.67
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Jarry N.,Varillas J.P.,87,77,616,681,7,6,6,4,,,,,,,2,0,Completed,1.57,2.38,1.57,2.55,1.62,2.61,1.55,2.41
+17,Santiago,Chile Open,28/02/2023,ATP250,Indoor,Clay,1st Round,3,Garin C.,Thiem D.,100,99,546,550,6,2,7,6,,,,,,,2,0,Completed,2.2,1.67,2.25,1.71,2.25,1.75,2.17,1.67
+17,Santiago,Chile Open,01/03/2023,ATP250,Indoor,Clay,2nd Round,3,Hanfmann Y.,Carballes Baena R.,153,74,386,695,7,6,6,2,,,,,,,2,0,Completed,1.53,2.5,1.57,2.58,1.58,2.58,1.54,2.46
+17,Santiago,Chile Open,01/03/2023,ATP250,Indoor,Clay,2nd Round,3,Munar J.,Musetti L.,66,18,777,1855,6,4,6,4,,,,,,,2,0,Completed,2.75,1.44,3.08,1.43,3.08,1.45,2.81,1.42
+17,Santiago,Chile Open,01/03/2023,ATP250,Indoor,Clay,2nd Round,3,Monteiro T.,Cecchinato M.,84,91,631,592,3,6,6,3,6,2,,,,,2,1,Completed,1.57,2.38,1.61,2.47,1.61,2.54,1.56,2.4
+17,Santiago,Chile Open,01/03/2023,ATP250,Indoor,Clay,2nd Round,3,Jarry N.,Schwartzman D.,87,37,616,1010,6,4,4,6,7,6,,,,,2,1,Completed,1.36,3.2,1.38,3.28,1.4,3.5,1.35,3.17
+17,Santiago,Chile Open,02/03/2023,ATP250,Indoor,Clay,2nd Round,3,Lajovic D.,Cerundolo J.M.,75,108,693,515,6,2,2,6,7,6,,,,,2,1,Completed,1.5,2.63,1.58,2.55,1.59,2.72,1.52,2.49
+17,Santiago,Chile Open,02/03/2023,ATP250,Indoor,Clay,2nd Round,3,Djere L.,Bonadio R.,55,182,835,323,7,5,7,5,,,,,,,2,0,Completed,1.17,5,1.18,5.7,1.19,6.38,1.16,5.06
+17,Santiago,Chile Open,02/03/2023,ATP250,Indoor,Clay,2nd Round,3,Etcheverry T.,Cerundolo F.,76,32,684,1275,6,3,3,6,6,3,,,,,2,1,Completed,2.3,1.62,2.28,1.71,2.3,1.71,2.24,1.63
+17,Santiago,Chile Open,02/03/2023,ATP250,Indoor,Clay,2nd Round,3,Baez S.,Garin C.,35,100,1045,546,6,4,6,3,,,,,,,2,0,Completed,1.67,2.2,1.65,2.4,1.67,2.5,1.61,2.31
+17,Santiago,Chile Open,03/03/2023,ATP250,Indoor,Clay,Quarterfinals,3,Etcheverry T.,Lajovic D.,76,75,684,693,6,1,6,2,,,,,,,2,0,Completed,2,1.8,1.98,1.93,2.1,1.93,1.98,1.82
+17,Santiago,Chile Open,03/03/2023,ATP250,Indoor,Clay,Quarterfinals,3,Baez S.,Djere L.,35,55,1045,835,7,6,6,4,,,,,,,2,0,Completed,1.53,2.5,1.63,2.44,1.64,2.6,1.56,2.4
+17,Santiago,Chile Open,03/03/2023,ATP250,Indoor,Clay,Quarterfinals,3,Munar J.,Monteiro T.,66,84,777,631,6,3,3,6,6,2,,,,,2,1,Completed,1.67,2.2,1.69,2.31,1.76,2.45,1.67,2.19
+17,Santiago,Chile Open,04/03/2023,ATP250,Indoor,Clay,Quarterfinals,3,Jarry N.,Hanfmann Y.,87,153,616,386,3,6,6,3,6,4,,,,,2,1,Completed,1.57,2.38,1.6,2.52,1.63,2.52,1.57,2.37
+17,Santiago,Chile Open,04/03/2023,ATP250,Indoor,Clay,Semifinals,3,Etcheverry T.,Baez S.,76,35,684,1045,7,5,6,3,,,,,,,2,0,Completed,2.63,1.5,2.61,1.56,2.68,1.56,2.54,1.51
+17,Santiago,Chile Open,04/03/2023,ATP250,Indoor,Clay,Semifinals,3,Jarry N.,Munar J.,87,66,616,777,1,6,7,6,6,1,,,,,2,1,Completed,1.44,2.75,1.47,2.91,1.53,2.92,1.46,2.7
+17,Santiago,Chile Open,05/03/2023,ATP250,Indoor,Clay,The Final,3,Jarry N.,Etcheverry T.,87,76,616,684,6,7,7,6,6,2,,,,,2,1,Completed,1.91,1.91,1.97,1.93,2.1,2.06,1.93,1.87

@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+42,Gstaad,Allianz Suisse Open,25/07/11,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Fischer M.,80,198,655,264,6,3,3,6,6,4,,,,,2,1,Completed,1.4,2.75,1.55,2.35,1.53,2.38,1.52,2.68,1.5,2.5,1.59,2.86,1.48,2.56
+42,Gstaad,Allianz Suisse Open,25/07/11,ATP250,Outdoor,Clay,1st Round,3,Haider-Maurer A.,Marti Y.,70,228,703,219,6,1,6,4,,,,,,,2,0,Completed,1.12,5.5,1.15,5,1.17,4.5,1.22,4.74,1.17,4.5,1.22,13,1.17,4.86
+42,Gstaad,Allianz Suisse Open,25/07/11,ATP250,Outdoor,Clay,1st Round,3,Andreev I.,Zverev M.,78,114,675,483,6,3,6,2,,,,,,,2,0,Completed,1.16,4.5,1.22,4,1.22,4,1.23,4.67,1.25,3.5,1.25,4.68,1.21,4.15
+42,Gstaad,Allianz Suisse Open,25/07/11,ATP250,Outdoor,Clay,1st Round,3,Luczak P.,Sadecky A.,248,401,194,93,3,6,6,3,7,6,,,,,2,1,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.27,4.11,1.29,3.25,1.31,4.28,1.26,3.73
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Darcis S.,67,95,725,561,6,4,5,7,7,5,,,,,2,1,Completed,2,1.72,2,1.75,1.83,1.83,2.29,1.69,1.83,1.83,2.33,1.87,1.99,1.76
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Giraldo S.,Garcia-Lopez G.,61,37,790,1155,5,7,6,2,6,1,,,,,2,1,Completed,1.66,2.1,1.75,2,1.67,2.1,1.72,2.23,1.73,2,1.82,2.33,1.7,2.08
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Nieminen J.,Hanescu V.,53,63,901,760,7,5,6,2,,,,,,,2,0,Completed,1.72,2,1.75,2,1.67,2.1,1.7,2.26,1.67,2.1,1.83,2.33,1.71,2.06
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Gil F.,Souza J.,93,112,566,496,4,6,6,3,6,4,,,,,2,1,Completed,1.66,2.1,1.65,2.15,1.73,2,1.74,2.2,1.67,2.1,1.81,2.2,1.7,2.06
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Granollers M.,Bohli S.,45,193,978,279,6,1,6,0,,,,,,,2,0,Completed,1.3,3.4,1.35,3,1.36,3,1.32,3.66,1.4,2.75,1.4,3.69,1.34,3.12
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Benneteau J.,Rosol L.,111,66,498,728,6,2,6,7,6,3,,,,,2,1,Completed,2.37,1.53,2.25,1.6,2.2,1.62,2.5,1.59,2.2,1.62,2.5,1.65,2.31,1.58
+42,Gstaad,Allianz Suisse Open,26/07/11,ATP250,Outdoor,Clay,1st Round,3,Lopez F.,Lammer M.,24,365,1390,113,6,4,6,7,6,3,,,,,2,1,Completed,1.06,10,1.08,7,1.08,7,1.07,10.43,1.05,8,1.08,11.63,1.06,8.35
+42,Gstaad,Allianz Suisse Open,27/07/11,ATP250,Outdoor,Clay,1st Round,3,Bachinger M.,Andujar P.,89,47,613,953,6,1,6,4,,,,,,,2,0,Completed,4.5,1.18,4.25,1.2,3.75,1.25,4.81,1.22,3.5,1.25,5.26,1.25,4.42,1.19
+42,Gstaad,Allianz Suisse Open,27/07/11,ATP250,Outdoor,Clay,2nd Round,3,Youzhny M.,Istomin D.,14,80,1990,655,6,3,6,2,,,,,,,2,0,Completed,1.18,4.5,1.22,4,1.22,4,1.27,4.26,1.2,4,1.27,4.7,1.21,4.15
+42,Gstaad,Allianz Suisse Open,28/07/11,ATP250,Outdoor,Clay,2nd Round,3,Benneteau J.,Bachinger M.,111,89,498,613,6,4,6,4,,,,,,,2,0,Completed,1.72,2,1.85,1.9,1.8,1.91,1.84,2.08,1.83,1.83,1.95,2.13,1.8,1.95
+42,Gstaad,Allianz Suisse Open,28/07/11,ATP250,Outdoor,Clay,2nd Round,3,Haider-Maurer A.,Giraldo S.,70,61,703,790,3,6,6,2,6,4,,,,,2,1,Completed,3,1.36,2.65,1.45,2.75,1.4,3.14,1.42,2.75,1.4,5.5,1.44,4.22,1.22
+42,Gstaad,Allianz Suisse Open,28/07/11,ATP250,Outdoor,Clay,2nd Round,3,Granollers M.,Andreev I.,45,78,978,675,6,1,6,3,,,,,,,2,0,Completed,1.8,1.9,1.75,2,1.73,2,1.88,2.02,1.73,2,1.73,9.3,1.19,7.1
+42,Gstaad,Allianz Suisse Open,28/07/11,ATP250,Outdoor,Clay,2nd Round,3,Wawrinka S.,Luczak P.,17,248,1935,194,6,3,7,5,,,,,,,2,0,Completed,1.08,8,1.08,7,1.11,6,1.1,8.6,1.1,6.5,1.11,8.6,1.08,7.17
+42,Gstaad,Allianz Suisse Open,28/07/11,ATP250,Outdoor,Clay,2nd Round,3,Lopez F.,Gimeno-Traver D.,24,67,1390,725,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.45,2.65,1.44,2.63,1.46,2.94,1.44,2.63,1.5,3.1,1.42,2.77
+42,Gstaad,Allianz Suisse Open,28/07/11,ATP250,Outdoor,Clay,2nd Round,3,Verdasco F.,Gil F.,20,93,1600,566,6,3,6,2,,,,,,,2,0,Completed,1.18,4.5,1.2,4.25,1.22,4,1.21,4.97,1.25,3.5,1.25,5.31,1.19,4.37
+42,Gstaad,Allianz Suisse Open,29/07/11,ATP250,Outdoor,Clay,2nd Round,3,Almagro N.,Nieminen J.,10,53,2165,901,7,6,6,3,,,,,,,2,0,Completed,1.22,4,1.3,3.3,1.25,3.75,1.25,4.5,1.25,3.5,1.3,4.5,1.25,3.65
+42,Gstaad,Allianz Suisse Open,29/07/11,ATP250,Outdoor,Clay,Quarterfinals,3,Youzhny M.,Haider-Maurer A.,14,70,1990,703,6,4,5,7,6,4,,,,,2,1,Completed,1.2,4.33,1.25,3.7,1.25,3.75,1.28,4.24,1.29,3.5,1.3,6,1.22,4.09
+42,Gstaad,Allianz Suisse Open,29/07/11,ATP250,Outdoor,Clay,Quarterfinals,3,Granollers M.,Wawrinka S.,45,17,978,1935,6,3,6,2,,,,,,,2,0,Completed,3,1.36,2.8,1.4,3.25,1.33,3.09,1.44,3.25,1.33,3.25,1.44,2.98,1.37
+42,Gstaad,Allianz Suisse Open,29/07/11,ATP250,Outdoor,Clay,Quarterfinals,3,Verdasco F.,Benneteau J.,20,111,1600,498,6,4,5,7,6,1,,,,,2,1,Completed,1.18,4.5,1.22,4,1.25,3.75,1.25,4.55,1.22,4,1.25,5.3,1.2,4.44
+42,Gstaad,Allianz Suisse Open,29/07/11,ATP250,Outdoor,Clay,Quarterfinals,3,Almagro N.,Lopez F.,10,24,2165,1390,6,4,7,5,,,,,,,2,0,Completed,1.36,3,1.45,2.65,1.4,2.75,1.47,2.96,1.36,3,1.48,3,1.41,2.8
+42,Gstaad,Allianz Suisse Open,30/07/11,ATP250,Outdoor,Clay,Semifinals,3,Granollers M.,Youzhny M.,45,14,978,1990,6,3,3,6,6,2,,,,,2,1,Completed,2.25,1.57,2.25,1.6,2.25,1.57,2.26,1.73,2.25,1.62,2.4,1.74,2.22,1.63
+42,Gstaad,Allianz Suisse Open,30/07/11,ATP250,Outdoor,Clay,Semifinals,3,Verdasco F.,Almagro N.,20,10,1600,2165,6,7,7,6,6,3,,,,,2,1,Completed,2.75,1.4,2.77,1.41,2.63,1.44,3.08,1.44,2.75,1.44,3.08,1.45,2.79,1.41
+42,Gstaad,Allianz Suisse Open,31/07/11,ATP250,Outdoor,Clay,The Final,3,Granollers M.,Verdasco F.,45,20,978,1600,6,4,3,6,6,3,,,,,2,1,Completed,2.87,1.4,2.65,1.45,2.63,1.44,3.14,1.43,2.88,1.4,3.14,1.45,2.85,1.4

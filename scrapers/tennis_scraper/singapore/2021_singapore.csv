@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+8,Singapore,Singapore Open,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Daniel T.,Ramanathan R.,120,200,602,352,6,3,6,7,6,3,,,,,2,1,Completed,1.4,2.75,1.46,2.9,1.48,3,1.44,2.78
+8,Singapore,Singapore Open,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Cressy M.,Jung J.,156,143,454,500,7,6,6,2,,,,,,,2,0,Completed,1.44,2.62,1.51,2.72,1.57,2.9,1.48,2.63
+8,Singapore,Singapore Open,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Andreev A.,Harris L.,423,82,94,873,1,6,6,3,6,4,,,,,2,1,Completed,4.33,1.2,4.43,1.25,5.25,1.25,4.59,1.19
+8,Singapore,Singapore Open,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Popyrin A.,Eubanks C.,114,240,643,247,7,6,7,6,,,,,,,2,0,Completed,1.5,2.5,1.53,2.67,1.54,2.76,1.51,2.55
+8,Singapore,Singapore Open,22/02/2021,ATP250,Indoor,Hard,1st Round,3,Nishioka Y.,Mmoh M.,61,178,1062,393,6,2,3,6,6,3,,,,,2,1,Completed,1.61,2.2,1.74,2.2,1.74,2.35,1.66,2.22
+8,Singapore,Singapore Open,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Uchiyama Y.,Polmans M.,109,129,701,546,6,4,2,6,6,4,,,,,2,1,Completed,1.66,2.1,1.74,2.2,1.82,2.25,1.7,2.15
+8,Singapore,Singapore Open,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Albot R.,Smith J.P.,76,306,907,159,6,2,3,6,6,1,,,,,2,1,Completed,1.36,3,1.49,2.81,1.5,3.6,1.39,3.01
+8,Singapore,Singapore Open,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Hanfmann Y.,Duckworth J.,105,100,738,756,6,2,6,4,,,,,,,2,0,Completed,2.2,1.61,2.27,1.7,2.45,1.7,2.28,1.62
+8,Singapore,Singapore Open,23/02/2021,ATP250,Indoor,Hard,1st Round,3,Celikbilek A.,Mochizuki S.,302,639,167,39,6,0,6,4,,,,,,,2,0,Completed,1.33,3.25,1.36,3.4,1.34,3.8,1.31,3.45
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,1st Round,3,Kwon S.W.,Kwiatkowski T.S.,81,219,877,285,4,6,6,3,6,4,,,,,2,1,Completed,1.36,3,1.36,3.37,1.44,3.37,1.39,2.98
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,1st Round,3,Marcora R.,Gulbis E.,191,186,362,376,7,5,6,4,,,,,,,2,0,Completed,1.83,1.83,1.98,1.91,2.13,1.95,1.95,1.85
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,1st Round,3,Ebden M.,Bhambri Y.,316,N/A,151,N/A,6,3,7,6,,,,,,,2,0,Completed,1.25,3.75,1.38,3.28,1.38,3.75,1.33,3.28
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Cilic M.,Daniel T.,44,120,1325,602,7,5,6,4,,,,,,,2,0,Completed,1.33,3.25,1.32,3.76,1.33,3.8,1.3,3.53
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Nishioka Y.,Cressy M.,61,156,1062,454,6,4,6,2,,,,,,,2,0,Completed,1.72,2,1.74,2.22,1.8,2.25,1.69,2.16
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Bublik A.,Celikbilek A.,46,302,1255,167,6,2,6,2,,,,,,,2,0,Completed,1.2,4.33,1.24,4.6,1.26,4.65,1.22,4.27
+8,Singapore,Singapore Open,24/02/2021,ATP250,Indoor,Hard,2nd Round,3,Popyrin A.,Andreev A.,114,423,643,94,6,1,5,7,6,3,,,,,2,1,Completed,1.22,4,1.27,4.17,1.32,4.25,1.25,3.88
+8,Singapore,Singapore Open,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Albot R.,Hanfmann Y.,76,105,907,738,6,7,7,6,6,3,,,,,2,1,Completed,1.66,2.1,1.73,2.24,1.74,2.3,1.69,2.16
+8,Singapore,Singapore Open,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Ebden M.,Millman J.,316,39,151,1421,6,4,6,1,,,,,,,2,0,Completed,3.75,1.25,4.26,1.27,4.55,1.27,4.02,1.24
+8,Singapore,Singapore Open,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Mannarino A.,Marcora R.,35,191,1641,362,6,3,7,5,,,,,,,2,0,Completed,1.18,4.5,1.23,4.77,1.25,5.3,1.2,4.53
+8,Singapore,Singapore Open,25/02/2021,ATP250,Indoor,Hard,2nd Round,3,Kwon S.W.,Uchiyama Y.,81,109,877,701,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.41,3.17,1.5,3.17,1.43,2.82
+8,Singapore,Singapore Open,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Popyrin A.,Ebden M.,114,316,643,151,6,4,7,6,,,,,,,2,0,Completed,1.5,2.62,1.53,2.68,1.56,2.75,1.5,2.59
+8,Singapore,Singapore Open,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Albot R.,Mannarino A.,76,35,907,1641,6,3,6,4,,,,,,,2,0,Completed,2.75,1.44,3.06,1.43,3.06,1.48,2.83,1.42
+8,Singapore,Singapore Open,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Cilic M.,Kwon S.W.,44,81,1325,877,6,2,2,6,7,5,,,,,2,1,Completed,1.8,2,1.88,2.04,1.94,2.1,1.83,1.98
+8,Singapore,Singapore Open,26/02/2021,ATP250,Indoor,Hard,Quarterfinals,3,Bublik A.,Nishioka Y.,46,61,1255,1062,6,3,6,2,,,,,,,2,0,Completed,1.72,2.1,1.71,2.27,2.05,2.32,1.72,2.13
+8,Singapore,Singapore Open,27/02/2021,ATP250,Indoor,Hard,Semifinals,3,Popyrin A.,Cilic M.,114,44,643,1325,7,6,7,6,,,,,,,2,0,Completed,2.37,1.57,2.4,1.65,2.55,1.67,2.36,1.59
+8,Singapore,Singapore Open,27/02/2021,ATP250,Indoor,Hard,Semifinals,3,Bublik A.,Albot R.,46,76,1255,907,2,6,6,3,6,4,,,,,2,1,Completed,1.44,2.75,1.46,2.95,1.48,3,1.44,2.77
+8,Singapore,Singapore Open,28/02/2021,ATP250,Indoor,Hard,The Final,3,Popyrin A.,Bublik A.,114,46,643,1255,4,6,6,0,6,2,,,,,2,1,Completed,2.3,1.61,2.37,1.66,2.45,1.73,2.31,1.62

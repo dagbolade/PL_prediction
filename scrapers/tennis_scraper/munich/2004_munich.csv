@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,IWW,IWL,PSW,PSL
+25,Munich,BMW Open,26/04/04,International,Outdoor,Clay,1st Round,3,Verkerk M.,Johansson J.,17,48,6,4,6,2,,,,,,,2,0,Completed,1.444,2.625,1.5,2.5,1.56,2.34,1.45,2.2,1.455,2.9
+25,Munich,BMW Open,26/04/04,International,Outdoor,Clay,1st Round,3,Sargsian S.,Blake J.,46,43,6,4,7,6,,,,,,,2,0,Completed,1.833,1.833,1.83,1.9,1.7,2.1,1.85,1.65,1.794,2.06
+25,Munich,BMW Open,26/04/04,International,Outdoor,Clay,1st Round,3,Stepanek R.,Kucera K.,55,73,6,4,7,5,,,,,,,2,0,Completed,1.571,2.25,1.57,2.3,1.65,2.2,1.6,1.9,1.625,2.4
+25,Munich,BMW Open,26/04/04,International,Outdoor,Clay,1st Round,3,Dent T.,Dupuis A.,32,70,7,6,7,6,,,,,,,2,0,Completed,1.615,2.2,1.7,2.1,1.67,2.12,1.5,2.1,1.775,2.09
+25,Munich,BMW Open,26/04/04,International,Outdoor,Clay,1st Round,3,Hanescu V.,Burgsmuller L.,63,92,6,2,7,6,,,,,,,2,0,Completed,1.444,2.625,1.45,2.65,1.4,2.85,1.4,2.3,1.4,3.15
+25,Munich,BMW Open,26/04/04,International,Outdoor,Clay,1st Round,3,Davydenko N.,Pavel A.,60,29,7,6,6,4,,,,,,,2,0,Completed,2.25,1.571,2.2,1.65,2.15,1.65,2,1.55,2.23,1.699
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Kohlschreiber P.,Carlsen K.,152,105,7,6,6,4,,,,,,,2,0,Completed,1.571,2.25,1.7,2.1,1.53,2.4,1.75,1.75,1.676,2.28
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Waske A.,Ivanisevic G.,194,454,6,4,7,6,,,,,,,2,0,Completed,1.5,2.5,1.5,2.45,1.48,2.53,1.5,2.1,1.488,2.78
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Haas T.,Ulihrach B.,134,130,6,3,6,2,,,,,,,2,0,Completed,1.2,4,1.18,4.5,1.21,4.06,1.2,3.3,1.182,5.25
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Pashanski B.,Moodie W.,189,102,6,4,6,3,,,,,,,2,0,Completed,,,1.4,2.8,1.45,2.6,1.45,2.2,,
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Kratochvil M.,Malisse X.,191,58,6,4,4,6,6,3,,,,,2,1,Completed,2.2,1.615,2.1,1.67,1.99,1.76,1.85,1.65,2.15,1.741
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Schuettler R.,Soderling R.,5,47,6,4,7,6,,,,,,,2,0,Completed,1.333,3,1.35,3.1,1.35,3.1,1.3,2.7,1.357,3.4
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Spadea V.,Kindlmann D.,34,197,6,4,6,2,,,,,,,2,0,Completed,,,1.28,2.4,1.25,3.9,1.25,3,,
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Rochus O.,Srichaphan P.,72,13,6,3,6,2,,,,,,,2,0,Completed,1.615,2.2,1.6,2.25,1.6,2.25,1.65,1.85,1.685,2.26
+25,Munich,BMW Open,27/04/04,International,Outdoor,Clay,1st Round,3,Novak J.,Youzhny M.,15,45,6,4,6,2,,,,,,,2,0,Completed,1.833,1.833,1.83,1.9,1.9,1.85,1.6,1.9,2.1,1.769
+25,Munich,BMW Open,28/04/04,International,Outdoor,Clay,1st Round,3,Horna L.,Mutis O.,51,125,6,4,6,1,,,,,,,2,0,Completed,1.4,2.75,1.5,2.5,1.45,2.6,1.4,2.3,1.535,2.69
+25,Munich,BMW Open,28/04/04,International,Outdoor,Clay,2nd Round,3,Verkerk M.,Pashanski B.,17,189,7,6,7,6,,,,,,,2,0,Completed,1.16,4.5,1.22,4.1,1.2,4.25,1.25,3,1.263,4.2
+25,Munich,BMW Open,28/04/04,International,Outdoor,Clay,2nd Round,3,Kratochvil M.,Sargsian S.,191,46,6,2,6,4,,,,,,,2,0,Completed,2.25,1.571,2.35,1.55,2.25,1.6,2.2,1.45,1.625,2.3
+25,Munich,BMW Open,28/04/04,International,Outdoor,Clay,2nd Round,3,Rochus O.,Kohlschreiber P.,72,152,7,6,6,2,,,,,,,2,0,Completed,1.444,2.625,1.4,2.8,,,1.3,2.7,1.417,3.1
+25,Munich,BMW Open,28/04/04,International,Outdoor,Clay,2nd Round,3,Waske A.,Spadea V.,194,34,3,6,7,5,7,6,,,,,2,1,Completed,3.5,1.286,3.4,1.28,,,3,1.25,3.3,1.37
+25,Munich,BMW Open,29/04/04,International,Outdoor,Clay,2nd Round,3,Stepanek R.,Novak J.,55,15,6,3,7,5,,,,,,,2,0,Completed,2.375,1.533,2.3,1.6,2.4,1.55,2.1,1.5,2.27,1.69
+25,Munich,BMW Open,29/04/04,International,Outdoor,Clay,2nd Round,3,Horna L.,Dent T.,51,32,6,4,3,1,,,,,,,1,0,Retired,1.444,2.625,1.36,3,1.35,3.1,1.4,2.3,1.413,3.12
+25,Munich,BMW Open,29/04/04,International,Outdoor,Clay,2nd Round,3,Schuettler R.,Haas T.,5,134,6,4,2,6,6,4,,,,,2,1,Completed,1.833,1.833,2,1.77,2.15,1.65,1.75,1.75,2.19,1.73
+25,Munich,BMW Open,29/04/04,International,Outdoor,Clay,2nd Round,3,Davydenko N.,Hanescu V.,60,63,6,7,6,2,6,4,,,,,2,1,Completed,1.5,2.5,1.45,2.65,1.48,2.53,1.45,2.2,1.546,2.65
+25,Munich,BMW Open,30/04/04,International,Outdoor,Clay,Quarterfinals,3,Verkerk M.,Kratochvil M.,17,191,6,3,7,6,,,,,,,2,0,Completed,1.533,2.375,1.57,2.35,1.65,2.15,1.55,2,1.649,2.34
+25,Munich,BMW Open,30/04/04,International,Outdoor,Clay,Quarterfinals,3,Davydenko N.,Schuettler R.,60,5,6,1,7,6,,,,,,,2,0,Completed,2.1,1.667,2.15,1.68,2.4,1.55,,,2.24,1.704
+25,Munich,BMW Open,30/04/04,International,Outdoor,Clay,Quarterfinals,3,Horna L.,Stepanek R.,51,55,7,6,7,6,,,,,,,2,0,Completed,1.727,2,1.85,1.95,1.75,2,,,1.926,1.926
+25,Munich,BMW Open,30/04/04,International,Outdoor,Clay,Quarterfinals,3,Rochus O.,Waske A.,72,194,3,6,6,3,6,4,,,,,2,1,Completed,1.533,2.375,1.62,2.3,1.55,2.35,1.5,2.1,1.602,2.46
+25,Munich,BMW Open,01/05/04,International,Outdoor,Clay,Semifinals,3,Davydenko N.,Horna L.,60,51,6,4,6,1,,,,,,,2,0,Completed,1.5,2.5,1.5,2.6,1.58,2.28,1.45,2.2,1.556,2.6
+25,Munich,BMW Open,01/05/04,International,Outdoor,Clay,Semifinals,3,Verkerk M.,Rochus O.,17,72,7,6,6,3,,,,,,,2,0,Completed,1.533,2.375,1.55,2.45,1.53,2.4,1.45,2.2,1.606,2.47
+25,Munich,BMW Open,02/05/04,International,Outdoor,Clay,The Final,3,Davydenko N.,Verkerk M.,60,17,6,4,7,5,,,,,,,2,0,Completed,1.615,2.2,1.55,2.45,1.65,2.1,1.55,2.1,1.621,2.43
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Bruguera S.,Rosset M.,326,42,6,2,,,,,,,,,1,0,Retired
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Vinciguerra A.,Clement A.,58,59,4,6,6,3,6,3,,,,,2,1,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Grosjean S.,Pozzi G.,29,71,6,3,6,0,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Gumy H.,Martin A.,75,72,6,1,6,2,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,El Aynaoui Y.,Portas A.,16,80,7,5,7,5,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Puerta M.,Hantschk M.,49,95,6,4,6,2,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Tieleman L.,Stanoytchev O.,110,97,6,3,6,4,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Coutelot N.,Diaz J.,256,102,2,4,,,,,,,,,0,0,Retired
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Willems R.,Popp A.,224,104,6,4,6,0,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Alami K.,Behrend T.,27,109,6,3,6,4,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Lopez-Moron A.,Manta L.,119,112,6,2,6,3,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Arazi H.,Dupuis A.,28,113,6,3,7,5,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Wiltschnig H.,Guardiola T.,196,124,6,2,6,2,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Vicente F.,Youzhny M.,45,212,3,6,6,1,6,1,,,,,2,1,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,di Pasquale A.,El Aarej M.,51,448,6,7,6,3,7,5,,,,,2,1,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,1st Round,3,Rochus C.,Tahiri M.,87,707,6,1,6,2,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,Vinciguerra A.,Alami K.,58,27,7,6,7,6,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,Bruguera S.,Gumy H.,326,75,6,2,7,6,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,Arazi H.,Rochus C.,28,87,6,2,7,5,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,El Aynaoui Y.,Tieleman L.,16,110,7,6,6,4,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,di Pasquale A.,Lopez-Moron A.,51,119,6,2,6,2,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,Vicente F.,Wiltschnig H.,45,196,6,2,6,3,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,Grosjean S.,Willems R.,29,224,6,3,6,2,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,2nd Round,3,Puerta M.,Coutelot N.,49,256,6,2,6,4,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,Quarterfinals,3,Puerta M.,El Aynaoui Y.,49,16,7,6,6,4,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,Quarterfinals,3,Vicente F.,Arazi H.,45,28,6,7,6,3,6,2,,,,,2,1,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,Quarterfinals,3,di Pasquale A.,Vinciguerra A.,51,58,6,2,6,3,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,Quarterfinals,3,Grosjean S.,Bruguera S.,29,326,6,0,6,0,,,,,,,2,0,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,Semifinals,3,Grosjean S.,Puerta M.,29,49,6,4,3,6,6,1,,,,,2,1,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,Semifinals,3,Vicente F.,di Pasquale A.,45,51,6,4,1,6,6,4,,,,,2,1,Completed
+22,Casablanca,Grand Prix Hassan II,10/04/00,International,Outdoor,Clay,The Final,3,Vicente F.,Grosjean S.,45,29,6,4,4,6,7,6,,,,,2,1,Completed
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

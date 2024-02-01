@@ -1,0 +1,32 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+4,Sydney,Apai International,08/01/12,Premier,Outdoor,Hard,1st Round,3,Safarova L.,Ivanovic A.,25,22,2060,2260,7,6,6,2,,,2,0,Completed,2.75,1.4,2.8,1.4,2.62,1.44,3.26,1.38,2.88,1.4,3.6,1.45,2.85,1.4
+4,Sydney,Apai International,08/01/12,Premier,Outdoor,Hard,1st Round,3,Dokic J.,Holland I.,71,182,904,357,6,0,6,0,,,2,0,Completed,1.28,3.5,1.3,3.3,1.25,3.75,1.27,4.16,1.22,4,1.32,4.22,1.27,3.56
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Li N.,Makarova E.,5,54,5720,1114,6,0,6,3,,,2,0,Completed,1.18,4.5,1.18,4.5,1.17,4.5,1.18,5.47,1.17,4.5,1.22,5.47,1.18,4.74
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Petkovic A.,Pavlyuchenkova A.,10,16,4500,2795,6,2,6,3,,,2,0,Completed,1.44,2.62,1.5,2.5,1.53,2.38,1.51,2.72,1.53,2.38,1.56,2.75,1.5,2.52
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Dulgheru A.,Arvidsson S.,66,77,935,865,6,1,6,1,,,2,0,Completed,2.2,1.61,2.15,1.65,2,1.73,,,2,1.73,2.2,1.82,2.07,1.72
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Cibulkova D.,Peng S.,18,17,2755,2790,6,2,4,6,6,4,2,1,Completed,1.66,2.1,1.65,2.15,1.67,2.1,1.61,2.46,1.73,2,1.75,2.46,1.66,2.17
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Hantuchova D.,Vinci R.,21,24,2295,2125,7,5,6,2,,,2,0,Completed,1.57,2.25,1.6,2.25,1.57,2.25,1.71,2.25,1.62,2.2,1.71,2.38,1.63,2.22
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Bartoli M.,Hercog P.,9,36,4710,1490,6,3,6,3,,,2,0,Completed,1.12,6,1.15,5,1.17,4.5,1.13,7.13,1.14,5,1.18,7.13,1.14,5.46
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Azarenka V.,Voegele S.,3,140,6520,482,6,2,6,1,,,2,0,Completed,1.04,13,1.05,8.5,1.05,8.5,1.05,13.12,1.04,10,1.07,14.5,1.04,10.11
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Kuznetsova S.,Zvonareva V.,19,7,2706,5435,6,1,6,2,,,2,0,Completed,2,1.72,1.95,1.8,2,1.73,2.1,1.81,2.1,1.67,2.1,1.95,1.98,1.77
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Scheepers C.,Czink M.,39,146,1376,460,6,4,6,2,,,2,0,Completed,1.4,2.75,1.4,2.8,1.4,2.75,1.5,2.76,1.5,2.5,1.51,2.9,1.44,2.72
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Radwanska A.,Radwanska U.,8,102,5250,655,6,1,6,1,,,2,0,Completed,1.16,5,1.22,4,1.17,4.5,1.14,6.49,1.2,4,1.25,6.49,1.18,4.62
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Schiavone F.,Stosur S.,11,6,4040,5585,6,2,6,4,,,2,0,Completed,3,1.36,2.8,1.4,2.62,1.44,3.01,1.43,2.88,1.4,3.01,1.5,2.73,1.43
+4,Sydney,Apai International,09/01/12,Premier,Outdoor,Hard,1st Round,3,Jankovic J.,Goerges J.,14,23,3115,2225,6,1,3,1,,,1,0,Retired,1.36,3,1.38,2.92,1.44,2.62,1.54,2.63,1.44,2.63,1.54,3.17,1.4,2.81
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Safarova L.,Kuznetsova S.,25,19,2060,2706,6,1,2,0,,,1,0,Retired,3.25,1.33,3,1.35,3,1.36,3.44,1.36,2.88,1.36,3.44,1.4,3.09,1.35
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Li N.,Scheepers C.,5,39,5720,1376,2,6,6,4,6,1,2,1,Completed,1.16,5,1.22,4,1.2,4.33,1.19,5.42,1.2,4,1.23,5.5,1.18,4.59
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Wozniacki C.,Cibulkova D.,1,18,7485,2755,7,5,2,6,6,4,2,1,Completed,1.33,3.25,1.3,3.3,1.33,3.25,1.37,3.4,1.17,3.5,1.37,3.8,1.32,3.28
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Radwanska A.,Petkovic A.,8,10,5250,4500,7,5,6,4,,,2,0,Completed,1.53,2.37,1.5,2.5,1.57,2.25,1.63,2.44,1.53,2.38,1.64,2.6,1.55,2.39
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Hantuchova D.,Schiavone F.,21,11,2295,4040,7,5,6,1,,,2,0,Completed,2.5,1.5,2.5,1.5,2.5,1.5,2.43,1.62,2.38,1.53,2.69,1.62,2.45,1.53
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Kvitova P.,Dulgheru A.,2,66,7190,935,7,5,3,6,6,4,2,1,Completed,1.08,8,1.1,6.5,1.08,7,1.09,9.5,1.07,7,1.1,9.5,1.08,7.64
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Bartoli M.,Dokic J.,9,71,4710,904,6,0,6,3,,,2,0,Completed,1.14,5.5,1.16,4.75,1.17,4.5,1.17,5.83,1.17,4.5,1.18,6,1.15,5.1
+4,Sydney,Apai International,10/01/12,Premier,Outdoor,Hard,2nd Round,3,Azarenka V.,Jankovic J.,3,14,6520,3115,6,4,6,2,,,2,0,Completed,1.25,3.75,1.3,3.3,1.3,3.4,1.32,3.77,1.29,3.25,1.33,3.8,1.29,3.46
+4,Sydney,Apai International,11/01/12,Premier,Outdoor,Hard,Quarterfinals,3,Li N.,Safarova L.,5,25,5720,2060,6,2,7,6,,,2,0,Completed,1.4,2.75,1.5,2.5,1.44,2.62,1.53,2.75,1.53,2.5,1.53,2.8,1.46,2.63
+4,Sydney,Apai International,11/01/12,Premier,Outdoor,Hard,Quarterfinals,3,Azarenka V.,Bartoli M.,3,9,6520,4710,7,5,6,4,,,2,0,Completed,1.4,2.75,1.4,2.8,1.4,2.75,1.43,3.1,1.36,3,1.44,3.1,1.4,2.83
+4,Sydney,Apai International,11/01/12,Premier,Outdoor,Hard,Quarterfinals,3,Kvitova P.,Hantuchova D.,2,21,7190,2295,6,0,6,4,,,2,0,Completed,1.25,3.75,1.3,3.3,1.33,3.25,1.33,3.71,1.14,5.5,1.36,5.5,1.3,3.44
+4,Sydney,Apai International,11/01/12,Premier,Outdoor,Hard,Quarterfinals,3,Radwanska A.,Wozniacki C.,8,1,5250,7485,3,6,7,5,6,2,2,1,Completed,2,1.72,2.05,1.72,2,1.73,2.14,1.81,1.62,2.25,2.23,2.25,2.01,1.76
+4,Sydney,Apai International,12/01/12,Premier,Outdoor,Hard,Semifinals,3,Li N.,Kvitova P.,5,2,5720,7190,1,6,7,5,6,2,2,1,Completed,3,1.36,3.05,1.34,3,1.4,3.36,1.37,4.5,1.2,4.5,1.4,3.01,1.37
+4,Sydney,Apai International,12/01/12,Premier,Outdoor,Hard,Semifinals,3,Azarenka V.,Radwanska A.,3,8,6520,5250,1,6,6,3,6,2,2,1,Completed,1.4,2.75,1.4,2.8,1.44,2.75,1.48,2.9,1.67,2.2,1.67,3.25,1.42,2.77
+4,Sydney,Apai International,13/01/12,Premier,Outdoor,Hard,The Final,3,Azarenka V.,Li N.,3,5,6520,5720,6,2,1,6,6,3,2,1,Completed,1.66,2.2,1.65,2.15,1.62,2.2,1.6,2.53,1.57,2.38,1.66,2.53,1.61,2.26
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

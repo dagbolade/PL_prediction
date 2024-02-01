@@ -1,0 +1,48 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+25,Bucharest,BRD Nastase Tiriac Trophy,22/04/13,ATP250,Outdoor,Clay,1st Round,3,Brands D.,Ito T.,67,110,709,499,6,3,6,4,,,,,,,2,0,Completed,1.16,5,1.15,5,1.2,4.33,1.18,5.55,1.17,4.5,1.2,6.1,1.17,4.85
+25,Bucharest,BRD Nastase Tiriac Trophy,22/04/13,ATP250,Outdoor,Clay,1st Round,3,Goffin D.,Ungur A.,62,134,742,412,6,3,6,1,,,,,,,2,0,Completed,1.44,2.62,1.5,2.5,1.5,2.5,1.59,2.5,1.57,2.38,1.59,2.88,1.5,2.51
+25,Bucharest,BRD Nastase Tiriac Trophy,22/04/13,ATP250,Outdoor,Clay,1st Round,3,Troicki V.,Matosevic M.,46,50,880,852,7,6,6,3,,,,,,,2,0,Completed,1.66,2.1,1.75,2,1.8,1.91,1.74,2.2,1.73,2.1,1.83,2.32,1.75,2.03
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Kamke T.,Mathieu P.H.,78,75,641,658,6,1,6,3,,,,,,,2,0,Completed,2,1.72,1.9,1.85,1.91,1.8,2.07,1.83,1.9,1.9,2.1,1.9,1.96,1.8
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Nieminen J.,Donskoy E.,39,77,995,643,1,6,6,4,7,6,,,,,2,1,Completed,1.22,4,1.22,4,1.25,3.75,1.26,4.25,1.22,4,1.26,4.6,1.22,4.08
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Mayer F.,Cipolla F.,29,133,1260,414,6,0,7,6,,,,,,,2,0,Completed,1.3,3.4,1.35,3,1.33,3.25,1.37,3.35,1.29,3.5,1.37,3.6,1.32,3.32
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Stakhovsky S.,Pospisil J.,98,350,546,115,6,2,6,2,,,,,,,2,0,Completed,1.5,2.5,1.55,2.35,1.57,2.25,1.63,2.4,1.53,2.5,1.63,2.6,1.53,2.43
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Rosol L.,Muller G.,48,68,875,704,7,6,6,2,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,1.48,2.84,1.4,2.88,1.48,3.2,1.39,2.93
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Monfils G.,Volandri F.,105,122,515,456,6,4,6,2,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.4,2.75,,,1.36,3,1.43,3.65,1.38,2.93
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Garcia-Lopez G.,Zeballos H.,87,40,576,975,3,6,6,4,6,0,,,,,2,1,Completed,2.37,1.53,2.35,1.55,2.25,1.57,2.33,1.67,2.38,1.57,2.6,1.63,2.36,1.56
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Giraldo S.,Malisse X.,76,54,650,831,6,1,6,2,,,,,,,2,0,Completed,1.44,2.62,1.45,2.65,1.53,2.38,1.54,2.65,1.53,2.5,1.57,2.95,1.47,2.61
+25,Bucharest,BRD Nastase Tiriac Trophy,23/04/13,ATP250,Outdoor,Clay,1st Round,3,Hanescu V.,Bachinger M.,55,109,789,503,6,4,6,3,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.53,2.38,1.71,2.24,1.53,2.5,1.71,2.6,1.56,2.4
+25,Bucharest,BRD Nastase Tiriac Trophy,24/04/13,ATP250,Outdoor,Clay,2nd Round,3,Rosol L.,Seppi A.,48,18,875,1895,6,1,3,6,6,3,,,,,2,1,Completed,3,1.36,3,1.35,2.62,1.44,3.14,1.42,2.88,1.4,3.35,1.44,2.91,1.39
+25,Bucharest,BRD Nastase Tiriac Trophy,24/04/13,ATP250,Outdoor,Clay,2nd Round,3,Troicki V.,Kamke T.,46,78,880,641,6,4,6,2,,,,,,,2,0,Completed,1.61,2.2,1.65,2.15,1.83,1.83,1.66,2.37,1.67,2.2,1.83,2.38,1.66,2.17
+25,Bucharest,BRD Nastase Tiriac Trophy,24/04/13,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,Nieminen J.,16,39,2100,995,4,6,6,4,6,4,,,,,2,1,Completed,1.66,2.1,1.8,1.95,1.67,2.1,1.88,2.02,1.73,2.1,1.88,2.14,1.75,2.03
+25,Bucharest,BRD Nastase Tiriac Trophy,24/04/13,ATP250,Outdoor,Clay,2nd Round,3,Brands D.,Monfils G.,67,105,709,515,7,6,2,0,,,,,,,1,0,Retired,2.37,1.53,2.35,1.55,2.25,1.57,2.71,1.53,2.25,1.62,2.71,1.67,2.32,1.59
+25,Bucharest,BRD Nastase Tiriac Trophy,25/04/13,ATP250,Outdoor,Clay,2nd Round,3,Mayer F.,Goffin D.,29,62,1260,742,7,6,1,6,6,3,,,,,2,1,Completed,1.66,2.1,1.75,2,1.67,2.1,1.75,2.21,1.73,2.1,1.85,2.21,1.74,2.04
+25,Bucharest,BRD Nastase Tiriac Trophy,25/04/13,ATP250,Outdoor,Clay,2nd Round,3,Hanescu V.,Youzhny M.,55,30,789,1220,6,4,6,3,,,,,,,2,0,Completed,2.25,1.57,2.08,1.7,2.25,1.57,2.29,1.7,2.2,1.67,2.46,1.73,2.17,1.66
+25,Bucharest,BRD Nastase Tiriac Trophy,25/04/13,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Stakhovsky S.,87,98,576,546,1,6,6,3,6,4,,,,,2,1,Completed,1.53,2.37,1.65,2.15,1.62,2.2,1.63,2.43,1.62,2.25,1.71,2.43,1.64,2.21
+25,Bucharest,BRD Nastase Tiriac Trophy,25/04/13,ATP250,Outdoor,Clay,2nd Round,3,Tipsarevic J.,Giraldo S.,10,76,3000,650,6,3,6,3,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.53,2.38,1.64,2.41,1.53,2.5,1.65,2.5,1.56,2.38
+25,Bucharest,BRD Nastase Tiriac Trophy,26/04/13,ATP250,Outdoor,Clay,Quarterfinals,3,Simon G.,Brands D.,16,67,2100,709,6,1,7,5,,,,,,,2,0,Completed,1.33,3.25,1.4,2.8,1.4,2.75,1.4,3.3,1.4,2.88,1.43,3.3,1.38,2.97
+25,Bucharest,BRD Nastase Tiriac Trophy,26/04/13,ATP250,Outdoor,Clay,Quarterfinals,3,Rosol L.,Troicki V.,48,46,875,880,6,3,6,1,,,,,,,2,0,Completed,1.66,2.1,1.8,1.95,1.83,1.83,1.87,2.07,1.8,2,1.87,2.15,1.8,1.97
+25,Bucharest,BRD Nastase Tiriac Trophy,26/04/13,ATP250,Outdoor,Clay,Quarterfinals,3,Garcia-Lopez G.,Tipsarevic J.,87,10,576,3000,6,3,3,6,6,4,,,,,2,1,Completed,3.25,1.33,3.3,1.3,3.4,1.3,3.17,1.42,3.25,1.33,3.6,1.42,3.21,1.34
+25,Bucharest,BRD Nastase Tiriac Trophy,26/04/13,ATP250,Outdoor,Clay,Quarterfinals,3,Mayer F.,Hanescu V.,29,55,1260,789,6,3,7,6,,,,,,,2,0,Completed,2.2,1.61,2.15,1.65,2,1.73,2.24,1.75,2,1.8,2.32,1.8,2.09,1.71
+25,Bucharest,BRD Nastase Tiriac Trophy,27/04/13,ATP250,Outdoor,Clay,Semifinals,3,Rosol L.,Simon G.,48,16,875,2100,6,2,6,3,,,,,,,2,0,Completed,3,1.36,2.8,1.4,3,1.36,2.9,1.49,2.88,1.4,3.35,1.49,2.96,1.39
+25,Bucharest,BRD Nastase Tiriac Trophy,27/04/13,ATP250,Outdoor,Clay,Semifinals,3,Garcia-Lopez G.,Mayer F.,87,29,576,1260,6,4,4,6,6,3,,,,,2,1,Completed,2.37,1.53,2.35,1.55,2.25,1.57,2.53,1.6,2.38,1.57,2.55,1.64,2.37,1.56
+25,Bucharest,BRD Nastase Tiriac Trophy,28/04/13,ATP250,Outdoor,Clay,The Final,3,Rosol L.,Garcia-Lopez G.,48,87,875,576,6,3,6,2,,,,,,,2,0,Completed,1.57,2.37,1.55,2.35,1.53,2.38,1.69,2.34,1.57,2.38,1.69,2.55,1.58,2.35
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

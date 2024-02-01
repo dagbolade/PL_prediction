@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+20,Estoril,Estoril Open,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Cachin P.,Tseng C.H.,67,145,773,401,6,4,6,4,,,,,,,2,0,Completed,1.62,2.3,1.7,2.26,1.7,2.38,1.64,2.25
+20,Estoril,Estoril Open,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Baez S.,Albot R.,32,106,1170,523,7,5,7,6,,,,,,,2,0,Completed,1.14,5.5,1.14,6.54,1.15,6.54,1.13,5.82
+20,Estoril,Estoril Open,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Cecchinato M.,Schwartzman D.,96,36,605,1025,6,3,7,6,,,,,,,2,0,Completed,3.2,1.36,3.17,1.4,3.45,1.41,3.06,1.36
+20,Estoril,Estoril Open,03/04/2023,ATP250,Outdoor,Clay,1st Round,3,Fognini F.,Giannessi A.,97,224,593,254,6,2,6,1,,,,,,,2,0,Completed,1.5,2.63,1.52,2.7,1.57,2.75,1.5,2.56
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Kecmanovic M.,Nardi L.,40,161,985,372,6,4,6,1,,,,,,,2,0,Completed,1.29,3.75,1.32,3.64,1.33,3.75,1.3,3.43
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Zapata Miralles B.,Rocha H.,43,596,952,53,6,4,6,2,,,,,,,2,0,Completed,1.2,4.5,1.24,4.46,1.25,4.7,1.21,4.28
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Shelton B.,Lestienne C.,39,63,999,798,7,5,7,5,,,,,,,2,0,Completed,1.57,2.38,1.62,2.44,1.73,2.59,1.61,2.29
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Van Assche L.,Sousa P.,91,475,640,82,6,7,6,3,6,1,,,,,2,1,Completed,1.33,3.4,1.41,3.14,1.41,3.55,1.34,3.23
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Thiem D.,Ofner S.,111,122,510,488,3,6,6,3,6,4,,,,,2,1,Completed,1.62,2.3,1.56,2.57,1.63,2.63,1.55,2.42
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Rodionov J.,Ramos-Vinolas A.,120,52,490,880,3,6,6,1,6,4,,,,,2,1,Completed,3.5,1.3,3.22,1.39,3.53,1.4,3.11,1.36
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Zeppieri G.,147,121,390,489,6,4,1,6,6,3,,,,,2,1,Completed,2.5,1.53,2.42,1.63,2.5,1.63,2.39,1.56
+20,Estoril,Estoril Open,04/04/2023,ATP250,Outdoor,Clay,1st Round,3,Halys Q.,Borges N.,80,65,691,783,6,3,6,4,,,,,,,2,0,Completed,2.38,1.57,2.46,1.61,2.6,1.61,2.41,1.55
+20,Estoril,Estoril Open,05/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Cecchinato M.,Fognini F.,96,97,605,593,4,6,6,3,6,3,,,,,2,1,Completed,2.38,1.57,2.67,1.54,2.67,1.63,2.47,1.53
+20,Estoril,Estoril Open,05/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Baez S.,Cachin P.,32,67,1170,773,6,4,7,6,,,,,,,2,0,Completed,1.36,3.2,1.41,3.15,1.42,3.5,1.37,3.03
+20,Estoril,Estoril Open,05/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Ruud C.,Sousa J.,5,147,5005,390,4,6,6,2,6,2,,,,,2,1,Completed,1.11,6.5,1.12,7.69,1.13,7.69,1.11,6.55
+20,Estoril,Estoril Open,05/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Van Assche L.,24,91,1580,640,6,3,7,5,,,,,,,2,0,Completed,1.4,3,1.38,3.35,1.44,3.35,1.38,2.98
+20,Estoril,Estoril Open,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Kecmanovic M.,Rodionov J.,40,120,985,490,6,0,6,1,,,,,,,2,0,Completed,1.36,3.2,1.36,3.46,1.4,3.5,1.33,3.25
+20,Estoril,Estoril Open,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Shelton B.,111,39,510,999,6,2,6,2,,,,,,,2,0,Completed,1.67,2.2,1.74,2.22,1.77,2.25,1.68,2.17
+20,Estoril,Estoril Open,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Zapata Miralles B.,Hurkacz H.,43,12,952,2750,6,7,6,4,6,2,,,,,2,1,Completed,3,1.4,3.08,1.43,3.15,1.46,2.9,1.4
+20,Estoril,Estoril Open,06/04/2023,ATP250,Outdoor,Clay,2nd Round,3,Halys Q.,Bautista Agut R.,80,28,691,1395,7,6,7,5,,,,,,,2,0,Completed,2.38,1.57,2.33,1.68,2.38,1.68,2.26,1.63
+20,Estoril,Estoril Open,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Cecchinato M.,Davidovich Fokina A.,96,24,605,1580,7,5,7,6,,,,,,,2,0,Completed,4.33,1.22,4.67,1.23,4.67,1.26,4.23,1.22
+20,Estoril,Estoril Open,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Kecmanovic M.,Zapata Miralles B.,40,43,985,952,7,5,6,2,,,,,,,2,0,Completed,1.62,2.3,1.71,2.28,1.71,2.36,1.65,2.21
+20,Estoril,Estoril Open,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Halys Q.,Thiem D.,80,111,691,510,6,1,6,4,,,,,,,2,0,Completed,2.1,1.73,2.14,1.79,2.22,1.79,2.08,1.74
+20,Estoril,Estoril Open,07/04/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Ruud C.,Baez S.,5,32,5005,1170,6,3,6,0,,,,,,,2,0,Completed,1.44,2.75,1.44,3.02,1.45,3.15,1.43,2.8
+20,Estoril,Estoril Open,08/04/2023,ATP250,Outdoor,Clay,Semifinals,3,Kecmanovic M.,Cecchinato M.,40,96,985,605,6,3,6,1,,,,,,,2,0,Completed,1.3,3.5,1.37,3.4,1.37,3.53,1.33,3.3
+20,Estoril,Estoril Open,08/04/2023,ATP250,Outdoor,Clay,Semifinals,3,Ruud C.,Halys Q.,5,80,5005,691,6,4,3,6,7,6,,,,,2,1,Completed,1.22,4.33,1.28,4.11,1.3,4.34,1.25,3.86
+20,Estoril,Estoril Open,09/04/2023,ATP250,Outdoor,Clay,The Final,3,Ruud C.,Kecmanovic M.,5,40,5005,985,6,2,7,6,,,,,,,2,0,Completed,1.44,2.75,1.43,3.05,1.47,3.12,1.42,2.82

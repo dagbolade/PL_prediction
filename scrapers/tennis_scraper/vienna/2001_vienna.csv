@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Canas G.,Davydenko N.,21,100,7,6,7,5,,,,,,,2,0,Completed,1.36,2.85,1.32,2.8,1.3,2.7,1.364,2.875
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Chang M.,Ivanisevic G.,60,14,6,7,6,3,6,3,,,,,2,1,Completed,2.75,1.38,2.7,1.35,2.3,1.4,2.625,1.444
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Costa A.,Hipfl M.,33,81,6,3,3,6,6,4,,,,,2,1,Completed,1.5,2.45,1.5,2.25,1.55,2,1.571,2.25
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Enqvist T.,Moya C.,30,19,2,6,6,3,7,6,,,,,2,1,Completed,1.6,2.2,1.66,1.95,1.6,1.9,1.571,2.25
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Federer R.,Massu N.,12,78,4,6,7,6,6,4,,,,,2,1,Completed,,,,,,,,
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Haas T.,Golmard J.,16,49,3,0,,,,,,,,,0,0,Retired,1.33,3.1,1.3,2.9,1.3,2.7,1.4,2.75
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Henman T.,Ferreira W.,8,35,6,4,6,0,,,,,,,2,0,Completed,1.3,3.2,1.3,2.9,1.3,2.7,1.333,3
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Koubek S.,Vanek J.,90,98,4,6,6,3,6,2,,,,,2,1,Completed,1.55,2.3,1.5,2.25,1.45,2.2,,
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Kratochvil M.,Hrbaty D.,42,28,7,6,7,5,,,,,,,2,0,Completed,2.4,1.5,2.35,1.47,2.2,1.45,2.2,1.615
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Martin A.,Philippoussis M.,37,47,3,6,6,3,6,1,,,,,2,1,Completed,3.2,1.3,3.2,1.25,3,1.25,3.25,1.286
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Melzer J.,Santoro F.,195,18,6,7,6,4,6,4,,,,,2,1,Completed,,,,,,,,
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Novak J.,Rusedski G.,39,26,6,2,6,2,,,,,,,2,0,Completed,2.8,1.38,2.52,1.4,2.2,1.45,2.5,1.5
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Robredo T.,Rios M.,31,44,7,6,1,6,6,2,,,,,2,1,Completed,2.25,1.57,2.15,1.55,2.1,1.5,2,1.727
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Ulihrach B.,Kafelnikov Y.,34,6,7,6,6,3,,,,,,,2,0,Completed,3.5,1.25,3.2,1.25,3,1.25,3.5,1.25
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Vinciguerra A.,Corretja A.,46,11,3,6,6,1,6,4,,,,,2,1,Completed,2.9,1.35,2.9,1.3,2.7,1.3,2.625,1.444
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,1st Round,3,Voinea A.,Knowle J.,108,135,4,6,6,3,3,1,,,,,1,1,Retired,,,,,,,,
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Canas G.,Henman T.,21,8,3,6,7,6,7,6,,,,,2,1,Completed,2.95,1.35,2.9,1.3,3.2,1.2,3.25,1.286
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Enqvist T.,Martin A.,30,37,6,2,7,5,,,,,,,2,0,Completed,1.33,3,1.3,2.85,1.25,3,1.333,3
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Federer R.,Costa A.,12,33,7,6,6,2,,,,,,,2,0,Completed,1.25,3.5,1.28,3,1.25,3,1.25,3.5
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Haas T.,Novak J.,16,39,7,6,6,3,,,,,,,2,0,Completed,1.45,2.55,1.37,2.6,1.4,2.3,1.444,2.625
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Koubek S.,Chang M.,90,60,6,3,3,6,7,5,,,,,2,1,Completed,2,1.7,2.05,1.6,1.9,1.6,2.1,1.667
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Kratochvil M.,Melzer J.,42,195,7,6,7,6,,,,,,,2,0,Completed,1.33,3,1.27,3.1,1.3,2.7,,
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Ulihrach B.,Robredo T.,34,31,1,6,6,3,6,4,,,,,2,1,Completed,2.6,1.43,2.5,1.4,2.3,1.4,2.5,1.5
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,2nd Round,3,Vinciguerra A.,Voinea A.,46,108,6,4,7,5,,,,,,,2,0,Completed,1.45,2.55,1.41,2.45,1.35,2.5,1.4,2.75
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,Quarterfinals,3,Canas G.,Kratochvil M.,21,42,6,4,3,6,6,2,,,,,2,1,Completed,1.5,2.4,1.45,2.35,1.4,2.3,1.667,2.1
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,Quarterfinals,3,Enqvist T.,Vinciguerra A.,30,46,6,1,6,4,,,,,,,2,0,Completed,1.38,2.8,1.45,2.35,1.45,2.2,1.364,2.875
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,Quarterfinals,3,Haas T.,Ulihrach B.,16,34,6,1,6,4,,,,,,,2,0,Completed,1.35,2.9,1.33,2.7,1.3,2.7,1.4,2.75
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,Quarterfinals,3,Koubek S.,Federer R.,90,12,6,1,6,4,,,,,,,2,0,Completed,3.5,1.25,3.15,1.25,3.2,1.2,3.25,1.286
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,Semifinals,3,Canas G.,Koubek S.,21,90,6,2,7,5,,,,,,,2,0,Completed,1.45,2.55,1.2,3,1.5,2.1,1.444,2.625
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,Semifinals,3,Haas T.,Enqvist T.,16,30,6,7,6,2,7,6,,,,,2,1,Completed,1.5,2.4,1.33,2.75,1.5,2.1,1.5,2.5
+63,Vienna,CA Tennis Trophy,08/10/01,International Gold,Indoor,Hard,The Final,5,Haas T.,Canas G.,16,21,6,2,7,6,6,4,,,,,3,0,Completed,1.42,2.7,1.35,2.65,1.35,2.5,1.444,2.625

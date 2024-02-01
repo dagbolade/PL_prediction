@@ -1,0 +1,16 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Agassi A.,Rafter P.,3,5,6,2,6,4,,,,,,,2,0,Completed,1.65,2.15,1.62,2.1,1.7,1.8,1.727,2
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Ferrero J.C.,Ivanisevic G.,4,13,7,6,7,6,,,,,,,2,0,Completed,1.6,2.25,1.75,1.9,1.7,1.8,0,0
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Ferrero J.C.,Kuerten G.,4,1,7,6,6,2,,,,,,,2,0,Completed,2.3,1.57,2.3,1.5,2.1,1.5,2.375,1.533
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Grosjean S.,Agassi A.,7,3,6,3,6,4,,,,,,,2,0,Completed,,,,,,,,
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Grosjean S.,Rafter P.,7,5,7,6,6,3,,,,,,,2,0,Completed,1.75,2,1.84,1.82,1.65,1.85,,
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Hewitt L.,Agassi A.,2,3,6,3,6,4,,,,,,,2,0,Completed,1.9,1.85,1.73,1.91,1.65,1.85,1.8,1.909
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Hewitt L.,Grosjean S.,2,7,3,6,6,2,6,3,,,,,2,1,Completed,1.38,2.9,1.4,2.65,1.3,2.7,1.364,2.875
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Hewitt L.,Rafter P.,2,5,7,5,6,2,,,,,,,2,0,Completed,,,1.1,5,1.15,3.8,1.4,2.75
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Ivanisevic G.,Kuerten G.,13,1,6,2,6,7,6,4,,,,,2,1,Completed,3.15,1.33,2.8,1.35,3,1.25,2.875,1.364
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Kafelnikov Y.,Ferrero J.C.,6,4,4,6,6,1,7,6,,,,,2,1,Completed,1.36,2.9,1.38,2.7,1.25,3,1.4,2.75
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Kafelnikov Y.,Ivanisevic G.,6,13,6,3,6,4,,,,,,,2,0,Completed,1.53,2.45,1.45,2.45,1.35,2.5,1.5,2.5
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Round Robin,3,Kafelnikov Y.,Kuerten G.,6,1,6,2,4,6,6,3,,,,,2,1,Completed,,,,,,,,
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Semifinals,3,Grosjean S.,Kafelnikov Y.,7,6,6,4,6,2,,,,,,,2,0,Completed,2.05,1.7,1.95,1.7,1.8,1.7,2.1,1.667
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,Semifinals,3,Hewitt L.,Ferrero J.C.,2,4,6,4,6,3,,,,,,,2,0,Completed,1.45,2.55,1.2,3.8,1.2,3.3,1.3,3.2
+69,Sydney,Masters Cup,12/11/01,Masters Cup,Indoor,Hard,The Final,5,Hewitt L.,Grosjean S.,2,7,6,3,6,3,6,4,,,,,3,0,Completed,1.45,2.6,1.4,2.65,1.3,2.7,1.4,2.75

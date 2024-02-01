@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+3,Doha,Qatar Exxon Mobil Open,30/12/13,ATP250,Outdoor,Hard,1st Round,3,Monfils G.,Giraldo S.,31,69,1230,703,7,6,6,2,,,,,,,2,0,Completed,1.33,3.25,1.3,3.4,1.29,3.5,1.37,3.29,1.29,3.25,1.38,3.8,1.32,3.26
+3,Doha,Qatar Exxon Mobil Open,30/12/13,ATP250,Outdoor,Hard,1st Round,3,Kubot L.,Gimeno-Traver D.,72,77,686,650,6,4,6,3,,,,,,,2,0,Completed,1.53,2.37,1.58,2.35,1.62,2.2,1.59,2.49,1.57,2.25,1.65,2.5,1.57,2.34
+3,Doha,Qatar Exxon Mobil Open,30/12/13,ATP250,Outdoor,Hard,1st Round,3,Karlovic I.,Berdych T.,78,7,647,4180,7,6,7,6,,,,,,,2,0,Completed,4.5,1.18,4.5,1.18,4.5,1.17,5,1.21,4.5,1.17,5.2,1.22,4.49,1.19
+3,Doha,Qatar Exxon Mobil Open,30/12/13,ATP250,Outdoor,Hard,1st Round,3,Verdasco F.,Volandri F.,30,71,1235,694,6,3,6,3,,,,,,,2,0,Completed,1.08,8,1.08,7.5,1.06,8,1.1,8.4,1.06,7.5,1.1,9.05,1.08,7.63
+3,Doha,Qatar Exxon Mobil Open,30/12/13,ATP250,Outdoor,Hard,1st Round,3,Hanescu V.,Sousa J.,80,49,636,934,6,3,6,2,,,,,,,2,0,Completed,2.5,1.5,2.7,1.45,2.62,1.44,2.61,1.55,2.63,1.44,2.8,1.59,2.59,1.48
+3,Doha,Qatar Exxon Mobil Open,30/12/13,ATP250,Outdoor,Hard,1st Round,3,Kamke T.,Jaziri M.,74,168,663,312,6,3,6,4,,,,,,,2,0,Completed,1.5,2.5,1.58,2.35,1.57,2.25,1.53,2.65,1.57,2.25,1.62,2.65,1.54,2.43
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Brown D.,Dodig I.,111,33,506,1190,6,4,6,2,,,,,,,2,0,Completed,3,1.36,3.1,1.35,2.75,1.4,3.27,1.38,2.88,1.36,3.3,1.42,3.01,1.37
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Gojowczyk P.,Thiem D.,162,139,321,410,7,5,6,0,,,,,,,2,0,Completed,2.1,1.66,2.2,1.65,2.25,1.57,2.2,1.74,2.1,1.67,2.25,1.84,2.14,1.68
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Murray A.,Zayed M.S.,4,N/A,5790,N/A,6,0,6,0,,,,,,,2,0,Completed,,51,1.01,13,,26,1.01,76,1.01,21,1.01,101,1.01,34.46
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Brands D.,Davydenko N.,54,53,836,890,6,4,6,4,,,,,,,2,0,Completed,1.83,1.83,1.9,1.85,2,1.73,2.1,1.81,2,1.73,2.1,1.88,1.96,1.8
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Ferrer D.,Dolgopolov O.,3,57,5800,825,6,3,5,7,6,3,,,,,2,1,Completed,1.14,5.5,1.15,5.25,1.14,5,1.21,4.9,1.14,5,1.21,5.75,1.16,5.09
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Mayer F.,Przysiezny M.,40,66,1065,730,6,2,3,6,7,6,,,,,2,1,Completed,1.44,2.62,1.48,2.6,1.4,2.75,1.38,3.26,1.44,2.63,1.56,3.26,1.44,2.72
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Gulbis E.,Evans D.,24,150,1393,346,6,2,4,6,6,0,,,,,2,1,Completed,1.22,4,1.22,4,1.2,4.33,1.24,4.55,1.25,3.5,1.28,4.7,1.24,3.95
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Nadal R.,Rosol L.,1,47,13030,956,6,2,7,6,,,,,,,2,0,Completed,1.04,13,1.03,11,1.03,10,1.05,12.44,1.03,10,1.06,15,1.04,11.03
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Kohlschreiber P.,Andujar P.,22,48,1525,946,7,6,6,2,,,,,,,2,0,Completed,1.14,5,1.15,5.25,1.17,4.5,1.14,6.65,1.17,4.5,1.17,6.65,1.15,5.21
+3,Doha,Qatar Exxon Mobil Open,31/12/13,ATP250,Outdoor,Hard,1st Round,3,Gasquet R.,Hossam K.,9,338,3300,127,7,5,6,1,,,,,,,2,0,Completed,1.01,21,1.03,11,1.02,13,1.03,18.68,1.02,13,1.03,40,1.02,16.19
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Gojowczyk P.,Kohlschreiber P.,162,22,321,1525,7,6,7,6,,,,,,,2,0,Completed,4,1.22,4,1.22,4,1.22,4.3,1.26,4,1.22,4.3,1.27,3.97,1.23
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Mayer F.,Murray A.,40,4,1065,5790,3,6,6,4,6,2,,,,,2,1,Completed,5,1.14,5.25,1.15,5.5,1.12,6.55,1.15,6,1.13,6.88,1.17,5.41,1.14
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Hanescu V.,Verdasco F.,80,30,636,1235,4,6,7,6,6,2,,,,,2,1,Completed,4,1.22,3.75,1.25,3.75,1.25,4.6,1.24,4,1.22,4.63,1.3,3.9,1.24
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Brown D.,Karlovic I.,111,78,506,647,3,6,7,6,6,4,,,,,2,1,Completed,2.25,1.57,2.15,1.68,2.25,1.57,2.52,1.59,2.2,1.67,2.52,1.68,2.26,1.62
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Nadal R.,Kamke T.,1,74,13030,663,6,3,6,7,6,3,,,,,2,1,Completed,1.04,13,1.02,12,1.03,10,1.04,15.5,1.03,11,1.06,17.5,1.03,12.05
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Gulbis E.,Kubot L.,24,72,1393,686,6,2,4,6,6,3,,,,,2,1,Completed,1.16,5,1.18,4.5,1.22,4,1.2,5.27,1.17,5,1.22,5.5,1.19,4.58
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Brands D.,Ferrer D.,54,3,836,5800,6,4,7,5,,,,,,,2,0,Completed,5.5,1.14,5.5,1.12,5,1.14,5.8,1.17,5.5,1.14,6,1.18,5.23,1.15
+3,Doha,Qatar Exxon Mobil Open,01/01/14,ATP250,Outdoor,Hard,2nd Round,3,Monfils G.,Gasquet R.,31,9,1230,3300,6,2,7,5,,,,,,,2,0,Completed,1.57,2.25,1.6,2.3,1.62,2.2,1.63,2.45,1.57,2.38,1.66,2.54,1.6,2.29
+3,Doha,Qatar Exxon Mobil Open,02/01/14,ATP250,Outdoor,Hard,Quarterfinals,3,Gojowczyk P.,Brown D.,162,111,321,506,6,3,3,6,7,6,,,,,2,1,Completed,2.1,1.66,2.1,1.7,2.1,1.67,2.11,1.83,2.2,1.67,2.2,1.85,2.1,1.71
+3,Doha,Qatar Exxon Mobil Open,02/01/14,ATP250,Outdoor,Hard,Quarterfinals,3,Nadal R.,Gulbis E.,1,24,13030,1393,7,5,6,4,,,,,,,2,0,Completed,1.2,4.33,1.22,4,1.2,4.33,1.26,4.43,1.22,4,1.27,5.2,1.23,4.06
+3,Doha,Qatar Exxon Mobil Open,02/01/14,ATP250,Outdoor,Hard,Quarterfinals,3,Mayer F.,Hanescu V.,40,80,1065,636,6,4,6,7,6,4,,,,,2,1,Completed,1.3,3.4,1.33,3.2,1.36,3,1.34,3.62,1.29,3.5,1.34,4.3,1.3,3.55
+3,Doha,Qatar Exxon Mobil Open,02/01/14,ATP250,Outdoor,Hard,Quarterfinals,3,Monfils G.,Brands D.,31,54,1230,836,6,2,6,1,,,,,,,2,0,Completed,1.44,2.62,1.55,2.4,1.57,2.25,1.54,2.69,1.57,2.38,1.57,2.69,1.53,2.46
+3,Doha,Qatar Exxon Mobil Open,03/01/14,ATP250,Outdoor,Hard,Semifinals,3,Nadal R.,Gojowczyk P.,1,162,13030,321,4,6,6,2,6,3,,,,,2,1,Completed,1.01,26,1.02,12,1.02,15,1.02,27.78,1.02,15,1.04,28.5,1.02,15.74
+3,Doha,Qatar Exxon Mobil Open,03/01/14,ATP250,Outdoor,Hard,Semifinals,3,Monfils G.,Mayer F.,31,40,1230,1065,6,3,6,2,,,,,,,2,0,Completed,1.28,3.75,1.33,3.2,1.3,3.5,1.32,3.79,1.3,3.4,1.36,4.4,1.3,3.43
+3,Doha,Qatar Exxon Mobil Open,04/01/14,ATP250,Outdoor,Hard,The Final,3,Nadal R.,Monfils G.,1,31,13030,1230,6,1,6,7,6,2,,,,,2,1,Completed,1.4,3,1.42,2.8,1.4,3,1.41,3.23,1.36,3,1.45,3.5,1.39,2.94

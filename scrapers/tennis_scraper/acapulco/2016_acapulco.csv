@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+16,Acapulco,Abierto Mexicano,22/02/16,ATP500,Outdoor,Hard,1st Round,3,Mannarino A.,Hank T.,58,446,800,92,6,1,6,2,,,,,,,2,0,Completed,1.02,17,1.02,11.5,1.04,11,1.04,14.8,1.05,17,1.03,12.24
+16,Acapulco,Abierto Mexicano,22/02/16,ATP500,Outdoor,Hard,1st Round,3,Young D.,Muller G.,79,46,672,970,6,3,6,3,,,,,,,2,0,Completed,3.75,1.25,3.5,1.28,3.5,1.3,3.74,1.31,3.8,1.45,3.43,1.31
+16,Acapulco,Abierto Mexicano,22/02/16,ATP500,Outdoor,Hard,1st Round,3,Marchenko I.,Paul T.,85,247,645,214,6,2,7,6,,,,,,,2,0,Completed,1.44,2.62,1.42,2.7,1.4,3,1.52,2.71,1.52,3,1.45,2.7
+16,Acapulco,Abierto Mexicano,23/02/16,ATP500,Outdoor,Hard,1st Round,3,Haase R.,Patino L.,62,809,762,25,6,1,6,2,,,,,,,2,0,Completed,1.02,15,1.02,11.5,1.04,11,1.02,18.7,1.05,18.7,1.02,13.45
+16,Acapulco,Abierto Mexicano,23/02/16,ATP500,Outdoor,Hard,1st Round,3,Nishikori K.,De Bakker T.,6,105,4235,539,6,0,6,3,,,,,,,2,0,Completed,1.04,13,1.04,10,1.05,10,1.04,15.12,1.05,15.12,1.04,11.53
+16,Acapulco,Abierto Mexicano,23/02/16,ATP500,Outdoor,Hard,1st Round,3,Estrella Burgos V.,Gomez L.,74,543,705,62,6,4,6,2,,,,,,,2,0,Completed,1.1,7,1.13,5.5,1.12,6,1.12,7.48,1.14,7.5,1.11,6.43
+16,Acapulco,Abierto Mexicano,23/02/16,ATP500,Outdoor,Hard,1st Round,3,Fritz T.,Chardy J.,102,30,564,1255,6,4,3,6,6,3,,,,,2,1,Completed,1.83,1.83,1.9,1.82,1.91,1.91,2.05,1.85,2.05,2,1.91,1.86
+16,Acapulco,Abierto Mexicano,23/02/16,ATP500,Outdoor,Hard,1st Round,3,Harrison R.,Cilic M.,127,12,471,2555,6,3,3,6,6,2,,,,,2,1,Completed,3.4,1.3,3.75,1.25,4.5,1.2,3.94,1.29,4,1.33,3.62,1.28
+16,Acapulco,Abierto Mexicano,23/02/16,ATP500,Outdoor,Hard,1st Round,3,Tursunov D.,Groth S.,1045,75,10,691,6,4,3,6,7,5,,,,,2,1,Completed,2.62,1.44,2.6,1.48,2.75,1.44,2.63,1.54,2.75,1.54,2.58,1.49
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Dolgopolov O.,Johnson S.,32,34,1240,1215,7,5,7,6,,,,,,,2,0,Completed,1.83,1.83,1.88,1.88,2,1.8,1.97,1.92,2,1.99,1.88,1.89
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Bedene A.,Karlovic I.,54,31,842,1245,6,4,1,2,,,,,,,1,0,Retired,2.2,1.61,2.2,1.65,2.2,1.67,2.28,1.69,2.28,1.71,2.19,1.66
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Thiem D.,Dzumhur D.,15,95,2020,588,7,6,6,3,,,,,,,2,0,Completed,1.18,4.5,1.17,4.75,1.17,5,1.24,4.44,1.24,5,1.2,4.46
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Tomic B.,Ram R.,21,60,1675,772,7,5,6,3,,,,,,,2,0,Completed,1.28,3.5,1.28,3.4,1.29,3.75,1.31,3.78,1.33,3.9,1.28,3.61
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Querrey S.,Sela D.,43,90,1015,613,6,2,6,0,,,,,,,2,0,Completed,1.4,2.75,1.4,2.9,1.4,3,1.46,2.89,1.51,3,1.45,2.71
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Ferrer D.,Millman J.,8,61,3915,766,6,4,6,2,,,,,,,2,0,Completed,1.16,5,1.18,4.3,1.2,4.5,1.19,5.29,1.21,5.29,1.18,4.65
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,1st Round,3,Dimitrov G.,Kudla D.,26,64,1375,749,7,5,6,1,,,,,,,2,0,Completed,1.2,4.33,1.2,4,1.2,4.5,1.24,4.54,1.24,5,1.21,4.3
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,2nd Round,3,Tomic B.,Mannarino A.,21,58,1675,800,6,4,6,4,,,,,,,2,0,Completed,1.4,2.75,1.48,2.6,1.44,2.75,1.47,2.89,1.5,2.9,1.45,2.72
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,2nd Round,3,Dolgopolov O.,Ferrer D.,32,8,1240,3915,6,4,6,4,,,,,,,2,0,Completed,3,1.36,3.1,1.35,3.25,1.36,3.24,1.4,3.3,1.4,3.1,1.35
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,2nd Round,3,Haase R.,Bedene A.,62,54,762,842,6,4,6,7,6,4,,,,,2,1,Completed,1.83,1.83,1.82,1.9,1.8,2,1.98,1.93,1.98,2,1.87,1.9
+16,Acapulco,Abierto Mexicano,24/02/16,ATP500,Outdoor,Hard,2nd Round,3,Marchenko I.,Harrison R.,85,127,645,471,7,6,4,6,7,6,,,,,2,1,Completed,1.9,1.8,1.82,1.9,1.8,2,1.81,2.11,2,2.11,1.88,1.9
+16,Acapulco,Abierto Mexicano,25/02/16,ATP500,Outdoor,Hard,2nd Round,3,Dimitrov G.,Young D.,26,79,1375,672,6,3,6,4,,,,,,,2,0,Completed,1.22,4,1.2,4.3,1.2,4.5,1.29,4.05,1.29,4.5,1.24,4.01
+16,Acapulco,Abierto Mexicano,25/02/16,ATP500,Outdoor,Hard,2nd Round,3,Querrey S.,Nishikori K.,43,6,1015,4235,6,4,6,3,,,,,,,2,0,Completed,5,1.16,4.5,1.18,5,1.17,5.49,1.19,5.49,1.2,4.9,1.17
+16,Acapulco,Abierto Mexicano,25/02/16,ATP500,Outdoor,Hard,2nd Round,3,Fritz T.,Estrella Burgos V.,102,74,564,705,6,1,6,3,,,,,,,2,0,Completed,1.3,3.4,1.3,3.4,1.33,3.4,1.32,3.73,1.33,3.73,1.31,3.41
+16,Acapulco,Abierto Mexicano,25/02/16,ATP500,Outdoor,Hard,2nd Round,3,Thiem D.,Tursunov D.,15,1045,2020,10,6,7,6,3,6,4,,,,,2,1,Completed,1.16,5,1.15,5.25,1.14,5.5,1.2,5.16,1.2,6.5,1.16,5.04
+16,Acapulco,Abierto Mexicano,25/02/16,ATP500,Outdoor,Hard,Quarterfinals,3,Tomic B.,Marchenko I.,21,85,1675,645,7,5,7,5,,,,,,,2,0,Completed,1.3,3.4,1.33,3.1,1.33,3.4,1.33,3.73,1.36,3.73,1.31,3.36
+16,Acapulco,Abierto Mexicano,26/02/16,ATP500,Outdoor,Hard,Quarterfinals,3,Dolgopolov O.,Haase R.,32,62,1240,762,6,3,6,3,,,,,,,2,0,Completed,1.36,3,1.33,3.1,1.4,3,1.39,3.35,1.4,3.35,1.36,3.04
+16,Acapulco,Abierto Mexicano,26/02/16,ATP500,Outdoor,Hard,Quarterfinals,3,Thiem D.,Dimitrov G.,15,26,2020,1375,7,5,6,2,,,,,,,2,0,Completed,2.5,1.5,2.4,1.55,2.5,1.53,2.52,1.61,2.55,1.61,2.42,1.55
+16,Acapulco,Abierto Mexicano,26/02/16,ATP500,Outdoor,Hard,Quarterfinals,3,Querrey S.,Fritz T.,43,102,1015,564,2,6,6,4,6,4,,,,,2,1,Completed,1.61,2.2,1.68,2.1,1.73,2.1,1.65,2.43,1.8,2.43,1.64,2.23
+16,Acapulco,Abierto Mexicano,27/02/16,ATP500,Outdoor,Hard,Semifinals,3,Tomic B.,Dolgopolov O.,21,32,1675,1240,1,6,6,4,6,3,,,,,2,1,Completed,2.37,1.57,2.3,1.6,2.25,1.62,2.46,1.63,2.5,1.65,2.31,1.6
+16,Acapulco,Abierto Mexicano,27/02/16,ATP500,Outdoor,Hard,Semifinals,3,Thiem D.,Querrey S.,15,43,2020,1015,6,2,6,2,,,,,,,2,0,Completed,1.66,2.2,1.65,2.15,1.67,2.2,1.84,2.1,1.84,2.25,1.71,2.13
+16,Acapulco,Abierto Mexicano,28/02/16,ATP500,Outdoor,Hard,The Final,3,Thiem D.,Tomic B.,15,21,2020,1675,7,6,4,6,6,3,,,,,2,1,Completed,1.53,2.5,1.5,2.5,1.53,2.5,1.57,2.6,1.67,2.6,1.55,2.42

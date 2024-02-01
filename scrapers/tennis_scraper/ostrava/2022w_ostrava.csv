@@ -1,0 +1,28 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+51,Ostrava,Ostrava Open,03/10/2022,WTA500,Indoor,Hard,1st Round,3,Tomljanovic A.,Zhang S.,34,27,1400,1655,6,3,6,3,,,2,0,Completed,1.72,2.1,1.85,2.05,1.93,2.15,1.77,2.04
+51,Ostrava,Ostrava Open,03/10/2022,WTA500,Indoor,Hard,1st Round,3,Alexandrova E.,Azarenka V.,21,24,1975,1896,6,4,4,6,6,2,2,1,Completed,1.72,2.1,1.86,2.03,1.86,2.12,1.76,2.03
+51,Ostrava,Ostrava Open,03/10/2022,WTA500,Indoor,Hard,1st Round,3,Rybakina E.,Keys M.,26,17,1655,2248,5,7,6,3,6,3,2,1,Completed,1.66,2.2,1.72,2.22,1.77,2.23,1.69,2.15
+51,Ostrava,Ostrava Open,03/10/2022,WTA500,Indoor,Hard,1st Round,3,Kvitova P.,Pera B.,20,43,2003,1140,6,3,2,6,6,4,2,1,Completed,1.44,2.75,1.46,2.92,1.5,2.95,1.45,2.71
+51,Ostrava,Ostrava Open,03/10/2022,WTA500,Indoor,Hard,1st Round,3,Martincova T.,Teichmann J.,78,36,760,1333,7,6,7,6,,,2,0,Completed,1.8,2,1.95,1.93,1.95,2.03,1.86,1.92
+51,Ostrava,Ostrava Open,04/10/2022,WTA500,Indoor,Hard,1st Round,3,Mcnally C.,Blinkova A.,151,137,402,440,6,1,6,2,,,2,0,Completed,1.72,2.1,1.72,2.23,1.85,2.23,1.71,2.12
+51,Ostrava,Ostrava Open,04/10/2022,WTA500,Indoor,Hard,1st Round,3,Sasnovich A.,Ostapenko J.,31,16,1521,2271,6,2,6,2,,,2,0,Completed,2.3,1.61,2.31,1.68,2.65,1.68,2.3,1.61
+51,Ostrava,Ostrava Open,04/10/2022,WTA500,Indoor,Hard,1st Round,3,Kasatkina D.,Raducanu E.,11,67,2895,852,7,5,6,4,,,2,0,Completed,1.61,2.3,1.65,2.37,1.67,2.4,1.61,2.29
+51,Ostrava,Ostrava Open,04/10/2022,WTA500,Indoor,Hard,1st Round,3,Parks A.,Pliskova Ka.,144,19,420,2061,6,0,7,6,,,2,0,Completed,7,1.1,8.5,1.1,8.5,1.11,7.03,1.09
+51,Ostrava,Ostrava Open,04/10/2022,WTA500,Indoor,Hard,1st Round,3,Bencic B.,Bouchard E.,14,506,2305,82,6,7,6,1,6,4,2,1,Completed,1.16,5,1.22,4.71,1.23,5,1.2,4.48
+51,Ostrava,Ostrava Open,05/10/2022,WTA500,Indoor,Hard,1st Round,3,Krejcikova B.,Rogers S.,23,35,1906,1334,6,2,6,2,,,2,0,Completed,1.4,3,1.39,3.23,1.51,3.3,1.4,2.91
+51,Ostrava,Ostrava Open,05/10/2022,WTA500,Indoor,Hard,1st Round,3,Muchova K.,Haddad Maia B.,189,15,347,2295,6,4,6,4,,,2,0,Completed,1.8,2,1.8,2.11,1.83,2.26,1.78,2.02
+51,Ostrava,Ostrava Open,05/10/2022,WTA500,Indoor,Hard,2nd Round,3,Swiatek I.,Tomljanovic A.,1,34,10180,1400,7,5,2,2,,,1,0,Retired,1.16,5,1.21,4.89,1.22,5,1.2,4.47
+51,Ostrava,Ostrava Open,05/10/2022,WTA500,Indoor,Hard,2nd Round,3,Kvitova P.,Badosa P.,20,4,2003,3934,7,6,6,4,,,2,0,Completed,1.57,2.37,1.7,2.27,1.7,2.4,1.62,2.28
+51,Ostrava,Ostrava Open,05/10/2022,WTA500,Indoor,Hard,2nd Round,3,Rybakina E.,Sasnovich A.,26,31,1655,1521,6,7,6,4,7,5,2,1,Completed,1.53,2.5,1.55,2.6,1.55,2.75,1.5,2.55
+51,Ostrava,Ostrava Open,06/10/2022,WTA500,Indoor,Hard,2nd Round,3,Parks A.,Sakkari M.,144,7,420,3355,5,7,7,5,7,5,2,1,Completed,3.5,1.3,3.79,1.31,4,1.32,3.66,1.27
+51,Ostrava,Ostrava Open,06/10/2022,WTA500,Indoor,Hard,2nd Round,3,Mcnally C.,Muchova K.,151,189,402,347,6,1,3,6,6,1,2,1,Completed,3.5,1.3,3.75,1.31,3.75,1.37,3.43,1.3
+51,Ostrava,Ostrava Open,06/10/2022,WTA500,Indoor,Hard,2nd Round,3,Krejcikova B.,Bencic B.,23,14,1906,2305,,,,,,,,,Walkover,1.66,2.2,1.74,2.21,1.78,2.21,1.7,2.12
+51,Ostrava,Ostrava Open,06/10/2022,WTA500,Indoor,Hard,2nd Round,3,Martincova T.,Kontaveit A.,78,3,760,4010,7,6,1,0,,,1,0,Retired,4,1.25,3.85,1.3,4.01,1.32,3.71,1.27
+51,Ostrava,Ostrava Open,06/10/2022,WTA500,Indoor,Hard,2nd Round,3,Alexandrova E.,Kasatkina D.,21,11,1975,2895,6,1,7,6,,,2,0,Completed,2.1,1.72,2.13,1.79,2.34,1.84,2.06,1.75
+51,Ostrava,Ostrava Open,07/10/2022,WTA500,Indoor,Hard,Quarterfinals,3,Krejcikova B.,Parks A.,23,144,1906,420,7,6,6,3,,,2,0,Completed,1.16,5,1.18,5.55,1.21,5.55,1.16,5.06
+51,Ostrava,Ostrava Open,07/10/2022,WTA500,Indoor,Hard,Quarterfinals,3,Swiatek I.,Mcnally C.,1,151,10180,402,6,4,6,4,,,2,0,Completed,1.14,5.5,1.16,6.57,1.18,6.57,1.14,5.61
+51,Ostrava,Ostrava Open,07/10/2022,WTA500,Indoor,Hard,Quarterfinals,3,Rybakina E.,Kvitova P.,26,20,1655,2003,7,6,6,4,,,2,0,Completed,1.9,1.9,1.83,2.1,1.94,2.1,1.85,1.94
+51,Ostrava,Ostrava Open,07/10/2022,WTA500,Indoor,Hard,Quarterfinals,3,Alexandrova E.,Martincova T.,21,78,1975,760,6,1,4,6,6,1,2,1,Completed,1.36,3.2,1.38,3.31,1.4,3.45,1.35,3.16
+51,Ostrava,Ostrava Open,08/10/2022,WTA500,Indoor,Hard,Semifinals,3,Krejcikova B.,Rybakina E.,23,26,1906,1655,3,6,7,6,6,4,2,1,Completed,1.9,1.9,1.94,1.96,1.97,2.01,1.91,1.88
+51,Ostrava,Ostrava Open,08/10/2022,WTA500,Indoor,Hard,Semifinals,3,Swiatek I.,Alexandrova E.,1,21,10180,1975,7,6,2,6,6,4,2,1,Completed,1.36,3.2,1.41,3.19,1.45,3.2,1.38,3.03
+51,Ostrava,Ostrava Open,09/10/2022,WTA500,Indoor,Hard,The Final,3,Krejcikova B.,Swiatek I.,23,1,1906,10180,5,7,7,6,6,3,2,1,Completed,2.75,1.44,2.82,1.5,2.89,1.52,2.71,1.46

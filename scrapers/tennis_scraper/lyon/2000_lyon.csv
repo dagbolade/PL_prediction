@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Sluiter R.,Corretja A.,106,9,6,4,7,6,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Philippoussis M.,Ferreira W.,14,11,6,3,6,7,6,3,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Kucera K.,Pioline C.,74,15,6,4,7,6,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Enqvist T.,Grosjean S.,8,18,4,6,6,3,6,4,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Kuerten G.,Pavel A.,2,26,7,6,6,4,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Puerta M.,Chang M.,19,31,7,6,6,4,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Rafter P.,Gaudio G.,17,32,6,4,4,6,6,4,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Llodra M.,Costa A.,175,34,6,7,6,1,6,3,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Squillari F.,Santoro F.,12,35,6,2,4,6,6,1,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Federer R.,Escude N.,24,38,6,3,7,6,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Bachelot J.F,Alami K.,264,47,5,7,7,6,6,4,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,El Aynaoui Y.,Ilie A.,20,51,7,6,7,6,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Haas T.,di Pasquale A.,23,60,6,3,6,3,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Arazi H.,Boutter J.,33,71,6,3,3,6,6,4,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Agassi A.,Sargsian S.,7,93,6,7,6,1,6,4,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,1st Round,3,Clement A.,Guardiola T.,25,184,7,5,4,6,6,1,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Clement A.,Squillari F.,25,12,3,6,6,2,6,3,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Arazi H.,Philippoussis M.,33,14,6,3,3,6,7,5,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Sluiter R.,Puerta M.,106,19,4,6,6,4,4,1,,,,,1,1,Retired
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Rafter P.,El Aynaoui Y.,17,20,7,6,6,2,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Agassi A.,Haas T.,7,23,6,2,6,3,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Kucera K.,Federer R.,74,24,3,6,6,2,6,3,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Kuerten G.,Llodra M.,2,175,7,5,7,6,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,2nd Round,3,Enqvist T.,Bachelot J.F,8,264,6,3,6,7,6,3,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,Quarterfinals,3,Rafter P.,Kuerten G.,17,2,6,3,6,4,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,Quarterfinals,3,Arazi H.,Enqvist T.,33,8,6,7,7,6,6,4,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,Quarterfinals,3,Agassi A.,Kucera K.,7,74,6,1,7,5,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,Quarterfinals,3,Clement A.,Sluiter R.,25,106,6,3,3,6,7,5,,,,,2,1,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,Semifinals,3,Clement A.,Agassi A.,25,7,6,3,,,,,,,,,1,0,Retired
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,Semifinals,3,Rafter P.,Arazi H.,17,33,6,3,6,4,,,,,,,2,0,Completed
+64,Lyon,Grand Prix de Lyon,06/11/00,International,Indoor,Carpet,The Final,3,Clement A.,Rafter P.,25,17,7,6,7,6,,,,,,,2,0,Completed
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

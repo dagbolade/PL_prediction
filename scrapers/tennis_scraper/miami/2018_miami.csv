@@ -1,0 +1,96 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Haase R.,Sugita Y.,44,43,1120,1160,6,4,3,6,6,1,,,,,2,1,Completed,1.83,1.83,1.8,1.9,1.91,1.91,1.87,2.04,1.91,2.13,1.83,1.97
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Sousa J.,Harrison R.,80,53,680,945,7,6,7,6,,,,,,,2,0,Completed,1.9,1.8,2,1.72,2.1,1.73,2.27,1.71,2.27,1.83,2.11,1.73
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Vesely J.,Lacko L.,64,104,835,559,7,6,6,3,,,,,,,2,0,Completed,1.72,2,1.72,2,1.73,2.1,1.87,2.04,1.87,2.15,1.77,2.04
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Ymer M.,Struff J.L.,407,56,92,915,3,6,7,5,6,1,,,,,2,1,Completed,4,1.22,3.85,1.22,4,1.25,4.26,1.27,4.4,1.28,4.01,1.24
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Marterer M.,Fucsovics M.,73,60,742,871,6,4,6,4,,,,,,,2,0,Completed,2.1,1.66,2.1,1.65,2.2,1.67,2.2,1.75,2.3,1.79,2.15,1.7
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Herbert P.H.,Fritz T.,81,71,675,759,7,6,6,4,,,,,,,2,0,Completed,2.37,1.53,2.3,1.55,2.37,1.57,2.39,1.65,2.5,1.65,2.38,1.58
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Ebden M.,Simon G.,76,72,690,755,6,3,6,7,7,5,,,,,2,1,Completed,3,1.36,2.8,1.38,3,1.4,2.95,1.46,3.1,1.47,2.91,1.41
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Millman J.,Gojowczyk P.,96,50,613,985,2,6,6,4,6,4,,,,,2,1,Completed,1.57,2.25,1.6,2.2,1.61,2.25,1.67,2.36,1.7,2.46,1.63,2.27
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Mmoh M.,Eubanks C.,176,284,319,170,4,6,6,4,6,4,,,,,2,1,Completed,1.4,2.75,1.38,2.8,1.4,3,1.42,3.12,1.45,3.12,1.41,2.88
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Chardy J.,Dutra Silva R.,90,115,640,496,6,3,7,6,,,,,,,2,0,Completed,1.25,3.75,1.25,3.6,1.3,3.5,1.32,3.77,1.33,3.95,1.28,3.67
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Jarry N.,Norrie C.,65,105,830,555,7,6,6,2,,,,,,,2,0,Completed,2.37,1.53,2.35,1.53,2.37,1.57,2.58,1.57,2.6,1.63,2.46,1.55
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Paire B.,Zverev M.,47,55,1075,932,1,6,6,1,6,2,,,,,2,1,Completed,1.72,2,1.72,2,1.73,2.1,1.81,2.12,1.83,2.32,1.75,2.08
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Broady L.,Fratangelo B.,169,109,326,523,7,6,6,3,,,,,,,2,0,Completed,2.37,1.53,2.25,1.57,2.25,1.61,2.37,1.66,2.47,1.66,2.32,1.61
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Pospisil V.,Karlovic I.,77,79,687,680,7,6,7,6,,,,,,,2,0,Completed,2,1.72,1.95,1.75,2,1.8,1.99,1.92,2.05,2,1.95,1.84
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Youzhny M.,Pella G.,102,61,589,865,7,6,7,6,,,,,,,2,0,Completed,2.62,1.44,2.5,1.47,2.62,1.5,2.5,1.6,2.85,1.6,2.58,1.5
+20,Miami,Sony Ericsson Open,21/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Donaldson J.,Baghdatis M.,49,82,1038,670,6,3,6,4,,,,,,,2,0,Completed,1.72,2,1.75,1.95,1.8,2,1.87,2.04,1.87,2.15,1.81,2
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Shapovalov D.,Troicki V.,46,68,1076,790,6,3,6,7,7,6,,,,,2,1,Completed,1.4,2.75,1.35,2.95,1.4,3,1.38,3.33,1.55,3.5,1.36,3.13
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Nishioka Y.,De Minaur A.,374,130,109,428,6,2,6,4,,,,,,,2,0,Completed,2.75,1.4,2.65,1.42,2.75,1.44,2.58,1.57,2.9,1.57,2.68,1.47
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Kuhn N.,King D.,211,172,261,321,7,6,6,4,,,,,,,2,0,Completed,2.5,1.5,2.4,1.5,2.5,1.53,2.71,1.53,2.71,1.56,2.55,1.52
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Mayer L.,Young D.,45,110,1080,506,3,6,6,4,6,2,,,,,2,1,Completed,1.4,2.75,1.4,2.75,1.4,3,1.45,3,1.51,3.1,1.43,2.85
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Basilashvili N.,Fabbiano T.,89,86,640,656,1,6,6,2,7,5,,,,,2,1,Completed,2.5,1.5,2.4,1.5,2.5,1.53,2.51,1.6,2.55,1.64,2.46,1.55
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Donskoy E.,Bedene A.,88,48,641,1043,7,5,6,4,,,,,,,2,0,Completed,2.25,1.57,2.25,1.57,2.25,1.61,2.4,1.65,2.45,1.66,2.3,1.62
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Garcia-Lopez G.,Sandgren T.,69,58,779,903,7,6,7,6,,,,,,,2,0,Completed,2.2,1.61,2.15,1.62,2.25,1.61,2.19,1.76,2.25,1.77,2.17,1.69
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Medvedev D.,Tsitsipas S.,52,70,959,769,2,6,6,4,6,2,,,,,2,1,Completed,1.72,2,1.72,2,1.8,2,1.84,2.08,1.85,2.14,1.79,2.02
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Lajovic D.,Zeballos H.,108,66,540,813,3,6,7,6,6,4,,,,,2,1,Completed,1.8,1.9,1.8,1.9,1.8,2,1.87,2.04,1.93,2.05,1.84,1.96
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Bhambri Y.,Basic M.,107,75,545,702,7,5,6,3,,,,,,,2,0,Completed,1.44,2.62,1.45,2.55,1.5,2.62,1.5,2.8,1.55,2.85,1.48,2.66
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Johnson S.,Estrella Burgos V.,54,152,940,367,6,3,6,3,,,,,,,2,0,Completed,1.1,7,1.08,6.5,1.11,6.5,1.1,8.67,1.12,9.5,1.09,7.62
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Albot R.,Berankis R.,93,103,627,574,6,1,4,6,7,6,,,,,2,1,Completed,2.1,1.66,2.15,1.62,2.2,1.67,2.3,1.69,2.3,1.74,2.17,1.69
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Kokkinakis T.,Hemery C.,175,150,319,374,6,1,6,2,,,,,,,2,0,Completed,1.36,3,1.3,3.2,1.36,3.25,1.32,3.73,1.36,3.85,1.32,3.38
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Copil M.,Kukushkin M.,84,83,661,665,7,6,6,4,,,,,,,2,0,Completed,2.25,1.57,2.2,1.6,2.25,1.61,2.27,1.71,2.45,1.72,2.28,1.63
+20,Miami,Sony Ericsson Open,22/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Istomin D.,Kecmanovic M.,85,179,658,317,7,5,6,4,,,,,,,2,0,Completed,1.72,2,1.75,1.95,1.8,2,1.83,2.09,1.85,2.1,1.79,2.01
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,1st Round,3,Tiafoe F.,Kicker N.,63,87,844,648,6,3,7,6,,,,,,,2,0,Completed,1.28,3.5,1.24,3.65,1.22,4,1.29,4.03,1.3,4.2,1.27,3.8
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Sousa J.,Goffin D.,80,9,680,3190,6,0,6,1,,,,,,,2,0,Completed,3.5,1.28,3.45,1.27,3.5,1.3,3.92,1.3,4.05,1.33,3.6,1.29
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Mmoh M.,Bautista Agut R.,176,15,319,2255,7,6,2,6,6,4,,,,,2,1,Completed,5.5,1.14,5.4,1.12,5.5,1.14,6.55,1.15,7,1.18,5.71,1.14
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Krajinovic F.,Broady L.,27,169,1539,326,6,3,6,2,,,,,,,2,0,Completed,1.25,3.75,1.22,3.85,1.25,4,1.24,4.65,1.28,4.8,1.24,4.1
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Schwartzman D.,Jarry N.,16,65,2220,830,6,3,6,1,,,,,,,2,0,Completed,1.33,3.25,1.3,3.2,1.33,3.4,1.3,3.88,1.36,4,1.3,3.51
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Raonic M.,Ymer M.,25,407,1630,92,6,3,6,3,,,,,,,2,0,Completed,1.12,6,1.11,5.6,1.11,6.5,1.17,5.98,1.17,6.5,1.13,5.98
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Cilic M.,Herbert P.H.,3,81,4905,675,7,5,6,3,,,,,,,2,0,Completed,1.18,4.5,1.17,4.4,1.2,4.5,1.21,5,1.22,5.25,1.19,4.78
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Chardy J.,Gasquet R.,90,37,640,1305,7,5,6,1,,,,,,,2,0,Completed,1.72,2,1.75,1.95,1.8,2,1.94,1.96,1.95,2.1,1.82,1.99
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Nishikori K.,Millman J.,33,96,1415,613,7,6,4,6,6,3,,,,,2,1,Completed,1.44,2.62,1.42,2.65,1.44,2.75,1.51,2.78,1.51,2.85,1.47,2.68
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Paire B.,Djokovic N.,47,12,1075,2300,6,3,6,4,,,,,,,2,0,Completed,4.33,1.2,4.1,1.2,4.33,1.22,4.85,1.22,4.9,1.25,4.33,1.22
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Pospisil V.,Rublev A.,77,34,687,1393,7,6,6,4,,,,,,,2,0,Completed,2.62,1.44,2.55,1.45,2.5,1.53,2.84,1.49,2.84,1.53,2.65,1.48
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Donaldson J.,Lopez F.,49,32,1038,1420,6,4,6,2,,,,,,,2,0,Completed,1.53,2.37,1.55,2.3,1.57,2.37,1.65,2.39,1.65,2.5,1.59,2.36
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Chung H.,Ebden M.,23,76,1727,690,6,3,7,5,,,,,,,2,0,Completed,1.16,5,1.15,4.75,1.17,5,1.15,6.41,1.18,6.65,1.15,5.54
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Youzhny M.,Muller G.,102,28,589,1500,4,6,6,4,6,2,,,,,2,1,Completed,2.1,1.66,2.1,1.65,2.1,1.73,2.34,1.68,2.5,1.74,2.19,1.68
+20,Miami,Sony Ericsson Open,23/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Isner J.,Vesely J.,17,64,2170,835,7,6,1,6,6,3,,,,,2,1,Completed,1.36,3,1.33,3.05,1.36,3.25,1.33,3.64,1.4,3.64,1.36,3.2
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Del Potro J.M.,Haase R.,6,44,4155,1120,6,4,5,7,6,2,,,,,2,1,Completed,1.16,5,1.16,4.6,1.17,5,1.18,5.54,1.22,5.8,1.17,4.97
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Dimitrov G.,Marterer M.,4,73,4600,742,4,6,6,2,6,1,,,,,2,1,Completed,1.3,3.4,1.3,3.2,1.33,3.4,1.34,3.6,1.36,3.72,1.32,3.43
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Coric B.,Mayer L.,36,45,1366,1080,6,7,6,3,6,4,,,,,2,1,Completed,1.4,2.75,1.42,2.65,1.44,2.75,1.48,2.86,1.5,2.94,1.46,2.74
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Shapovalov D.,Dzumhur D.,46,30,1076,1430,6,1,7,5,,,,,,,2,0,Completed,1.5,2.5,1.5,2.4,,,1.56,2.6,1.59,2.78,1.53,2.51
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Zverev A.,Medvedev D.,5,52,4505,959,6,4,1,6,7,6,,,,,2,1,Completed,1.36,3,1.35,2.95,1.36,3.25,1.35,3.52,1.41,3.52,1.37,3.13
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Tiafoe F.,Edmund K.,63,26,844,1627,7,6,4,6,7,6,,,,,2,1,Completed,1.72,2,1.75,1.95,1.73,2.1,1.81,2.11,1.92,2.11,1.79,2.02
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Ferrer D.,Donskoy E.,35,88,1370,641,6,2,6,2,,,,,,,2,0,Completed,1.44,2.62,1.45,2.55,1.44,2.75,1.52,2.73,1.55,2.8,1.47,2.68
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Berdych T.,Nishioka Y.,13,374,2275,109,6,1,6,4,,,,,,,2,0,Completed,1.25,3.75,1.23,3.75,1.25,4,1.25,4.45,1.29,4.45,1.25,3.93
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Khachanov K.,Copil M.,41,84,1220,661,7,5,6,3,,,,,,,2,0,Completed,1.3,3.4,1.3,3.2,1.33,3.4,1.35,3.54,1.39,3.56,1.32,3.4
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Verdasco F.,Garcia-Lopez G.,39,69,1260,779,4,6,6,0,6,2,,,,,2,1,Completed,1.33,3.25,1.32,3.1,1.36,3.25,1.36,3.46,1.39,3.55,1.34,3.27
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Querrey S.,Albot R.,14,93,2265,627,7,6,6,1,,,,,,,2,0,Completed,1.18,4.5,1.16,4.6,1.17,5,1.21,5,1.22,5.4,1.19,4.8
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Kokkinakis T.,Federer R.,175,1,319,9660,3,6,6,3,7,6,,,,,2,1,Completed,8,1.08,7.25,1.06,7.5,1.08,10.43,1.08,11.25,1.1,8.64,1.07
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Fognini F.,Kuhn N.,18,211,2155,261,6,2,6,4,,,,,,,2,0,Completed,1.18,4.5,1.18,4.3,1.2,4.5,1.21,5.03,1.23,5.25,1.19,4.65
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Anderson K.,Basilashvili N.,8,89,3235,640,6,4,6,3,,,,,,,2,0,Completed,1.1,7,1.09,6.25,1.11,6.5,1.11,8.1,1.13,8.1,1.1,7
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Johnson S.,Mannarino A.,54,22,940,1735,6,3,6,3,,,,,,,2,0,Completed,1.72,2,1.8,1.9,1.91,1.91,1.93,1.97,1.96,2.05,1.86,1.95
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Sock J.,Bhambri Y.,11,107,2335,545,6,3,7,6,,,,,,,2,0,Completed,1.61,2.2,1.57,2.25,1.61,2.25,1.62,2.45,1.7,2.5,1.61,2.33
+20,Miami,Sony Ericsson Open,24/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Carreno Busta P.,Istomin D.,19,85,2045,658,6,1,6,0,,,,,,,2,0,Completed,1.36,3,1.37,2.85,1.4,3,1.42,3.11,1.43,3.2,1.39,2.99
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,2nd Round,3,Kyrgios N.,Lajovic D.,20,108,1945,540,6,4,6,1,,,,,,,2,0,Completed,1.28,3.5,1.27,3.45,1.28,3.5,1.31,3.84,1.34,4,1.3,3.57
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Chung H.,Mmoh M.,23,176,1727,319,6,1,6,1,,,,,,,2,0,Completed,1.1,7,1.1,5.9,1.12,6,1.13,7.29,1.17,7.75,1.11,6.62
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Sousa J.,Donaldson J.,80,49,680,1038,1,6,6,3,6,4,,,,,2,1,Completed,2.25,1.57,2.2,1.6,2.25,1.61,2.27,1.72,2.34,1.75,2.24,1.65
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Krajinovic F.,Paire B.,27,47,1539,1075,6,3,6,3,,,,,,,2,0,Completed,1.57,2.25,1.57,2.25,1.61,2.25,1.65,2.41,1.7,2.45,1.62,2.31
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Cilic M.,Pospisil V.,3,77,4905,687,7,5,7,6,,,,,,,2,0,Completed,1.14,5.5,1.15,4.75,1.17,5,1.18,5.88,1.18,5.88,1.16,5.33
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Del Potro J.M.,Nishikori K.,6,33,4155,1415,6,2,6,2,,,,,,,2,0,Completed,1.33,3.25,1.33,3.05,1.36,3.25,1.41,3.23,1.44,3.5,1.38,3.07
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Chardy J.,Dimitrov G.,90,4,640,4600,6,4,6,4,,,,,,,2,0,Completed,3.25,1.33,3.2,1.3,3.4,1.33,3.73,1.33,3.9,1.38,3.43,1.32
+20,Miami,Sony Ericsson Open,25/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Isner J.,Youzhny M.,17,102,2170,589,6,4,6,3,,,,,,,2,0,Completed,1.4,2.75,1.38,2.8,1.4,2.75,1.44,3.06,1.49,3.13,1.43,2.85
+20,Miami,Sony Ericsson Open,26/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Raonic M.,Schwartzman D.,25,16,1630,2220,7,6,6,3,,,,,,,2,0,Completed,1.61,2.2,1.6,2.2,1.61,2.25,1.65,2.43,1.68,2.45,1.63,2.29
+20,Miami,Sony Ericsson Open,26/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Carreno Busta P.,Johnson S.,19,54,2045,940,6,4,6,4,,,,,,,2,0,Completed,1.66,2.1,1.72,2,1.8,2,1.83,2.12,1.85,2.2,1.77,2.04
+20,Miami,Sony Ericsson Open,26/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Verdasco F.,Kokkinakis T.,39,175,1260,319,3,6,6,4,7,6,,,,,2,1,Completed,1.57,2.25,1.6,2.2,1.61,2.25,1.66,2.4,1.71,2.43,1.63,2.28
+20,Miami,Sony Ericsson Open,26/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Shapovalov D.,Querrey S.,46,14,1076,2265,6,4,3,6,7,5,,,,,2,1,Completed,2.1,1.66,2,1.72,2,1.8,2.2,1.77,2.2,1.82,2.09,1.75
+20,Miami,Sony Ericsson Open,26/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Kyrgios N.,Fognini F.,20,18,1945,2155,6,3,6,3,,,,,,,2,0,Completed,1.4,2.75,1.37,2.85,1.4,3,1.4,3.26,1.44,3.35,1.4,2.98
+20,Miami,Sony Ericsson Open,26/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Anderson K.,Khachanov K.,8,41,3235,1220,4,6,6,2,6,3,,,,,2,1,Completed,1.44,2.62,1.47,2.5,1.53,2.5,1.54,2.69,1.57,2.8,1.51,2.57
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Coric B.,Sock J.,36,11,1366,2335,5,7,7,6,6,3,,,,,2,1,Completed,1.57,2.25,1.57,2.25,1.61,2.25,1.67,2.38,1.72,2.5,1.64,2.28
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Zverev A.,Ferrer D.,5,35,4505,1370,2,6,6,2,6,4,,,,,2,1,Completed,1.57,2.25,1.53,2.35,1.57,2.37,1.56,2.65,1.62,2.65,1.57,2.41
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,3rd Round,3,Tiafoe F.,Berdych T.,63,13,844,2275,6,7,6,2,7,6,,,,,2,1,Completed,3,1.36,1.75,1.95,3,1.4,3.24,1.41,3.35,1.42,3.11,1.37
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Isner J.,Cilic M.,17,3,2170,4905,7,6,6,3,,,,,,,2,0,Completed,3,1.4,2.95,1.35,3.25,1.36,3.32,1.39,3.4,1.41,3.14,1.37
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Chung H.,Sousa J.,23,80,1727,680,6,4,6,3,,,,,,,2,0,Completed,1.16,5,1.18,4.3,1.2,4.5,1.24,4.72,1.24,5,1.2,4.54
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Raonic M.,Chardy J.,25,90,1630,640,6,3,6,4,,,,,,,2,0,Completed,1.4,3,1.37,2.85,1.4,3,1.42,3.19,1.45,3.3,1.39,3.02
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Del Potro J.M.,Krajinovic F.,6,27,4155,1539,6,4,6,2,,,,,,,2,0,Completed,1.2,4.5,1.18,4.3,1.2,4.5,1.23,4.88,1.24,5.1,1.2,4.53
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Carreno Busta P.,Verdasco F.,19,39,2045,1260,6,0,6,3,,,,,,,2,0,Completed,1.72,2.1,1.72,2,1.73,2.1,1.81,2.14,1.83,2.22,1.76,2.07
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Coric B.,Shapovalov D.,36,46,1366,1076,7,6,4,6,6,4,,,,,2,1,Completed,1.53,2.5,1.53,2.35,1.57,2.37,1.59,2.56,1.62,2.67,1.58,2.41
+20,Miami,Sony Ericsson Open,27/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Anderson K.,Tiafoe F.,8,63,3235,844,7,6,6,4,,,,,,,2,0,Completed,1.36,3.25,1.3,3.2,1.3,3.5,1.35,3.61,1.4,3.8,1.33,3.35
+20,Miami,Sony Ericsson Open,28/03/18,Masters 1000,Outdoor,Hard,4th Round,3,Zverev A.,Kyrgios N.,5,20,4505,1945,6,4,6,4,,,,,,,2,0,Completed,2.37,1.57,2.25,1.57,2.37,1.57,2.38,1.67,2.5,1.71,2.31,1.62
+20,Miami,Sony Ericsson Open,28/03/18,Masters 1000,Outdoor,Hard,Quarterfinals,3,Isner J.,Chung H.,17,23,2170,1727,6,1,6,4,,,,,,,2,0,Completed,2.5,1.53,2.3,1.55,2.37,1.57,2.5,1.61,2.62,1.63,2.46,1.56
+20,Miami,Sony Ericsson Open,29/03/18,Masters 1000,Outdoor,Hard,Quarterfinals,3,Del Potro J.M.,Raonic M.,6,25,4155,1630,5,7,7,6,7,6,,,,,2,1,Completed,1.4,3,1.37,2.85,1.4,3,1.43,3.14,1.43,3.2,1.4,3
+20,Miami,Sony Ericsson Open,29/03/18,Masters 1000,Outdoor,Hard,Quarterfinals,3,Carreno Busta P.,Anderson K.,19,8,2045,3235,6,4,5,7,7,6,,,,,2,1,Completed,2.75,1.44,2.65,1.42,2.75,1.44,2.9,1.48,3.05,1.51,2.81,1.44
+20,Miami,Sony Ericsson Open,30/03/18,Masters 1000,Outdoor,Hard,Quarterfinals,3,Zverev A.,Coric B.,5,36,4505,1366,6,4,6,4,,,,,,,2,0,Completed,1.61,2.25,1.6,2.2,1.67,2.2,1.65,2.41,1.67,2.49,1.61,2.33
+20,Miami,Sony Ericsson Open,30/03/18,Masters 1000,Outdoor,Hard,Semifinals,3,Isner J.,Del Potro J.M.,17,6,2170,4155,6,1,7,6,,,,,,,2,0,Completed,2.62,1.5,2.5,1.47,2.37,1.57,2.8,1.51,2.85,1.57,2.59,1.51
+20,Miami,Sony Ericsson Open,31/03/18,Masters 1000,Outdoor,Hard,Semifinals,3,Zverev A.,Carreno Busta P.,5,19,4505,2045,7,6,6,2,,,,,,,2,0,Completed,1.4,3,1.35,2.95,1.4,3,1.41,3.2,1.46,3.3,1.39,3.05
+20,Miami,Sony Ericsson Open,01/04/18,Masters 1000,Outdoor,Hard,The Final,3,Isner J.,Zverev A.,17,5,2170,4505,6,7,6,4,6,4,,,,,2,1,Completed,2.2,1.66,2.15,1.62,2.2,1.67,2.31,1.7,2.38,1.79,2.24,1.67

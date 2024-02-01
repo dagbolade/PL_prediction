@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+27,Estoril ,Estoril Open,30/04/12,ATP250,Outdoor,Clay,1st Round,3,Lorenzi P.,Roger-Vasselin E.,82,83,627,622,3,6,7,6,6,4,,,,,2,1,Completed,2,1.72,2.08,1.7,1.91,1.8,2.16,1.76,2,1.73,2.16,1.83,2,1.76
+27,Estoril ,Estoril Open,30/04/12,ATP250,Outdoor,Clay,1st Round,3,Haase R.,Bolelli S.,43,98,1001,545,6,3,6,2,,,,,,,2,0,Completed,1.33,3.25,1.35,3,1.36,3,1.37,3.33,1.4,2.75,1.42,3.36,1.36,3.04
+27,Estoril ,Estoril Open,30/04/12,ATP250,Outdoor,Clay,1st Round,3,Istomin D.,Mathieu P.H.,45,273,982,165,7,5,6,1,,,,,,,2,0,Completed,2.37,1.53,2.25,1.6,2.25,1.57,2.49,1.59,2.38,1.53,2.53,1.67,2.33,1.57
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Cervantes I.,Andreev I.,188,78,274,637,6,4,3,6,6,3,,,,,2,1,Completed,5.5,1.14,5,1.15,4.5,1.17,4.93,1.21,4.5,1.17,5.5,1.21,4.79,1.17
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Navarro-Pastor I.,Gimeno-Traver D.,310,107,157,508,7,6,6,2,,,,,,,2,0,Completed,2.5,1.5,2.35,1.55,2.5,1.5,2.55,1.57,2.38,1.53,2.63,1.57,2.44,1.53
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Munoz-De La Nava D.,Marti J.,148,174,370,292,7,5,6,3,,,,,,,2,0,Completed,2.37,1.53,2.35,1.55,2.5,1.5,2.83,1.48,2.25,1.57,2.83,1.59,2.43,1.53
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Machado R.,Sousa P.,90,244,601,199,6,7,6,1,6,2,,,,,2,1,Completed,1.44,2.62,1.45,2.65,1.5,2.5,1.49,2.8,1.4,2.75,1.53,2.8,1.46,2.62
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Montanes A.,Ebden M.,69,72,690,677,6,2,6,3,,,,,,,2,0,Completed,1.18,4.5,1.18,4.5,1.17,4.5,1.23,4.65,1.2,4,1.25,5,1.2,4.35
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Cipolla F.,Junqueira D.,70,144,686,376,6,1,6,4,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.25,3.75,1.29,3.96,1.3,3.2,1.3,4.2,1.27,3.67
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Phau B.,Gil F.,87,109,608,493,6,4,6,2,,,,,,,2,0,Completed,3.4,1.3,3.3,1.3,3.25,1.33,3.42,1.36,2.88,1.36,3.46,1.4,3.16,1.34
+27,Estoril ,Estoril Open,01/05/12,ATP250,Outdoor,Clay,1st Round,3,Sousa J.,Elias G.,140,196,388,258,5,7,6,4,6,2,,,,,2,1,Completed,1.44,2.62,1.5,2.5,1.53,2.38,1.56,2.59,1.4,2.75,1.56,2.75,1.48,2.57
+27,Estoril ,Estoril Open,02/05/12,ATP250,Outdoor,Clay,1st Round,3,Reynolds B.,Balazs A.,133,259,405,181,6,3,6,4,,,,,,,2,0,Completed,2.62,1.44,2.65,1.45,2.62,1.44,2.71,1.52,2.63,1.44,2.75,1.52,2.62,1.48
+27,Estoril ,Estoril Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Wawrinka S.,Navarro-Pastor I.,22,310,1425,157,7,6,6,1,,,,,,,2,0,Completed,1.03,15,1.04,9,1.04,9,1.03,17.5,1.05,8,1.06,19.5,1.03,11.53
+27,Estoril ,Estoril Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Gasquet R.,Lorenzi P.,18,82,1595,627,6,1,6,1,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.2,4.33,1.29,3.97,1.2,4,1.3,4.34,1.24,3.88
+27,Estoril ,Estoril Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Haase R.,Cervantes I.,43,188,1001,274,5,7,6,4,6,2,,,,,2,1,Completed,1.16,5,1.18,4.5,1.17,4.5,1.23,4.74,1.2,4,1.23,5.25,1.18,4.65
+27,Estoril ,Estoril Open,02/05/12,ATP250,Outdoor,Clay,2nd Round,3,Munoz-De La Nava D.,Cipolla F.,148,70,370,686,6,4,6,4,,,,,,,2,0,Completed,3,1.36,3,1.35,3,1.36,3.39,1.37,2.88,1.36,3.52,1.4,3.12,1.35
+27,Estoril ,Estoril Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Montanes A.,Reynolds B.,69,133,690,405,4,6,6,4,6,3,,,,,2,1,Completed,1.12,6,1.11,6,1.12,5.5,1.16,6.12,1.14,5,1.17,6.5,1.14,5.47
+27,Estoril ,Estoril Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Del Potro J.M.,Machado R.,12,90,2495,601,6,1,6,0,,,,,,,2,0,Completed,1.02,19,1.01,15,1.02,11,1.02,22.73,1.03,10,1.04,24.22,1.02,13.45
+27,Estoril ,Estoril Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Ramos A.,Phau B.,42,87,1003,608,7,5,6,0,,,,,,,2,0,Completed,1.22,4,1.22,4,1.25,3.75,1.3,3.94,1.22,3.75,1.3,4.33,1.25,3.82
+27,Estoril ,Estoril Open,03/05/12,ATP250,Outdoor,Clay,2nd Round,3,Sousa J.,Istomin D.,140,45,388,982,3,6,6,3,4,2,,,,,1,1,Retired,2.5,1.5,2.5,1.5,2.38,1.53,2.54,1.58,2.2,1.62,2.6,1.63,2.39,1.55
+27,Estoril ,Estoril Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Ramos A.,Sousa J.,42,140,1003,388,6,2,6,3,,,,,,,2,0,Completed,1.18,4.5,1.2,4.25,1.22,4,,,1.22,4,1.25,4.95,1.21,4.24
+27,Estoril ,Estoril Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Gasquet R.,Munoz-De La Nava D.,18,148,1595,370,7,6,6,2,,,,,,,2,0,Completed,1.07,9,1.07,7.38,1.07,7.5,1.11,8.19,1.07,8,1.1,10.81,1.07,7.84
+27,Estoril ,Estoril Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Wawrinka S.,Haase R.,22,43,1425,1001,6,1,6,4,,,,,,,2,0,Completed,1.28,3.5,1.3,3.3,1.33,3.25,1.36,3.48,1.29,3.5,1.34,3.7,1.3,3.38
+27,Estoril ,Estoril Open,04/05/12,ATP250,Outdoor,Clay,Quarterfinals,3,Del Potro J.M.,Montanes A.,12,69,2495,690,6,2,6,2,,,,,,,2,0,Completed,1.05,11,1.03,10,1.04,9,1.06,13.4,1.05,9,1.07,13.4,1.04,10.24
+27,Estoril ,Estoril Open,05/05/12,ATP250,Outdoor,Clay,Semifinals,3,Gasquet R.,Ramos A.,18,42,1595,1003,2,6,7,6,7,5,,,,,2,1,Completed,1.5,2.5,1.55,2.35,1.57,2.38,1.61,2.5,1.53,2.5,1.61,2.55,1.54,2.43
+27,Estoril ,Estoril Open,05/05/12,ATP250,Outdoor,Clay,Semifinals,3,Del Potro J.M.,Wawrinka S.,12,22,2495,1425,7,6,6,4,,,,,,,2,0,Completed,1.25,3.75,1.3,3.3,1.29,3.75,1.28,4.22,1.29,3.5,1.3,4.25,1.27,3.72
+27,Estoril ,Estoril Open,06/05/12,ATP250,Outdoor,Clay,The Final,3,Del Potro J.M.,Gasquet R.,12,18,2495,1595,6,4,6,2,,,,,,,2,0,Completed,1.14,5.5,1.15,5,1.14,5,1.16,6.39,1.14,5.5,1.18,6.39,1.15,5.18

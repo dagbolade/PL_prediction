@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+18,Sao Paulo,Brasil Open,25/02/2019,ATP250,Indoor,Clay,1st Round,3,Garin C.,Sousa P.,92,101,620,560,7,6,6,2,,,,,,,2,0,Completed,1.25,3.75,1.33,3.59,1.31,4,1.27,3.72
+18,Sao Paulo,Brasil Open,25/02/2019,ATP250,Indoor,Clay,1st Round,3,Carballes Baena R.,Marterer M.,111,97,517,594,3,6,6,1,6,2,,,,,2,1,Completed,2.1,1.66,2.16,1.76,2.16,1.92,2.08,1.75
+18,Sao Paulo,Brasil Open,25/02/2019,ATP250,Indoor,Clay,1st Round,3,Trungelliti M.,Daniel T.,121,70,472,765,6,4,3,6,7,6,,,,,2,1,Completed,2.25,1.57,2.47,1.6,2.56,1.69,2.31,1.61
+18,Sao Paulo,Brasil Open,26/02/2019,ATP250,Indoor,Clay,1st Round,3,Sonego L.,Delbonis F.,114,81,514,696,6,4,6,4,,,,,,,2,0,Completed,2.5,1.5,2.55,1.57,2.55,1.67,2.42,1.55
+18,Sao Paulo,Brasil Open,26/02/2019,ATP250,Indoor,Clay,1st Round,3,Munar J.,Sakamoto P.,61,389,829,39,6,3,6,2,,,,,,,2,0,Completed,1.14,5.5,1.11,7.84,1.15,8,1.11,6.49
+18,Sao Paulo,Brasil Open,26/02/2019,ATP250,Indoor,Clay,1st Round,3,Londero J.I.,Lorenzi P.,66,106,794,544,7,6,6,1,,,,,,,2,0,Completed,1.5,2.5,1.58,2.52,1.65,2.56,1.56,2.43
+18,Sao Paulo,Brasil Open,26/02/2019,ATP250,Indoor,Clay,1st Round,3,Dellien H.,Martinez P.,95,170,600,325,6,1,6,2,,,,,,,2,0,Completed,1.72,2,1.83,2.06,1.87,2.2,1.78,2.04
+18,Sao Paulo,Brasil Open,26/02/2019,ATP250,Indoor,Clay,1st Round,3,Ramos-Vinolas A.,Bagnis F.,86,146,650,392,6,1,6,3,,,,,,,2,0,Completed,1.53,2.37,1.68,2.32,1.69,2.45,1.61,2.31
+18,Sao Paulo,Brasil Open,26/02/2019,ATP250,Indoor,Clay,1st Round,3,Seyboth Wild T.,Ymer E.,449,117,19,496,6,3,4,6,6,2,,,,,2,1,Completed,2.37,1.53,2.78,1.49,2.8,1.58,2.6,1.5
+18,Sao Paulo,Brasil Open,27/02/2019,ATP250,Indoor,Clay,1st Round,3,Ruud C.,Monteiro T.,108,120,527,488,6,3,6,4,,,,,,,2,0,Completed,1.61,2.2,1.76,2.18,1.8,2.27,1.7,2.15
+18,Sao Paulo,Brasil Open,27/02/2019,ATP250,Indoor,Clay,1st Round,3,Djere L.,Giannessi A.,37,168,1127,326,7,6,4,6,6,4,,,,,2,1,Completed,1.4,2.75,1.45,2.95,1.6,3,1.45,2.76
+18,Sao Paulo,Brasil Open,27/02/2019,ATP250,Indoor,Clay,1st Round,3,Auger-Aliassime F.,Cuevas P.,60,59,834,841,5,7,6,3,6,3,,,,,2,1,Completed,2.62,1.44,2.62,1.54,2.71,1.56,2.56,1.5
+18,Sao Paulo,Brasil Open,27/02/2019,ATP250,Indoor,Clay,2nd Round,3,Garin C.,Munar J.,92,61,620,829,7,6,6,7,7,6,,,,,2,1,Completed,2.2,1.61,2.08,1.84,2.27,1.84,2.15,1.7
+18,Sao Paulo,Brasil Open,27/02/2019,ATP250,Indoor,Clay,2nd Round,3,Mayer L.,Sonego L.,55,114,895,514,6,1,3,6,6,3,,,,,2,1,Completed,1.66,2.1,1.75,2.21,1.83,2.21,1.74,2.09
+18,Sao Paulo,Brasil Open,27/02/2019,ATP250,Indoor,Clay,2nd Round,3,Pella G.,Carballes Baena R.,48,111,975,517,6,2,6,4,,,,,,,2,0,Completed,1.57,2.25,1.72,2.26,1.74,2.33,1.66,2.21
+18,Sao Paulo,Brasil Open,28/02/2019,ATP250,Indoor,Clay,2nd Round,3,Trungelliti M.,Seyboth Wild T.,121,449,472,19,6,4,7,5,,,,,,,2,0,Completed,1.57,2.25,1.66,2.36,1.69,2.4,1.61,2.3
+18,Sao Paulo,Brasil Open,28/02/2019,ATP250,Indoor,Clay,2nd Round,3,Dellien H.,Londero J.I.,95,66,600,794,6,4,7,6,,,,,,,2,0,Completed,2.5,1.5,2.48,1.61,2.56,1.67,2.43,1.56
+18,Sao Paulo,Brasil Open,28/02/2019,ATP250,Indoor,Clay,2nd Round,3,Ruud C.,Sousa J.,108,38,527,1107,6,3,6,4,,,,,,,2,0,Completed,1.8,1.9,1.89,2.01,1.91,2.05,1.85,1.95
+18,Sao Paulo,Brasil Open,28/02/2019,ATP250,Indoor,Clay,2nd Round,3,Auger-Aliassime F.,Ramos-Vinolas A.,60,86,834,650,7,6,7,6,,,,,,,2,0,Completed,1.61,2.2,1.68,2.33,1.85,2.52,1.66,2.23
+18,Sao Paulo,Brasil Open,28/02/2019,ATP250,Indoor,Clay,2nd Round,3,Djere L.,Jaziri M.,37,45,1127,1007,6,3,3,6,7,6,,,,,2,1,Completed,1.33,3.25,1.36,3.47,1.5,3.5,1.35,3.21
+18,Sao Paulo,Brasil Open,01/03/2019,ATP250,Indoor,Clay,Quarterfinals,3,Garin C.,Mayer L.,92,55,620,895,4,6,6,4,6,4,,,,,2,1,Completed,2.1,1.72,2.03,1.9,2.13,1.92,2.06,1.77
+18,Sao Paulo,Brasil Open,01/03/2019,ATP250,Indoor,Clay,Quarterfinals,3,Ruud C.,Dellien H.,108,95,527,600,6,1,6,1,,,,,,,2,0,Completed,1.5,2.62,1.54,2.7,1.57,2.75,1.51,2.58
+18,Sao Paulo,Brasil Open,01/03/2019,ATP250,Indoor,Clay,Quarterfinals,3,Pella G.,Trungelliti M.,48,121,975,472,6,0,6,3,,,,,,,2,0,Completed,1.2,4.5,1.21,5.2,1.25,5.2,1.2,4.62
+18,Sao Paulo,Brasil Open,01/03/2019,ATP250,Indoor,Clay,Quarterfinals,3,Djere L.,Auger-Aliassime F.,37,60,1127,834,6,2,3,6,6,3,,,,,2,1,Completed,2.2,1.66,2.23,1.75,2.27,1.75,2.17,1.69
+18,Sao Paulo,Brasil Open,02/03/2019,ATP250,Indoor,Clay,Semifinals,3,Garin C.,Ruud C.,92,108,620,527,6,4,6,4,,,,,,,2,0,Completed,2.2,1.66,2.17,1.79,2.35,1.79,2.23,1.66
+18,Sao Paulo,Brasil Open,02/03/2019,ATP250,Indoor,Clay,Semifinals,3,Pella G.,Djere L.,48,37,975,1127,7,6,7,6,,,,,,,2,0,Completed,1.5,2.62,1.56,2.65,1.57,2.75,1.51,2.57
+18,Sao Paulo,Brasil Open,03/03/2019,ATP250,Indoor,Clay,The Final,3,Pella G.,Garin C.,48,92,975,620,7,5,6,3,,,,,,,2,0,Completed,1.5,2.62,1.63,2.46,1.63,2.95,1.5,2.62

@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+30,Lyon,Lyon Open,21/05/2023,ATP250,Outdoor,Clay,1st Round,3,Varillas J. P.,Ramos-Vinolas A.,97,648,66,782,3,6,7,6,6,4,,,,,2,1,Completed,1.8,2,1.82,2.09,1.84,2.1,1.78,2.01
+30,Lyon,Lyon Open,21/05/2023,ATP250,Outdoor,Clay,1st Round,3,Barrere G.,Moutet C.,55,846,61,823,6,4,6,2,,,,,,,2,0,Completed,1.57,2.38,1.6,2.48,1.68,2.48,1.59,2.32
+30,Lyon,Lyon Open,21/05/2023,ATP250,Outdoor,Clay,1st Round,3,Draper J.,Muller A.,60,832,100,639,6,2,6,3,,,,,,,2,0,Completed,1.73,2.1,1.82,2.08,1.82,2.34,1.74,2.06
+30,Lyon,Lyon Open,22/05/2023,ATP250,Outdoor,Clay,1st Round,3,Nakashima B.,Schwartzman D.,52,877,93,660,7,5,6,3,,,,,,,2,0,Completed,2.2,1.67,2.27,1.7,2.45,1.72,2.21,1.66
+30,Lyon,Lyon Open,22/05/2023,ATP250,Outdoor,Clay,1st Round,3,Kecmanovic M.,Roca Batalla O.,36,1055,310,163,6,1,6,3,,,,,,,2,0,Completed,1.1,7,1.11,7.19,1.11,8,1.1,7.02
+30,Lyon,Lyon Open,22/05/2023,ATP250,Outdoor,Clay,1st Round,3,Rinderknech A.,Harris L.,78,725,306,165,6,4,6,2,,,,,,,2,0,Completed,1.67,2.2,1.8,2.12,1.8,2.22,1.74,2.09
+30,Lyon,Lyon Open,22/05/2023,ATP250,Outdoor,Clay,1st Round,3,Fils A.,Zhang Zh.,112,559,70,740,6,3,6,2,,,,,,,2,0,Completed,1.73,2.1,1.73,2.21,1.83,2.25,1.72,2.11
+30,Lyon,Lyon Open,22/05/2023,ATP250,Outdoor,Clay,1st Round,3,Ymer M.,Gasquet R.,53,876,50,901,6,3,7,5,,,,,,,2,0,Completed,1.91,1.91,1.93,1.96,1.98,1.96,1.9,1.88
+30,Lyon,Lyon Open,22/05/2023,ATP250,Outdoor,Clay,1st Round,3,Goffin D.,Lopez San Martin A.,113,550,298,170,6,1,6,3,,,,,,,2,0,Completed,1.3,3.5,1.28,4.06,1.31,4.1,1.27,3.69
+30,Lyon,Lyon Open,23/05/2023,ATP250,Outdoor,Clay,1st Round,3,Baez S.,Fucsovics M.,44,955,80,720,6,4,7,6,,,,,,,2,0,Completed,1.67,2.2,1.62,2.43,1.74,2.43,1.66,2.19
+30,Lyon,Lyon Open,23/05/2023,ATP250,Outdoor,Clay,1st Round,3,Llamas Ruiz P.,Purcell M.,240,236,67,781,6,4,6,7,6,1,,,,,2,1,Completed,1.5,2.63,1.65,2.37,1.65,2.66,1.54,2.43
+30,Lyon,Lyon Open,23/05/2023,ATP250,Outdoor,Clay,1st Round,3,Cachin P.,Monfils G.,63,793,386,117,2,6,6,3,6,4,,,,,2,1,Completed,1.3,3.5,1.32,3.65,1.35,3.65,1.3,3.4
+30,Lyon,Lyon Open,23/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Cerundolo F.,Varillas J. P.,28,1345,97,648,6,2,,,,,,,,,1,0,Retired,1.36,3.2,1.38,3.33,1.39,3.36,1.36,3.09
+30,Lyon,Lyon Open,23/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Draper J.,Kecmanovic M.,60,832,36,1055,6,4,7,5,,,,,,,2,0,Completed,2,1.8,2.08,1.84,2.13,1.84,2.03,1.77
+30,Lyon,Lyon Open,23/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Nakashima B.,Rinderknech A.,52,877,78,725,7,6,1,6,7,5,,,,,2,1,Completed,1.91,1.91,1.95,1.95,1.95,2,1.89,1.9
+30,Lyon,Lyon Open,24/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Baez S.,Cachin P.,44,955,63,793,3,6,7,5,6,2,,,,,2,1,Completed,1.36,3.2,1.45,2.97,1.45,3.2,1.4,2.9
+30,Lyon,Lyon Open,24/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Paul T.,Barrere G.,17,2135,55,846,7,6,4,6,6,3,,,,,2,1,Completed,1.5,2.63,1.5,2.79,1.58,2.79,1.49,2.62
+30,Lyon,Lyon Open,24/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Norrie C.,Goffin D.,14,2520,113,550,6,3,6,4,,,,,,,2,0,Completed,1.33,3.4,1.4,3.22,1.44,3.4,1.36,3.08
+30,Lyon,Lyon Open,24/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Fils A.,Ymer M.,112,559,53,876,6,5,,,,,,,,,0,0,Awarded,1.67,2.2,1.72,2.25,1.74,2.35,1.67,2.18
+30,Lyon,Lyon Open,24/05/2023,ATP250,Outdoor,Clay,2nd Round,3,Auger-Aliassime F.,Llamas Ruiz P.,10,3065,240,236,7,5,6,2,,,,,,,2,0,Completed,1.22,4.33,1.22,4.95,1.25,4.95,1.21,4.32
+30,Lyon,Lyon Open,25/05/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Cerundolo F.,Draper J.,28,1345,60,832,4,6,6,4,6,3,,,,,2,1,Completed,1.5,2.63,1.56,2.6,1.56,2.63,1.52,2.49
+30,Lyon,Lyon Open,25/05/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Norrie C.,Baez S.,14,2520,44,955,6,2,2,6,6,1,,,,,2,1,Completed,1.44,2.75,1.5,2.8,1.5,3.05,1.44,2.74
+30,Lyon,Lyon Open,25/05/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Nakashima B.,Paul T.,52,877,17,2135,6,3,7,6,,,,,,,2,0,Completed,2.75,1.44,2.73,1.52,2.92,1.52,2.68,1.47
+30,Lyon,Lyon Open,25/05/2023,ATP250,Outdoor,Clay,Quarterfinals,3,Fils A.,Auger-Aliassime F.,112,559,10,3065,,,,,,,,,,,,,Walkover,2.75,1.44,2.62,1.56,2.8,1.56,2.66,1.46
+30,Lyon,Lyon Open,26/05/2023,ATP250,Outdoor,Clay,Semifinals,3,Cerundolo F.,Norrie C.,28,1345,14,2520,6,3,6,0,,,,,,,2,0,Completed,2.2,1.67,2.25,1.72,2.39,1.75,2.19,1.67
+30,Lyon,Lyon Open,26/05/2023,ATP250,Outdoor,Clay,Semifinals,3,Fils A.,Nakashima B.,112,559,52,877,7,5,4,6,7,6,,,,,2,1,Completed,1.73,2.1,1.76,2.19,1.9,2.19,1.77,2.02
+30,Lyon,Lyon Open,27/05/2023,ATP250,Outdoor,Clay,The Final,3,Fils A.,Cerundolo F.,112,559,28,1345,6,3,7,5,,,,,,,2,0,Completed,3.75,1.29,3.78,1.32,3.78,1.37,3.48,1.3

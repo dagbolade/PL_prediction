@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+21,Casablanca,Grand Prix Hassan II,06/04/15,ATP250,Outdoor,Clay,1st Round,3,Berlocq C.,Carreno-Busta P.,65,54,755,866,4,6,7,6,6,4,,,,,2,1,Completed,1.53,2.37,1.6,2.3,1.53,2.38,1.63,2.41,1.68,2.55,1.55,2.4
+21,Casablanca,Grand Prix Hassan II,06/04/15,ATP250,Outdoor,Clay,1st Round,3,Kukushkin M.,Ramos-Vinolas A.,53,67,867,742,6,1,2,6,6,3,,,,,2,1,Completed,2.62,1.44,2.7,1.45,2.62,1.44,2.67,1.53,2.8,1.53,2.63,1.46
+21,Casablanca,Grand Prix Hassan II,06/04/15,ATP250,Outdoor,Clay,1st Round,3,Brown D.,Kuznetsov An.,101,91,543,584,6,2,6,4,,,,,,,2,0,Completed,2.37,1.53,2.35,1.58,2.25,1.57,2.7,1.52,2.7,1.65,2.32,1.58
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Haider-Maurer A.,Struff J.L.,58,75,851,656,6,2,6,7,7,6,,,,,2,1,Completed,1.66,2.1,1.68,2.15,1.67,2.1,1.76,2.16,1.76,2.3,1.67,2.15
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Youzhny M.,Idmbarek Y.,61,738,805,28,6,3,6,1,,,,,,,2,0,Completed,1.02,19,1.01,13,1.03,10,1.02,19.66,1.04,24,1.02,14.69
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Andujar P.,Kamke T.,64,114,770,484,6,3,6,4,,,,,,,2,0,Completed,1.4,2.75,1.45,2.7,1.4,2.75,1.48,2.83,1.48,2.88,1.43,2.73
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Ouahab L.,Haase R.,313,88,147,596,6,2,6,4,,,,,,,2,0,Completed,2.37,1.53,2.35,1.58,2.38,1.53,2.35,1.66,2.45,1.66,2.35,1.57
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Dzumhur D.,Mathieu P.H.,87,116,598,478,6,2,7,6,,,,,,,2,0,Completed,2.37,1.53,2.3,1.6,2.5,1.5,2.29,1.69,2.5,1.7,2.3,1.6
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Bedene A.,Gonzalez M.,99,94,546,576,6,3,3,6,6,3,,,,,2,1,Completed,1.28,3.5,1.3,3.4,1.3,3.4,1.32,3.7,1.35,3.7,1.3,3.39
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Almagro N.,Daniel T.,76,213,645,223,6,4,6,1,,,,,,,2,0,Completed,1.1,7,1.11,6,1.1,6.5,1.14,6.65,1.15,7.5,1.1,6.42
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,De Greef A.,Schwartzman D.,241,62,203,792,4,6,7,5,6,4,,,,,2,1,Completed,4.5,1.18,4.1,1.2,4,1.22,5.19,1.2,5.19,1.22,4.57,1.18
+21,Casablanca,Grand Prix Hassan II,07/04/15,ATP250,Outdoor,Clay,1st Round,3,Gimeno-Traver D.,Jaziri M.,95,89,571,591,6,4,6,3,,,,,,,2,0,Completed,1.4,2.75,1.42,2.8,1.4,2.75,1.4,3.19,1.45,3.19,1.4,2.87
+21,Casablanca,Grand Prix Hassan II,08/04/15,ATP250,Outdoor,Clay,2nd Round,3,Klizan M.,Brown D.,41,101,1042,543,6,4,4,6,7,6,,,,,2,1,Completed,1.36,3,1.38,3,1.4,2.75,1.45,3,1.45,3.15,1.38,2.92
+21,Casablanca,Grand Prix Hassan II,08/04/15,ATP250,Outdoor,Clay,2nd Round,3,Haider-Maurer A.,Andujar P.,58,64,851,770,7,5,6,3,,,,,,,2,0,Completed,2.2,1.61,2.05,1.72,2,1.73,2.07,1.85,2.2,1.85,2.08,1.72
+21,Casablanca,Grand Prix Hassan II,08/04/15,ATP250,Outdoor,Clay,2nd Round,3,Almagro N.,Berlocq C.,76,65,645,755,7,5,7,5,,,,,,,2,0,Completed,1.33,3.25,1.33,3.2,1.33,3.25,1.38,3.35,1.38,3.43,1.34,3.17
+21,Casablanca,Grand Prix Hassan II,08/04/15,ATP250,Outdoor,Clay,2nd Round,3,Dzumhur D.,Granollers M.,87,50,598,905,3,0,,,,,,,,,0,0,Retired,2.1,1.66,1.9,1.82,2,1.73,2.04,1.86,2.1,2,2.01,1.76
+21,Casablanca,Grand Prix Hassan II,09/04/15,ATP250,Outdoor,Clay,2nd Round,3,Bedene A.,De Greef A.,99,241,546,203,6,2,6,3,,,,,,,2,0,Completed,1.12,6,1.14,5.25,1.17,4.5,1.17,6.02,1.17,6.29,1.14,5.37
+21,Casablanca,Grand Prix Hassan II,09/04/15,ATP250,Outdoor,Clay,2nd Round,3,Vesely J.,Youzhny M.,49,61,908,805,7,6,6,3,,,,,,,2,0,Completed,1.57,2.25,1.58,2.3,1.67,2.1,1.59,2.52,1.67,2.52,1.59,2.29
+21,Casablanca,Grand Prix Hassan II,09/04/15,ATP250,Outdoor,Clay,2nd Round,3,Ouahab L.,Garcia-Lopez G.,313,24,147,1415,6,3,6,3,,,,,,,2,0,Completed,3.25,1.33,3.1,1.35,2.75,1.4,3.22,1.4,3.5,1.45,2.93,1.38
+21,Casablanca,Grand Prix Hassan II,09/04/15,ATP250,Outdoor,Clay,2nd Round,3,Gimeno-Traver D.,Kukushkin M.,95,53,571,867,6,1,4,1,,,,,,,1,0,Retired,2.1,1.66,2.05,1.72,1.91,1.8,2.16,1.78,2.25,1.8,2.07,1.72
+21,Casablanca,Grand Prix Hassan II,10/04/15,ATP250,Outdoor,Clay,Quarterfinals,3,Vesely J.,Bedene A.,49,99,908,546,6,1,6,4,,,,,,,2,0,Completed,1.8,1.9,2,1.8,2,1.73,1.8,2.15,2.1,2.15,1.89,1.88
+21,Casablanca,Grand Prix Hassan II,10/04/15,ATP250,Outdoor,Clay,Quarterfinals,3,Gimeno-Traver D.,Ouahab L.,95,313,571,147,6,4,6,3,,,,,,,2,0,Completed,1.66,2.1,1.8,2,1.73,2,1.76,2.21,1.8,2.21,1.75,2.04
+21,Casablanca,Grand Prix Hassan II,10/04/15,ATP250,Outdoor,Clay,Quarterfinals,3,Klizan M.,Almagro N.,41,76,1042,645,6,4,7,6,,,,,,,2,0,Completed,4,1.22,3.75,1.25,3.75,1.25,4.22,1.28,4.22,1.29,3.81,1.25
+21,Casablanca,Grand Prix Hassan II,10/04/15,ATP250,Outdoor,Clay,Quarterfinals,3,Dzumhur D.,Haider-Maurer A.,87,58,598,851,6,3,6,3,,,,,,,2,0,Completed,2.5,1.5,2.45,1.52,2.5,1.5,2.6,1.57,2.6,2.1,2.43,1.55
+21,Casablanca,Grand Prix Hassan II,11/04/15,ATP250,Outdoor,Clay,Semifinals,3,Gimeno-Traver D.,Vesely J.,95,49,571,908,6,7,6,4,6,4,,,,,2,1,Completed,2.5,1.53,2.5,1.5,2.5,1.5,2.56,1.59,2.63,1.61,2.47,1.53
+21,Casablanca,Grand Prix Hassan II,11/04/15,ATP250,Outdoor,Clay,Semifinals,3,Klizan M.,Dzumhur D.,41,87,1042,598,4,6,6,4,6,0,,,,,2,1,Completed,1.44,2.75,1.45,2.7,1.4,2.75,1.52,2.76,1.52,3,1.43,2.77
+21,Casablanca,Grand Prix Hassan II,12/04/15,ATP250,Outdoor,Clay,The Final,3,Klizan M.,Gimeno-Traver D.,41,95,1042,571,6,2,6,2,,,,,,,2,0,Completed,1.61,2.3,1.62,2.2,1.53,2.38,1.72,2.27,1.72,2.38,1.63,2.25

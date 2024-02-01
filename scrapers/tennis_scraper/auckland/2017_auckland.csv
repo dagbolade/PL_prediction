@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+4,Auckland,ASB Classic,08/01/17,ATP250,Outdoor,Hard,1st Round,3,Johnson S.,Robert S.,33,53,1320,854,6,4,6,3,,,,,,,2,0,Completed,1.33,3.25,1.33,2.75,1.36,3.25,1.34,3.5,1.36,3.6,1.33,3.24
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Haase R.,Tearney F.,58,447,795,90,6,4,7,5,,,,,,,2,0,Completed,1.12,6,1.09,5.25,1.14,5.5,1.17,5.75,1.17,6,1.14,5.5
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Vesely J.,Zeballos H.,54,69,848,725,6,4,6,3,,,,,,,2,0,Completed,1.44,2.62,1.38,2.6,1.44,2.62,1.43,3.05,1.47,3.05,1.41,2.82
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Jaziri M.,Schwartzman D.,56,52,814,867,7,6,6,3,,,,,,,2,0,Completed,2.62,1.44,2.4,1.42,2.5,1.48,2.63,1.54,2.66,1.54,2.56,1.49
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Lopez F.,Venus M.,28,1035,1410,10,3,6,6,4,6,3,,,,,2,1,Completed,1.05,11,1.03,7,1.04,11,1.05,13.04,1.07,13.37,1.04,10.72
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Brown D.,Mmoh M.,70,195,718,285,7,6,3,6,6,4,,,,,2,1,Completed,1.9,1.8,1.82,1.82,1.91,1.91,2.07,1.83,2.07,2,1.89,1.89
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Klein B.,Bagnis F.,324,55,148,817,6,1,6,7,7,6,,,,,2,1,Completed,2,1.72,1.95,1.68,2.1,1.73,2.06,1.84,2.1,1.85,2.02,1.76
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Harrison R.,Garcia-Lopez G.,89,74,632,700,6,1,6,2,,,,,,,2,0,Completed,1.4,2.75,1.4,2.5,1.44,2.75,1.43,3.01,1.48,3.01,1.43,2.75
+4,Auckland,ASB Classic,09/01/17,ATP250,Outdoor,Hard,1st Round,3,Sousa J.,Ramos-Vinolas A.,44,26,1030,1435,6,1,7,5,,,,,,,2,0,Completed,2.1,1.66,1.95,1.65,2.1,1.67,2.23,1.72,2.25,1.74,2.14,1.68
+4,Auckland,ASB Classic,10/01/17,ATP250,Outdoor,Hard,1st Round,3,Lu Y.H.,Khachanov K.,61,51,774,875,4,6,7,6,7,6,,,,,2,1,Completed,2,1.72,1.88,1.72,2,1.8,2.15,1.78,2.2,1.86,2.03,1.76
+4,Auckland,ASB Classic,10/01/17,ATP250,Outdoor,Hard,1st Round,3,Baghdatis M.,Mannarino A.,36,60,1140,781,6,4,6,4,,,,,,,2,0,Completed,2.25,1.57,2.1,1.55,2.38,1.57,2.26,1.7,2.38,1.7,2.22,1.64
+4,Auckland,ASB Classic,10/01/17,ATP250,Outdoor,Hard,1st Round,3,Chardy J.,Sitak A.,71,N/A,705,N/A,6,4,6,2,,,,,,,2,0,Completed,1.05,11,1.03,7.25,1.05,10,1.09,8.95,1.09,11,1.06,8.96
+4,Auckland,ASB Classic,10/01/17,ATP250,Outdoor,Hard,2nd Round,3,Haase R.,Ferrer D.,58,21,795,1785,2,6,6,4,7,6,,,,,2,1,Completed,4.33,1.2,3.5,1.22,4,1.25,4.65,1.24,4.65,1.28,4.12,1.23
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Sousa J.,Klein B.,44,324,1030,148,6,3,6,4,,,,,,,2,0,Completed,1.28,3.5,1.25,3.1,1.29,3.75,1.27,4.18,1.3,4.18,1.26,3.74
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Johnson S.,Lu Y.H.,33,61,1320,774,6,4,7,6,,,,,,,2,0,Completed,1.72,2,1.68,1.95,1.73,2.1,1.81,2.11,1.81,2.13,1.76,2.03
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Isner J.,Jaziri M.,19,56,1850,814,6,3,3,6,7,6,,,,,2,1,Completed,1.16,4.5,1.2,3.7,1.18,4.5,1.22,4.85,1.25,4.85,1.21,4.29
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Vesely J.,Statham J.,54,434,848,94,6,7,7,5,6,3,,,,,2,1,Completed,1.04,11,,,1.05,10,1.07,10.71,1.07,11,1.05,10.28
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Baghdatis M.,Brown D.,36,70,1140,718,4,6,7,6,6,4,,,,,2,1,Completed,1.4,2.75,1.4,2.5,1.44,2.62,1.52,2.73,1.54,2.8,1.48,2.65
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Chardy J.,Lopez F.,71,28,705,1410,,,,,,,,,,,,,Walkover,2.2,1.61,2.1,1.55,2.1,1.73,2.12,1.81,2.3,1.81,2.13,1.7
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,2nd Round,3,Sock J.,Harrison R.,23,89,1710,632,7,6,4,6,6,1,,,,,2,1,Completed,1.4,2.75,1.38,2.65,1.4,2.75,1.45,2.97,1.45,3.38,1.4,2.86
+4,Auckland,ASB Classic,11/01/17,ATP250,Outdoor,Hard,Quarterfinals,3,Sousa J.,Haase R.,44,58,1030,795,6,3,6,2,,,,,,,2,0,Completed,1.53,2.37,1.58,2.1,1.62,2.25,1.7,2.31,1.73,2.37,1.64,2.24
+4,Auckland,ASB Classic,12/01/17,ATP250,Outdoor,Hard,Quarterfinals,3,Johnson S.,Isner J.,33,19,1320,1850,6,3,5,7,7,6,,,,,2,1,Completed,2.25,1.57,2.2,1.55,2.2,1.62,2.47,1.63,2.5,1.65,2.3,1.61
+4,Auckland,ASB Classic,12/01/17,ATP250,Outdoor,Hard,Quarterfinals,3,Baghdatis M.,Vesely J.,36,54,1140,848,6,2,6,4,,,,,,,2,0,Completed,1.66,2.1,1.62,2.05,1.67,2.1,1.8,2.15,1.8,2.2,1.7,2.13
+4,Auckland,ASB Classic,12/01/17,ATP250,Outdoor,Hard,Quarterfinals,3,Sock J.,Chardy J.,23,71,1710,705,5,7,6,4,6,3,,,,,2,1,Completed,1.33,3.25,1.28,3,1.4,3,1.45,3.04,1.46,3.25,1.37,3.04
+4,Auckland,ASB Classic,13/01/17,ATP250,Outdoor,Hard,Semifinals,3,Sousa J.,Baghdatis M.,44,36,1030,1140,6,1,7,5,,,,,,,2,0,Completed,2.1,1.72,2.05,1.62,2.1,1.67,2.2,1.77,2.2,1.8,2.09,1.73
+4,Auckland,ASB Classic,13/01/17,ATP250,Outdoor,Hard,Semifinals,3,Sock J.,Johnson S.,23,33,1710,1320,6,4,6,3,,,,,,,2,0,Completed,1.57,2.37,1.55,2.15,1.57,2.38,1.6,2.55,1.61,2.6,1.56,2.4
+4,Auckland,ASB Classic,14/01/17,ATP250,Outdoor,Hard,The Final,3,Sock J.,Sousa J.,23,44,1710,1030,6,3,5,7,6,3,,,,,2,1,Completed,1.4,3,1.35,2.75,1.4,2.88,1.43,3.13,1.44,3.13,1.4,2.93

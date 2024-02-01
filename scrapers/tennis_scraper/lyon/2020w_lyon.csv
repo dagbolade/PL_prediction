@@ -1,0 +1,32 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Van Uytvanck A.,Kawa K.,62,121,955,531,6,1,6,3,,,2,0,Completed,1.11,6.5,1.14,6.72,1.14,7.1,1.11,6.26
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Bonaventure Y.,Kostyuk M.,122,141,528,434,6,4,6,4,,,2,0,Completed,2.25,1.57,2.37,1.65,2.37,1.7,2.24,1.63
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Bara I.,Babos T.,168,99,357,650,6,3,6,7,6,4,2,1,Completed,3.5,1.28,3.94,1.29,3.95,1.31,3.71,1.27
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Cristian J.,Hon P.,174,129,341,500,6,2,6,0,,,2,0,Completed,1.57,2.25,1.63,2.4,1.71,2.4,1.62,2.26
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Cornet A.,Lottner A.,58,162,985,379,7,5,6,0,,,2,0,Completed,1.28,3.5,1.34,3.56,1.36,3.6,1.32,3.32
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Garcia C.,Minnen G.,46,103,1145,636,6,4,1,6,7,6,2,1,Completed,1.66,2.1,1.87,2.02,1.87,2.1,1.77,2.02
+12,Lyon,Lyon Open,02/03/2020,International,Indoor,Hard,1st Round,3,Friedsam A.L.,Komardina A.,136,208,457,287,6,2,6,2,,,2,0,Completed,1.4,2.75,1.42,3.07,1.42,3.15,1.38,2.96
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Martincova T.,Bogdan A.,132,90,471,710,6,3,4,6,6,3,2,1,Completed,2.25,1.57,2.37,1.65,2.37,1.7,2.27,1.62
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Giorgi C.,Lapko V.,94,378,673,118,6,3,6,4,,,2,0,Completed,1.22,4,1.26,4.3,1.3,4.4,1.23,4
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Teichmann J.,Burel C.,66,499,896,75,6,4,6,3,,,2,0,Completed,1.4,2.75,1.43,3.01,1.45,3.01,1.4,2.88
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Tomova V.,Frech M.,143,169,432,352,7,5,6,7,6,4,2,1,Completed,2.37,1.53,2.44,1.61,2.5,1.61,2.36,1.57
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Mladenovic K.,Paquet C.,42,166,1335,359,1,6,6,2,6,4,2,1,Completed,1.11,6.5,1.13,6.88,1.15,6.88,1.12,6.16
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Kasatkina D.,Parmentier P.,73,147,820,410,6,2,5,7,6,4,2,1,Completed,1.16,5,1.18,5.53,1.21,5.53,1.16,5
+12,Lyon,Lyon Open,03/03/2020,International,Indoor,Hard,1st Round,3,Kuzmova V.,Pattinama Kerkhove L.,85,164,729,369,6,2,2,6,6,2,2,1,Completed,1.33,3.25,1.4,3.18,1.4,3.42,1.34,3.21
+12,Lyon,Lyon Open,04/03/2020,International,Indoor,Hard,1st Round,3,Kenin S.,Diatchenko V.,5,107,4365,619,6,4,6,3,,,2,0,Completed,1.22,4,1.26,4.3,1.28,4.5,1.24,3.92
+12,Lyon,Lyon Open,04/03/2020,International,Indoor,Hard,1st Round,3,Dodin O.,Minella M.,130,144,487,428,6,4,6,4,,,2,0,Completed,1.16,5,1.21,4.88,1.21,5.25,1.17,4.93
+12,Lyon,Lyon Open,04/03/2020,International,Indoor,Hard,2nd Round,3,Van Uytvanck A.,Tomova V.,62,143,955,432,3,6,6,4,7,6,2,1,Completed,1.16,5,1.2,5.27,1.23,5.27,1.18,4.79
+12,Lyon,Lyon Open,04/03/2020,International,Indoor,Hard,2nd Round,3,Giorgi C.,Cornet A.,94,58,673,985,4,6,7,6,6,2,2,1,Completed,1.66,2.1,1.76,2.19,1.8,2.2,1.7,2.11
+12,Lyon,Lyon Open,04/03/2020,International,Indoor,Hard,2nd Round,3,Garcia C.,Bonaventure Y.,46,122,1145,528,7,5,6,2,,,2,0,Completed,1.57,2.25,1.74,2.23,1.74,2.27,1.66,2.18
+12,Lyon,Lyon Open,05/03/2020,International,Indoor,Hard,2nd Round,3,Dodin O.,Teichmann J.,130,66,487,896,,,,,,,,,Walkover,,,1.79,2.12,1.72,2.09,1.79,2.16
+12,Lyon,Lyon Open,05/03/2020,International,Indoor,Hard,2nd Round,3,Kuzmova V.,Martincova T.,85,132,729,471,6,4,4,6,6,4,2,1,Completed,2.37,1.53,2.42,1.64,2.5,1.64,2.37,1.56
+12,Lyon,Lyon Open,05/03/2020,International,Indoor,Hard,2nd Round,3,Kasatkina D.,Bara I.,73,168,820,357,6,3,6,2,,,2,0,Completed,1.12,6,1.13,7.01,1.17,7.01,1.13,5.86
+12,Lyon,Lyon Open,05/03/2020,International,Indoor,Hard,2nd Round,3,Kenin S.,Cristian J.,5,174,4365,341,6,7,7,5,6,4,2,1,Completed,1.22,4,1.26,4.3,1.26,4.5,1.22,4.09
+12,Lyon,Lyon Open,05/03/2020,International,Indoor,Hard,2nd Round,3,Friedsam A.L.,Mladenovic K.,136,42,457,1335,6,3,6,3,,,2,0,Completed,2.37,1.53,2.73,1.52,2.73,1.58,2.49,1.52
+12,Lyon,Lyon Open,06/03/2020,International,Indoor,Hard,Quarterfinals,3,Kasatkina D.,Giorgi C.,73,94,820,673,6,2,4,6,6,2,2,1,Completed,2,1.8,1.94,1.98,2.17,1.98,1.93,1.86
+12,Lyon,Lyon Open,06/03/2020,International,Indoor,Hard,Quarterfinals,3,Friedsam A.L.,Kuzmova V.,136,85,457,729,3,6,7,6,6,2,2,1,Completed,1.53,2.5,1.58,2.57,1.61,2.65,1.53,2.46
+12,Lyon,Lyon Open,06/03/2020,International,Indoor,Hard,Quarterfinals,3,Kenin S.,Dodin O.,5,130,4365,487,6,1,6,7,6,2,2,1,Completed,1.53,2.5,1.56,2.65,1.63,2.75,1.53,2.46
+12,Lyon,Lyon Open,06/03/2020,International,Indoor,Hard,Quarterfinals,3,Van Uytvanck A.,Garcia C.,62,46,955,1145,6,2,6,2,,,2,0,Completed,1.8,2,1.78,2.18,1.92,2.2,1.77,2.04
+12,Lyon,Lyon Open,07/03/2020,International,Indoor,Hard,Semifinals,3,Friedsam A.L.,Kasatkina D.,136,73,457,820,6,3,3,6,6,2,2,1,Completed,3,1.4,3.22,1.41,3.22,1.42,2.99,1.38
+12,Lyon,Lyon Open,07/03/2020,International,Indoor,Hard,Semifinals,3,Kenin S.,Van Uytvanck A.,5,62,4365,955,7,6,6,7,7,6,2,1,Completed,1.57,2.37,1.73,2.27,1.73,2.38,1.66,2.21
+12,Lyon,Lyon Open,08/03/2020,International,Indoor,Hard,The Final,3,Kenin S.,Friedsam A.L.,5,136,4365,457,6,2,4,6,6,4,2,1,Completed,1.33,3.4,1.34,3.62,1.37,3.62,1.33,3.28

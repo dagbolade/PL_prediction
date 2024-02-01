@@ -1,0 +1,32 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+35,Stanford,Bank of the West Classic,09/07/12,Premier,Outdoor,Hard,1st Round,3,Wickmayer Y.,Chang K.C.,37,118,1520,574,7,5,2,6,7,5,2,1,Completed,1.14,5.5,1.15,5,1.14,5,1.15,6.16,1.18,4.33,1.2,6.87,1.15,5.16
+35,Stanford,Bank of the West Classic,09/07/12,Premier,Outdoor,Hard,1st Round,3,Larcherde Brito M.,Gajdosova J.,182,95,331,682,5,7,6,2,6,3,2,1,Completed,1.72,2,1.9,1.85,1.83,1.83,1.95,1.93,2,1.73,2,2,1.91,1.84
+35,Stanford,Bank of the West Classic,09/07/12,Premier,Outdoor,Hard,1st Round,3,Scheepers C.,Min G.,42,170,1380,352,6,4,6,4,,,2,0,Completed,1.53,2.37,1.45,2.65,1.4,2.75,1.49,2.79,1.53,2.38,1.53,2.86,1.49,2.59
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Watson H.,Stephens S.,79,49,824,1237,7,6,4,6,6,1,2,1,Completed,2.5,1.5,2.25,1.6,2.25,1.57,2.44,1.61,2.25,1.57,2.6,1.63,2.33,1.58
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Vandeweghe C.,Czink M.,120,92,565,692,6,4,6,1,,,2,0,Completed,2,1.72,2,1.72,2,1.75,1.89,2,2.1,1.67,2.1,2,1.94,1.83
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Gibbs N.,Lertcheewakarn N.,403,174,91,344,6,4,6,4,,,2,0,Completed,1.66,2.1,1.65,2.15,1.67,2.1,1.72,2.23,1.62,2.2,1.73,2.35,1.66,2.16
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Erakovic M.,Juricova J.,50,N/A,1237,N/A,6,2,6,2,,,2,0,Completed,1.11,6.5,1.11,6,1.11,6,1.16,5.99,1.1,6,1.19,6.5,1.14,5.53
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Sema E.,Glatch A.,137,150,496,427,6,2,6,3,,,2,0,Completed,3,1.36,2.5,1.5,2.38,1.53,3.01,1.43,2.38,1.53,3.01,1.55,2.63,1.47
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Radwanska U.,Daniilidou E.,57,111,1166,602,3,6,6,3,6,4,2,1,Completed,1.18,4.5,1.25,3.75,1.2,4.33,1.21,4.98,1.25,3.5,1.25,5.4,1.21,4.3
+35,Stanford,Bank of the West Classic,10/07/12,Premier,Outdoor,Hard,1st Round,3,Zheng S.,Morita A.,188,70,323,871,4,2,,,,,0,0,Retired,3.25,1.33,3,1.35,3.25,1.33,3.42,1.36,3,1.33,3.6,1.37,3.19,1.33
+35,Stanford,Bank of the West Classic,11/07/12,Premier,Outdoor,Hard,1st Round,3,Burdette M.,Keothavong A.,N/A,75,N/A,836,2,6,7,5,6,4,2,1,Completed,7,1.1,7,1.08,7.5,1.07,6.49,1.14,8,1.05,8.8,1.14,6.8,1.1
+35,Stanford,Bank of the West Classic,11/07/12,Premier,Outdoor,Hard,1st Round,3,Cirstea S.,King V.,43,60,1366,1087,7,5,6,4,,,2,0,Completed,2.1,1.66,2,1.75,2.25,1.57,2.25,1.71,2.1,1.67,2.35,1.75,2.14,1.68
+35,Stanford,Bank of the West Classic,11/07/12,Premier,Outdoor,Hard,2nd Round,3,Scheepers C.,Larcherde Brito M.,42,182,1380,331,6,3,6,4,,,2,0,Completed,1.36,3,1.4,2.8,1.36,3,1.36,3.44,1.4,2.75,1.4,3.44,1.36,3.03
+35,Stanford,Bank of the West Classic,11/07/12,Premier,Outdoor,Hard,2nd Round,3,Wickmayer Y.,Watson H.,37,79,1520,824,5,7,6,1,6,4,2,1,Completed,1.53,2.37,1.55,2.35,1.5,2.5,1.54,2.67,1.53,2.38,1.6,2.7,1.54,2.42
+35,Stanford,Bank of the West Classic,11/07/12,Premier,Outdoor,Hard,2nd Round,3,Williams S.,Gibbs N.,4,403,7360,91,6,2,6,1,,,2,0,Completed,1.02,19,1.03,10,1,21,1.03,17.5,1.01,13,1.05,21,1.02,13.8
+35,Stanford,Bank of the West Classic,12/07/12,Premier,Outdoor,Hard,2nd Round,3,Vandeweghe C.,Jankovic J.,120,20,565,2220,6,4,6,2,,,2,0,Completed,3,1.36,3,1.35,3.25,1.33,3.11,1.42,3,1.33,3.31,1.44,3.04,1.36
+35,Stanford,Bank of the West Classic,12/07/12,Premier,Outdoor,Hard,2nd Round,3,Cirstea S.,Zheng S.,43,188,1366,323,6,3,6,3,,,2,0,Completed,1.14,5.5,1.18,4.5,1.12,5.5,1.19,5.41,1.2,4,1.21,5.5,1.16,4.91
+35,Stanford,Bank of the West Classic,12/07/12,Premier,Outdoor,Hard,2nd Round,3,Radwanska U.,Erakovic M.,57,50,1166,1237,6,3,3,6,6,4,2,1,Completed,1.66,2.1,1.75,2,1.73,2,1.81,2.12,1.67,2.1,1.85,2.2,1.74,2.05
+35,Stanford,Bank of the West Classic,13/07/12,Premier,Outdoor,Hard,2nd Round,3,Bartoli M.,Burdette M.,10,N/A,3400,N/A,7,5,6,0,,,2,0,Completed,1.04,13,1.04,9,1.02,13,1.07,10.75,1.05,8,1.07,13.54,1.04,10.55
+35,Stanford,Bank of the West Classic,13/07/12,Premier,Outdoor,Hard,2nd Round,3,Cibulkova D.,Sema E.,15,137,2625,496,6,1,6,3,,,2,0,Completed,1.08,8,1.08,7,1.1,6.5,1.11,8.05,1.1,6,1.12,9,1.09,6.99
+35,Stanford,Bank of the West Classic,13/07/12,Premier,Outdoor,Hard,Quarterfinals,3,Vandeweghe C.,Radwanska U.,120,57,565,1166,6,4,6,4,,,2,0,Completed,2.37,1.53,2.25,1.6,2.25,1.57,2.36,1.68,2.25,1.62,2.4,1.71,2.3,1.6
+35,Stanford,Bank of the West Classic,13/07/12,Premier,Outdoor,Hard,Quarterfinals,3,Wickmayer Y.,Bartoli M.,37,10,1520,3400,6,3,6,2,,,2,0,Completed,3,1.36,3,1.35,3,1.36,3.45,1.37,2.88,1.4,3.48,1.4,3.04,1.36
+35,Stanford,Bank of the West Classic,13/07/12,Premier,Outdoor,Hard,Quarterfinals,3,Cirstea S.,Cibulkova D.,43,15,1366,2625,6,7,6,2,6,0,2,1,Completed,3,1.36,2.8,1.4,2.75,1.4,3.36,1.38,2.88,1.4,3.36,1.41,3.02,1.37
+35,Stanford,Bank of the West Classic,14/07/12,Premier,Outdoor,Hard,Quarterfinals,3,Williams S.,Scheepers C.,4,42,7360,1380,6,4,6,0,,,2,0,Completed,1.06,10,1.08,7,1.04,9,1.08,10.5,1.07,8,1.08,11.5,1.06,8.65
+35,Stanford,Bank of the West Classic,14/07/12,Premier,Outdoor,Hard,Semifinals,3,Vandeweghe C.,Wickmayer Y.,120,37,565,1520,6,2,3,6,6,2,2,1,Completed,2.75,1.4,2.8,1.4,2.62,1.44,3.15,1.42,2.63,1.44,3.2,1.45,2.85,1.41
+35,Stanford,Bank of the West Classic,15/07/12,Premier,Outdoor,Hard,Semifinals,3,Williams S.,Cirstea S.,4,43,7360,1366,6,1,6,2,,,2,0,Completed,1.08,8,1.08,7,1.06,8,1.08,10.25,1.08,7,1.11,10.25,1.08,7.75
+35,Stanford,Bank of the West Classic,15/07/12,Premier,Outdoor,Hard,The Final,3,Williams S.,Vandeweghe C.,4,120,7360,565,7,5,6,3,,,2,0,Completed,1.05,11,1.06,8,1.03,11,1.05,13.8,1.05,9,1.07,14.25,1.05,9.98
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

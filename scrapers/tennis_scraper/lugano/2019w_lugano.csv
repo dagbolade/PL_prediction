@@ -1,0 +1,32 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+18,Lugano,Samsung Open,08/04/2019,International,Outdoor,Clay,1st Round,3,Cirstea S.,Barthel M.,103,84,602,729,6,7,6,2,6,4,2,1,Completed,2,1.72,2.13,1.79,2.13,1.83,2.05,1.76
+18,Lugano,Samsung Open,08/04/2019,International,Outdoor,Clay,1st Round,3,Van Uytvanck A.,Smitkova T.,52,121,1070,499,6,2,0,6,6,4,2,1,Completed,1.36,3,1.41,3.14,1.42,3.14,1.38,2.97
+18,Lugano,Samsung Open,08/04/2019,International,Outdoor,Clay,1st Round,3,Kuznetsova S.,Alexandrova E.,109,57,562,1013,3,6,6,2,7,6,2,1,Completed,2.62,1.44,2.61,1.55,2.93,1.57,2.65,1.48
+18,Lugano,Samsung Open,08/04/2019,International,Outdoor,Clay,1st Round,3,Golubic V.,Rus A.,81,128,752,469,3,6,7,6,6,2,2,1,Completed,1.36,3,1.43,3.03,1.45,3.1,1.4,2.93
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Swiatek I.,Zavatska K.,115,177,524,336,6,3,6,0,,,2,0,Completed,1.25,3.75,1.26,4.27,1.32,4.27,1.27,3.7
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Kuzmova V.,Gatto-Monticone G.,46,173,1195,344,6,2,6,2,,,2,0,Completed,1.36,3,1.36,3.39,1.41,3.43,1.37,3.09
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Ferro F.,Minella M.,108,105,570,600,6,2,7,5,,,2,0,Completed,1.83,1.83,2.01,1.88,2.01,1.95,1.91,1.87
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Hercog P.,Suarez Navarro C.,89,27,709,1718,3,6,6,3,6,4,2,1,Completed,2.62,1.44,2.76,1.5,2.84,1.61,2.59,1.49
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Pliskova Kr.,In-Albon Y.,101,183,606,328,6,4,7,5,,,2,0,Completed,1.4,2.75,1.5,2.75,1.5,2.9,1.44,2.74
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Lapko V.,Jani R.L.,65,309,871,150,6,2,2,6,6,2,2,1,Completed,1.53,2.37,1.58,2.52,1.6,2.55,1.56,2.4
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Rodina E.,Tauson C.,69,413,815,80,6,7,6,2,7,5,2,1,Completed,3.5,1.28,3.56,1.34,3.81,1.34,3.38,1.31
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Bacsinszky T.,Korpatsch T.,112,131,550,464,6,0,6,2,,,2,0,Completed,1.22,4,1.25,4.38,1.3,4.38,1.26,3.8
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Voegele S.,Parmentier P.,97,53,646,1059,6,2,6,4,,,2,0,Completed,1.53,2.37,1.66,2.34,1.66,2.45,1.58,2.36
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Peterson R.,Frech M.,64,174,893,342,6,3,7,6,,,2,0,Completed,1.66,2.1,1.7,2.26,1.76,2.26,1.68,2.18
+18,Lugano,Samsung Open,09/04/2019,International,Outdoor,Clay,1st Round,3,Lottner A.,Bencic B.,182,20,328,2515,7,5,6,2,,,2,0,Completed,5.5,1.14,6.67,1.14,7,1.17,5.8,1.13
+18,Lugano,Samsung Open,10/04/2019,International,Outdoor,Clay,1st Round,3,Kudermetova V.,Teichmann J.,83,152,731,387,6,2,4,6,7,6,2,1,Completed,1.72,2,1.85,2.04,1.85,2.15,1.74,2.07
+18,Lugano,Samsung Open,10/04/2019,International,Outdoor,Clay,2nd Round,3,Ferro F.,Van Uytvanck A.,108,52,570,1070,6,4,7,5,,,2,0,Completed,2.2,1.61,2.33,1.68,2.33,1.73,2.16,1.68
+18,Lugano,Samsung Open,10/04/2019,International,Outdoor,Clay,2nd Round,3,Hercog P.,Cirstea S.,89,103,709,602,3,6,7,6,6,4,2,1,Completed,1.53,2.37,1.7,2.29,1.7,2.45,1.61,2.29
+18,Lugano,Samsung Open,11/04/2019,International,Outdoor,Clay,2nd Round,3,Lapko V.,Rodina E.,65,69,871,815,6,2,6,0,,,2,0,Completed,1.44,2.62,1.48,2.85,1.53,2.85,1.46,2.68
+18,Lugano,Samsung Open,11/04/2019,International,Outdoor,Clay,2nd Round,3,Swiatek I.,Kuzmova V.,115,46,524,1195,6,3,3,6,6,2,2,1,Completed,1.61,2.2,1.64,2.41,1.69,2.41,1.61,2.3
+18,Lugano,Samsung Open,11/04/2019,International,Outdoor,Clay,2nd Round,3,Kudermetova V.,Peterson R.,83,64,731,893,1,6,6,4,7,6,2,1,Completed,2.25,1.57,2.4,1.65,2.4,1.65,2.31,1.6
+18,Lugano,Samsung Open,11/04/2019,International,Outdoor,Clay,2nd Round,3,Voegele S.,Golubic V.,97,81,646,752,6,1,6,1,,,2,0,Completed,1.8,1.9,1.9,2.01,1.91,2.05,1.85,1.93
+18,Lugano,Samsung Open,11/04/2019,International,Outdoor,Clay,2nd Round,3,Kuznetsova S.,Bacsinszky T.,109,112,562,550,5,7,6,3,6,4,2,1,Completed,2.75,1.4,2.97,1.45,2.97,1.5,2.74,1.44
+18,Lugano,Samsung Open,11/04/2019,International,Outdoor,Clay,2nd Round,3,Pliskova Kr.,Lottner A.,101,182,606,328,6,2,6,4,,,2,0,Completed,1.8,1.9,1.94,1.96,2.05,2,1.89,1.89
+18,Lugano,Samsung Open,12/04/2019,International,Outdoor,Clay,Quarterfinals,3,Hercog P.,Kudermetova V.,89,83,709,731,6,4,6,1,,,2,0,Completed,1.57,2.37,1.68,2.36,1.68,2.38,1.62,2.27
+18,Lugano,Samsung Open,12/04/2019,International,Outdoor,Clay,Quarterfinals,3,Ferro F.,Voegele S.,108,97,570,646,7,5,7,6,,,2,0,Completed,2.62,1.5,2.44,1.64,2.62,1.64,2.44,1.55
+18,Lugano,Samsung Open,12/04/2019,International,Outdoor,Clay,Quarterfinals,3,Swiatek I.,Lapko V.,115,65,524,871,4,6,6,4,6,1,2,1,Completed,1.4,3,1.41,3.23,1.45,3.23,1.4,2.92
+18,Lugano,Samsung Open,12/04/2019,International,Outdoor,Clay,Quarterfinals,3,Pliskova Kr.,Kuznetsova S.,101,109,606,562,4,6,6,3,7,5,2,1,Completed,2.5,1.53,2.54,1.6,2.55,1.6,2.43,1.55
+18,Lugano,Samsung Open,13/04/2019,International,Outdoor,Clay,Semifinals,3,Hercog P.,Ferro F.,89,108,709,570,7,5,6,4,,,2,0,Completed,1.61,2.3,1.72,2.27,1.72,2.38,1.62,2.28
+18,Lugano,Samsung Open,13/04/2019,International,Outdoor,Clay,Semifinals,3,Swiatek I.,Pliskova Kr.,115,101,524,606,6,0,6,1,,,2,0,Completed,1.44,2.75,1.46,2.98,1.54,3,1.44,2.76
+18,Lugano,Samsung Open,14/04/2019,International,Outdoor,Clay,The Final,3,Hercog P.,Swiatek I.,89,115,709,524,6,3,3,6,6,3,2,1,Completed,2.75,1.44,3.09,1.44,3.09,1.52,2.75,1.45

@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,EXW,EXL,IWW,IWL,PSW,PSL
+18,Scottsdale,Channel Open,21/02/05,International,Outdoor,Hard,1st Round,3,Burgsmuller L.,Lu Y.H.,88,101,4,6,6,4,7,6,,,,,2,1,Completed,1.61,2.2,1.77,2,1.7,2.1,1.6,1.9,1.7,2.1
+18,Scottsdale,Channel Open,21/02/05,International,Outdoor,Hard,1st Round,3,Lapentti G.,Moodie W.,134,114,6,4,6,1,,,,,,,2,0,Completed,2.5,1.5,2.7,1.45,2.53,1.48,2.2,1.45,2.56,1.568
+18,Scottsdale,Channel Open,21/02/05,International,Outdoor,Hard,1st Round,3,Salzenstein J.,Bogomolov A.,150,133,6,3,7,6,,,,,,,2,0,Completed,1.83,1.83,1.88,1.88,2,1.75,1.75,1.75,1.877,1.943
+18,Scottsdale,Channel Open,21/02/05,International,Outdoor,Hard,1st Round,3,Gimelstob J.,Vliegen K.,149,106,6,3,7,6,,,,,,,2,0,Completed,1.72,2,1.7,2.1,1.67,2.12,1.55,2,1.806,2.04
+18,Scottsdale,Channel Open,21/02/05,International,Outdoor,Hard,1st Round,3,Labadze I.,Kuznetsov A.,71,427,3,6,7,5,6,1,,,,,2,1,Completed,,,,,,,,,,
+18,Scottsdale,Channel Open,22/02/05,International,Outdoor,Hard,1st Round,3,Arthurs W.,Dent T.,99,32,3,6,6,3,7,6,,,,,2,1,Completed,3.2,1.3,3.55,1.28,3.1,1.35,3,1.25,3.85,1.299
+18,Scottsdale,Channel Open,22/02/05,International,Outdoor,Hard,1st Round,3,Weiner G.,Dancevic F.,185,154,6,4,7,6,,,,,,,2,0,Completed,2.5,1.5,2.6,1.48,2.35,1.55,2.1,1.5,2.85,1.481
+18,Scottsdale,Channel Open,22/02/05,International,Outdoor,Hard,1st Round,3,Kim K.,Tecau H.,65,352,6,3,6,2,,,,,,,2,0,Completed,1.25,3.5,,,,,1.35,2.5,,
+18,Scottsdale,Channel Open,22/02/05,International,Outdoor,Hard,1st Round,3,Ancic M.,Evans B.,29,565,3,6,6,2,6,3,,,,,2,1,Completed,1.06,7.5,1.08,7.25,1.1,6.75,1.1,4.5,1.077,10.5
+18,Scottsdale,Channel Open,22/02/05,International,Outdoor,Hard,1st Round,3,Philippoussis M.,Behrend T.,201,104,7,5,1,6,6,4,,,,,2,1,Completed,,,1.88,1.88,,,1.55,2,2.08,1.781
+18,Scottsdale,Channel Open,22/02/05,International,Outdoor,Hard,1st Round,3,Sanguinetti D.,Kohlmann M.,109,303,6,4,6,7,6,3,,,,,2,1,Completed,1.53,2.37,1.6,2.3,1.56,2.34,1.4,2.3,1.69,2.25
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,1st Round,3,Spadea V.,Reynolds B.,21,188,1,6,7,6,7,6,,,,,2,1,Completed,,,1.3,3.4,1.25,3.75,1.2,3.3,1.318,3.69
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,1st Round,3,Goldstein P.,Young D.,162,928,6,3,6,1,,,,,,,2,0,Completed,1.03,10,1.03,11,1.04,9.25,1.03,5.5,1.04,17
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,1st Round,3,Tipsarevic J.,Gambill J.M.,100,111,6,4,6,2,,,,,,,2,0,Completed,2.5,1.5,2.4,1.55,2.67,1.44,1.9,1.6,2.38,1.633
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,1st Round,3,Blake J.,Carlsen K.,155,57,7,6,7,5,,,,,,,2,0,Completed,1.66,2.1,1.6,2.3,1.6,2.3,1.55,2,1.629,2.39
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,1st Round,3,Rochus C.,Morrison J.,83,113,6,4,2,6,6,4,,,,,2,1,Completed,2.25,1.57,2.1,1.7,2.1,1.65,1.8,1.7,2.34,1.649
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,2nd Round,3,Arthurs W.,Gimelstob J.,99,149,6,2,6,7,7,6,,,,,2,1,Completed,1.61,2.2,1.75,2,1.85,1.85,1.65,1.85,1.741,2.15
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,2nd Round,3,Lapentti G.,Labadze I.,134,71,6,2,6,2,,,,,,,2,0,Completed,,,,,,,,,1.877,1.943
+18,Scottsdale,Channel Open,23/02/05,International,Outdoor,Hard,2nd Round,3,Weiner G.,Burgsmuller L.,185,88,6,4,6,4,,,,,,,2,0,Completed,2.1,1.66,2.15,1.67,2.1,1.7,1.9,1.6,2.48,1.595
+18,Scottsdale,Channel Open,24/02/05,International,Outdoor,Hard,2nd Round,3,Ancic M.,Philippoussis M.,29,201,6,1,7,6,,,,,,,2,0,Completed,1.44,2.62,1.42,2.8,1.42,2.75,1.45,2.2,1.417,3.05
+18,Scottsdale,Channel Open,24/02/05,International,Outdoor,Hard,2nd Round,3,Rochus C.,Kim K.,83,65,6,3,6,1,,,,,,,2,0,Completed,2.37,1.53,2.3,1.6,2.4,1.53,2.1,1.5,2.68,1.532
+18,Scottsdale,Channel Open,24/02/05,International,Outdoor,Hard,2nd Round,3,Sanguinetti D.,Goldstein P.,109,162,3,6,6,1,6,4,,,,,2,1,Completed,1.66,2.1,1.77,2,1.7,2.1,1.6,1.9,1.787,2.07
+18,Scottsdale,Channel Open,24/02/05,International,Outdoor,Hard,2nd Round,3,Spadea V.,Tipsarevic J.,21,100,6,4,4,6,6,4,,,,,2,1,Completed,1.39,2.75,1.4,2.85,1.45,2.6,1.3,2.7,1.513,2.72
+18,Scottsdale,Channel Open,25/02/05,International,Outdoor,Hard,2nd Round,3,Blake J.,Salzenstein J.,155,150,6,2,6,4,,,,,,,2,0,Completed,1.3,3.39,1.33,3.2,1.35,3.1,1.3,2.7,1.319,3.68
+18,Scottsdale,Channel Open,25/02/05,International,Outdoor,Hard,Quarterfinals,3,Rochus C.,Sanguinetti D.,83,109,6,4,6,3,,,,,,,2,0,Completed,1.66,2.1,1.7,2.1,1.7,2.1,1.65,1.85,1.794,2.06
+18,Scottsdale,Channel Open,25/02/05,International,Outdoor,Hard,Quarterfinals,3,Ancic M.,Lapentti G.,29,134,6,1,6,4,,,,,,,2,0,Completed,1.16,4.5,1.22,4.1,1.25,3.75,1.2,3.3,1.26,4.25
+18,Scottsdale,Channel Open,25/02/05,International,Outdoor,Hard,Quarterfinals,3,Arthurs W.,Weiner G.,99,185,6,3,7,6,,,,,,,2,0,Completed,1.5,2.5,1.55,2.4,1.65,2.15,1.45,2.2,1.568,2.56
+18,Scottsdale,Channel Open,26/02/05,International,Outdoor,Hard,Quarterfinals,3,Spadea V.,Blake J.,21,155,7,6,6,1,,,,,,,2,0,Completed,1.57,2.25,1.67,2.1,1.65,2.15,1.45,2.2,1.68,2.27
+18,Scottsdale,Channel Open,26/02/05,International,Outdoor,Hard,Semifinals,3,Arthurs W.,Rochus C.,99,83,7,5,7,6,,,,,,,2,0,Completed,1.83,1.83,1.88,1.88,1.83,1.91,1.8,1.8,1.885,1.935
+18,Scottsdale,Channel Open,27/02/05,International,Outdoor,Hard,Semifinals,3,Ancic M.,Spadea V.,29,21,6,1,6,4,,,,,,,2,0,Completed,1.57,2.25,1.6,2.3,1.65,2.15,1.7,1.9,1.629,2.39
+18,Scottsdale,Channel Open,27/02/05,International,Outdoor,Hard,The Final,3,Arthurs W.,Ancic M.,99,29,7,5,6,3,,,,,,,2,0,Completed,3.25,1.28,3.2,1.33,3.46,1.28,3.2,1.25,3.7,1.313

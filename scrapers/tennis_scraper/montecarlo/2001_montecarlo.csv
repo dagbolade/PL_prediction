@@ -1,0 +1,64 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Arazi H.,Puerta M.,53,54,1,0,,,,,,,,,0,0,Retired,1.9,1.8,1.7,1.85,1.75,1.75,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Bjorkman J.,Ferreira W.,39,19,7,5,3,6,6,2,,,,,2,1,Completed,2.1,1.65,1.95,1.65,1.9,1.6,2.1,1.667
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Blanco G.,Lapentti N.,77,37,7,5,3,2,,,,,,,1,0,Retired,2.25,1.57,,,,,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Calatrava A.,Boutter J.,52,62,2,6,7,5,6,3,,,,,2,1,Completed,1.55,2.3,1.55,2.1,1.5,2.1,1.615,2.2
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Coria G.,Vinciguerra A.,41,50,6,1,6,4,,,,,,,2,0,Completed,1.6,2.2,1.7,1.85,,,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Costa A.,Hrbaty D.,36,13,7,5,6,4,,,,,,,2,0,Completed,2.3,1.55,2.1,1.55,2,1.55,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,di Pasquale A.,Safin M.,67,1,6,3,6,1,,,,,,,2,0,Completed,2.75,1.4,2.4,1.42,2.3,1.4,2.75,1.4
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Enqvist T.,Schuettler R.,14,45,6,2,4,6,6,3,,,,,2,1,Completed,1.53,2.35,1.4,2.45,1.4,2.3,1.4,2.75
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Federer R.,Chang M.,22,33,6,4,6,3,,,,,,,2,0,Completed,1.36,2.9,1.5,2.2,1.45,2.2,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Ferrero J.C.,Bruguera S.,9,68,6,2,6,1,,,,,,,2,0,Completed,1.26,3.5,1.3,2.85,1.3,2.7,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Gaudio G.,Levy H.,26,49,7,5,6,2,,,,,,,2,0,Completed,1.25,3.5,1.27,3,1.25,3,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Golmard J.,Clement A.,63,11,6,7,6,1,7,6,,,,,2,1,Completed,2.25,1.57,2,1.6,2,1.55,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Grosjean S.,Clavet F.,15,34,6,4,7,5,,,,,,,2,0,Completed,1.6,2.2,1.65,1.95,1.6,1.9,1.571,2.25
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Gustafsson M.,Corretja A.,76,10,6,7,6,2,6,2,,,,,2,1,Completed,2.9,1.36,2.8,1.3,2.7,1.3,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Haas T.,Mirnyi M.,23,40,6,0,6,1,,,,,,,2,0,Completed,1.5,2.45,1.45,2.3,1.45,2.2,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Henman T.,Santoro F.,12,42,6,3,6,0,,,,,,,2,0,Completed,1.95,1.75,1.7,1.85,1.8,1.7,1.8,1.909
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Hipfl M.,Kafelnikov Y.,99,6,5,7,6,2,7,5,,,,,2,1,Completed,2.4,1.5,2.4,1.4,2.2,1.45,2.5,1.5
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Ilie A.,Johansson T.,57,24,6,2,6,4,,,,,,,2,0,Completed,1.7,2,1.6,2.1,1.7,1.8,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Kuerten G.,El Aynaoui Y.,2,51,6,4,4,6,6,4,,,,,2,1,Completed,1.25,3.55,1.3,2.85,1.25,3,1.222,3.75
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Martin A.,Novak J.,69,59,7,5,7,6,,,,,,,2,0,Completed,1.5,2.45,1.75,1.8,1.7,1.8,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Moya C.,Rosset M.,25,60,6,4,6,4,,,,,,,2,0,Completed,1.22,3.8,1.25,3.1,1.25,3,1.3,3.2
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Norman M.,Escude N.,5,31,6,2,6,2,,,,,,,2,0,Completed,1.42,2.65,1.45,2.3,1.45,2.2,1.571,2.375
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Pavel A.,Rusedski G.,20,47,7,6,7,5,,,,,,,2,0,Completed,1.33,3,1.42,2.4,1.35,2.5,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Pioline C.,Prinosil D.,21,29,6,2,6,1,,,,,,,2,0,Completed,1.3,3.2,1.3,2.85,1.25,3,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Portas A.,Voltchkov V.,46,27,6,1,6,4,,,,,,,2,0,Completed,1.4,2.75,1.4,2.45,1.35,2.5,1.4,2.75
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Rios M.,Kucera K.,28,74,6,4,6,4,,,,,,,2,0,Completed,1.85,1.85,1.75,1.8,1.75,1.75,1.833,1.833
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Sanguinetti D.,Medvedev A.,55,56,7,6,6,7,6,4,,,,,2,1,Completed,,,,,,,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Schalken S.,Alami K.,30,73,6,2,6,0,,,,,,,2,0,Completed,1.95,1.75,2,1.6,2,1.55,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Squillari F.,Pozzi G.,18,48,6,2,6,2,,,,,,,2,0,Completed,1.28,3.25,1.22,3.3,1.2,3.2,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Ulihrach B.,Balcells J.,44,64,6,4,6,2,,,,,,,2,0,Completed,1.65,2.1,1.55,2.1,1.55,2,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Vicente F.,Ljubicic I.,43,75,0,6,6,4,6,1,,,,,2,1,Completed,1.6,2.2,1.55,2.1,1.5,2.1,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,1st Round,3,Youzhny M.,Kiefer N.,86,38,6,3,6,0,,,,,,,2,0,Completed,2.45,1.5,,,,,,
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Arazi H.,Norman M.,53,5,6,2,6,4,,,,,,,2,0,Completed,4,1.2,2.95,1.28,2.7,1.3,3.5,1.25
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Blanco G.,Ferrero J.C.,77,9,6,2,7,6,,,,,,,2,0,Completed,3.55,1.25,3.1,1.25,3,1.25,3.75,1.222
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Coria G.,Squillari F.,41,18,4,6,6,1,6,2,,,,,2,1,Completed,1.75,1.95,1.7,1.85,1.75,1.75,1.667,2.1
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Costa A.,Rios M.,36,28,,,,,,,,,,,0,0,Walkover,2.2,1.6,2.05,1.57,2,1.55,2,1.727
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,di Pasquale A.,Calatrava A.,67,52,6,4,6,4,,,,,,,2,0,Completed,1.95,1.75,1.9,1.67,1.85,1.65,1.833,1.833
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Federer R.,Sanguinetti D.,22,55,7,6,7,6,,,,,,,2,0,Completed,1.4,2.75,1.35,2.6,1.35,2.5,1.364,2.875
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Golmard J.,Portas A.,63,46,6,4,7,6,,,,,,,2,0,Completed,2.1,1.65,1.82,1.74,2,1.55,1.909,1.8
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Grosjean S.,Ulihrach B.,15,44,7,5,6,3,,,,,,,2,0,Completed,1.65,2.1,1.6,2,1.5,2.1,1.667,2.1
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Gustafsson M.,Pavel A.,76,20,6,2,6,7,6,4,,,,,2,1,Completed,2.45,1.5,2.18,1.5,2.2,1.45,2.375,1.533
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Haas T.,Moya C.,23,25,1,6,6,3,6,3,,,,,2,1,Completed,2.1,1.65,1.87,1.7,1.9,1.6,2.1,1.667
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Henman T.,Gaudio G.,12,26,6,4,6,2,,,,,,,2,0,Completed,2.25,1.57,2,1.6,1.85,1.65,2.375,1.533
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Kuerten G.,Vicente F.,2,43,6,2,6,2,,,,,,,2,0,Completed,1.3,3.25,1.25,3.1,1.3,2.7,1.25,3.5
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Martin A.,Hipfl M.,69,99,6,4,6,2,,,,,,,2,0,Completed,2.2,1.6,1.85,1.71,1.9,1.6,2.25,1.571
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Pioline C.,Ilie A.,21,57,7,6,6,2,,,,,,,2,0,Completed,1.38,2.8,1.35,2.6,1.35,2.5,1.4,2.75
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Schalken S.,Enqvist T.,30,14,2,6,6,4,6,2,,,,,2,1,Completed,2.35,1.53,2.25,1.47,2.2,1.45,2.25,1.571
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,2nd Round,3,Youzhny M.,Bjorkman J.,86,39,6,4,0,6,6,0,,,,,2,1,Completed,1.67,2.05,1.83,1.73,1.9,1.6,1.909,1.8
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Arazi H.,Pioline C.,53,21,7,6,6,1,,,,,,,2,0,Completed,2.5,1.45,2.3,1.45,2.2,1.45,2.625,1.444
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Coria G.,Blanco G.,41,77,7,5,6,1,,,,,,,2,0,Completed,1.62,2.15,,,1.55,2,1.615,2.2
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Federer R.,di Pasquale A.,22,67,6,1,6,2,,,,,,,2,0,Completed,1.57,2.25,,,1.55,2,1.5,2.5
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Grosjean S.,Gustafsson M.,15,76,6,4,6,3,,,,,,,2,0,Completed,1.45,2.55,1.6,2,1.55,2,1.5,2.5
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Henman T.,Costa A.,12,36,2,6,7,6,6,1,,,,,2,1,Completed,1.9,1.8,,,1.75,1.75,1.8,1.909
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Kuerten G.,Haas T.,2,23,6,7,6,3,6,3,,,,,2,1,Completed,1.4,2.7,1.42,2.35,1.4,2.3,1.444,2.625
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Martin A.,Youzhny M.,69,86,6,3,6,4,,,,,,,2,0,Completed,1.65,2.1,,,1.45,2.2,1.571,2.25
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,3rd Round,3,Schalken S.,Golmard J.,30,63,3,6,6,0,6,1,,,,,2,1,Completed,2.1,1.65,1.85,1.7,1.85,1.65,2.1,1.667
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,Quarterfinals,3,Arazi H.,Henman T.,53,12,7,6,2,6,7,6,,,,,2,1,Completed,1.95,1.75,2,1.6,1.9,1.6,2.25,1.571
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,Quarterfinals,3,Coria G.,Martin A.,41,69,6,3,4,6,6,3,,,,,2,1,Completed,1.53,2.35,1.5,2.2,1.45,2.2,1.5,2.5
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,Quarterfinals,3,Grosjean S.,Federer R.,15,22,6,4,6,3,,,,,,,2,0,Completed,1.8,1.95,1.7,1.85,1.7,1.8,1.667,2.1
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,Quarterfinals,3,Kuerten G.,Schalken S.,2,30,6,7,6,2,6,4,,,,,2,1,Completed,1.2,4.1,1.2,3.5,1.2,3.2,1.167,4.5
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,Semifinals,3,Arazi H.,Grosjean S.,53,15,6,4,6,4,,,,,,,2,0,Completed,2.75,1.4,2.25,1.45,2.3,1.4,2.75,1.4
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,Semifinals,3,Kuerten G.,Coria G.,2,41,6,4,6,2,,,,,,,2,0,Completed,1.35,3,1.3,2.75,1.3,2.7,1.333,3
+24,Monte Carlo,Monte Carlo Masters,16/04/01,Masters,Outdoor,Clay,The Final,5,Kuerten G.,Arazi H.,2,53,6,3,6,2,6,4,,,,,3,0,Completed,1.28,3.3,1.3,2.8,1.3,2.7,1.25,3.5

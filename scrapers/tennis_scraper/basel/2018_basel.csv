@@ -1,0 +1,32 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+64,Basel,Swiss Indoors,22/10/18,ATP500,Indoor,Hard,1st Round,3,Fritz T.,Djere L.,57,87,913,626,6,0,7,5,,,,,,,2,0,Completed,1.57,2.25,1.67,2.3,,,1.66,2.34,1.7,2.37,1.64,2.27
+64,Basel,Swiss Indoors,22/10/18,ATP500,Indoor,Hard,1st Round,3,Cilic M.,Shapovalov D.,6,29,4185,1440,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.47,2.85,,,1.47,2.89,1.5,3.05,1.43,2.83
+64,Basel,Swiss Indoors,22/10/18,ATP500,Indoor,Hard,1st Round,3,Laaksonen H.,Cecchinato M.,175,21,315,1838,6,4,6,2,,,,,,,2,0,Completed,2.2,1.61,2.35,1.65,,,2.4,1.63,2.43,1.67,2.3,1.63
+64,Basel,Swiss Indoors,22/10/18,ATP500,Indoor,Hard,1st Round,3,Copil M.,Harrison R.,93,59,608,865,6,2,7,6,,,,,,,2,0,Completed,1.57,2.25,1.57,2.55,,,1.57,2.55,1.65,2.6,1.56,2.45
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Popyrin A.,Ebden M.,174,39,315,1134,7,6,6,4,,,,,,,2,0,Completed,2.2,1.61,2.2,1.73,,,2.31,1.68,2.4,1.75,2.23,1.66
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Seppi A.,Daniel T.,43,74,1096,719,6,0,6,4,,,,,,,2,0,Completed,1.44,2.62,1.52,2.7,,,1.56,2.58,1.56,2.8,1.51,2.59
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Medvedev D.,Marterer M.,20,67,1842,786,6,3,7,5,,,,,,,2,0,Completed,1.25,3.75,1.28,4,,,1.27,4.13,1.28,4.25,1.25,3.94
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Struff J.L.,Millman J.,52,36,935,1233,7,6,6,2,,,,,,,2,0,Completed,1.9,1.8,2,1.9,,,1.93,1.96,2,1.96,1.93,1.88
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Gojowczyk P.,Jarry N.,60,42,856,1110,1,6,7,5,6,3,,,,,2,1,Completed,1.72,2,1.85,2.05,,,1.93,1.96,1.93,2.08,1.85,1.96
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Federer R.,Krajinovic F.,3,35,6260,1235,6,2,4,6,6,4,,,,,2,1,Completed,1.08,8,1.11,7.75,,,1.1,8.33,1.11,8.5,1.09,7.51
+64,Basel,Swiss Indoors,23/10/18,ATP500,Indoor,Hard,1st Round,3,Simon G.,Mayer L.,32,54,1290,930,6,3,6,3,,,,,,,2,0,Completed,1.4,2.75,1.47,2.85,,,1.45,2.94,1.47,2.95,1.43,2.82
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,1st Round,3,Bautista Agut R.,Sousa J.,26,48,1650,1017,6,4,6,3,,,,,,,2,0,Completed,1.25,3.75,1.3,3.85,,,1.31,3.75,1.32,3.85,1.29,3.6
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,1st Round,3,Lajovic D.,Mannarino A.,49,44,950,1090,6,7,6,1,6,2,,,,,2,1,Completed,2,1.72,2.05,1.85,,,1.95,1.93,2.08,1.93,2,1.82
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,1st Round,3,Gulbis E.,Sock J.,104,18,566,1850,7,5,6,4,,,,,,,2,0,Completed,2,1.72,2.05,1.85,,,2.1,1.81,2.1,1.87,2.01,1.81
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,1st Round,3,Tsitsipas S.,Chardy J.,16,41,2155,1110,6,2,7,6,,,,,,,2,0,Completed,1.4,2.75,1.45,2.95,,,1.45,2.96,1.47,3,1.43,2.84
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,1st Round,3,Zverev A.,Haase R.,5,47,5025,1045,6,4,7,5,,,,,,,2,0,Completed,1.18,4.5,1.22,4.75,,,1.21,4.91,1.22,5.16,1.19,4.74
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,2nd Round,3,Copil M.,Cilic M.,93,6,608,4185,7,5,7,6,,,,,,,2,0,Completed,4,1.22,4.6,1.23,,,5.05,1.21,5.15,1.24,4.47,1.21
+64,Basel,Swiss Indoors,24/10/18,ATP500,Indoor,Hard,2nd Round,3,Fritz T.,Laaksonen H.,57,175,913,315,6,2,7,5,,,,,,,2,0,Completed,1.28,3.5,1.33,3.6,,,1.35,3.53,1.37,3.6,1.32,3.43
+64,Basel,Swiss Indoors,25/10/18,ATP500,Indoor,Hard,2nd Round,3,Medvedev D.,Seppi A.,20,43,1842,1096,7,6,6,2,,,,,,,2,0,Completed,1.36,3,1.38,3,,,1.37,3.41,1.42,3.41,1.37,3.12
+64,Basel,Swiss Indoors,25/10/18,ATP500,Indoor,Hard,2nd Round,3,Tsitsipas S.,Gojowczyk P.,16,60,2155,856,6,3,6,1,,,,,,,2,0,Completed,1.33,3.25,1.33,3.6,,,1.3,3.93,1.35,4.05,1.28,3.71
+64,Basel,Swiss Indoors,25/10/18,ATP500,Indoor,Hard,2nd Round,3,Bautista Agut R.,Lajovic D.,26,49,1650,950,6,7,6,3,6,3,,,,,2,1,Completed,1.33,3.25,1.35,3.5,,,1.36,3.43,1.39,3.5,1.35,3.21
+64,Basel,Swiss Indoors,25/10/18,ATP500,Indoor,Hard,2nd Round,3,Zverev A.,Popyrin A.,5,174,5025,315,6,4,6,4,,,,,,,2,0,Completed,1.1,7,1.11,7.75,,,1.12,7.71,1.13,8.6,1.1,7.2
+64,Basel,Swiss Indoors,25/10/18,ATP500,Indoor,Hard,2nd Round,3,Federer R.,Struff J.L.,3,52,6260,935,6,3,7,5,,,,,,,2,0,Completed,1.18,4.5,1.2,5.1,,,1.17,5.81,1.2,5.9,1.17,5.11
+64,Basel,Swiss Indoors,25/10/18,ATP500,Indoor,Hard,2nd Round,3,Simon G.,Gulbis E.,32,104,1290,566,7,6,7,6,,,,,,,2,0,Completed,1.4,2.75,1.5,2.75,,,1.47,2.92,1.54,2.92,1.47,2.71
+64,Basel,Swiss Indoors,26/10/18,ATP500,Indoor,Hard,Quarterfinals,3,Copil M.,Fritz T.,93,57,608,913,7,6,7,5,,,,,,,2,0,Completed,1.8,2,1.9,2,,,2,1.93,2,2.1,1.86,1.97
+64,Basel,Swiss Indoors,26/10/18,ATP500,Indoor,Hard,Quarterfinals,3,Zverev A.,Bautista Agut R.,5,26,5025,1650,7,5,6,3,,,,,,,2,0,Completed,1.28,3.75,1.3,3.85,,,1.27,4.3,1.31,4.3,1.28,3.73
+64,Basel,Swiss Indoors,26/10/18,ATP500,Indoor,Hard,Quarterfinals,3,Federer R.,Simon G.,3,32,6260,1290,7,6,4,6,6,4,,,,,2,1,Completed,1.16,5,1.18,5.5,,,1.21,5.17,1.21,5.65,1.17,5.06
+64,Basel,Swiss Indoors,26/10/18,ATP500,Indoor,Hard,Quarterfinals,3,Medvedev D.,Tsitsipas S.,20,16,1842,2155,6,4,3,6,6,3,,,,,2,1,Completed,2.2,1.66,2.25,1.7,,,2.3,1.71,2.39,1.72,2.24,1.66
+64,Basel,Swiss Indoors,27/10/18,ATP500,Indoor,Hard,Semifinals,3,Copil M.,Zverev A.,93,5,608,5025,6,3,6,7,6,4,,,,,2,1,Completed,4.5,1.2,5,1.21,,,6.08,1.17,6.08,1.23,4.87,1.19
+64,Basel,Swiss Indoors,27/10/18,ATP500,Indoor,Hard,Semifinals,3,Federer R.,Medvedev D.,3,20,6260,1842,6,1,6,4,,,,,,,2,0,Completed,1.36,3.2,1.35,3.5,,,1.32,3.84,1.4,3.84,1.35,3.28
+64,Basel,Swiss Indoors,28/10/18,ATP500,Indoor,Hard,The Final,3,Federer R.,Copil M.,3,93,6260,608,7,6,6,4,,,,,,,2,0,Completed,1.12,6,1.14,6.5,,,1.13,7.38,1.15,7.5,1.12,6.46

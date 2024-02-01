@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+59,Stockholm,Stockholm Open,13/10/14,ATP250,Indoor,Hard,1st Round,3,Gabashvili T.,Falla A.,59,81,797,691,6,2,6,4,,,,,,,2,0,Completed,1.44,2.62,1.42,2.8,1.36,3,1.53,2.66,1.4,2.8,1.53,3,1.46,2.66
+59,Stockholm,Stockholm Open,13/10/14,ATP250,Indoor,Hard,1st Round,3,Nieminen J.,Ramos-Vinolas A.,57,67,813,761,6,4,6,4,,,,,,,2,0,Completed,1.25,3.75,1.28,3.5,1.25,3.75,1.32,3.65,1.3,3.6,1.33,3.85,1.28,3.58
+59,Stockholm,Stockholm Open,13/10/14,ATP250,Indoor,Hard,1st Round,3,Tomic B.,Rosenholm P.,76,371,726,117,7,6,5,7,6,4,,,,,2,1,Completed,1.1,7,1.11,6,1.1,6.5,1.09,8.65,1.1,7,1.13,8.65,1.09,7.02
+59,Stockholm,Stockholm Open,14/10/14,ATP250,Indoor,Hard,1st Round,3,Mayer L.,Young D.,25,69,1384,751,6,4,6,4,,,,,,,2,0,Completed,1.53,2.37,1.52,2.45,1.53,2.38,1.65,2.37,1.5,2.5,1.65,2.5,1.55,2.39
+59,Stockholm,Stockholm Open,14/10/14,ATP250,Indoor,Hard,1st Round,3,Mannarino A.,Baghdatis M.,79,102,700,547,2,6,6,2,6,4,,,,,2,1,Completed,1.83,1.83,1.88,1.88,2,1.73,1.94,1.94,,,2,1.94,1.92,1.84
+59,Stockholm,Stockholm Open,14/10/14,ATP250,Indoor,Hard,1st Round,3,Bachinger M.,Sijsling I.,203,87,239,638,2,6,7,6,6,4,,,,,2,1,Completed,1.9,1.8,1.8,2,1.83,1.83,1.76,2.16,,,1.9,2.16,1.8,1.96
+59,Stockholm,Stockholm Open,14/10/14,ATP250,Indoor,Hard,1st Round,3,Copil M.,Sousa J.,181,50,281,877,7,6,4,6,6,4,,,,,2,1,Completed,2.25,1.57,2.25,1.62,2.25,1.57,2.28,1.69,2.3,1.62,2.38,1.7,2.24,1.62
+59,Stockholm,Stockholm Open,14/10/14,ATP250,Indoor,Hard,1st Round,3,Verdasco F.,Matosevic M.,36,82,1090,682,6,3,3,6,6,3,,,,,2,1,Completed,1.83,1.83,1.9,1.85,1.8,1.91,1.95,1.93,1.9,1.9,1.95,1.97,1.87,1.88
+59,Stockholm,Stockholm Open,14/10/14,ATP250,Indoor,Hard,1st Round,3,Chardy J.,Ymer E.,34,238,1115,203,6,3,6,4,,,,,,,2,0,Completed,1.2,4.5,1.17,4.75,1.14,5,1.24,4.55,1.17,4.8,1.24,5,1.18,4.6
+59,Stockholm,Stockholm Open,15/10/14,ATP250,Indoor,Hard,1st Round,3,Herbert P.H.,Carreno-Busta P.,124,64,438,771,7,6,6,4,,,,,,,2,0,Completed,1.53,2.37,1.58,2.35,1.57,2.25,1.73,2.22,1.57,2.4,1.73,2.45,1.6,2.29
+59,Stockholm,Stockholm Open,15/10/14,ATP250,Indoor,Hard,1st Round,3,Sock J.,Golubev A.,51,58,871,803,6,1,4,6,6,0,,,,,2,1,Completed,1.53,2.37,1.62,2.25,1.57,2.25,1.61,2.45,1.57,2.4,1.65,2.55,1.58,2.32
+59,Stockholm,Stockholm Open,15/10/14,ATP250,Indoor,Hard,1st Round,3,Brown D.,Lindell C.,92,223,608,215,6,4,7,6,,,,,,,2,0,Completed,1.22,4,1.18,4.5,1.2,4.33,1.22,4.74,1.2,4.33,1.23,5.13,1.19,4.44
+59,Stockholm,Stockholm Open,15/10/14,ATP250,Indoor,Hard,2nd Round,3,Tomic B.,Anderson K.,76,17,726,1875,7,6,6,4,,,,,,,2,0,Completed,2.2,1.61,2.3,1.6,2.38,1.53,2.34,1.68,2.5,1.5,2.5,1.69,2.28,1.6
+59,Stockholm,Stockholm Open,15/10/14,ATP250,Indoor,Hard,2nd Round,3,Verdasco F.,Nieminen J.,36,57,1090,813,6,3,6,4,,,,,,,2,0,Completed,1.83,1.83,1.9,1.85,1.91,1.8,1.99,1.92,2.05,1.8,2.1,1.92,1.96,1.81
+59,Stockholm,Stockholm Open,15/10/14,ATP250,Indoor,Hard,2nd Round,3,Dimitrov G.,Gabashvili T.,10,59,3745,797,7,5,7,6,,,,,,,2,0,Completed,1.14,5.5,1.16,5,1.14,5,1.18,5.61,1.15,5.25,1.18,5.61,1.16,5
+59,Stockholm,Stockholm Open,16/10/14,ATP250,Indoor,Hard,2nd Round,3,Copil M.,Herbert P.H.,181,124,281,438,6,4,6,3,,,,,,,2,0,Completed,2.2,1.61,2.25,1.62,2.1,1.67,2.4,1.65,2.2,1.62,2.4,1.68,2.22,1.63
+59,Stockholm,Stockholm Open,16/10/14,ATP250,Indoor,Hard,2nd Round,3,Sock J.,Chardy J.,51,34,871,1115,7,6,6,3,,,,,,,2,0,Completed,1.61,2.2,1.7,2.1,1.73,2,1.72,2.25,1.73,2.1,1.75,2.3,1.7,2.1
+59,Stockholm,Stockholm Open,16/10/14,ATP250,Indoor,Hard,2nd Round,3,Bachinger M.,Mayer L.,203,25,239,1384,7,6,6,7,6,3,,,,,2,1,Completed,3.4,1.3,3.2,1.33,3.25,1.33,3.27,1.39,3.5,1.3,3.65,1.39,3.27,1.32
+59,Stockholm,Stockholm Open,16/10/14,ATP250,Indoor,Hard,2nd Round,3,Berdych T.,Brown D.,7,92,4325,608,7,5,6,3,,,,,,,2,0,Completed,1.12,6,1.12,5.75,1.12,5.5,1.15,6.52,1.13,6,1.15,6.52,1.12,5.81
+59,Stockholm,Stockholm Open,16/10/14,ATP250,Indoor,Hard,2nd Round,3,Mannarino A.,Dolgopolov O.,79,24,700,1455,6,4,6,7,7,6,,,,,2,1,Completed,2.2,1.61,2.1,1.7,2.1,1.67,2.22,1.74,2.1,1.67,2.22,1.77,2.12,1.69
+59,Stockholm,Stockholm Open,17/10/14,ATP250,Indoor,Hard,Quarterfinals,3,Tomic B.,Verdasco F.,76,36,726,1090,0,6,6,4,7,6,,,,,2,1,Completed,2.1,1.66,2.05,1.75,2.1,1.73,1.99,1.93,2.2,1.62,2.2,1.93,2.06,1.74
+59,Stockholm,Stockholm Open,17/10/14,ATP250,Indoor,Hard,Quarterfinals,3,Bachinger M.,Mannarino A.,203,79,239,700,4,6,6,1,6,4,,,,,2,1,Completed,2.1,1.66,2.05,1.75,2.1,1.73,2.17,1.79,,,2.17,1.82,2.07,1.73
+59,Stockholm,Stockholm Open,17/10/14,ATP250,Indoor,Hard,Quarterfinals,3,Dimitrov G.,Sock J.,10,51,3745,871,5,7,6,4,6,3,,,,,2,1,Completed,1.28,3.5,1.3,3.4,1.3,3.5,1.36,3.5,1.3,3.5,1.37,3.7,1.31,3.34
+59,Stockholm,Stockholm Open,17/10/14,ATP250,Indoor,Hard,Quarterfinals,3,Berdych T.,Copil M.,7,181,4325,281,6,2,6,2,,,,,,,2,0,Completed,1.1,7,1.1,6.5,1.11,6.5,1.13,7.65,1.11,6.5,1.13,8.1,1.1,6.74
+59,Stockholm,Stockholm Open,18/10/14,ATP250,Indoor,Hard,Semifinals,3,Dimitrov G.,Tomic B.,10,76,3745,726,6,3,7,5,,,,,,,2,0,Completed,1.3,3.5,1.33,3.2,1.33,3.4,1.31,3.91,1.3,3.5,1.34,3.91,1.31,3.38
+59,Stockholm,Stockholm Open,18/10/14,ATP250,Indoor,Hard,Semifinals,3,Berdych T.,Bachinger M.,7,203,4325,239,7,6,6,4,,,,,,,2,0,Completed,1.08,8,1.08,7.5,1.1,7,1.11,8.71,1.07,7.5,1.11,9.04,1.08,7.46
+59,Stockholm,Stockholm Open,19/10/14,ATP250,Indoor,Hard,The Final,3,Berdych T.,Dimitrov G.,7,10,4325,3745,5,7,6,4,6,4,,,,,2,1,Completed,1.66,2.2,1.68,2.15,1.73,2.1,1.76,2.21,1.57,2.3,1.8,2.3,1.69,2.15

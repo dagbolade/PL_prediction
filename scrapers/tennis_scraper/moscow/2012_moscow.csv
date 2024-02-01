@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+59,Moscow,Kremlin Cup,15/10/12,ATP250,Indoor,Hard,1st Round,3,Rosol L.,Gimeno-Traver D.,88,66,584,680,7,6,7,6,,,,,,,2,0,Completed,1.57,2.25,1.6,2.25,1.53,2.38,1.63,2.43,1.67,2.1,1.77,2.43,1.6,2.27
+59,Moscow,Kremlin Cup,15/10/12,ATP250,Indoor,Hard,1st Round,3,Istomin D.,Phau B.,43,83,927,608,5,7,7,5,6,1,,,,,2,1,Completed,1.28,3.5,1.25,3.75,1.3,3.4,1.32,3.66,1.29,3.25,1.32,4.1,1.28,3.55
+59,Moscow,Kremlin Cup,15/10/12,ATP250,Indoor,Hard,1st Round,3,Ito T.,Bautista R.,63,76,690,625,6,3,1,6,6,2,,,,,2,1,Completed,2.75,1.4,2.8,1.4,2.62,1.44,2.89,1.46,2.38,1.53,2.92,1.53,2.64,1.46
+59,Moscow,Kremlin Cup,15/10/12,ATP250,Indoor,Hard,1st Round,3,Jaziri M.,Ram R.,112,94,499,563,6,3,6,1,,,,,,,2,0,Completed,1.72,2,1.75,2,1.73,2,2,1.89,1.73,2,2,2.1,1.77,2
+59,Moscow,Kremlin Cup,16/10/12,ATP250,Indoor,Hard,1st Round,3,Kravchuk K.,Korolev E.,253,248,187,190,6,4,6,3,,,,,,,2,0,Completed,2.5,1.5,2.8,1.4,2.75,1.4,2.9,1.47,2.25,1.57,3.35,1.57,2.7,1.44
+59,Moscow,Kremlin Cup,16/10/12,ATP250,Indoor,Hard,1st Round,3,Sijsling I.,Berrer M.,77,110,622,511,7,6,6,3,,,,,,,2,0,Completed,1.8,1.9,1.85,1.9,1.67,2.1,2.13,1.79,1.8,2,2.13,2.1,1.85,1.9
+59,Moscow,Kremlin Cup,16/10/12,ATP250,Indoor,Hard,1st Round,3,Berlocq C.,Kuznetsov An.,52,73,800,646,1,6,6,4,6,3,,,,,2,1,Completed,2.25,1.57,2.35,1.55,2.5,1.5,2.53,1.58,2.5,1.5,2.6,1.65,2.39,1.55
+59,Moscow,Kremlin Cup,16/10/12,ATP250,Indoor,Hard,1st Round,3,Bogomolov A.,Davydenko N.,96,40,555,975,7,5,6,4,,,,,,,2,0,Completed,3.25,1.33,3.3,1.3,3,1.36,3.26,1.37,3.25,1.29,3.8,1.38,3.19,1.33
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,1st Round,3,Janowicz J.,Becker B.,74,80,644,615,7,6,6,3,,,,,,,2,0,Completed,1.53,2.37,1.55,2.35,1.53,2.38,1.62,2.43,1.5,2.5,1.63,2.55,1.55,2.39
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,1st Round,3,Karlovic I.,Bolelli S.,130,79,446,616,6,4,7,6,,,,,,,2,0,Completed,1.44,2.62,1.45,2.65,1.44,2.62,1.49,2.8,1.4,2.75,1.53,3.25,1.44,2.68
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,1st Round,3,Cipolla F.,Gabashvili T.,85,168,596,307,6,4,6,4,,,,,,,2,0,Completed,1.8,1.9,1.8,1.95,1.73,2,1.77,2.16,1.73,2,1.87,2.28,1.77,1.99
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,1st Round,3,Roger-Vasselin E.,Donskoy E.,116,127,488,459,6,4,4,6,6,3,,,,,2,1,Completed,1.5,2.5,1.55,2.35,1.44,2.62,1.6,2.48,1.53,2.38,1.6,2.62,1.55,2.4
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Ito T.,Kravchuk K.,63,253,690,187,7,6,2,6,6,3,,,,,2,1,Completed,1.53,2.37,1.65,2.15,1.67,2.1,1.74,2.22,1.53,2.38,1.8,2.38,1.64,2.2
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Rosol L.,Istomin D.,88,43,584,927,4,6,6,4,6,3,,,,,2,1,Completed,2.5,1.5,2.5,1.5,2.38,1.53,2.75,1.51,2.5,1.5,2.75,1.59,2.47,1.52
+59,Moscow,Kremlin Cup,17/10/12,ATP250,Indoor,Hard,2nd Round,3,Jaziri M.,Troicki V.,112,29,499,1245,6,1,3,6,6,2,,,,,2,1,Completed,4.5,1.18,4.25,1.2,4.33,1.2,5,1.21,4,1.2,5.4,1.22,4.49,1.19
+59,Moscow,Kremlin Cup,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Janowicz J.,Berlocq C.,74,52,644,800,6,3,6,4,,,,,,,2,0,Completed,1.44,2.62,1.5,2.5,1.5,2.5,1.55,2.65,1.53,2.38,1.55,2.7,1.5,2.54
+59,Moscow,Kremlin Cup,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Seppi A.,Sijsling I.,25,77,1415,622,7,5,6,2,,,,,,,2,0,Completed,1.5,2.5,1.5,2.5,1.5,2.5,1.61,2.49,1.44,2.63,1.61,2.75,1.53,2.46
+59,Moscow,Kremlin Cup,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Bellucci T.,Cipolla F.,41,85,967,596,6,4,6,1,,,,,,,2,0,Completed,1.57,2.25,1.65,2.15,1.57,2.25,1.63,2.44,1.62,2.2,1.67,2.6,1.6,2.27
+59,Moscow,Kremlin Cup,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Roger-Vasselin E.,Dolgopolov O.,116,21,488,1680,6,3,5,7,7,6,,,,,2,1,Completed,2.87,1.38,3,1.35,3,1.36,3.22,1.4,2.75,1.4,3.55,1.45,2.88,1.39
+59,Moscow,Kremlin Cup,18/10/12,ATP250,Indoor,Hard,2nd Round,3,Karlovic I.,Bogomolov A.,130,96,446,555,7,6,6,4,,,,,,,2,0,Completed,1.53,2.37,1.6,2.25,1.53,2.38,1.68,2.32,1.57,2.25,1.7,2.64,1.6,2.29
+59,Moscow,Kremlin Cup,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Jaziri M.,Rosol L.,112,88,499,584,7,6,6,3,,,,,,,2,0,Completed,2.75,1.4,2.8,1.4,2.62,1.44,2.74,1.53,2.75,1.44,3.2,1.55,2.71,1.44
+59,Moscow,Kremlin Cup,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Karlovic I.,Roger-Vasselin E.,130,116,446,488,7,6,6,3,,,,,,,2,0,Completed,1.57,2.25,1.6,2.25,1.57,2.25,1.78,2.18,1.67,2.2,1.78,2.44,1.65,2.2
+59,Moscow,Kremlin Cup,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Seppi A.,Ito T.,25,63,1415,690,6,2,6,1,,,,,,,2,0,Completed,1.14,5.5,1.18,4.5,1.2,4.33,1.17,6,1.17,5,1.2,6.1,1.17,4.85
+59,Moscow,Kremlin Cup,19/10/12,ATP250,Indoor,Hard,Quarterfinals,3,Bellucci T.,Janowicz J.,41,74,967,644,6,4,7,6,,,,,,,2,0,Completed,1.72,2,1.8,1.95,1.8,1.91,1.83,2.11,1.8,2,1.86,2.4,1.79,1.98
+59,Moscow,Kremlin Cup,20/10/12,ATP250,Indoor,Hard,Semifinals,3,Seppi A.,Jaziri M.,25,112,1415,499,6,3,6,1,,,,,,,2,0,Completed,1.16,5.5,1.18,4.5,1.17,5,1.2,5.38,1.17,5,1.2,5.7,1.17,4.85
+59,Moscow,Kremlin Cup,20/10/12,ATP250,Indoor,Hard,Semifinals,3,Bellucci T.,Karlovic I.,41,130,967,446,6,7,6,4,6,4,,,,,2,1,Completed,2.1,1.72,2.08,1.7,2.1,1.73,2.29,1.71,2.1,1.73,2.29,1.77,2.12,1.69
+59,Moscow,Kremlin Cup,21/10/12,ATP250,Indoor,Hard,The Final,3,Seppi A.,Bellucci T.,25,41,1415,967,3,6,7,6,6,3,,,,,2,1,Completed,1.44,2.75,1.45,2.65,1.5,2.62,1.5,2.81,1.44,2.75,1.54,3.1,1.47,2.62

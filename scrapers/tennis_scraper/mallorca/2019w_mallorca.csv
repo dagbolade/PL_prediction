@@ -1,0 +1,32 @@
+WTA,Location,Tournament,Date,Tier,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+31,Mallorca,Mallorca Open,17/06/2019,International,Outdoor,Grass,1st Round,3,Tomljanovic A.,Puig M.,47,53,1168,1113,6,4,7,5,,,2,0,Completed,1.57,2.25,1.63,2.42,1.85,2.42,1.61,2.3
+31,Mallorca,Mallorca Open,17/06/2019,International,Outdoor,Grass,1st Round,3,Van Uytvanck A.,Siniakova K.,57,38,1030,1387,6,2,3,6,6,3,2,1,Completed,2.37,1.53,2.28,1.69,2.45,1.71,2.23,1.64
+31,Mallorca,Mallorca Open,17/06/2019,International,Outdoor,Grass,1st Round,3,Bencic B.,Peterson R.,13,64,2953,872,7,5,6,4,,,2,0,Completed,1.2,4.33,1.23,4.57,1.26,4.57,1.22,4.16
+31,Mallorca,Mallorca Open,17/06/2019,International,Outdoor,Grass,1st Round,3,Wang Yaf.,Friedsam A.L.,58,358,1008,116,7,5,6,3,,,2,0,Completed,1.83,1.83,1.88,2.01,2,2.01,1.9,1.88
+31,Mallorca,Mallorca Open,17/06/2019,International,Outdoor,Grass,1st Round,3,Kenin S.,Flipkens K.,30,80,1743,730,6,2,6,3,,,2,0,Completed,1.53,2.37,1.63,2.4,1.67,2.45,1.61,2.3
+31,Mallorca,Mallorca Open,17/06/2019,International,Outdoor,Grass,1st Round,3,Mertens E.,Petkovic A.,21,71,2195,825,6,2,6,2,,,2,0,Completed,1.36,3,1.38,3.3,1.4,3.4,1.36,3.09
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Jabeur O.,Juvan K.,63,129,880,496,7,5,7,6,,,2,0,Completed,2,1.72,2.16,1.76,2.25,1.88,2.08,1.73
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Sevastova A.,Lepchenko V.,12,123,3366,508,6,3,7,6,,,2,0,Completed,1.25,3.75,1.25,4.33,1.29,4.7,1.24,4
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Stosur S.,Zheng S.,115,44,559,1210,6,4,7,5,,,2,0,Completed,1.83,1.83,2.06,1.84,2.1,1.94,1.94,1.85
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Rogers S.,Zhang S.,356,52,116,1120,6,2,6,2,,,2,0,Completed,1.83,1.83,1.97,1.92,1.97,2.01,1.86,1.92
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Anisimova A.,Martincova T.,27,143,1890,418,3,6,7,6,6,4,2,1,Completed,1.25,3.75,1.31,3.77,1.4,4,1.29,3.52
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Garcia C.,Azarenka V.,23,41,2105,1320,1,6,6,4,7,5,2,1,Completed,2.37,1.53,2.41,1.63,2.5,1.63,2.33,1.59
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Badosa P.,Riske A.,132,49,487,1153,6,7,7,5,7,5,2,1,Completed,4.5,1.18,5.11,1.2,5.5,1.22,4.66,1.19
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Sharapova M.,Kuzmova V.,85,46,710,1185,7,6,6,0,,,2,0,Completed,1.9,1.8,1.93,1.93,1.98,2.01,1.9,1.88
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Kerber A.,Bonaventure Y.,6,118,4675,543,7,5,4,6,6,2,2,1,Completed,1.2,4.33,1.27,4.1,1.27,4.5,1.24,4.03
+31,Mallorca,Mallorca Open,18/06/2019,International,Outdoor,Grass,1st Round,3,Cornet A.,Sorribes Tormo S.,56,70,1095,830,6,0,6,1,,,2,0,Completed,2.62,1.44,2.93,1.45,2.93,1.5,2.77,1.44
+31,Mallorca,Mallorca Open,19/06/2019,International,Outdoor,Grass,2nd Round,3,Wang Yaf.,Van Uytvanck A.,58,57,1008,1030,7,6,6,3,,,2,0,Completed,2.5,1.5,2.61,1.56,2.66,1.56,2.55,1.5
+31,Mallorca,Mallorca Open,19/06/2019,International,Outdoor,Grass,2nd Round,3,Mertens E.,Stosur S.,21,115,2195,559,6,3,6,3,,,2,0,Completed,1.25,3.75,1.27,4.25,1.3,4.25,1.25,3.86
+31,Mallorca,Mallorca Open,19/06/2019,International,Outdoor,Grass,2nd Round,3,Kenin S.,Jabeur O.,30,63,1743,880,6,2,2,0,,,1,0,Retired,1.33,3.25,1.4,3.23,1.4,3.25,1.36,3.09
+31,Mallorca,Mallorca Open,19/06/2019,International,Outdoor,Grass,2nd Round,3,Sevastova A.,Tomljanovic A.,12,47,3366,1168,6,2,6,1,,,2,0,Completed,1.61,2.2,1.63,2.42,1.67,2.42,1.62,2.27
+31,Mallorca,Mallorca Open,20/06/2019,International,Outdoor,Grass,2nd Round,3,Bencic B.,Rogers S.,13,356,2953,116,5,7,6,3,3,1,1,1,Retired,1.2,4.33,1.24,4.64,1.3,4.64,1.23,4.13
+31,Mallorca,Mallorca Open,20/06/2019,International,Outdoor,Grass,2nd Round,3,Anisimova A.,Cornet A.,27,56,1890,1095,6,2,6,4,,,2,0,Completed,1.53,2.37,1.57,2.59,1.57,2.68,1.52,2.5
+31,Mallorca,Mallorca Open,20/06/2019,International,Outdoor,Grass,2nd Round,3,Kerber A.,Sharapova M.,6,85,4675,710,6,2,6,3,,,2,0,Completed,1.72,2,1.73,2.24,1.8,2.24,1.73,2.1
+31,Mallorca,Mallorca Open,20/06/2019,International,Outdoor,Grass,2nd Round,3,Garcia C.,Badosa P.,23,132,2105,487,6,2,6,7,6,3,2,1,Completed,1.18,4.5,1.21,5.08,1.21,5.1,1.18,4.8
+31,Mallorca,Mallorca Open,21/06/2019,International,Outdoor,Grass,Quarterfinals,3,Kenin S.,Mertens E.,30,21,1743,2195,1,6,6,1,6,3,2,1,Completed,2.1,1.72,2.2,1.77,2.25,1.8,2.11,1.73
+31,Mallorca,Mallorca Open,21/06/2019,International,Outdoor,Grass,Quarterfinals,3,Bencic B.,Anisimova A.,13,27,2953,1890,6,2,6,2,,,2,0,Completed,1.72,2.1,1.82,2.13,1.84,2.81,1.74,2.1
+31,Mallorca,Mallorca Open,21/06/2019,International,Outdoor,Grass,Quarterfinals,3,Sevastova A.,Wang Yaf.,12,58,3366,1008,6,2,6,1,,,2,0,Completed,1.28,3.75,1.3,3.99,1.32,4,1.29,3.6
+31,Mallorca,Mallorca Open,21/06/2019,International,Outdoor,Grass,Quarterfinals,3,Kerber A.,Garcia C.,6,23,4675,2105,6,3,7,6,,,2,0,Completed,1.4,3,1.41,3.2,1.49,3.2,1.4,2.93
+31,Mallorca,Mallorca Open,22/06/2019,International,Outdoor,Grass,Semifinals,3,Kenin S.,Sevastova A.,30,12,1743,3366,6,4,4,6,6,2,2,1,Completed,2.3,1.61,2.47,1.63,2.47,1.67,2.3,1.62
+31,Mallorca,Mallorca Open,22/06/2019,International,Outdoor,Grass,Semifinals,3,Bencic B.,Kerber A.,13,6,2953,4675,2,6,7,6,6,4,2,1,Completed,2.5,1.53,2.61,1.57,2.68,1.57,2.53,1.52
+31,Mallorca,Mallorca Open,23/06/2019,International,Outdoor,Grass,The Final,3,Kenin S.,Bencic B.,30,13,1743,2953,6,7,7,6,6,4,2,1,Completed,2.5,1.53,2.7,1.54,2.7,1.57,2.53,1.52

@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+32,Lyon,Lyon Open,20/05/18,ATP250,Outdoor,Clay,1st Round,3,Albot R.,Delbonis F.,97,66,626,835,6,7,7,5,6,4,,,,,2,1,Completed,4,1.22,3.8,1.23,4.5,1.2,4.7,1.22,4.9,1.28,4.29,1.22
+32,Lyon,Lyon Open,20/05/18,ATP250,Outdoor,Clay,1st Round,3,Hemery C.,Moutet C.,127,143,445,398,6,7,6,4,6,3,,,,,2,1,Completed,2.1,1.66,2.04,1.7,2.1,1.73,2.14,1.78,2.23,1.8,2.1,1.74
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Lajovic D.,Zeballos H.,68,101,824,610,6,4,6,2,,,,,,,2,0,Completed,1.36,3,1.32,3.1,1.36,3,1.36,3.4,1.4,3.55,1.35,3.18
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Coria F.,Kicker N.,335,84,147,684,4,6,6,1,7,5,,,,,2,1,Completed,4.5,1.18,,,4,1.25,,,4.5,1.24,4.27,1.21
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Carballes Baena R.,Djere L.,77,103,742,592,7,6,6,7,6,3,,,,,2,1,Completed,1.72,2,1.75,1.97,1.8,2,1.78,2.14,1.83,2.18,1.76,2.06
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Garcia-Lopez G.,Mannarino A.,71,27,820,1535,6,3,4,6,6,1,,,,,2,1,Completed,1.83,1.83,1.84,1.87,1.91,1.91,1.96,1.93,2.05,1.96,1.9,1.89
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Simon G.,Samper-Montana J.,75,410,765,98,6,4,6,2,,,,,,,2,0,Completed,1.14,5.5,1.14,5,1.14,5.5,1.14,6.5,1.17,7,1.13,5.88
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Norrie C.,Hernandez-Fernandez J,102,266,599,203,7,6,6,1,,,,,,,2,0,Completed,1.5,2.5,1.51,2.4,1.44,2.75,1.53,2.67,1.57,2.75,1.51,2.57
+32,Lyon,Lyon Open,21/05/18,ATP250,Outdoor,Clay,1st Round,3,Marterer M.,Monfils G.,69,38,821,1220,2,6,6,4,6,4,,,,,2,1,Completed,2.37,1.53,2.5,1.46,2.62,1.5,2.47,1.6,2.8,1.65,2.56,1.51
+32,Lyon,Lyon Open,22/05/18,ATP250,Outdoor,Clay,1st Round,3,Kukushkin M.,Barrere G.,91,196,669,303,6,2,6,3,,,,,,,2,0,Completed,1.53,2.37,1.55,2.29,1.57,2.37,1.63,2.42,1.67,2.61,1.58,2.38
+32,Lyon,Lyon Open,22/05/18,ATP250,Outdoor,Clay,1st Round,3,Fritz T.,Ebden M.,70,73,820,794,6,4,6,2,,,,,,,2,0,Completed,1.28,3.5,1.28,3.35,1.33,3.4,1.32,3.65,1.37,3.95,1.3,3.54
+32,Lyon,Lyon Open,22/05/18,ATP250,Outdoor,Clay,1st Round,3,Horansky F.,Sousa J.,334,48,150,1051,6,4,3,6,6,4,,,,,2,1,Completed,6.5,1.11,5.8,1.11,6,1.12,7,1.13,7.25,1.15,6.27,1.12
+32,Lyon,Lyon Open,22/05/18,ATP250,Outdoor,Clay,2nd Round,3,Garcia-Lopez G.,Hemery C.,71,127,820,445,7,6,6,3,,,,,,,2,0,Completed,1.5,2.5,1.41,2.7,1.44,2.75,1.46,2.95,1.5,3,1.44,2.79
+32,Lyon,Lyon Open,22/05/18,ATP250,Outdoor,Clay,2nd Round,3,Thiem D.,Carballes Baena R.,8,77,3195,742,6,2,6,4,,,,,,,2,0,Completed,1.14,5.5,1.14,5,1.14,5.5,1.16,6.16,1.19,6.8,1.14,5.57
+32,Lyon,Lyon Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Norrie C.,Marterer M.,102,69,599,821,6,1,6,4,,,,,,,2,0,Completed,3,1.36,2.8,1.39,2.75,1.44,2.99,1.45,3.13,1.46,2.92,1.41
+32,Lyon,Lyon Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Lajovic D.,Horansky F.,68,334,824,150,6,4,7,5,,,,,,,2,0,Completed,1.12,6,1.11,5.6,1.14,5.5,1.13,6.99,1.17,7.25,1.12,6.29
+32,Lyon,Lyon Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Isner J.,Albot R.,10,97,2955,626,7,6,6,3,,,,,,,2,0,Completed,1.28,3.5,1.27,3.4,1.33,3.4,1.31,3.81,1.36,3.9,1.29,3.55
+32,Lyon,Lyon Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Fritz T.,Sock J.,70,15,820,2110,7,6,6,2,,,,,,,2,0,Completed,2.1,1.66,2.23,1.58,2.25,1.61,2.5,1.6,2.5,1.66,2.37,1.6
+32,Lyon,Lyon Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Kukushkin M.,Coria F.,91,335,669,147,6,2,6,3,,,,,,,2,0,Completed,1.18,4.5,1.18,4.3,1.22,4.33,1.21,5,1.24,5.25,1.19,4.71
+32,Lyon,Lyon Open,23/05/18,ATP250,Outdoor,Clay,2nd Round,3,Simon G.,De Loore J.,75,351,765,135,7,6,6,2,,,,,,,2,0,Completed,1.25,3.75,1.25,3.6,1.3,3.5,1.3,3.92,1.34,4.1,1.27,3.76
+32,Lyon,Lyon Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Norrie C.,Isner J.,102,10,599,2955,7,6,6,4,,,,,,,2,0,Completed,3.5,1.3,3.35,1.28,3.5,1.3,3.74,1.33,3.9,1.33,3.6,1.29
+32,Lyon,Lyon Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Simon G.,Kukushkin M.,75,91,765,669,4,6,6,4,7,6,,,,,2,1,Completed,1.66,2.2,1.67,2.08,1.73,2.1,1.77,2.2,1.78,2.25,1.71,2.15
+32,Lyon,Lyon Open,24/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Lajovic D.,Fritz T.,68,70,824,820,7,5,6,1,,,,,,,2,0,Completed,1.44,2.62,1.48,2.47,1.53,2.5,1.54,2.7,1.57,2.75,1.51,2.58
+32,Lyon,Lyon Open,25/05/18,ATP250,Outdoor,Clay,Quarterfinals,3,Thiem D.,Garcia-Lopez G.,8,71,3195,820,6,7,7,6,6,4,,,,,2,1,Completed,1.12,6,1.11,5.6,1.12,6,1.14,7.19,1.15,7.25,1.12,6.26
+32,Lyon,Lyon Open,25/05/18,ATP250,Outdoor,Clay,Semifinals,3,Simon G.,Norrie C.,75,102,765,599,6,1,7,6,,,,,,,2,0,Completed,1.72,2.1,1.67,2.08,1.73,2.1,1.71,2.29,1.8,2.31,1.7,2.16
+32,Lyon,Lyon Open,25/05/18,ATP250,Outdoor,Clay,Semifinals,3,Thiem D.,Lajovic D.,8,68,3195,824,6,4,5,7,6,4,,,,,2,1,Completed,1.3,3.5,1.36,2.9,1.36,3,1.43,3.13,1.44,3.6,1.37,3.15
+32,Lyon,Lyon Open,26/05/18,ATP250,Outdoor,Clay,The Final,3,Thiem D.,Simon G.,8,75,3195,765,3,6,7,6,6,1,,,,,2,1,Completed,1.16,5,1.15,4.7,1.17,5,1.18,5.73,1.21,5.85,1.17,5.15

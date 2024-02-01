@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+62,Stockholm,Stockholm Open,17/10/16,ATP250,Indoor,Hard,1st Round,3,Harrison R.,Pavlasek A.,105,89,588,662,6,3,7,5,,,,,,,2,0,Completed,1.36,3,1.33,2.85,1.4,3,1.43,3.05,1.43,3.15,1.37,3
+62,Stockholm,Stockholm Open,17/10/16,ATP250,Indoor,Hard,1st Round,3,Mannarino A.,Young D.,53,82,846,676,7,5,6,4,,,,,,,2,0,Completed,1.72,2,1.58,2.1,1.67,2.2,1.78,2.14,1.78,2.2,1.71,2.1
+62,Stockholm,Stockholm Open,17/10/16,ATP250,Indoor,Hard,1st Round,3,Albot R.,Johnson S.,103,24,596,1645,6,3,6,4,,,,,,,2,0,Completed,4.5,1.18,3.9,1.17,4.5,1.2,4.9,1.21,5,1.22,4.53,1.19
+62,Stockholm,Stockholm Open,17/10/16,ATP250,Indoor,Hard,1st Round,3,Anderson K.,Baghdatis M.,48,35,895,1185,2,6,6,4,6,2,,,,,2,1,Completed,1.66,2.1,1.6,2.1,1.73,2.1,1.67,2.32,1.75,2.32,1.66,2.18
+62,Stockholm,Stockholm Open,18/10/16,ATP250,Indoor,Hard,1st Round,3,Almagro N.,Sugita Y.,41,86,1019,671,3,6,7,6,6,3,,,,,2,1,Completed,1.53,2.37,1.48,2.3,1.57,2.38,1.57,2.55,1.6,2.55,1.55,2.4
+62,Stockholm,Stockholm Open,18/10/16,ATP250,Indoor,Hard,1st Round,3,Elias G.,Dodig I.,61,97,801,632,6,2,6,1,,,,,,,2,0,Completed,3,1.36,2.85,1.3,3.1,1.33,3.14,1.41,3.25,1.41,3.08,1.35
+62,Stockholm,Stockholm Open,18/10/16,ATP250,Indoor,Hard,1st Round,3,Brown D.,Muller G.,74,37,722,1120,4,6,6,3,6,3,,,,,2,1,Completed,2.75,1.4,2.6,1.38,2.9,1.36,2.86,1.47,3.1,1.47,2.82,1.41
+62,Stockholm,Stockholm Open,18/10/16,ATP250,Indoor,Hard,1st Round,3,Ymer M.,Verdasco F.,549,44,60,1000,6,2,6,1,,,,,,,2,0,Completed,4.5,1.18,4.25,1.15,4.33,1.22,4.55,1.24,4.55,1.24,4.28,1.21
+62,Stockholm,Stockholm Open,18/10/16,ATP250,Indoor,Hard,1st Round,3,Kamke T.,Ymer E.,132,161,450,372,6,4,6,0,,,,,,,2,0,Completed,1.44,2.62,1.4,2.5,1.5,2.62,1.53,2.67,1.54,2.85,1.49,2.57
+62,Stockholm,Stockholm Open,19/10/16,ATP250,Indoor,Hard,1st Round,3,Zopp J.,Becker B.,234,116,225,525,6,3,6,4,,,,,,,2,0,Completed,2.62,1.44,2.4,1.45,2.62,1.5,2.54,1.57,2.7,1.57,2.54,1.5
+62,Stockholm,Stockholm Open,19/10/16,ATP250,Indoor,Hard,1st Round,3,Sock J.,Jaziri M.,23,57,1675,813,3,6,6,3,7,6,,,,,2,1,Completed,1.3,3.4,1.25,3.1,1.3,3.5,1.38,3.27,1.38,3.5,1.32,3.29
+62,Stockholm,Stockholm Open,19/10/16,ATP250,Indoor,Hard,1st Round,3,Del Potro J.M.,Isner J.,63,27,770,1430,6,4,7,6,,,,,,,2,0,Completed,1.3,3.4,1.33,2.8,1.33,3.4,1.33,3.58,1.37,3.58,1.32,3.3
+62,Stockholm,Stockholm Open,19/10/16,ATP250,Indoor,Hard,2nd Round,3,Karlovic I.,Ymer M.,21,549,1715,60,4,6,6,4,6,4,,,,,2,1,Completed,1.22,4,1.18,3.8,1.2,4.2,1.25,4.46,1.29,4.46,1.24,3.95
+62,Stockholm,Stockholm Open,19/10/16,ATP250,Indoor,Hard,2nd Round,3,Zverev A.,Mannarino A.,20,53,1745,846,7,5,6,4,,,,,,,2,0,Completed,1.28,3.5,1.25,3.3,1.3,3.5,1.31,3.85,1.33,3.85,1.29,3.56
+62,Stockholm,Stockholm Open,20/10/16,ATP250,Indoor,Hard,2nd Round,3,Anderson K.,Harrison R.,48,105,895,588,7,6,6,4,,,,,,,2,0,Completed,1.61,2.2,1.58,2.1,1.67,2.2,1.69,2.3,1.74,2.3,1.66,2.18
+62,Stockholm,Stockholm Open,20/10/16,ATP250,Indoor,Hard,2nd Round,3,Kamke T.,Albot R.,132,103,450,596,7,6,6,3,,,,,,,2,0,Completed,1.57,2.25,1.5,2.25,1.62,2.25,1.69,2.3,1.69,2.3,1.63,2.25
+62,Stockholm,Stockholm Open,20/10/16,ATP250,Indoor,Hard,2nd Round,3,Dimitrov G.,Zopp J.,18,234,2035,225,6,3,6,2,,,,,,,2,0,Completed,1.1,7,1.05,6.25,1.08,8,1.11,8.04,1.13,8.04,1.09,7.1
+62,Stockholm,Stockholm Open,20/10/16,ATP250,Indoor,Hard,2nd Round,3,Del Potro J.M.,Almagro N.,63,41,770,1019,6,4,6,3,,,,,,,2,0,Completed,1.12,6,1.1,5.25,1.12,6,1.13,7.05,1.13,7.05,1.12,6.13
+62,Stockholm,Stockholm Open,20/10/16,ATP250,Indoor,Hard,2nd Round,3,Elias G.,Monfils G.,61,7,801,3815,7,6,6,1,,,,,,,2,0,Completed,8,1.08,6,1.07,8,1.08,9.87,1.08,9.87,1.1,7.76,1.08
+62,Stockholm,Stockholm Open,20/10/16,ATP250,Indoor,Hard,2nd Round,3,Sock J.,Brown D.,23,74,1675,722,7,6,4,6,6,4,,,,,2,1,Completed,1.4,2.75,1.38,2.65,1.44,2.75,1.41,3.17,1.45,3.17,1.42,2.83
+62,Stockholm,Stockholm Open,21/10/16,ATP250,Indoor,Hard,Quarterfinals,3,Dimitrov G.,Anderson K.,18,48,2035,895,7,6,5,7,6,2,,,,,2,1,Completed,1.4,2.75,1.4,2.5,1.4,3,1.45,3.01,1.45,3.01,1.41,2.83
+62,Stockholm,Stockholm Open,21/10/16,ATP250,Indoor,Hard,Quarterfinals,3,Del Potro J.M.,Karlovic I.,63,21,770,1715,6,3,6,4,,,,,,,2,0,Completed,1.22,4,1.25,3.1,1.29,3.75,1.29,4.09,1.3,4.09,1.26,3.75
+62,Stockholm,Stockholm Open,21/10/16,ATP250,Indoor,Hard,Quarterfinals,3,Sock J.,Elias G.,23,61,1675,801,6,4,6,4,,,,,,,2,0,Completed,1.22,4,1.17,4,1.22,4.33,1.27,4.3,1.29,4.33,1.24,3.97
+62,Stockholm,Stockholm Open,21/10/16,ATP250,Indoor,Hard,Quarterfinals,3,Zverev A.,Kamke T.,20,132,1745,450,6,3,7,6,,,,,,,2,0,Completed,1.14,5.5,1.13,4.75,1.17,5,1.17,6,1.2,6,1.15,5.2
+62,Stockholm,Stockholm Open,22/10/16,ATP250,Indoor,Hard,Semifinals,3,Del Potro J.M.,Dimitrov G.,63,18,770,2035,6,4,7,5,,,,,,,2,0,Completed,1.4,3,1.35,2.65,1.4,3,1.49,2.87,1.49,3.05,1.41,2.82
+62,Stockholm,Stockholm Open,22/10/16,ATP250,Indoor,Hard,Semifinals,3,Sock J.,Zverev A.,23,20,1675,1745,6,7,7,6,6,4,,,,,2,1,Completed,2.5,1.53,2.3,1.48,2.5,1.53,2.65,1.56,2.65,1.57,2.5,1.52
+62,Stockholm,Stockholm Open,23/10/16,ATP250,Indoor,Hard,The Final,3,Del Potro J.M.,Sock J.,63,23,770,1675,7,5,6,1,,,,,,,2,0,Completed,1.25,4,1.22,3.3,1.29,3.75,1.28,4.14,1.29,4.33,1.25,3.87

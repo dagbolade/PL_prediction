@@ -21,7 +21,7 @@ def si_scraper():
                 writer = csv.writer(file)
 
                 # Write the header row
-                writer.writerow(['Team ID', 'Medium Name', 'Name', 'Nickname', 'Minutes', 'Field Goals Made', 'Field Goals Attempted', 'Field Goals Percentage', 'Three Points Made', 'Three Points Attempted', 'Three Points Percentage', 'Two Points Made', 'Two Points Attempted', 'Blocked Attempts', 'Free Throws Made', 'Free Throws Attempted', 'Free Throws Percentage', 'Offensive Rebounds', 'Defensive Rebounds', 'Rebounds', 'Turnovers', 'Steals', 'Blocks', 'Assist Turnover Ratio', 'Personal Fouls', 'Technical Fouls', 'Flagrant Fouls', 'Points', 'Player Technical Fouls', 'Team Rebounds', 'Team Technical Fouls', 'Team Turnovers', 'Foulouts', 'Fast Break Points', 'Paint Points', 'Second Chance Points', 'Points Off Turnovers', 'Ejections', 'Turnovers Per Match', 'Blocks Per Match', 'Steals Per Match', 'Opponent Minutes', 'Opponent Field Goals Made', 'Opponent Field Goals Attempted', 'Opponent Three Points Made', 'Opponent Three Points Attempted', 'Opponent Free Throws Made', 'Opponent Free Throws Attempted', 'Opponent Offensive Rebounds', 'Opponent Defensive Rebounds', 'Opponent Assists', 'Opponent Turnovers', 'Opponent Steals', 'Opponent Blocks', 'Opponent Personal Fouls', 'Opponent Points', 'Opponent Ejections', 'Opponent Foulouts', 'Opponent Rebounds', 'Opponent Two Points Made', 'Opponent Two Points Attempted', 'Opponent Assist Turnover Ratio', 'Games Played', 'Losses Total', 'Wins Total'])
+                writer.writerow(['Team ID', 'Medium Name', 'Name', 'Nickname', 'Points', 'Minutes', 'Field Goals Made', 'Field Goals Attempted', 'Field Goals Percentage', 'Three Points Made', 'Three Points Attempted', 'Three Points Percentage', 'Two Points Made', 'Two Points Attempted', 'Blocked Attempts', 'Free Throws Made', 'Free Throws Attempted', 'Free Throws Percentage', 'Offensive Rebounds', 'Defensive Rebounds', 'Rebounds', 'Turnovers', 'Steals', 'Blocks', 'Assist Turnover Ratio', 'Personal Fouls', 'Technical Fouls', 'Flagrant Fouls', 'Player Technical Fouls', 'Team Rebounds', 'Team Technical Fouls', 'Team Turnovers', 'Foulouts', 'Fast Break Points', 'Paint Points', 'Second Chance Points', 'Points Off Turnovers', 'Ejections', 'Turnovers Per Match', 'Blocks Per Match', 'Steals Per Match', 'Opponent Minutes', 'Opponent Field Goals Made', 'Opponent Field Goals Attempted', 'Opponent Three Points Made', 'Opponent Three Points Attempted', 'Opponent Free Throws Made', 'Opponent Free Throws Attempted', 'Opponent Offensive Rebounds', 'Opponent Defensive Rebounds', 'Opponent Assists', 'Opponent Turnovers', 'Opponent Steals', 'Opponent Blocks', 'Opponent Personal Fouls', 'Opponent Points', 'Opponent Ejections', 'Opponent Foulouts', 'Opponent Rebounds', 'Opponent Two Points Made', 'Opponent Two Points Attempted', 'Opponent Assist Turnover Ratio', 'Games Played', 'Losses Total', 'Wins Total'])
 
                 # Access the required data
                 if 'doc' in data:
@@ -36,6 +36,7 @@ def si_scraper():
                                     team_data['mediumname'],
                                     team_data['name'],
                                     team_data['nickname'],
+                                    team_data.get('stats', {}).get('points', {}).get('value', ''),
                                     team_data.get('stats', {}).get('minutes', {}).get('value', ''),
                                     team_data.get('stats', {}).get('field_goals_made', {}).get('value', ''),
                                     team_data.get('stats', {}).get('field_goals_attempted', {}).get('value', ''),
@@ -59,7 +60,6 @@ def si_scraper():
                                     team_data.get('stats', {}).get('personal_fouls', {}).get('value', ''),
                                     team_data.get('stats', {}).get('technical_fouls', {}).get('value', ''),
                                     team_data.get('stats', {}).get('flagrant_fouls', {}).get('value', ''),
-                                    team_data.get('stats', {}).get('points', {}).get('value', ''),
                                     team_data.get('stats', {}).get('player_technical_fouls', {}).get('value', ''),
                                     team_data.get('stats', {}).get('team_rebounds', {}).get('value', ''),
                                     team_data.get('stats', {}).get('team_technical_fouls', {}).get('value', ''),

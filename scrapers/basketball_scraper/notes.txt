@@ -1,0 +1,32 @@
+.: G:	Games
+.: Gs:	Games Started
+.: Min:	Minutes
+.: Pts:	Points
+.: Reb:	Rebounds
+.: Oreb:	Offensive Rebounds
+.: Dreb:	Defensive Rebounds
+.: Ast:	Assists
+.: Stl:	Steals
+.: Blk:	Blocks
+.: To:	Turnovers
+.: Pf:	Fouls
+.: Fgm-a:	Field goals made - Field goals attempts
+.: 3gm-a:	3-point made - 3-point attempts
+.: Ftm-a:	Free throws made - Free throws attempts
+.: Pct:	Percentage
+.: Off:	Offense
+.: Def:	Defense
+.: Res:	Result
+.: W:	Win
+.: L:	Loss
+.: Deff:	Efficiency Recap Difference = Efficiency Recap - Opponent's Efficiency Recap
+.: Eff:	NBA Efficiency recap = ((Points + Rebounds + Assists + Steals + Blocks) - ((Field goals attempts - Field goals made) + (Free throws attempts - Free throws made) + Turnovers))
+.: Conf:	Conference
+.: Div	Division
+.: In-The-Paint Stats:	Power-Forward + Center Stats
+.: Out-The-Paint Stats:	Point Guard + Shooting Guard + Small-Forward Stats
+.: Backcourt Stats:	Point Guard + Shooting Guard Stats
+.: Frontourt Stats:	Small-Forward + Power-Forward + Center Stats
+.: Rkg:	Ranking = (Points + Rebounds + Assists + Steals + Blocks + Fouls Drawn + Free Throws Made + Field goals Made + 3-point Made - Turnovers - Blocks Against - Fouls - Free throws attempts - Field goals Attempts - 3-point Attempts)
+.: Efg %:	Effective Field Goal Percentage = (Field goals Made+ 0.5*3-point Made)/Field goals Attempts
+.: TS %	True Shooting Percentage = Points/(2*(Field goals Attempts+0.44*Free throws attempts)).
